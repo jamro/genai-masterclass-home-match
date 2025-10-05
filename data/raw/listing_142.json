@@ -1,0 +1,34 @@
+{
+  "title": "Refined Studio Retreat: Elegant Living in Expansive Suburbia",
+  "description": "Discover luxury downsized to perfection in this meticulously designed studio apartment, boasting 38 sqm of functional, stylish living. Flooded with natural light, the open-concept layout offers versatility and space for sophisticated comfort. Premium finishes and amenities elevate the overall ambience\u2014a sanctuary crafted for peace, convenience, and refined taste.",
+  "neighborhood_description": "Located in the burgeoning Suburb of Nowy Sacz, this low-density neighborhood merges tranquility with potential, presenting a calm yet growing atmosphere close to the city center. Enjoy swift access to the main highway, making commutes and travels effortless while remaining distanced from the bustle. It\u2019s the ideal setting for a balanced rhythm of serene residential life and easy urban connectivity.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 38,
+  "property_type": "studio apartment",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 435000,
+  "key_features": [
+    "walk-in closet",
+    "advanced security system",
+    "rainwater collection system",
+    "premium flooring",
+    "private balcony",
+    "smart home installations"
+  ],
+  "lifestyle_benefits": [
+    "effortless single-level living",
+    "sustainable water usage",
+    "peaceful neighborhood ambience",
+    "close to green spaces",
+    "easy highway access for excursions",
+    "low-maintenance luxury"
+  ],
+  "target_buyer": "The discerning retiree seeking extraordinary comfort, peace, and an easy, stylish lifestyle in a tranquil yet conveniently situated locale.",
+  "market_positioning": "A rare fusion of distinguished interiors and eco-modern amenities, this studio uniquely addresses retirees' desire for luxury, practicality, and freedom. Priced at the premium edge of the local market, it stands as a flagship for effortless, carefree, and distinguished living just outside Nowy Sacz's vibrant heart."
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Family-Friendly Riverfront Home in Swidnica Historic Center \u2013 Perfect for Student Life",
+  "description": "Welcome to your charming new home in the heart of Swidnica\u2019s Historic Center! This inviting house offers 3 bright bedrooms and 3 full bathrooms within an open floor plan spread across 165 sqm. Enjoy cozy evenings around the fireplace and long days filled with sunlight thanks to modern solar panels. With plenty of room to study, relax, and entertain, pets are warmly welcomed here.",
+  "neighborhood_description": "Step out into a lively, well-connected neighborhood bustling with the city\u2019s vibrant energy. The Historic Center is adored for its picturesque surroundings, excellent dining and shopping nearby, and convenient access to public transport and highways. Enjoy the beauty of the nearby waterfront; perfect for a relaxing break away from the books.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 165,
+  "property_type": "house",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1190000,
+  "key_features": [
+    "fireplace",
+    "solar panels",
+    "open floor plan",
+    "pets allowed",
+    "shopping and dining nearby"
+  ],
+  "lifestyle_benefits": [
+    "close to universities and cultural sites",
+    "walkable to waterfront and city events",
+    "great for group studies and gatherings",
+    "safe, family-friendly environment",
+    "flexible work-from-home and learning spaces"
+  ],
+  "target_buyer": "Students seeking a comfortable, well-equipped home in a central urban setting\u2014ideal for sharing with friends\u2014or families who value proximity to education, city life, and green recreation.",
+  "market_positioning": "Positioned as one of the Historic Center\u2019s most student-friendly family homes, offering a unique combination of character, sustainability, and space in a booming well-connected urban area."
+}

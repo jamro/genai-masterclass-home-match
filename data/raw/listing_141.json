@@ -1,0 +1,33 @@
+{
+  "title": "Chic Pet-Friendly Apartment with Outdoor Vibes in Zamosc Stare Miasto",
+  "description": "This bright and stylish 2-bedroom apartment is nestled in a charming historic building, perfectly blending classic details with modern convenience. The 69 sqm interior is designed for easy entertaining, boasting an open-plan living space that leads out to an inviting outdoor dining area. The kitchen and living area flow naturally into two cozy bedrooms, and a guest bathroom provides comfort for visitors. Additional features include practical laundry facilities and an elevator for seamless access.",
+  "neighborhood_description": "Located in the Stare Miasto district, the apartment enjoys proximity to Zamosc's cultural hotspots and picturesque market square. Step outside to immerse yourself in historic charm or stroll to trendy caf\u00e9s and cultural venues\u2014this safe neighborhood offers a delightful urban experience just moments from the city center, with public transport and quick highway connections making daily life a breeze.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 69,
+  "property_type": "apartment",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 824000,
+  "key_features": [
+    "outdoor dining area",
+    "guest bathroom",
+    "recycling facilities",
+    "laundry room",
+    "elevator access"
+  ],
+  "lifestyle_benefits": [
+    "pet-friendly living",
+    "walkable cultural district",
+    "easy access to city center and green parks",
+    "social outdoor dining",
+    "secure neighborhood"
+  ],
+  "target_buyer": "Urban young professionals or couples, especially those with pets, looking for a stylish and convenient home in a vibrant, cultural setting.",
+  "market_positioning": "Ideal entry-level or upgrade option for professionals seeking a move-in-ready apartment with character and modern features, standing out for its pet-oriented amenities and historic flair in Zamosc's thriving Stare Miasto."
+}

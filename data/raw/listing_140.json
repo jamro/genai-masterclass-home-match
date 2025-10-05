@@ -1,0 +1,33 @@
+{
+  "title": "Prestigious Historic Center Apartment with Luxurious Amenities",
+  "description": "Reflecting a refined blend of classical allure and modern comforts, this elegant one-bedroom apartment invites you to enjoy exclusive living within Swidnica\u2019s revered Historic Center. With 48 square meters of thoughtfully arranged space, the residence features luminous interiors framed by classic architectural touches that evoke the district\u2019s charm. Admire high ceilings, a generously sized living space, contemporary fittings, and a quiet master bedroom for serene evenings at home.",
+  "neighborhood_description": "Nestled amid cobbled streets and monuments, the neighborhood pulsates with historic character while inspiring an active outdoor lifestyle. Residents appreciate acclaimed cafes, cultural venues, curated green spaces, and a seamless urban rhythm\u2014all effortlessly accessible thanks to excellent public transport and proximity to highways. Embrace the vibrant fusion of medieval splendor and lively city life.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 48,
+  "property_type": "apartment",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 895000,
+  "key_features": [
+    "recycling facilities",
+    "fenced yard",
+    "motion-sensor exterior lights",
+    "close to public transport",
+    "high ceilings",
+    "secure entry"
+  ],
+  "lifestyle_benefits": [
+    "walking distance to renowned landmarks and cafe culture",
+    "ideal for long-term, stability-minded professionals",
+    "pets welcomed in a secure yard",
+    "stylish multifunctional interiors suited for remote work"
+  ],
+  "target_buyer": "The property is ideal for sophisticated long-term renters or owner-occupants seeking a harmonious combination of cultural vitality and contemporary elegance with guaranteed privacy and security.",
+  "market_positioning": "Positioned as an exclusive residence in Swidnica's historic quarter, this apartment offers premium amenities, an iconic address, and modern enhancements that set it apart\u2014representing a rare opportunity in the mid-to-upper market tier for discerning individuals prioritizing style, location, and lasting value."
+}

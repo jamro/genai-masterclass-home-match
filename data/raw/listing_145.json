@@ -1,0 +1,36 @@
+{
+  "title": "Eco-Modern 5-Bedroom Duplex with Rooftop Oasis in Serene Gorna",
+  "description": "Step into modern eco-conscious living with this spacious 5-bedroom, 3-bathroom duplex situated in the calm heart of Gorna. The home boasts light-filled interiors, a sleek dining area with natural light, and a thoughtfully designed co-working space\u2014ideal for balancing work and lifestyle. Solar panels ensure sustainable energy efficiency, while a private rooftop deck provides a tranquil retreat or entertaining backdrop. At 190 sqm, this duplex perfectly blends comfort and environmental consideration within contemporary architecture.",
+  "neighborhood_description": "Nestled in the quiet Gorna district, this property offers a peaceful suburban vibe while remaining conveniently connected to central Lodz via robust public transport and well-maintained bike lines. The neighborhood is characterized by its tranquility, green spaces, and friendly atmosphere. Residents can enjoy relaxed streets, easy access to daily amenities, and nearby parks delivering a harmonious blend of urban ease and a calm lifestyle.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 190,
+  "property_type": "duplex",
+  "city": "Lodz",
+  "neighborhood": "Gorna",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1550000,
+  "key_features": [
+    "solar panels",
+    "dining area with natural light",
+    "co-working space",
+    "private rooftop deck",
+    "energy-efficient heating",
+    "open-concept living",
+    "modern kitchen",
+    "private garden access"
+  ],
+  "lifestyle_benefits": [
+    "reduce energy costs with solar power",
+    "co-work from home in natural light",
+    "unwind or entertain on your rooftop deck",
+    "enjoy peace and quiet while staying connected to amenities",
+    "breathe easy in a green-oriented community"
+  ],
+  "target_buyer": "Perfect for property investors seeking energy-efficient, spacious family homes to rent or sell, attracted by the sustainable details and tenant appeal to remote-working professionals or families.",
+  "market_positioning": "Distinctively positioned as an eco-conscious, mid-luxury duplex in a serene suburban setting, this property appeals to discerning investors ready to capitalize on Lodz\u0080\u0099s growing demand for green technologies and versatile modern housing."
+}

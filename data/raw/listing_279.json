@@ -1,0 +1,30 @@
+{
+  "title": "Charming Studio with Smart Amenities in Historic Kazimierz Dolny",
+  "description": "Set in the heart of picturesque Kazimierz Dolny, this welcoming studio embraces modern living with warmth and style. With an efficiently arranged 34 sqm interior, it offers a spacious bedroom zone, cozy dining nook, and a contemporary bathroom. Enhanced with air conditioning, underfloor heating, and a sleek smart home system, convenience and comfort are built right in. Perfect overhead and accent lighting creates a bright, inspiring environment.",
+  "neighborhood_description": "Located on Rynek, the town\u2019s vibrant main square, you\u2019ll be close to local parks and charming playgrounds, as well as delightful cafes and an emerging business enclave. Opportunistic entrepreneurs will find Kazimierz Dolny a growing hub nestled amid tranquil streets and expansive green spaces. Easy highway access makes regional travel a breeze, without sacrificing the serene, village-like character of the area.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 34,
+  "property_type": "studio",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 425000,
+  "key_features": [
+    "air conditioning",
+    "underfloor heating",
+    "smart home system",
+    "modern lighting system"
+  ],
+  "lifestyle_benefits": [
+    "walks by the river and town square",
+    "access to parks and playgrounds",
+    "peaceful setting perfect for creative work",
+    "fast highway connectivity"
+  ],
+  "target_buyer": "Independent entrepreneurs or digital nomads seeking both productivity and relaxation in a historic town setting. Ideal for individuals or couples launching a home business, looking for natural inspiration, or desiring smart, low-maintenance home ownership.",
+  "market_positioning": "An attractive first step onto the property ladder or unique investment in one of Poland\u2019s most charming destinations. Outfitted with advanced features, this turn-key studio stands apart in the entry-level market with its blend of contemporary technology and heritage character."
+}

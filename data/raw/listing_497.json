@@ -1,0 +1,31 @@
+{
+  "title": "Historic Studio Gem with Private Garden in Lodz's Heart",
+  "description": "Step into a unique fusion of old-world character and modern amenities in this inviting studio apartment. Thoughtfully designed, the studio boasts a cozy living area with direct access to a rare private garden\u2014a true treasure in the bustling city center. The interior features charming original touches blended with a contemporary ensuite bathroom for optimal comfort and style. Completing this exceptional space is an independent storage room for convenient city living.",
+  "neighborhood_description": "Srodmiescie offers authentic urban living, enriched by historic architecture and a warm, lively atmosphere. Residents benefit from excellent public transport links and picturesque bike paths, making it easy to explore all Lodz has to offer. The neighborhood stands out for its family- and bike-friendly spirit, with vibrant local caf\u00e9s and green spaces at every turn.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio apartment",
+  "city": "Lodz",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 425000,
+  "key_features": [
+    "storage room",
+    "ensuite bathroom",
+    "private garden",
+    "well-maintained common areas"
+  ],
+  "lifestyle_benefits": [
+    "perfect for first-time buyers",
+    "bikeable location",
+    "proximity to city highlights",
+    "secure and historic building"
+  ],
+  "target_buyer": "Ideal for first-time buyers desiring a blend of city excitement, convenience, and a touch of private outdoor retreat while enjoying Lodz\u2019s dynamic center.",
+  "market_positioning": "A rare offering in central Lodz, this move-in-ready studio balances affordability, historic flair, and exclusive outdoor space\u2014standing out against standard city apartments for discerning urban starters."
+}

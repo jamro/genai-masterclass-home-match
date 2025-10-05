@@ -1,0 +1,32 @@
+{
+  "title": "Charming Studio Apartment in Swidnica\u2019s Historic Heart",
+  "description": "Nestled within an adorable historic tenement, this bright studio offers the rare combination of classic elegance and comfortable modern living. The apartment comprises an open-plan bedroom-living area with one stylish bathroom across 34 sqm, perfectly suited to compact, practical lifestyles. Original woodwork and a cozy fireplace evoke old-world charm, while upgrades like an energy-efficient heating system and modern lighting create an inviting ambience. Stay effortlessly secure with exterior motion-sensor lighting and benefit from designated recycling facilities on-site.",
+  "neighborhood_description": "Located in Swidnica\u2019s renowned Historic Center, this home positions you walking distance from picturesque market squares, outdoor cafes, and cultural landmarks. The neighborhood is known for its mountain views, family-friendly atmosphere, and is exceptionally well-connected with both public transport and highway access. Residents enjoy easy commuting while children can flourish in beautifully preserved parks and green spaces nearby.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 34,
+  "property_type": "studio",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 409000,
+  "key_features": [
+    "fireplace",
+    "energy-efficient building",
+    "motion-sensor exterior lights",
+    "modern lighting system",
+    "recycling facilities"
+  ],
+  "lifestyle_benefits": [
+    "historical surroundings",
+    "close to city center",
+    "well-connected for commuting",
+    "views of Sudeten mountain foothills"
+  ],
+  "target_buyer": "An individual, couple, or small family who values historical ambiance paired with modern comforts, seeking a convenient, character-rich home base with excellent transport and child-friendly amenities.",
+  "market_positioning": "Uniquely positioned amongst historic dwellings in Swidnica\u2019s most desirable district, this property is a standout for buyers craving authentic character complete with present-day conveniences in a walkable, family-oriented neighborhood."
+}

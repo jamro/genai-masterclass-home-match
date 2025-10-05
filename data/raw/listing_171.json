@@ -1,0 +1,29 @@
+{
+  "title": "Historic Charmer Apartment in Orunia with Modern Touches",
+  "description": "Step into an elegant fusion of history and modernity with this spacious 68 sqm, 2-bedroom apartment nestled in a carefully restored cobblestone carriage house in Orunia, Gdansk. Experience a bright living area highlighted by a charming classic fireplace and versatile openplan dining space. The energy-efficient building ensures remarkably low running costs while providing discreet comfort all year round. An ensuite bathroom offers privacy and luxury.",
+  "neighborhood_description": "Located in the beloved cultural heart of Orunia, this apartment places you minutes from historic sites, artisan cafes, and Gdansk's famed city center. The surrounding streets echo a relaxed, local vibe, with plentiful green spaces and walking paths. Swift access to public transport and the highway connects you to both urban amenities and idyllic escapes across coastal Poland.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 68,
+  "property_type": "apartment",
+  "city": "Gdansk",
+  "neighborhood": "Orunia",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 780000,
+  "key_features": [
+    "energy-efficient building",
+    "fireplace",
+    "ensuite bathroom"
+  ],
+  "lifestyle_benefits": [
+    "historic ambiance with modern convenience",
+    "walkability to cultural venues and cafes",
+    "peaceful yet centrally located"
+  ],
+  "target_buyer": "Ideal for young couples yearning for a blend of cultural vibrancy and cozy, serene living close to the city center.",
+  "market_positioning": "This residence stands apart for its classic style enhanced by substantive energy\u2013efficient upgrades. One of Orunia\u2019s few apartments marrying restored architectural originality with contemporary living, perfect for discerning young buyers seeking value in Gdansk\u2019s thriving property market."
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Chic Loft Living for Families and Pets in Pozna\u0144's Vibrant Stare Miasto",
+  "description": "Welcome to your new loft home in the heart of Stare Miasto! This spacious, energy-efficient loft features 2 sun-filled bedrooms and 2 modern bathrooms, perfectly spread over 87 square meters. The open-concept living area boasts soaring ceilings and flows onto a cozy balcony, ideal for morning coffee or relaxing with loved ones. Families and their pets will appreciate the building's pet-friendly policies and the on-site children's playground area for safe, active fun.",
+  "neighborhood_description": "Stare Miasto is Pozna\u0144\u2019s historic yet booming district, known for its tech-forward community and lush green spaces. Just steps from waterfront paths and several parks, the neighborhood also has vibrant playgrounds and modern amenities perfectly suited for active young families and professionals. Quick access to public transportation and bike lanes makes commuting and weekend adventures a breeze.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 87,
+  "property_type": "loft",
+  "city": "Pozna\u0144",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1190000,
+  "key_features": [
+    "energy-efficient building",
+    "children's playground area",
+    "pets allowed",
+    "balcony",
+    "modern kitchen",
+    "built-in wardrobes",
+    "secure entry",
+    "lift"
+  ],
+  "lifestyle_benefits": [
+    "great for pet owners with easy access to parks",
+    "child-friendly environment",
+    "near cycling routes and jogging paths",
+    "vibrant multicultural atmosphere",
+    "plenty of family cafes and schools nearby"
+  ],
+  "target_buyer": "Perfect for families with children and pets who love an active city lifestyle but also want comfort and safety. This home is ideal for younger professionals or tech sector workers looking for space to grow in a lively, community-oriented setting.",
+  "market_positioning": "This property combines rare loft character with family-friendly features\u2014a standout option for those seeking modern conveniences in time-honored Stare Miasto. Compared to similar properties, it uniquely offers a blend of style, space, and access to outdoor and cultural amenities, making it a premium choice within the local market."
+}

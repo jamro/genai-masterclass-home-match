@@ -1,0 +1,36 @@
+{
+  "title": "Contemporary Luxury Duplex in the Heart of Zoliborz",
+  "description": "Experience refined living in this extraordinary 3-bedroom, 3-bathroom duplex situated in a prestigious modern development in Zoliborz. Boasting 137 square meters of artfully designed interiors, this residence blends contemporary elegance with innovative comfort\u2014driven by premium fittings, soaring ceilings, and impressive natural light. Soundproof walls ensure private tranquility, while a spacious shared courtyard and secure EV charging station epitomize city convenience. Each room and bathroom features impeccable finishings that reflect Warsaw\u2019s most discerning standards.",
+  "neighborhood_description": "Nestled in vibrant Zoliborz, the city\u2019s sought-after gem, this home puts you minutes from Warsaw's energetic center. Enjoy unparalleled walkability to renowned schools, lush green spaces, boutique shopping, gourmet dining, and convenient urban transit, all in a neighborhood that knowingly blends tranquility with metropolitan flair. Easily connect throughout Warsaw via extensive public transport, bike lanes, or nearby highways.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 137,
+  "property_type": "duplex",
+  "city": "Warsaw",
+  "neighborhood": "Zoliborz",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1840000,
+  "key_features": [
+    "soundproof walls",
+    "spacious living-dining zones",
+    "three luxurious bathrooms",
+    "shared courtyard garden",
+    "EV charging station",
+    "walk-in closet in master suite",
+    "top-of-the-line kitchen appliances"
+  ],
+  "lifestyle_benefits": [
+    "ideal for vibrant city lifestyles",
+    "seamless blend of privacy and access",
+    "close to leisure, shopping and dining",
+    "green communal zones",
+    "future-ready amenities for EV owners"
+  ],
+  "target_buyer": "This property is perfectly suited for ambitious young couples or professionals seeking urban luxury and top connectivity close to Warsaw's iconic city pulse.",
+  "market_positioning": "This residence sets the standard for premium living in Zoliborz, appealing to buyers valuing comfort, sustainability, and enviable address in one of Warsaw's most desirable modern neighborhoods."
+}

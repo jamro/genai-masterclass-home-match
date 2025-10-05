@@ -1,0 +1,33 @@
+{
+  "title": "Charming Family Home with Modern Comforts in Artistic Nowy S\u0105cz Suburb",
+  "description": "Step into this delightful family home, offering 4 spacious bedrooms and 3 modern bathrooms. The house boasts a contemporary fa\u00e7ade and impressive 185 sqm of thoughtfully designed space, providing comfort and functionality for every daily need. Enjoy year-round warmth with underfloor heating and relax in open-concept living areas kissed by natural light. The landscaped garden and inviting residents' lounge create a welcoming atmosphere, while children have a dedicated playground to play and explore.",
+  "neighborhood_description": "Nestled in the tranquil Suburb neighborhood of Nowy S\u0105cz, this home is part of a growing artistic community embraced by nature and creativity. The area is bike-friendly and offers quick access to the scenic waterfront, perfect for daily walks or peaceful retreats. Life here is quiet and secure, with easy connectivity via nearby highway routes.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 185,
+  "property_type": "house",
+  "city": "Nowy S\u0105cz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1350000,
+  "key_features": [
+    "24/7 security",
+    "underfloor heating",
+    "modern fa\u00e7ade design",
+    "children's playground area",
+    "residents' lounge",
+    "well-maintained common areas"
+  ],
+  "lifestyle_benefits": [
+    "peaceful setting with an artistic vibe",
+    "proximity to nature and the waterfront",
+    "ideal spaces for hobbies or relaxing read",
+    "communal areas encourage neighborly connections",
+    "excellent safety and privacy"
+  ],
+  "target_buyer": "Perfect for retirees seeking a peaceful retreat amidst nature with easy accessibility, as well as small families who desire safety and a nurturing environment for young children.",
+  "market_positioning": "This property offers one of the best combinations of modern living and tranquil location in the local market, ideal for buyers prioritizing comfort, security, and community atmosphere near nature while staying within mid-to-premium pricing for Nowy S\u0105cz."
+}

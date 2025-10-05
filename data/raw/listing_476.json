@@ -1,0 +1,33 @@
+{
+  "title": "Pet-Friendly Loft-Style Home with Contemporary Touches in Suburb, Pila",
+  "description": "Welcome to this unique 3-bedroom loft spanning 103 square meters, perfect for modern families and pet lovers alike. The open-plan layout features a sleek modern fa\u00e7ade, large windows bathing the space with natural light, and the cozy comfort of underfloor heating throughout. Benefit from sustainable living with installed solar panels, plus a dedicated co-working space ideal for remote work or studies. The single, spacious bathroom is fitted with contemporary amenities for worry-free mornings.",
+  "neighborhood_description": "Set in Pila\u2019s tranquil Suburb neighborhood, you\u2019ll enjoy peace of mind in this safe and family-friendly community. Enjoy easy access to the main highway, making city day trips a breeze while still relishing the calm atmosphere only a low-urban area can offer. Residents appreciate local green spaces and a supportive, community-oriented vibe.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 103,
+  "property_type": "loft",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1240000,
+  "key_features": [
+    "Co-working space",
+    "Modern fa\u00e7ade design",
+    "Installed solar panels",
+    "Underfloor heating",
+    "Pet-friendly layout",
+    "Ample natural light"
+  ],
+  "lifestyle_benefits": [
+    "Spacious for families and pets",
+    "Tranquil neighborhood",
+    "Generous live/work areas",
+    "Sustainable utility savings",
+    "Close to green spaces"
+  ],
+  "target_buyer": "Ideal for growing families with pets who seek modern comforts, eco-conscious living, and a peaceful family setting with easy highway connections.",
+  "market_positioning": "A rare combination of eco-friendly modern living and flexible, pet-smart design in Pila\u2019s most sought-after suburban setting, priced accessibly for young and dynamic families."
+}

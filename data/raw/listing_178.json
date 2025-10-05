@@ -1,0 +1,36 @@
+{
+  "title": "Artful Oasis in Grunwald: Contemporary House for Modern Living",
+  "description": "Discover a modern residence that enchants with balance: open living spaces, bright interiors, and whispers of sophistication in every detail. This stylish, two-story home offers 3 generously-sized bedrooms and 3 contemporary bathrooms complemented by built-in wardrobes and soundproof walls for absolute peace. Expansive windows fill the home with natural light and frame tranquil views, while luxurious touches like ensuite bathrooms meld convenience and elegance. All living areas are wheel-chair friendly, ensuring inclusive comfort without compromise.",
+  "neighborhood_description": "Nestled in the heart of vibrant Grunwald, this property celebrates Pozna\u0144\u2019s lively spirit: the pulse of a cultural district balanced by green parks nearby, offering enclave-like tranquility within urban energy. You\u2019re surrounded by accessible cafes, unique galleries, and recreational zones with easy access to highways and well-laid cycle paths. Efficient public transit makes connectivity seamless, whether heading into the city center or out for a countryside escape.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 158,
+  "property_type": "house",
+  "city": "Poznan",
+  "neighborhood": "Grunwald",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1780000,
+  "key_features": [
+    "3 bedrooms with built-in wardrobes",
+    "3 modern bathrooms with ensuites",
+    "Soundproof walls for privacy",
+    "Open-plan living and dining areas",
+    "Wheelchair accessible throughout",
+    "Access to shared swimming pool",
+    "Dedicated parking"
+  ],
+  "lifestyle_benefits": [
+    "Perfect for entertaining guests in a chic space",
+    "Quiet ambience in the midst of city energy",
+    "Active lifestyle with cycling and jogging paths steps away",
+    "Easy drives for quick weekend getaways",
+    "Inclusivity for couples or families with accessibility needs"
+  ],
+  "target_buyer": "Ideal for creative and dynamic young couples seeking both city access and sanctuary, who appreciate thoughtful architecture and seek a home with both heart and edge.",
+  "market_positioning": "Positioned as a contemporary haven for modern lifestyles, this home is competitively priced within Grunwald for its size, amenities, and holistic accessibility\u2014a rare blend of urban buzz and balanced tranquility."
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Sleek 1-Bedroom Artistic Apartment in Retro-Tech Pila Suburb",
+  "description": "This modern one-bedroom apartment boasts a standout contemporary fa\u00e7ade, clean lines, and exceptional natural light thanks to its eco-friendly design including rooftop solar panels. The smartly designed 47 sqm provides ample space for creative living or a functional live-work lifestyle. The apartment provides the comfort of two full bathrooms, maximizing convenience for flexible life rhythms, and a private storage locker ideal for storing supplies, gear, or art materials.",
+  "neighborhood_description": "Situated in the Suburb neighborhood of Pila, you'll find an intriguing blend of historic architecture and forward-thinking tech-based communities. The area draws many creatives and young professionals, attracted by its evolving vibe, thoughtful business developments, and proximity to cultural events. Although enjoying a quieter, more laid-back environment, the convenience of highway access puts greater Pila and regional destinations within easy reach.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 47,
+  "property_type": "apartment",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 780000,
+  "key_features": [
+    "modern fa\u00e7ade design",
+    "private storage locker",
+    "rooftop solar panels",
+    "natural light optimal windows",
+    "energy-efficient systems"
+  ],
+  "lifestyle_benefits": [
+    "excellent for studio/live-work setup",
+    "inspiring surroundings for creatives",
+    "easy highway access to nearby hubs",
+    "peaceful yet innovatively-minded neighborhood"
+  ],
+  "target_buyer": "Ideal for young professionals, artists, digital creatives, and freelance innovators seeking a spacious, modern base without the rush of inner-city noise, but fuelled by vibrant community spirit and close technical resources.",
+  "market_positioning": "An attractively priced, design-forward apartment perfectly bridging calming suburban comfort with dynamic and artistic innovation\u2014a unique find for creatives near city arteries but freed from higher-density bustle."
+}

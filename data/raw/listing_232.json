@@ -1,0 +1,34 @@
+{
+  "title": "Light-filled Duplex in \u015awidnica's Historic Center \u2013 Scandinavian Calm Meets Urban Comfort",
+  "description": "Step into this airy five-bedroom duplex set across 162 square meters, designed for simplicity and daily ease. Warm hardwood floors run throughout, connecting thoughtfully balanced spaces shaped by natural light. Two bathrooms ensure family functionality, while unrestricted pet policies maximize flexibility for new owners.",
+  "neighborhood_description": "Immerse yourself in the quietly bustling Historic Center of \u015awidnica\u2014well-connected by public transport and accessible highways yet still close to the picturesque riverside. Living here places you in a friendly, inviting area shaped by history, nature, and a neighborly spirit conducive to both new families and independent professionals.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 162,
+  "property_type": "duplex",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1150000,
+  "key_features": [
+    "hardwood floors",
+    "guest bathroom",
+    "pets allowed",
+    "shared sauna",
+    "children's playground area",
+    "residents' lounge"
+  ],
+  "lifestyle_benefits": [
+    "minimalist living",
+    "walkability to amenities",
+    "safe for children",
+    "opportunities for small community connections",
+    "relaxing wellness zones"
+  ],
+  "target_buyer": "Ideal for first-time buyers seeking a modern yet warm Scandinavian-inspired home with room to grow, play, and entertain moments from urban amenities.",
+  "market_positioning": "Scarce in the local market of character-rich properties that blend understated design with ample shared community features. Positioned attractively for value\u2014midrange within this desirable heritage area."
+}

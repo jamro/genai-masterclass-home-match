@@ -1,0 +1,34 @@
+{
+  "title": "Stylish 4-Bedroom City Pad with Terrace in Historic Stare Miasto",
+  "description": "Step into this spacious 4-bedroom apartment tailored for urban living. Covering a comfortable 98 sqm, the home features hardwood floors throughout and a sun-kissed terrace perfect for outdoor dining. An open-concept layout provides modern entertaining and flow, complemented by secure elevator access and a handy storage locker. Impeccably maintained interiors offer a fluid blend of elegance and practicality, making it ideal for contemporary lifestyles.",
+  "neighborhood_description": "Nestled in Zamosc's Stare Miasto, a UNESCO-listed gem with tree-lined promenades and a thriving modern development spirit. Residents enjoy green surroundings, squares with relaxed caf\u00e9s, pet-friendly areas, and quick access to both public transport links and nearby highways. The urban ambiance is balanced by tranquility, ideal for both buzzing city seekers and those craving a touch of calm.",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "size_sqm": 98,
+  "property_type": "apartment",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 960000,
+  "key_features": [
+    "4 bedrooms",
+    "hardwood floors",
+    "elevator access",
+    "terrace for outdoor dining",
+    "private storage locker",
+    "secure modern development"
+  ],
+  "lifestyle_benefits": [
+    "accessible to young urbanites",
+    "ideal for first-time buyers wanting extra space",
+    "pet-friendly environment",
+    "15-minute commute by public transport to city hotspots",
+    "ample green spaces in a vibrant area"
+  ],
+  "target_buyer": "Perfect for young professionals or first-time buyers eager to set roots in a character-rich backdrop while staying close to modern conveniences.",
+  "market_positioning": "Balancing historical charm with contemporary amenities, this apartment stands out as an attractive value for young professionals. It offers generous space, community security, and desirable features in one of Zamosc's most sought-after and authentically Polish neighborhoods."
+}

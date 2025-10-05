@@ -1,0 +1,35 @@
+{
+  "title": "Dreamscape Dwelling for Visionaries in Suwa\u0142ki\u2019s Tranquil North",
+  "description": "Embrace light, space, and imagination in this expansive 270 sqm modern house. The elegant design invites serenity with five luminous bedrooms, three bold bathrooms, and soundproof walls providing undisturbed potential. Glass doors open to sweeping garden views, a children's playground whispers of adventure, while the shared swimming pool brings summertime inspiration around every corner. Inside, create, think, and gather: this home shelters possibilities for your life's grand vision.\n",
+  "neighborhood_description": "Nestled in the relaxed, community-focused Polnocne neighborhood, you\u2019ll discover a harmonious blend of countryside calm just on the edge of thriving Suwa\u0142ki. A peaceful rhythm infuses the air, neighbors know each other by name, and weekends arrive marked by backyard laughter and fragrant barbecues. Quick access to the highway ensures the city and Poland's pulsing economic veins are always within your entrepreneurial reach.\n",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 270,
+  "property_type": "house",
+  "city": "Suwa\u0142ki",
+  "neighborhood": "Polnocne",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1650000,
+  "key_features": [
+    "swimming pool access",
+    "wheelchair accessibility",
+    "children's playground area",
+    "soundproof walls",
+    "storage room",
+    "private garden",
+    "open-plan living room",
+    "spacious kitchen",
+    "garage"
+  ],
+  "lifestyle_benefits": [
+    "Ideal for creative entrepreneurs seeking focus and inspiration",
+    "Safe family surroundings with leisure opportunities",
+    "Plenty of space for a home office or studio",
+    "Perfect environment for mingling within a supportive community"
+  ],
+  "target_buyer": "Visionary entrepreneurs and creative business owners desiring a stimulating and restorative home base, who value both tranquility and quick highway access for regional connections.",
+  "market_positioning": "Embracing luxury for the productive dreamer, this stunning house stands out as a unique premium option in Suwa\u0142ki\u2019s peaceful outer districts: a perfect harmony of sophisticated amenities and rich community spirit for those seeking more than a standard suburban home."
+}

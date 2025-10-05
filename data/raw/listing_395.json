@@ -1,0 +1,34 @@
+{
+  "title": "Modern Eco-Friendly 2-Bedroom Apartment in Heart of Krzyki",
+  "description": "Bright and thoughtfully designed, this 66 sqm apartment blends contemporary architecture with sustainable features. Expansive energy-efficient windows bathe the open-plan living space with natural light while reducing utility costs. The spacious kitchen leads to a sunny balcony perfect for relaxing or entertaining. The masterful use of space includes two comfortable bedrooms and a modern bathroom, all finished with eco-conscious materials.",
+  "neighborhood_description": "Located in vibrant Krzyki, residents benefit from the area's strong sense of community, frequent green initiatives, and a lifestyle that values sustainability and forward-thinking. Convenient transport links provide easy access to city attractions, while nearby parks and community gardens foster neighborhood connections. You'll experience a neighborhood that truly reflects a blend of eco-awareness and modern living.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 66,
+  "property_type": "apartment",
+  "city": "Wroclaw",
+  "neighborhood": "Krzyki",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 855000,
+  "key_features": [
+    "energy-efficient windows",
+    "balcony",
+    "EV charging station",
+    "reception desk",
+    "open-plan living room",
+    "secure storage for bikes and strollers"
+  ],
+  "lifestyle_benefits": [
+    "pet-friendly building",
+    "close to dog parks and walking paths",
+    "supports sustainable lifestyle choices",
+    "strong sense of local community"
+  ],
+  "target_buyer": "Perfect for eco-conscious city dwellers\u2014singles, couples, or small families\u2014especially those with pets seeking an easy commute and sustainable low-footprint home.",
+  "market_positioning": "This move-in ready flat stands out in Krzyki with its blend of responsible innovation and stylish comfort. Priced mid-range for similar-size units with more sustainable and pet-friendly upgrades, it appeals to forward-thinking buyers in an evolving market."
+}

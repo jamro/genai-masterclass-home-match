@@ -1,0 +1,35 @@
+{
+  "title": "Spacious Modern Duplex with Stunning Mountain Views in Polnocne, Suwa\u0142ki",
+  "description": "Welcome to this inviting and modern duplex in the scenic Polnocne neighborhood of Suwa\u0142ki. Spread over approximately 205 square meters, the property offers five generous bedrooms and three stylish bathrooms\u2014ample space for a growing family. Contemporary design meets comfort with thoughtfully planned living spaces flooded with natural light. A fitted kitchen, cozy living area, and smart storage combine functionality and warmth.",
+  "neighborhood_description": "Polnocne is a tranquil, low-urban-density area highlighted by inspiring mountain views and plenty of natural light. The neighborhood is a growing family hub, set apart from city crowds but still offering easy access to essentials and connected via quick highway routes. Nearby, local shopping and friendly dining spots contribute to a balanced, community-inspired lifestyle.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 205,
+  "property_type": "duplex",
+  "city": "Suwa\u0142ki",
+  "neighborhood": "Polnocne",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1290000,
+  "key_features": [
+    "5 spacious bedrooms",
+    "3 modern bathrooms",
+    "air conditioning throughout",
+    "private EV charging station",
+    "open-concept living and kitchen space",
+    "secure parking garage",
+    "shopping and dining within a short drive",
+    "landscaped mountain-facing yard"
+  ],
+  "lifestyle_benefits": [
+    "ideal for first-time buyers",
+    "safe, family-friendly environment",
+    "peaceful setting with inspiring views",
+    "ample storage and multifunctional space",
+    "close access to recreation and nature trails"
+  ],
+  "target_buyer": "Ideal for first-time homebuyers seeking a peaceful environment, looking to settle into a supportive and growing community with modern comforts and plenty of room for family life.",
+  "market_positioning": "Positioned competitively for the Suwa\u0142ki market, this family-oriented duplex blends affordability with generous living space, appealing to buyers looking for clean air, tranquility, and proximity to future neighborhood development in Polnocne."
+}

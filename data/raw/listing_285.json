@@ -1,0 +1,33 @@
+{
+  "title": "Minimalist Scandinavian Loft in Bike-Friendly Podg\u00f3rze",
+  "description": "Step into clean lines and airy light in this modern Scandinavian loft. Featuring 1 spacious bedroom with an ensuite bathroom, an additional full guest bathroom, and smart storage solutions throughout, this 65 sqm loft offers effortless living. High ceilings expand the feel of the open-plan dining and living zone, with large windows creating a living space full of natural light. Included is a coveted private parking space for your comfort.",
+  "neighborhood_description": "Podg\u00f3rze blends vibrant local life with green spaces and bike-lined streets, offering students easy access to both relaxation and recreation. Urban living meets authentic community with trendy caf\u00e9s, local shops, and excellent public transport connections across Krakow. Bike paths wind along the nearby river, perfect for quick commutes or scenic rides.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 65,
+  "property_type": "loft",
+  "city": "Krakow",
+  "neighborhood": "Podgorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 950000,
+  "key_features": [
+    "walk-in closet",
+    "ensuite bathroom",
+    "private parking space",
+    "dining area with natural light"
+  ],
+  "lifestyle_benefits": [
+    "abundant natural light",
+    "minutes to campus by public transport and bike",
+    "walking distance to cafes and riverside parks",
+    "clutter-free storage",
+    "ideal for entertaining and quiet study"
+  ],
+  "target_buyer": "Student or young professional desiring a modern, low-maintenance home in a stylish building close to universities and amenities.",
+  "market_positioning": "A unique, ready-to-move-in loft for those seeking an alternative to traditional apartments\u2014in a lively neighborhood at mid-range Krakow prices, with rarely available parking and design-led minimalist style."
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Eco-Conscious 4-Bedroom Smart Apartment with Private Parking in Baluty",
+  "description": "Step into modern living with this spacious 4-bedroom apartment thoughtfully designed for comfort and sustainability. With 1 full bathroom, a vibrant open plan kitchen and living area, and a sunlit decor, this home feels airy and inviting. Advanced smart home technology streamlines energy use, while a private parking space ensures everyday convenience.",
+  "neighborhood_description": "Located in Baluty, a thriving neighborhood that seamlessly blends urban energy with eco-conscious values, you'll relax near Lodz's evolving business and cultural districts. Stability meets vibrancy here, with plentiful cafes, community green spots, and convenient transit. Enjoy quick public transport, highway access, and the friendliest green community atmosphere around.",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "size_sqm": 97,
+  "property_type": "apartment",
+  "city": "Lodz",
+  "neighborhood": "Baluty",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 899000,
+  "key_features": [
+    "spacious 4 bedrooms",
+    "advanced smart home system",
+    "private, secure parking space",
+    "full security system with remote monitor",
+    "energy efficient windows and appliances",
+    "open plan living & dining area",
+    "shared inner courtyard"
+  ],
+  "lifestyle_benefits": [
+    "long-term rental stability",
+    "low running costs due to smart solutions",
+    "steps to cafes, business zones, and art venues",
+    "eco-conscious neighbors and initiatives",
+    "fast connectivity across the city"
+  ],
+  "target_buyer": "Ideal for long-term renters or families looking for a smart, secure, and energy-efficient urban home with stability and access to buzzing commercial and cultural hubs.",
+  "market_positioning": "Positioned as a rare opportunity in Baluty, this apartment blends eco-friendly upgrades and stable community-oriented living, standing out for those prioritizing smart technology, security, and accessibility. It matches modern lifestyle needs at an attainable price point, making it prime in the emerging green rental segment."
+}

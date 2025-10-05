@@ -1,0 +1,33 @@
+{
+  "title": "Historic Charm with Modern Ease \u2013 1-Bed Apartment in Stare Miasto",
+  "description": "Step into the enchantment of Zamo\u015b\u0107\u2019s Old Town with this thoughtfully renovated 1-bedroom, 2-bathroom apartment. Spanning 62 sqm, the space offers a seamless blend of heritage architecture and refined modern features. Experience unparalleled comfort with underfloor heating, a smart home system, and new eco-friendly details surrounding you at every turn.",
+  "neighborhood_description": "Nestled in the storied streets of Stare Miasto, the apartment is surrounded by modern developments while maintaining the authentic atmosphere of Zamo\u015b\u0107\u2019s UNESCO-listed square. Students enjoy a balanced lifestyle here with easy access to vibrant caf\u00e9s, rich cultural heritage, and dedicated local services. Public transportation and direct highway connections provide excellent mobility throughout the region.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 62,
+  "property_type": "apartment",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 615000,
+  "key_features": [
+    "smart home system",
+    "24/7 security",
+    "underfloor heating",
+    "solar panels",
+    "outdoor dining area",
+    "recycling facilities"
+  ],
+  "lifestyle_benefits": [
+    "energy-efficient and cost-saving features",
+    "convenient urban location",
+    "walkable access to universities and nightlife",
+    "safe environment ideal for students"
+  ],
+  "target_buyer": "Ideal for students and young professionals seeking a unique blend of history and modern convenience, as well as individuals who value sustainability and central living.",
+  "market_positioning": "This apartment stands out in the local market for its address within historic Stare Miasto, paired with contemporary smart amenities and sustainability features rarely seen in traditional buildings, giving it strong appeal to modern, education-focused renters or buyers."
+}

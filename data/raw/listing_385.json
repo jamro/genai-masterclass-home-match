@@ -1,0 +1,35 @@
+{
+  "title": "Industrial Chic Loft with Rooftop Lounge in Historic Wola",
+  "description": "Step into a beautifully revitalized 3-bedroom loft in the heart of Wola, where exposed brickwork recalls Warsaw\u2019s grand industrial past. Spanning 105 square meters, the space features soaring ceilings and oversized windows flooding the living area with natural light. The property marries original architectural elements with modern amenities, offering a unique living experience bookended by historic charm.",
+  "neighborhood_description": "Located in lively Wola, this home is surrounded by vibrant local markets, eclectic eateries, and artisan coffee shops. Moments away from major public transport arteries and bike-friendly routes, the area enjoys a calm atmosphere away from city clamor while still boasting quick highway access. Residents find themselves at the crossroads of Warsaw\u2019s expanding business district and cherished green spaces.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 105,
+  "property_type": "loft",
+  "city": "Warsaw",
+  "neighborhood": "Wola",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1520000,
+  "key_features": [
+    "expansive rooftop deck",
+    "fenced communal yard",
+    "onsite fitness center",
+    "industrial brick features",
+    "open-concept living space",
+    "large loft windows",
+    "secure building access"
+  ],
+  "lifestyle_benefits": [
+    "energy-filled neighborhood for creative inspiration",
+    "excellent Internet connectivity",
+    "co-working cafes nearby",
+    "active lifestyle options on-site and close by"
+  ],
+  "target_buyer": "Ideal for digital nomads or remote professionals seeking an inspiring urban setting that fuses Warsaw\u2019s history with convenience for work-live balance.",
+  "market_positioning": "This unique loft stands out in Wola's competitive market, offering authentic warehouse character in a revitalized block, premium amenities, and seamless city connections for dynamic professionals."
+}

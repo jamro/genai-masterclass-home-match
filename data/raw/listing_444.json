@@ -1,0 +1,33 @@
+{
+  "title": "Sunlit Eco Apartment Amid Lazarz's Historic Charm",
+  "description": "Discover harmonious living in this beautifully designed 3-bedroom, 2-bathroom apartment set across 107 sqm. The motion-sensor exterior lights pillow the building's contemporary lines as you enter, while inside, an open floor plan draws natural light across airy spaces. Highlights include a luxurious walk-in closet and crisp air conditioning for comfort in any season. Every element is aligned for modern, mindful living.",
+  "neighborhood_description": "Situated in Lazarz\u2014Poznan's poised neighborhood bridging old-world charm and new-world possibilities\u2014the apartment is just steps from the rhythmic heartbeat of the business district yet cocooned within peaceful, tree-lined streets. Bike paths weave through grand architecture and vibrant parks, and public transport connects you quickly to Poznan's cultural and culinary scenes. Perfect for restful afternoons after a morning espresso at a local historic caf\u00e9.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 107,
+  "property_type": "apartment",
+  "city": "Poznan",
+  "neighborhood": "Lazarz",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1060000,
+  "key_features": [
+    "motion-sensor exterior lights",
+    "open floor plan",
+    "walk-in closet",
+    "air conditioning",
+    "energy-efficient appliances",
+    "double-glazed windows"
+  ],
+  "lifestyle_benefits": [
+    "low energy consumption for eco-friendly living",
+    "cycling and pedestrian-friendly surroundings",
+    "calm retreat in an urban landscape",
+    "close proximity to business district and cafes"
+  ],
+  "target_buyer": "Perfect for eco-conscious professionals and families seeking sustainability and elegance in one of Poznan\u2019s greenest, most character-filled locales.",
+  "market_positioning": "This apartment sets itself apart by blending a premium urban lifestyle with environmental mindfulness, offering contemporary comfort amongst Lazarz's historic serenity. Competitive pricing aligns with discerning buyers seeking sustainability, convenience, and lasting value in Kulczyk's desired quadrant."
+}

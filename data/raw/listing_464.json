@@ -1,0 +1,33 @@
+{
+  "title": "Charming Family Apartment with Garden Access in Nowy S\u0105cz Suburb",
+  "description": "Discover a bright and spacious 3-bedroom apartment designed for comfortable family living. The property features a sprawling dining area filled with natural light, contemporary interiors, and patio doors opening directly to a beautifully maintained fenced yard \u2013 perfect for young families and gatherings. The layout includes two modern bathrooms and a roomy family kitchen. An on-site EV charging station offers next-level convenience for eco-conscious owners.",
+  "neighborhood_description": "Situated in the Suburb neighborhood of Nowy S\u0105cz, this area exudes vibrant yet balanced local life, ideal for couples seeking both peace and a sense of community. Here, you'll enjoy proximity to local shops and dining, picturesque walking and biking paths, and effortless commutes via nearby highways. The region is known for its bike-friendly atmosphere and panoramic green spaces.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 90,
+  "property_type": "apartment",
+  "city": "Nowy S\u0105cz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 829000,
+  "key_features": [
+    "dining area with natural light",
+    "patio doors opening to garden",
+    "fenced yard",
+    "2 bathrooms",
+    "EV charging station",
+    "shopping and dining nearby",
+    "modern kitchen"
+  ],
+  "lifestyle_benefits": [
+    "Ideal for entertaining and hosting family or friends",
+    "Outdoor space for play and relaxation",
+    "Easy access to major roads",
+    "Great for eco-conscious living"
+  ],
+  "target_buyer": "A young couple or growing family seeking a modern, energy-friendly apartment with outdoor space in a peaceful and accessible suburban community.",
+  "market_positioning": "This property represents a rare opportunity in Nowy S\u0105cz Suburb\u2014a contemporary family-ready apartment with exceptional amenities at a competitive price, perfect for those wishing to combine comfort, lifestyle, and suburban tranquility."
+}

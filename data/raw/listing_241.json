@@ -1,0 +1,31 @@
+{
+  "title": "Chic Studio Retreat in Historic Stare Miasto, Zamosc",
+  "description": "Welcome to your new urban sanctuary\u2014a stylish studio in the heart of Zamosc\u2019s cherished Stare Miasto. Thoughtfully designed, this property offers a flexible studio bedroom and a practical, comfortable bathroom within a bright, open living space of 36 sqm. Large patio doors fill the area with natural light and offer an inviting view of a shared tranquil garden, while a cozy fireplace brings warmth and charm. Perfectly suited for those seeking a workspace at home, a dedicated modern nook lets you switch from business to leisure with ease.",
+  "neighborhood_description": "Stare Miasto is steeped in history and friendly energy, ideal for anyone wanting both vibrancy and community. Just steps away, you\u2019ll find lively markets, schools, waterfront strolls, and plenty of dining and shopping options. The area is known for its safe, welcoming atmosphere, making it both lively and comfortable.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 420000,
+  "key_features": [
+    "home office space",
+    "fireplace",
+    "patio doors opening to garden",
+    "shopping and dining nearby"
+  ],
+  "lifestyle_benefits": [
+    "creative inspiring setting for remote work",
+    "easy commutes for digital nomads",
+    "walkable to cultural sites and cafes",
+    "safe urban environment with local events"
+  ],
+  "target_buyer": "Perfectly suited for digital nomads or solo professionals looking for a cozy, efficient space with vibrant local culture, good connectivity, and an ideal at-home work setup.",
+  "market_positioning": "Competitively priced, this well-equipped studio stands out for those seeking modern convenience with historic charm in Zamosc's most picturesque district\u2014close to transport, amenities, and inspiring surroundings."
+}

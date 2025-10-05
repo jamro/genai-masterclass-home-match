@@ -1,0 +1,36 @@
+{
+  "title": "Eco-Conscious Smart Home with Spacious Land in Polnocne",
+  "description": "Immerse yourself in modern comfort with this thoughtfully designed 4-bedroom, 3-bathroom house in the peaceful neighborhood of Polnocne, Suwa\u0142ki. The home spans a generous 198 sqm, blending airy open-plan living with eco-friendly features and barrier-free access for effortless movement throughout the home. Each bedroom offers calming views over greenery, and the living room seamlessly connects to your private garden \u2014a haven for both you and your pets. Security and convenience are prioritised through a quality video intercom, robust indoor/outdoor security system, and energy-efficient air conditioning.",
+  "neighborhood_description": "Polnocne boasts a contemporary yet tranquil ambiance, characterized by modern developments and a strong sense of neighborly community. Residents enjoy easy access to highways for swift travel as well as participation in eco-conscious local initiatives. Nature reserves close by the area make it perfect for families and pet-owners who cherish outdoor activity and green space.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 198,
+  "property_type": "house",
+  "city": "Suwa\u0142ki",
+  "neighborhood": "Polnocne",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1119000,
+  "key_features": [
+    "wheelchair accessibility",
+    "video intercom",
+    "rainwater collection system",
+    "air conditioning",
+    "security system",
+    "open-plan living area",
+    "modern kitchen",
+    "private garden/yard",
+    "energy-efficient windows"
+  ],
+  "lifestyle_benefits": [
+    "ideal for pet owners",
+    "large fenced yard for pets",
+    "proximity to nature trails and parks",
+    "sustainable living in eco-minded community",
+    "quiet streets perfect for walking pets"
+  ],
+  "target_buyer": "This home appeals to nature lovers and modern families who prioritise accessibility, sustainability, and animal-friendly space. Ideal for buyers who commute by car but wish to live amidst greenery while enjoying contemporary amenities.",
+  "market_positioning": "The property stands out by integrating advanced eco-friendly systems and accessibility, making it a top choice among quality new builds in Suwa\u0142ki. Designed for comfort, community life and modern Eco-living, this home sets a superior standard in low-density neighborhoods."
+}

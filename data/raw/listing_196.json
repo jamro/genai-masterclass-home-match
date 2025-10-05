@@ -1,0 +1,32 @@
+{
+  "title": "Historic Family Haven with Modern Touches in Dyrekcja",
+  "description": "Steeped in historic charm, this spacious family house offers the perfect blend of tradition and contemporary comfort. Featuring 5 airy bedrooms and 3 immaculate bathrooms, the home graciously spans 246 sqm, centered around light-filled living spaces with panoramic windows that showcase the quiet green surroundings. Culinary enthusiasts will adore the modern kitchen, while the dedicated walk-in closet and reception area provide both luxury and practicality. Pets and people alike benefit from generous indoor-outdoor connectivity \u2014 make every season memorable in this enchanting home.",
+  "neighborhood_description": "Located in Dyrekcja, a peaceful neighborhood on the outskirts of Chelm, enjoy life at a slower pace where eco-conscious living is second nature. Surrounded by parks, playgrounds, and a network of bike-friendly paths, it\u2019s perfect for family outings and daily adventures tailored to pets and nature lovers. Proximity to highway connections ensures easy journeys far and wide, while local amenities support an active, balanced lifestyle.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 246,
+  "property_type": "house",
+  "city": "Chelm",
+  "neighborhood": "Dyrekcja",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1405000,
+  "key_features": [
+    "panoramic windows",
+    "modern kitchen",
+    "video intercom",
+    "modern lighting system",
+    "walk-in closet",
+    "reception desk"
+  ],
+  "lifestyle_benefits": [
+    "private garden spaces for pets",
+    "direct access to parks and playgrounds",
+    "bike-friendly area",
+    "peaceful eco-conscious community"
+  ],
+  "target_buyer": "Ideal for families and pet owners seeking a quiet, sustainable lifestyle in charming historic surroundings, with space to grow and relax.",
+  "market_positioning": "One of the rare historic houses in Dyrekcja, this home stands out for its careful blend of period architecture and modern upgrades, offering a unique alternative to suburban and urban properties near Chelm."
+}

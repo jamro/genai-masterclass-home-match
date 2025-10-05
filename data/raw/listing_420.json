@@ -1,0 +1,33 @@
+{
+  "title": "An Artistic Abode: Spacious Loft Sanctuary in Pila\u2019s Creative Suburb",
+  "description": "Welcome to a loft that thoughtfully blends wide-open contemporary living with cozy intimate spaces. Unfolding over 98 square meters, this luminous two-bedroom, two-bathroom sanctuary welcomes the new with its fireplace-heated lounge and modern fa\u00e7ade design. Designer touches abound: custom built-in wardrobes maximize storage, a laundry room enhances convenience, and an underground garage awaits just below. Flow seamlessly from artful relaxation to practical comforts\u2014all within an inspiring yet quietly private layout.",
+  "neighborhood_description": "Immerse yourself in the Suburb\u2014an appointed haven known for its artistic community and steady rhythms. Residents treasure clean, well-maintained streets, neighborhood security, and plenty of ease thanks to the nearby highways enabling quick escapes to Pila\u2019s city center or restful country surroundings. Local ateliers, coffee nooks, and green sanctuaries subtly pepper the area, cultivating a sense of belonging for creators, families, and early risers alike.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 98,
+  "property_type": "loft",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1325000,
+  "key_features": [
+    "well-maintained common areas",
+    "built-in wardrobes",
+    "underground garage",
+    "fireplace",
+    "laundry room",
+    "modern fa\u00e7ade design"
+  ],
+  "lifestyle_benefits": [
+    "privacy and artistic inspiration",
+    "easy highway access",
+    "secure, neighborly living",
+    "proximity to city conveniences with tranquility",
+    "ample storage and functional spaces"
+  ],
+  "target_buyer": "This property suits long-term renters, couples, or families searching for lasting roots\u2014with space for both solitude and creativity\u2014quietly nestled in an artistic and securely knit community.",
+  "market_positioning": "Positioned as a rare fusion of loft freedom and suburban harmony, this offering stands out for those valuing modern, low-density living within reach of downtown, attracting discerning buyers with a premium on lasting comfort and a tastefully designed lifestyle."
+}

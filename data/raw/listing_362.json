@@ -1,0 +1,32 @@
+{
+  "title": "Chic Studio Retreat in Trendy Old Town Krosno",
+  "description": "Welcome to this modern studio apartment designed for style and comfort. The space features a spacious open-plan living area with a sleek modern kitchen fitted with contemporary appliances and a convenient walk-in closet. Single bathroom includes quality fixtures, making daily routines feel luxurious. Enjoy a refreshing dip in the resident swimming pool whenever you wish\u2014an uncommon amenity in the area. This bright and airy studio strikes the perfect balance between functionality and modern design.",
+  "neighborhood_description": "Nestled in Old Town, Krosno, the neighborhood exudes a laid-back yet dynamic energy favored by young trendsetters and expats. While the area is less crowded with a characteristic low urban density, instant access to the nearby highway makes getting around simple and convenient. Caf\u00e9s, galleries, and unique local shops just around the corner create a charming and vibrant surroundings to explore after work or on weekends.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 429000,
+  "key_features": [
+    "swimming pool access",
+    "modern kitchen",
+    "walk-in closet",
+    "newly built building",
+    "secure entry"
+  ],
+  "lifestyle_benefits": [
+    "perfect for digital nomads and expats",
+    "quiet, trend-forward neighborhood",
+    "quick access to regional travel",
+    "excellent modern finishes",
+    "built-in wardrobe for organization"
+  ],
+  "target_buyer": "Ideal for a young professional or expat seeking a stylish, low-maintenance base with outstanding highway connections, privacy, and a fresh apartment feel.",
+  "market_positioning": "One of the few boutique studios in trendy Old Town with exclusive pool access and highway convenience\u2014an attractive, turn-key home for mobile young professionals seeking extra comfort beyond the city standards."
+}

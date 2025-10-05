@@ -1,0 +1,33 @@
+{
+  "title": "Luxury Designer Loft in Srodmiescie \u2013 Family-Friendly Urban Living",
+  "description": "Step into a stunning, sun-drenched 1-bedroom loft in the heart of Srodmiescie, Lodz. Expansive floor-to-ceiling windows flood the open-concept interior with natural light, accentuating high ceilings and contemporary finishes. Each of the two spa-inspired bathrooms exudes modern elegance, complementing the sense of comfort and space. Enjoy a seamless transition to a sleek, custom kitchen that perfectly blends functionality and sophistication. Tailored for premium family living, this stylish residence is an urban oasis.",
+  "neighborhood_description": "Located in the vibrant Srodmiescie neighborhood, this loft sites you in a modern, dynamic district at the center of Lodz\u2019s most coveted urban attractions. Artfully landscaped shared courtyards and children\u2019s play spaces create a family-friendly haven within the buzz. Superb public transport and scenic bike routes keep the city\u2019s waterfront cafes, trendy galleries, and business hubs delightfully accessible every day.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 88,
+  "property_type": "loft",
+  "city": "Lodz",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1360000,
+  "key_features": [
+    "Solar panels",
+    "Shared courtyard",
+    "Modern bespoke kitchen",
+    "Children's playground area",
+    "Motion-sensor exterior lighting"
+  ],
+  "lifestyle_benefits": [
+    "Vibrant urban environment with family-friendly amenities",
+    "Walkable lifestyle close to cultural and leisure activities",
+    "Safe and green communal areas for children",
+    "Direct access to the city's trendiest venues and waterfront",
+    "Eco-friendly living with modern comforts"
+  ],
+  "target_buyer": "Ideal for contemporary families who value space, security, and a cosmopolitan lifestyle, or professionals seeking a luxurious and functional city residence in Lodz.",
+  "market_positioning": "This premium loft differentiates itself with its rare blend of architectural brilliance, energy-efficient upgrades, and exceptional family-oriented amenities\u2014all within Lodz\u2019s trendiest district. Positioned as a unique and highly desirable property for high-end buyers looking for chic urban living with an exclusive family-friendly touch."
+}

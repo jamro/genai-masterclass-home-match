@@ -1,0 +1,34 @@
+{
+  "title": "Eco-Modern 3-Bedroom Apartment with Solar Panels & Garden in Stare Miasto",
+  "description": "Welcome to a sustainable urban haven\u2014a modern 3-bedroom apartment in the heart of Wroclaw's vibrant Stare Miasto. This wheel-chair accessible flat features a bright, open living space, a contemporary full bathroom, and a spacious private balcony with energy-saving solar panels. The property offers a rare and tranquil private garden, as well as access to a peaceful shared courtyard, presenting a perfect combination of eco-conscious living and urban convenience. Thoughtfully designed for modern city dwellers, this 92 sqm residence merges comfort, function, and style under one green roof.",
+  "neighborhood_description": "Stare Miasto is where culture, convenience, and innovation unite, offering countless shopping, dining, and entertainment options\u2014all steps away. The neighborhood is ideal for an active and balanced lifestyle, with lush parks, well-connected public transport, and scenic bike lines. Experience Wroclaw\u2019s best historic charm alongside dynamic eco-urban living.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 92,
+  "property_type": "apartment",
+  "city": "Wroclaw",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1090000,
+  "key_features": [
+    "wheelchair accessibility",
+    "private garden",
+    "balcony",
+    "solar panels",
+    "shared courtyard",
+    "shopping and dining nearby",
+    "energy-efficient appliances"
+  ],
+  "lifestyle_benefits": [
+    "eco-friendly utilities for reduced bills",
+    "green community initiatives",
+    "easy pedestrian & cycling access",
+    "healthy urban lifestyle"
+  ],
+  "target_buyer": "Ideal for eco-conscious urban families or professionals passionate about sustainability, accessibility, and stylish modern city living.",
+  "market_positioning": "A rare and contemporary eco-friendly urban apartment, uniquely offering green amenities and barrier-free access in a highly sought-after Wroclaw central location."
+}

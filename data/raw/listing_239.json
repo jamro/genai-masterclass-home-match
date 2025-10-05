@@ -1,0 +1,32 @@
+{
+  "title": "Scandinavian-Inspired Apartment with Green Outlook in Sopot",
+  "description": "This bright and minimalist apartment in Kamienny Potok offers a serene living space featuring two spacious bedrooms and an open-plan living area. Clean lines, natural light, and subtle touches of wood throughout define the stylish Scandinavian aesthetic. The apartment is sized at 68 square meters, perfectly suited for urban living and comfort. Pets are welcome, and modern security systems add a sense of safety to your new home.",
+  "neighborhood_description": "Nestled in the rapidly growing Kamienny Potok neighborhood, the apartment sits amid green surroundings and tree-lined avenues. Residents enjoy quick connection to key destinations by public transport or the network of local bike lines, all in a safe and inviting atmosphere. Numerous amenities and excellent highway access provide effortless routines for professionals.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 68,
+  "property_type": "apartment",
+  "city": "Sopot",
+  "neighborhood": "Kamienny Potok",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1190000,
+  "key_features": [
+    "video intercom",
+    "security system",
+    "pets allowed",
+    "designated bike storage",
+    "modern kitchen with induction cooktop"
+  ],
+  "lifestyle_benefits": [
+    "Effortless relocations for professionals",
+    "Pet-friendly policy for animal lovers",
+    "Access to Sopot's business, culture, and seaside escapes",
+    "Calming views amid green scenery"
+  ],
+  "target_buyer": "Ideal for professionals or expats relocating to the Tri-city area, seeking stylish Scandinavian simplicity and workplace connectivity without compromising comfort or peace.",
+  "market_positioning": "Positioned to appeal to upwardly mobile professionals, this apartment blends modern security, seamless commutes, and appealing green surroundings\u2014offering strong value on the Sopot market with desirable minimalist design."
+}

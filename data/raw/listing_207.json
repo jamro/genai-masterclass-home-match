@@ -1,0 +1,36 @@
+{
+  "title": "Charming Duplex with Historic Flair in the Heart of Wrzeszcz",
+  "description": "This remarkable 5-bedroom, 3-bathroom duplex beautifully marries the historical ambiance of Gdansk with modern conveniences. Generously sized at 196 sqm, it boasts soaring ceilings, intricate architectural accents, and sun-filled rooms perfect for both tranquil retreats or professional remote work. The main level features spacious living and dining areas that open through elegant patio doors to a manicured garden oasis, ideal for relaxing or entertaining guests.",
+  "neighborhood_description": "Located in vibrant Wrzeszcz, one of Gdansk's most sought-after districts, you are surrounded by lively cafes, artisanal bakeries, and local boutiques. The neighborhood caters to all lifestyles\u2014whether you enjoy waterfront walks, cycling greenways, or immersing yourself in the energetic urban scene, everything is within easy reach. Excellent connections to public transport, bike lines, main highways, and the nearby airport put the whole city at your doorstep.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 196,
+  "property_type": "duplex",
+  "city": "Gdansk",
+  "neighborhood": "Wrzeszcz",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway",
+    "airport"
+  ],
+  "price": 1590000,
+  "key_features": [
+    "automatic gate",
+    "security system",
+    "barbecue zone",
+    "home office space",
+    "shared sauna",
+    "patio doors opening to garden"
+  ],
+  "lifestyle_benefits": [
+    "Hybrid living for modern remote work life",
+    "Private garden sanctuary in historic setting",
+    "Steps to vibrant shops, cafes, and urban attractions",
+    "Serene environment for work-life balance",
+    "Easy access to waterfront and active recreational options"
+  ],
+  "target_buyer": "Ideal for remote-working professionals, entrepreneurs, or families seeking an inspiring yet peaceful urban home with unique historic touches. Excellent for those desiring a blend of legacy charm, gardening space, and premium connectivity.",
+  "market_positioning": "Rarely available heritage duplex combining classical aesthetics with 21st-century amenities; stands out as a prime residence or hybrid work address for city lovers in the heart of Gdansk's dynamic Wrzeszcz center."
+}

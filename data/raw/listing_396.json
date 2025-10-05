@@ -1,0 +1,33 @@
+{
+  "title": "Modern 6-Bedroom Smart House Close to Port\u2013Perfect for Students",
+  "description": "Welcome to this spacious and energy-efficient 6-bedroom house, ideal for a multi-sharing student group or energetic young professionals. Flooded with natural light from panoramic windows, the stylish living areas flow into a sleek kitchen and a cozy lounge. Additional benefits include a dedicated guest bathroom and a seamlessly integrated smart home system for ultimate convenience. An in-house elevator ensures accessibility to all levels, setting a new standard for comfort in Ustka\u2019s Port District.",
+  "neighborhood_description": "Nestled in Ustka\u2019s trendy Port District, this house is right in the heart of up-and-coming creativity along the Baltic shore. The district is super bike-friendly, dotted with casual cafes, and perfect for long rides along the coast or easy trips via highway to central hotspots. Enjoy a youthful, dynamic neighborhood still catching the local scene vibe, making it perfect for students or groups of young professionals.",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "size_sqm": 218,
+  "property_type": "house",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "bike lines",
+    "highway"
+  ],
+  "price": 1160000,
+  "key_features": [
+    "energy-efficient building",
+    "guest bathroom",
+    "panoramic windows",
+    "smart home system",
+    "elevator access"
+  ],
+  "lifestyle_benefits": [
+    "close to beaches and nightlife",
+    "ideal for student sharing",
+    "bike-friendly routes nearby",
+    "vibrant and emerging neighborhood atmosphere",
+    "tech-forward living with smart controls"
+  ],
+  "target_buyer": "Social students or young professionals looking for comfortable, modern shared housing close to natural and urban attractions.",
+  "market_positioning": "Distinct large-scale house in Ustka, rare for combining energy savings, high-tech amenities, and sharing-friendly layout in a trendy, affordable coastal district."
+}

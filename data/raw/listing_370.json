@@ -1,0 +1,34 @@
+{
+  "title": "Eco-Conscious Duplex Retreat in Historic Stare Miasto",
+  "description": "This stylish, modern duplex features three spacious bedrooms and three contemporary bathrooms, cleverly designed across an airy 130 sqm layout. You\u2019ll love the sun-soaked open floor plan, which flows seamlessly into a state-of-the-art modern kitchen and inviting living zones perfect for entertaining or relaxing. Enjoy premium touches like an ensuite master bathroom, a rare underground garage, and a heated driveway perfect for Polish winters. Smart tech details, including motion-sensor exterior lights, prioritize comfort and peace of mind in daily life.",
+  "neighborhood_description": "Stare Miasto, Zamosc\u2019s storied Old Town, has evolved into a trendy cultural hub while retaining a quiet, residential feel. Residents enjoy the district\u2019s blend of vibrant local events, charming architecture, and direct public transport access plus proximity to highways for easy city commutes. Calm streets and creative energy make it ideal for those seeking balance between tradition and modern convenience.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 130,
+  "property_type": "duplex",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1490000,
+  "key_features": [
+    "modern kitchen",
+    "open floor plan",
+    "heated driveway",
+    "underground garage",
+    "motion-sensor exterior lights",
+    "ensuite bathroom"
+  ],
+  "lifestyle_benefits": [
+    "reduced energy-demand design",
+    "secure parking",
+    "space for home office or studio",
+    "walkable to cultural venues",
+    "modern security features"
+  ],
+  "target_buyer": "First-time home buyers who value both sustainable living and a convenient, stimulating lifestyle close to historic attractions.",
+  "market_positioning": "Offers a unique combination of eco-conscious features, solid security, and state-of-the-art interiors in a comparably affordable price bracket for this desirable Zamosc district."
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Historic One-Bedroom Haven with Courtyard in Zakopane Centrum",
+  "description": "Step into a piece of Zakopane\u2019s storied architectural charm in this delightful one-bedroom apartment. Spanning a cozy but spacious 48 sqm, the interior blends traditional character with modern energy-efficient upgrades. Warm parquet floors, large windows, and carefully restored finishes evoke mountain heritage and comfort, while a well-appointed bathroom and versatile living space ensure everyday convenience. Enjoy access to a shared courtyard and practical laundry facilities\u2014all part of an inviting, well-maintained building.",
+  "neighborhood_description": "Reside in the heart of Centrum, where lively urban energy meets community spirit along quiet streets lined with historic facades and vibrant local shops. Everything you need is within walking distance\u2014from artisanal bakeries to bustling markets\u2014yet moments of peace await in tranquil green spaces nearby. Well-linked by public transport and easy highway access, Centrum effortlessly balances connectivity with Zakopane\u2019s famous mountain ambiance.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 48,
+  "property_type": "apartment",
+  "city": "Zakopane",
+  "neighborhood": "Centrum",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 855000,
+  "key_features": [
+    "shared courtyard",
+    "energy-efficient building",
+    "laundry room",
+    "historic facade",
+    "secure entry"
+  ],
+  "lifestyle_benefits": [
+    "ideal for long-term renters seeking stability",
+    "peaceful communal areas for relaxation",
+    "easy access to amenities and city life",
+    "enjoy mountain town heritage with modern comforts"
+  ],
+  "target_buyer": "Perfect for individuals or couples looking for a lasting home in Zakopane\u2014those who value historic character, central location, and a stable community setting ideal for long-term rental seeking security and connection.",
+  "market_positioning": "Positioned as a rare blend of historic appeal and modern efficiency in Zakopane's coveted Centrum, this property offers stress-free living for stability-focused renters and stands out for its authentic ambiance and practical community features."
+}

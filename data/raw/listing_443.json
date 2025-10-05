@@ -1,0 +1,30 @@
+{
+  "title": "Modern Studio Retreat in Dyrekcja, Che\u0142m \u2013 Perfect for Professionals",
+  "description": "Step into comfort with this cozy and stylish studio apartment in the peaceful Dyrekcja neighborhood of Che\u0142m. Designed for both functionality and relaxation, this bright, open studio comes with 1 spacious bedroom and a well-appointed bathroom. At 33 sqm, the thoughtfully planned layout features elegant interiors accentuated by a cutting-edge modern lighting system and warm underfloor heating throughout. The beautifully landscaped surroundings ensure a serene ambiance and delightful views year-round.",
+  "neighborhood_description": "Located in the family-friendly and tranquil Dyrekcja district, you\u2019ll love the comfortable pace of suburban life with a strong sense of community. While offering a peaceful escape, the neighborhood is conveniently connected to the nearby highway, making daily commutes and weekend getaways a breeze. Enjoy a mix of local charm, bounding green spaces, and a relaxed atmosphere perfect for unwinding after work.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 33,
+  "property_type": "studio",
+  "city": "Che\u0142m",
+  "neighborhood": "Dyrekcja",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 425000,
+  "key_features": [
+    "landscaped surroundings",
+    "underfloor heating",
+    "modern lighting system",
+    "energy-efficient finishes",
+    "secure building entrance"
+  ],
+  "lifestyle_benefits": [
+    "peaceful and family-oriented environment",
+    "fast access to main highways for commuters",
+    "low-maintenance modern living"
+  ],
+  "target_buyer": "Ideal for young professionals or solo relocators seeking a blend of quiet living with easy access to transportation for work-related travel.",
+  "market_positioning": "Stands out in the Che\u0142m market as a contemporary yet warmly inviting studio in a calm, low-urban neighborhood, perfect for professionals searching for stress-free living with swift city connectivity."
+}

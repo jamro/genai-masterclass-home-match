@@ -1,0 +1,32 @@
+{
+  "title": "Charming 3-Bedroom Family Apartment with Garden Retreat in Pila Suburb",
+  "description": "Welcome to this delightful 3-bedroom apartment offering 78 sqm of thoughtfully designed living space perfect for modern families. Enjoy bright, airy rooms, a walk-in closet, and exclusive access to a fenced, private garden paradise\u2014ideal for play or relaxation. Features such as air conditioning ensure year-round comfort, while the residents' lounge and swimming pool access encourage community and active leisure.\n\nThe apartment is perfectly suited for young couples starting a family or those looking to enjoy peaceful suburban living close to essential city conveniences. Each room has been crafted to maximize both comfort and functionality, ensuring home life remains both cozy and practical.",
+  "neighborhood_description": "Nestled in Pila's quiet, historic Suburb, this neighborhood is beloved for its family-friendly appeal and tranquil atmosphere. Just a short drive to schools and the business district, daily commutes are made easy by immediate access to the highway, keeping life balanced between work and leisure. Tree-lined streets, preserved architectural charm, and friendly neighbors embody quintessential suburban living in Poland.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 78,
+  "property_type": "apartment",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 915000,
+  "key_features": [
+    "air conditioning",
+    "swimming pool access",
+    "fenced yard",
+    "walk-in closet",
+    "residents' lounge",
+    "private garden"
+  ],
+  "lifestyle_benefits": [
+    "Ample space for growing family",
+    "Direct garden access for children and pets",
+    "Quiet and safe community feel",
+    "Convenient highway access for commuters"
+  ],
+  "target_buyer": "Ideal for young couples and small families seeking suburban tranquility with contemporary conveniences and a welcoming local community.",
+  "market_positioning": "This apartment represents a rare blend of value and lifestyle, appealing to buyers desiring peaceful surroundings with benefit-rich amenities\u2014a unique find in Pila's growing residential market."
+}

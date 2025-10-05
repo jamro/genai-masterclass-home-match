@@ -1,0 +1,33 @@
+{
+  "title": "Eco-friendly Smart Studio in Trendy Ochota",
+  "description": "Experience stylish city living in this modern studio apartment located in the heart of Warsaw's bustling Ochota district. Offering an intelligent layout across 35 sqm, this studio combines comfort and functionality for the sophisticated urbanite. A contemporary smart home system streamlines your daily routine, and dedicated underground garage space ensures secure parking year-round. Communal swimming pool access promotes a balanced, active lifestyle.",
+  "neighborhood_description": "Ochota is a sought-after neighborhood known for its vibrant, dynamic atmosphere and excellent access to green spaces, cozy cafes, and co-working lounges. Rapid connections via public transport or bike to the city center and airport make life convenient for movers and shakers. The area is perfect for professionals seeking both opportunity and chill, fostering connection and creativity.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 35,
+  "property_type": "studio",
+  "city": "Warsaw",
+  "neighborhood": "Ochota",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "airport"
+  ],
+  "price": 499000,
+  "key_features": [
+    "swimming pool access",
+    "smart home system",
+    "underground garage",
+    "energy efficient appliances",
+    "high-speed fiber internet"
+  ],
+  "lifestyle_benefits": [
+    "short commute to city center and airport",
+    "access to wellness amenities",
+    "close-knit, energetic community",
+    "green spaces for recreation"
+  ],
+  "target_buyer": "Ideal for eco-conscious entrepreneurs, remote professionals, and modern singles looking for a high-efficiency studio in a lively yet balanced urban setting.",
+  "market_positioning": "This studio distinguishes itself on the local market through eco-friendly features, premium amenities like pool and smart tech integration, and outstanding access to transport\u2014particularly appealing to Warsaw's emerging entrepreneurial class."
+}

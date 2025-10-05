@@ -1,0 +1,35 @@
+{
+  "title": "Charming Historic Apartment in the Heart of Sopot Centrum",
+  "description": "Step into this exquisite 3-bedroom apartment that marries historic beauty with modern sustainability. Located in an elegantly restored, energy-efficient building, this spacious 108 sqm home balances original Art Nouveau flourishes with 21st-century touches like solar panels and stylish interiors. Entertain with sweeping city views from the communal rooftop deck or unwind in the two renovated bathrooms finished with subtle historic accents.",
+  "neighborhood_description": "Set in Sopot's Centrum area, this home is part of a vibrant, bike-friendly neighborhood renowned for its coastal charm. The surrounding blocks brim with artistic boutiques, cafes, and theaters, attracting creatives and admirers of unique urban life. With rapid public transport, well-maintained bike lines, and easy highway access, Centrum is designed for integrated, active living.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 108,
+  "property_type": "apartment",
+  "city": "Sopot",
+  "neighborhood": "Centrum",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1370000,
+  "key_features": [
+    "energy-efficient building",
+    "rooftop deck",
+    "solar panels",
+    "historical architectural details",
+    "renovated bathrooms",
+    "secure entry system"
+  ],
+  "lifestyle_benefits": [
+    "opportunity for high-yield rental income",
+    "low energy costs",
+    "walkable to art galleries and cafes",
+    "engaged local artistic community",
+    "excellent transit for tenants or guests"
+  ],
+  "target_buyer": "Ideal for discerning property investors who value both immediate rental potential and long-term asset appreciation in one of Sopot\u2019s permanent-demand neighborhoods.",
+  "market_positioning": "Stands apart as a rare blend of sustainable living and historic authenticity in Sopot Centrum, appealing to investors seeking unique urban assets amidst growing rental demand."
+}

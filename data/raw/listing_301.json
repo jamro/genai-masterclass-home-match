@@ -1,0 +1,34 @@
+{
+  "title": "Loft Living for Creative Families in Dynamic Suburb",
+  "description": "Fall in love with this spacious and sun-kissed 3-bedroom loft nestled in the tranquil Suburb district of Nowy Sacz. Thoughtfully designed for comfortable living, the open-plan layout seamlessly connects living, dining, and kitchen areas, accented by modern fixtures throughout. Tall windows let in abundant natural light, while a generous balcony provides space for relaxing or summer dining. Fitness enthusiasts will enjoy the in-building fitness center, and eco-conscious families will appreciate the integrated rainwater collection system.",
+  "neighborhood_description": "Suburb combines a trendy and dynamic attitude with the relaxed pace of life favored by today\u2019s creative professionals\u2014just minutes from the business district. Modern residential developments sit alongside inspiring green spaces, allowing a sanctuary for artistically-minded families who still want quick highway access for commuting.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 102,
+  "property_type": "loft",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1180000,
+  "key_features": [
+    "3 spacious bedrooms",
+    "open-plan living area",
+    "large, sunny balcony",
+    "rainwater collection system",
+    "on-site fitness center",
+    "modern kitchen appliances",
+    "ample in-unit storage"
+  ],
+  "lifestyle_benefits": [
+    "inspiring creative space",
+    "reliable high-speed internet",
+    "close to tranquil green spaces",
+    "easy access to major business district",
+    "suitable for home studios or personal workshops"
+  ],
+  "target_buyer": "Artists, designers, and creative families wanting peaceful surroundings with inspiring contemporary interiors, yet connected easily to city amenities.",
+  "market_positioning": "Distinct among suburban lofts, this property suits those seeking urban style in a quieter modern neighborhood, drawing creatives wanting high-value design space close to both city and relaxation."
+}

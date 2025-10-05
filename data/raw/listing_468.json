@@ -1,0 +1,33 @@
+{
+  "title": "Chic Entrepreneurial Duplex with Pool Access in Urban Mokot\u00f3w",
+  "description": "Enter a world of possibility with this stunning 3-bedroom, 2-bathroom duplex that blends modern sensibility with artistic design. Spacious open-plan living areas are bathed in light, thanks to energy-efficient windows framing inviting city views. Each room invites productivity and serenity in equal measure, ideal for balancing work and leisure. Secure, automatic gate entry leads to exclusive amenities, while 24/7 on-site security ensures privacy and peace of mind.",
+  "neighborhood_description": "Located in central Mokot\u00f3w\u2014where Warsaw\u2019s innovative buzz meets a peaceful, pet-friendly atmosphere\u2014this duplex nestles among leafy lanes, top schools, niche coffee spots, and vibrant coworking hubs. Efficient transport options and nearby highway access put the city's dynamic business and leisure offerings at your doorstep.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 120,
+  "property_type": "duplex",
+  "city": "Warsaw",
+  "neighborhood": "Mokotow",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway",
+    "airport"
+  ],
+  "price": 1575000,
+  "key_features": [
+    "energy-efficient windows",
+    "automatic gate",
+    "swimming pool access",
+    "24/7 security"
+  ],
+  "lifestyle_benefits": [
+    "ideal for telecommuting professionals",
+    "walkable access to schools and daily amenities",
+    "pet-friendly trails and parks",
+    "inspirational modern design"
+  ],
+  "target_buyer": "Ambitious entrepreneurs and young professionals seeking a refined, secure, and flexible modern home in central Warsaw.",
+  "market_positioning": "A rare union of comfort and entrepreneurial efficiency, this duplex stands out for buyers prioritizing premium urban living with on-trend amenities and outstanding connectivity."
+}

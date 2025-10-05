@@ -1,0 +1,34 @@
+{
+  "title": "Historic Katowice Townhouse Blends Timeless Elegance with Modern Comforts",
+  "description": "Step into the heritage of Srodmiescie with this stately, beautifully renovated townhouse. Spanning a generous 163 sqm, the home seamlessly marries historic charm with contemporary amenities throughout its expansive living area, boasting three spacious bedrooms and two stylish, updated bathrooms. Original architectural details\u2014high ceilings, classic wood trim, and arched doorway\u2014are accentuated by sensitive upgrades such as a modern lighting system and energy-efficient windows. Ideal for buyers yearning for tradition with today\u2019s comfort, this distinguished address offers refined and accessible living.",
+  "neighborhood_description": "Positioned in the vibrant, tech-oriented heart of Katowice, Srodmiescie champions connectivity and culture. Angular skylines, sweeping mountain views, and continual urban development create a spirited hub suited to an active retirement lifestyle. Take advantage of silky-smooth cycling paths and reliable public transport, while fine parks, premium healthcare, vivacious cafes, and galleries are all within an easy, relaxing stroll.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 163,
+  "property_type": "house",
+  "city": "Katowice",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1780000,
+  "key_features": [
+    "children's playground area",
+    "modern lighting system",
+    "EV charging station",
+    "energy-efficient windows",
+    "private terrace",
+    "restored original features"
+  ],
+  "lifestyle_benefits": [
+    "quiet, sophisticated urban living",
+    "proximity to parks and amenities",
+    "vibrant social and cultural scene",
+    "walkable environment for an active lifestyle",
+    "tranquil spaces for entertaining grandchildren"
+  ],
+  "target_buyer": "Perfect for retirees seeking a graceful blend of the historic and the convenient, who wish to enjoy rich local amenities without sacrificing peace.",
+  "market_positioning": "Well-suited for discerning buyers valuing authenticity and modern ease in a central, elite address; historic townhouses of this quality and location are a delicacy in the Katowice urban market."
+}

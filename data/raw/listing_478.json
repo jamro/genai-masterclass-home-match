@@ -1,0 +1,32 @@
+{
+  "title": "Historic Sopot Duplex with Modern Comfort in Vibrant Karlikowo",
+  "description": "Experience the allure of Sopot in this charming duplex, artfully blending historical craftsmanship with today's convenience. With 3 spacious bedrooms and 2 elegant bathrooms, this 122 sqm home offers plenty of room for relaxation or hosting friends. Character accents, including original details and high ceilings, complement contemporary fixtures and eco-friendly solar panels. Secure private parking offers added peace of mind just steps from your door.",
+  "neighborhood_description": "Nestled in the sought-after Karlikowo district, this property benefits from lively urban energy balanced by the fresh promise of modern development. Young professionals and couples will love the local cafes, dynamic eateries, and easy access to Sopot's legendary beach. Organized public transport and a well-planned network of bike lines make exploring the city a breeze, whether you're commuting or seeking a weekend adventure.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 122,
+  "property_type": "duplex",
+  "city": "Sopot",
+  "neighborhood": "Karlikowo",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1400000,
+  "key_features": [
+    "private parking space",
+    "solar panels",
+    "original architectural detailing",
+    "modern kitchen",
+    "fitness center in complex"
+  ],
+  "lifestyle_benefits": [
+    "walkable neighborhood",
+    "beachside lifestyle",
+    "eco-friendly living",
+    "active urban lifestyle"
+  ],
+  "target_buyer": "Young couples seeking a unique blend of historic charm and contemporary comforts in a vibrant, walkable setting.",
+  "market_positioning": "A standout option in Sopot's competitive market, this home offers historic atmosphere without sacrificing modern convenience, appealing most to buyers looking for character paired with amenities and an urban lifestyle."
+}

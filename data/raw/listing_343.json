@@ -1,0 +1,31 @@
+{
+  "title": "Artful Solitude: Lake District 1-Bedroom Apartment Oasis",
+  "description": "Embrace tranquility in this cleverly designed 1-bedroom apartment set amidst the scenic Lakes District of Elk. Spacious enough at 46 sqm, the open-plan interior cleverly tucks in a modern home office nook\u2014perfect for creative minds. Built-in wardrobes keep clutter at bay, while large windows bathe the home in natural light and offer calming vistas. Access is protected by an automatic gate, and a residents\u2019 fitness center awaits your morning yoga or evening escape.",
+  "neighborhood_description": "Living in Lake District offers you more than just a residence\u2014it\u2019s a lifestyle centered around serene lakes, meandering trails, and vibrant outdoor energy. Quality schools are nearby for lifelong learners, and you\u2019ll discover a genuine local community with just the right blend of tranquility and neighborly gatherings. Stretch out both physically and creatively, all while living just a few minutes from major highways that link you swiftly to exploration beyond Elk.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 46,
+  "property_type": "apartment",
+  "city": "Elk",
+  "neighborhood": "Lake District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 740000,
+  "key_features": [
+    "dedicated home office area",
+    "fitness center with lake views",
+    "automatic entry gate",
+    "bright and airy layout",
+    "built-in wardrobes"
+  ],
+  "lifestyle_benefits": [
+    "ideal for peaceful, remote work",
+    "access to scenic outdoor activities",
+    "community vibe, close to essential amenities",
+    "quick highway connection"
+  ],
+  "target_buyer": "This inspired sanctuary speaks to remote workers and freelancers seeking balance\u2014creative souls or digital nomads ready to thrive outside the hustle, without losing easy connectivity to Northern Poland\u2019s key destinations.",
+  "market_positioning": "A rare find in Elk\u2019s Lake District: modern, thoughtfully equipped apartment tailoring privacy and creativity, standing out with amenities suited for the new era of hybrid work and slow-paced, nature-infused living."
+}

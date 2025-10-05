@@ -1,0 +1,35 @@
+{
+  "title": "Charming Industrial Loft with Private Garden in Brynow",
+  "description": "Embrace the warmth and versatility of this inviting 1-bedroom loft set in the heart of Brynow. Featuring airy open-plan living with panoramic windows, the home enjoys plenty of natural light and inspiring garden views. The contemporary kitchen flows seamlessly into the living area, while the bedroom offers space to unwind. Enjoy convenient storage solutions and a stylish, modern bathroom. The jewel of the loft is a private garden\u2014perfect for coffee breaks, reading sessions, or relaxing outdoors after work.",
+  "neighborhood_description": "Brynow is rich in historic charm with mature, leafy avenues, yet youthful thanks to vibrant local cafes, playgrounds, and parks. Easy access to public transport ensures the rest of Katowice is within relaxed reach, with dedicated bike lanes fostering a healthy, carefree lifestyle. Families appreciate the abundant green spaces and lively community atmosphere.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 63,
+  "property_type": "loft",
+  "city": "Katowice",
+  "neighborhood": "Brynow",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 985000,
+  "key_features": [
+    "private garden",
+    "storage room",
+    "close to public transport",
+    "panoramic windows",
+    "shared courtyard",
+    "24/7 security"
+  ],
+  "lifestyle_benefits": [
+    "home office possible",
+    "quiet mornings in your own garden",
+    "excellent air quality from nearby parks",
+    "secure building ideal for working from home",
+    "easy commute inside Katowice",
+    "walkable to recreation"
+  ],
+  "target_buyer": "Ideal for remote workers and professionals seeking an inspiring and peaceful workspace without sacrificing connection to lively community essentials and green spaces. Great for singles or couples who value lifestyle flexibility and comfort.",
+  "market_positioning": "This loft stands out in the medium-price range as an exceptional find, offering generous green outdoor space rare for loft properties, modern amenities, and coveted secure living. Its proximity to transport and recreational areas creates significant appeal for remote workers and community-minded buyers seeking value and convenience in Brynow."
+}

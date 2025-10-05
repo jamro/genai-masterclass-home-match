@@ -1,0 +1,32 @@
+{
+  "title": "Contemporary Duplex Oasis Near the River",
+  "description": "Bask in the serenity of this modern, light-filled duplex, embracing 179 airy sqm of creative freedom. Beautifully crafted with 4 harmonious bedrooms and 3 elegant bathrooms, this spacious residence balances innovation with comfort. Spacious living areas blend seamlessly with the outdoors through soundproof glass, and crisp contemporary lighting paints every corner in an eloquent dance of shadow and radiance. Mirrored walk-in closets and thoughtful features complement the eco-friendly design ethos.",
+  "neighborhood_description": "Set within the Suburb of Nowy Sacz, life unfolds at its own relaxed pace among lush green landscapes. Tree-lined walkways trace their arcs toward the ever-glistening nearby waterfront, inspiring notable tranquility for study breaks or weekend discoveries. Neighbors share a love of open skies and peaceful retreats, and the convenient highway access ensures connection isn\u2019t far for those venturing to campus or city moments.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 179,
+  "property_type": "duplex",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1380000,
+  "key_features": [
+    "rainwater collection system",
+    "children's playground area",
+    "modern lighting system",
+    "soundproof walls",
+    "walk-in closet"
+  ],
+  "lifestyle_benefits": [
+    "peaceful environment, perfect for concentration",
+    "working and relaxing space for group projects",
+    "serenity by the waterfront",
+    "easy highway access to universities and city attractions",
+    "communal playground for outdoor relief"
+  ],
+  "target_buyer": "Ideal for creative students\u2014both individuals and groups\u2014seeking an inspiring, spacious living environment with green surroundings and easy escape to nature from their studies.",
+  "market_positioning": "Positioned as a unique opportunity within a protected suburban market, this duplex speaks to modern student lifestyles by merging eco-conscious living and recreational amenities unseen at this price point in Nowy Sacz\u2019s green belt."
+}

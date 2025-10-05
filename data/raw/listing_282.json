@@ -1,0 +1,34 @@
+{
+  "title": "Timeless Historic House with Elegant Modern Comforts in Zatorze",
+  "description": "Step into classic elegance with this beautifully renovated three-bedroom house in historic Zatorze. Flooded with natural light from its panoramic windows, the home features warm hardwood floors throughout and two stylishly appointed bathrooms. Blending historic character with modern convenience, you'll savor peaceful moments in the charming shared courtyard or unwind in the on-site sauna. Secure 24/7 surveillance and elevator access to all main levels emphasize comfort and, safety in equal measure.",
+  "neighborhood_description": "Located in Leszno\u2019s vibrant Zatorze, this property lies within a cultural district revered for its relaxed pace, good access to major highways, and an overall family-friendly vibe. Stroll to cozy local cafes, artisan shops, and cultural venues, with public transportation just steps from your door. It's an ideal setting for young couples who appreciate urban amenities without forsaking tranquility.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 140,
+  "property_type": "house",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1125000,
+  "key_features": [
+    "panoramic windows",
+    "hardwood floors",
+    "shared sauna",
+    "24/7 security",
+    "elevator access",
+    "shared courtyard"
+  ],
+  "lifestyle_benefits": [
+    "Enjoy cultural amenities and relaxed living",
+    "Ideal for gatherings in spacious communal courtyard",
+    "Easy highway and city access for effortless commute",
+    "Secure environment perfect for city newcomers",
+    "Blend of historic charm with modern lifestyles"
+  ],
+  "target_buyer": "Young couples seeking classic charm blended with modern conveniences in a lively, yet restful neighborhood.",
+  "market_positioning": "This house occupies a sweet spot in Zatorze\u2019s mid-to-upper-tier housing market, offering unique historic details combined with sought-after modern features, making it especially appealing to style-conscious, aspiring homeowners prioritizing tradition and community."
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Luxurious Four-Bedroom Apartment in Plock\u2019s Tranquil Radziwie District",
+  "description": "Experience uncompromising comfort in this elegant 135 sqm apartment, thoughtfully designed for modern luxury and functionality. Four spacious bedrooms and two sparkling bathrooms complement a brilliant dining area bathed in natural light. Quality finishes and contemporary touches abound in the expansive living spaces, creating an atmosphere fit for both relaxation and refined entertaining. Private, secure parking and a sustainable rainwater collection system further elevate the premium experience.",
+  "neighborhood_description": "Nestled within the quiet, community-focused neighborhood of Radziwie, this residence affords true suburban calm while maintaining easy access to Plock's urban amenities. Lush parks and leafy playgrounds border the area, perfect for morning jogs or afternoon strolls, lending an enviable sense of serenity. Excellent public transport links and convenient highway access guarantee efficient connectivity for both local and regional commutes.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 135,
+  "property_type": "apartment",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1200000,
+  "key_features": [
+    "private parking space",
+    "spacious dining area with natural light",
+    "rainwater collection system",
+    "modern designer finishes",
+    "landscaped surroundings"
+  ],
+  "lifestyle_benefits": [
+    "quiet work-from-home environment",
+    "close-knit community setting",
+    "proximate to green spaces",
+    "ideal for professional gatherings",
+    "peaceful and upscale ambiance"
+  ],
+  "target_buyer": "Ambitious entrepreneurs and discerning professionals who value sustainability, tranquility, and sophisticated living with swift city connectivity.",
+  "market_positioning": "A rare premium offering in Plock\u2019s Radziwie district, catering to high-achieving individuals seeking understated elegance, contemporary creature comforts, and a strategic suburban retreat within quick reach of energetic business and social hubs."
+}

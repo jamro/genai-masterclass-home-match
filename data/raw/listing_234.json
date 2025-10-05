@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Chic 3-Bedroom Apartment with Modern Touches in Dynamic Zatorze",
+  "description": "Experience green urban living in this contemporary 3-bedroom, 2-bathroom apartment situated in a modern building in the heart of Leszno's energetic Zatorze neighborhood. Boasting 92 sqm of thoughtfully designed living space, the apartment features an inviting fireplace, ideal for cozy evenings, a shared sauna for relaxing after a busy day, and a dedicated storage locker to keep your living space uncluttered. Floor-to-ceiling windows bring in abundant natural light while sustainable finishes emphasize mindful luxury.",
+  "neighborhood_description": "Located near the business district, Zatorze combines a trendy, dynamic vibe with a relaxed pace of life. Residents enjoy easy access to vibrant shopping and dining options just steps from the apartment. With strong public transport and proximity to the highway, getting around the city or commuting is smooth and convenient.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 92,
+  "property_type": "apartment",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 795000,
+  "key_features": [
+    "shared sauna",
+    "fireplace",
+    "dedicated storage locker",
+    "eco-friendly finishes",
+    "spacious living room",
+    "open-concept kitchen"
+  ],
+  "lifestyle_benefits": [
+    "walk to restaurants and shops",
+    "relaxation amenities",
+    "low maintenance lifestyle",
+    "easy urban commuting"
+  ],
+  "target_buyer": "Ideal for young couples or professionals seeking an eco-conscious, stylish living environment with modern comforts and easy access to city conveniences.",
+  "market_positioning": "This apartment offers above-average amenities for its price point in Zatorze, standing out with its blend of eco-friendly design and proximity to both the business district and leisure activities."
+}

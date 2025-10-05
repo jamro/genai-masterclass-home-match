@@ -1,0 +1,38 @@
+{
+  "title": "Bright Family Duplex with Garden in Tech-Friendly Stare Miasto",
+  "description": "Step into this spacious four-bedroom, three-bathroom duplex, designed for contemporary living and optimum comfort. With an airy open floor plan, layered light from floor-to-ceiling windows, and stylish interiors, the home offers generous communal areas as well as private retreats for work and relaxation. The luxurious guest bathroom, landscaped surroundings, and a dedicated barbecue zone make it an entertainer\u2019s delight. Every detail is thought through \u2013 from high-speed internet connections for remote work to generous storage and relaxing terraces.",
+  "neighborhood_description": "Live at the heart of Poznan in Stare Miasto\u2014a vibrant district weaving together centuries-old street life with the city\u2019s fast-moving tech culture. Abundant public transport and extensive bike lines put caf\u00e9s, bakeries, co-working hubs, and retail playgrounds at your fingertips. The area exudes a pet-friendly, community-driven spirit and boasts parks perfect for morning runs or afternoon walks. ",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 172,
+  "property_type": "duplex",
+  "city": "Poznan",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1445000,
+  "key_features": [
+    "four bedrooms",
+    "three contemporary bathrooms, including guest bath",
+    "open floor plan",
+    "landscaped garden and barbecue area",
+    "high-speed internet",
+    "floor-to-ceiling windows",
+    "private storage room",
+    "outdoor terrace",
+    "pet-friendly architecture",
+    "proximity to shopping and dining"
+  ],
+  "lifestyle_benefits": [
+    "designed for digital nomads or those working remotely",
+    "close to tech hubs and coworking spaces",
+    "family and pet-welcoming neighborhood",
+    "walkable access to parks and historic sights",
+    "vibrant dining/retail scene nearby"
+  ],
+  "target_buyer": "Ideal for digital nomads, tech professionals, creative families, or anyone looking for a dynamic base with flexible work from home setups and space to grow.",
+  "market_positioning": "Well-positioned above standard market offerings for centrally located duplexes\u2014unique blend of historical urban energy and family-home comfort, modernized for today\u2019s work/life balance trends."
+}

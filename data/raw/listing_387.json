@@ -1,0 +1,33 @@
+{
+  "title": "Bright Studio Retreat with Scandinavian Simplicity in \u017boliborz",
+  "description": "Experience minimalist elegance in this carefully designed studio apartment. This 31 sqm space delivers brightness and functionality, with an open-plan living area, an inviting fireplace, and a well-appointed ensuite bathroom. Thoughtfully crafted finishes merge comfort and simplicity. The shared sauna in the building offers relaxation after urban adventures.",
+  "neighborhood_description": "\u017boliborz combines lively urban energy with effortless access to some of Warsaw\u2019s best parks and playgrounds. Coveted for its family-friendly vibe and robust amenities, the area is perfect for those valuing community alongside convenience. Commuters love quick public transit options and plentiful bike lines.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 31,
+  "property_type": "studio",
+  "city": "Warsaw",
+  "neighborhood": "\u017boliborz",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 439000,
+  "key_features": [
+    "shared sauna",
+    "fireplace",
+    "ensuite bathroom",
+    "open-plan living",
+    "minimalist Scandinavian design"
+  ],
+  "lifestyle_benefits": [
+    "walking distance to parks and playgrounds",
+    "integrated family-centric spaces",
+    "healthy active lifestyle outdoors",
+    "dynamic neighborhood atmosphere"
+  ],
+  "target_buyer": "Ideal for a young family with a child seeking an urban starter home, or couples looking for a cozy yet vibrant residence with easy access to green spaces.",
+  "market_positioning": "A rare opportunity to secure a perfectly-located, family-friendly studio in Warsaw\u2019s desirable \u017boliborz, standing out for its modern interiors and communal wellness features in an area known for both upscale culture and community spirit."
+}

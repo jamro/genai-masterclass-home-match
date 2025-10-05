@@ -1,0 +1,32 @@
+{
+  "title": "Charming Retreat: Spacious 4-Bedroom Family Home in Rynek, Kazimierz Dolny",
+  "description": "Nestled in historical Rynek, this beautifully appointed 4-bedroom house offers a perfect blend of modern comfort and classic charm. With a spacious layout of 198 sqm and three meticulously finished bathrooms, it\u2019s ideal for families or those seeking a peaceful lifestyle. Elegant soundproof walls ensure serenity throughout the home, while abundant natural light brightens every room. Eco-friendly living is at the forefront with solar panels and an EV charging station integrated into the property.",
+  "neighborhood_description": "Located in Kazimierz Dolny's picturesque Rynek neighborhood, you'll enjoy the tranquility of an intimate and close-knit community. Despite the town\u2019s tranquil character, easy access to main highways provides convenient connections to surrounding areas and nearby cities. Residents appreciate charming local shops and delightful dining options, with relaxing city life just beyond the doorstep.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 198,
+  "property_type": "house",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1880000,
+  "key_features": [
+    "soundproof walls",
+    "solar panels",
+    "EV charging station",
+    "spacious garden",
+    "modern kitchen",
+    "garage with extra storage"
+  ],
+  "lifestyle_benefits": [
+    "enjoy peaceful, country-style living",
+    "low utility bills with green technologies",
+    "walking distance to local cafes and galleries",
+    "relax in generous private garden"
+  ],
+  "target_buyer": "Perfect for retirees seeking an active yet peaceful lifestyle, as well as families valuing green space and calm surroundings.",
+  "market_positioning": "This property stands out as a unique blend of sustainability and comfort in Kazimierz Dolny\u2014offering high-quality finishes and energy-efficient living in an enchanting, low-urban enclave."
+}

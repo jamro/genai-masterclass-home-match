@@ -1,0 +1,34 @@
+{
+  "title": "Exquisite Duplex Haven with Private Garden in Ligota",
+  "description": "Luxury meets comfort in this beautifully crafted duplex nestled in the heart of Ligota, Katowice. Boasting 3 spacious bedrooms and 3 contemporary bathrooms spread across 172 sqm, this property offers an oasis of tranquility with premium, modern finishes. The open-concept living area seamlessly flows onto patio doors leading to a lush private garden, ideal for quiet evenings or stylish entertaining. A heated driveway elevates the convenience and elegance, while dedicated bicycle storage complements an active lifestyle.",
+  "neighborhood_description": "Ligota is a growing, family-friendly neighborhood known for its welcoming community atmosphere and proximity to extensive parks and playgrounds. The area offers excellent connectivity via public transport and major highway access, perfect for commuters and those who value seamless mobility. Daily amenities, reputable schools, and boutique cafes round out Ligota\u2019s unique blend of urban comfort and suburban calm.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 172,
+  "property_type": "duplex",
+  "city": "Katowice",
+  "neighborhood": "Ligota",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1490000,
+  "key_features": [
+    "patio doors opening to garden",
+    "bicycle storage",
+    "heated driveway",
+    "premium fittings",
+    "dedicated laundry room",
+    "designer lighting"
+  ],
+  "lifestyle_benefits": [
+    "long-term stability",
+    "quiet private garden retreat",
+    "access to green spaces and playgrounds",
+    "family-oriented environment",
+    "excellent connectivity for commuters"
+  ],
+  "target_buyer": "Ideal for long-term renters searching for a premium address offering security, peace, and immediate access to both city conveniences and green recreational areas.",
+  "market_positioning": "Positioned in the premium segment of Ligota\u2019s real estate market, this iconic duplex stands out for its impeccable quality and lifestyle-centric design, commanding attention among high-demand properties sought after by discerning, stability-focused families and professionals."
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Skyline Serenity Studio in Bronowice \u2013 Premium Retirement Retreat",
+  "description": "Experience refined luxury in this elegant 35 sqm studio designed for comfort, peace, and style. Bathed in natural light, it features a private balcony with scenic mountain views and a walk-in closet for sophisticated storage. Modern fixtures, soundproof walls, and premium finishes ensure unmatched tranquility.",
+  "neighborhood_description": "Nestled in the sought-after Bronowice district, you\u2019re minutes from Krakow\u2019s vibrant city center yet surrounded by tranquility and breathtaking vistas of the mountains. The neighborhood boasts countless amenities, green open spaces, and proximity to convenient transport options, blending urban access with peaceful suburban charm.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 35,
+  "property_type": "studio",
+  "city": "Krakow",
+  "neighborhood": "Bronowice",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway",
+    "airport"
+  ],
+  "price": 520000,
+  "key_features": [
+    "bicycle storage",
+    "balcony",
+    "walk-in closet",
+    "soundproof walls",
+    "residents' lounge",
+    "recycling facilities"
+  ],
+  "lifestyle_benefits": [
+    "peaceful environment perfect for retirees",
+    "effortless access to both city life and green areas",
+    "secure and inclusive community atmosphere",
+    "close proximity to mountain walks and bike trails"
+  ],
+  "target_buyer": "Ideal for discerning retirees seeking luxury living with the convenience of city amenities and the calm of a serene, scenic neighborhood.",
+  "market_positioning": "A high-end, exclusive studio offering rare mountain views, exceptional tranquility, and curated amenities; truly a premiere choice for the retiree buyer looking for comfort and prestige in a well-connected Krakow location."
+}

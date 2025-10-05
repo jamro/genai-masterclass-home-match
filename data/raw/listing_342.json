@@ -1,0 +1,31 @@
+{
+  "title": "Modern Urban Duplex in the Vibrant Stare Miasto",
+  "description": "This stylish duplex in Poznan's Stare Miasto offers four spacious bedrooms and three sleek, contemporary bathrooms across 136 square meters. The property is designed for comfort and functionality, boasting a modern kitchen seamlessly integrated into an open-plan living space, perfect for socializing or relaxing after work. With north-facing windows, expect plenty of natural light and cityscape views.",
+  "neighborhood_description": "Located in the sought-after Stare Miasto neighborhood, this premium address offers unbeatable access to Poznan\u2019s lively business district, trendy eateries, and bike-friendly streets. Regular public transport connections keep you close to everything the city has to offer, and highway access is just minutes away\u2014making life easy, whether you bike to the office or commute further afield.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 136,
+  "property_type": "duplex",
+  "city": "Poznan",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1450000,
+  "key_features": [
+    "residents' lounge",
+    "reception desk",
+    "modern kitchen",
+    "private storage locker"
+  ],
+  "lifestyle_benefits": [
+    "ideal for long-term professionals",
+    "quiet and secure entry",
+    "space to work from home",
+    "vibrant city living with convenience"
+  ],
+  "target_buyer": "Ideal for young urban professionals or relocators seeking a secure, well-managed long-term rental in the heart of Poznan.",
+  "market_positioning": "A rare opportunity for lasting stability in one of Poznan\u2019s most exclusive city center addresses, offering spacious modern design and community amenities at an attractive price point for its location and features."
+}

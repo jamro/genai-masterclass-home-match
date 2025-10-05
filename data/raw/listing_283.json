@@ -1,0 +1,33 @@
+{
+  "title": "Loft Living with Historic Charm in Oltaszyn",
+  "description": "Step into this beautifully converted loft in Oltaszyn, where original architectural touches blend seamlessly with modern convenience. With three inviting bedrooms and two bathrooms arranged across a generous 112 sqm floor plan, this home offers flexible living ideal for a vibrant lifestyle. Soft brick walls, sweeping ceilings, and oversized windows characterize the living spaces, filling the loft with natural light and a sense of historic presence.",
+  "neighborhood_description": "Oltaszyn is a charming, medium-urban neighborhood, prized for its close-knit community and proximity to Wroclaw city center. Walk tree-lined streets steeped in history, and enjoy cafes, vibrant parks, and essential amenities nearby. The area's highway access makes commutes throughout the city and beyond refreshingly quick and easy.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 112,
+  "property_type": "loft",
+  "city": "Wroclaw",
+  "neighborhood": "Oltaszyn",
+  "urban_level": "medium",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1270000,
+  "key_features": [
+    "heated driveway",
+    "shared courtyard",
+    "residents' lounge",
+    "recycling facilities",
+    "co-working space",
+    "oversized historic windows"
+  ],
+  "lifestyle_benefits": [
+    "perfect for group living or students",
+    "authentic loft experience in historic setting",
+    "community spirit fostered through shared amenities",
+    "quick access to city center",
+    "ample study and work-from-home options"
+  ],
+  "target_buyer": "Ideal for students, young professionals, or groups seeking a stylish home base in a dynamic residential area with historical flair, collaborative spaces, and easy access to university life.",
+  "market_positioning": "This exceptional loft stands out as a rare find in the Oltaszyn market: historic atmosphere meets modern amenities, perfectly suited for buyers valuing both old-world charm and community-friendly, flexible living arragements just moments from central Wroclaw."
+}

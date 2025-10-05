@@ -1,0 +1,37 @@
+{
+  "title": "Elegant Designer Duplex in Exclusive Oliwa \u2013 Perfect for the Modern Professional",
+  "description": "Step into refined urban living with this exceptional duplex nestled in the heart of Gdansk\u2019s prestigious Oliwa district. Generously spanning 150 sqm, this residence boasts four spacious bedrooms and two modern bathrooms, custom tailored for luxury, comfort, and functionality. An open-concept living zone, drenched in sunlight, flows seamlessly onto a private balcony and lush garden retreat via expansive patio doors. Exquisite hardwood flooring and premium finishes impart an effortlessly stylish ambiance throughout.",
+  "neighborhood_description": "Situated in vibrant Oliwa, this address exudes a balanced mix of energy and tranquility, favored for its dynamic community of professionals and digital nomads. The area benefits from swift public transport, extensive bike lanes, and nearby highway access, enabling easy commutes across Gdansk and Tricity. Oliwa\u2019s tree-lined avenues host artisan caf\u00e9s, coworking hubs, and cultural venues that nurture inspiration and connectivity.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 150,
+  "property_type": "duplex",
+  "city": "Gdansk",
+  "neighborhood": "Oliwa",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1620000,
+  "key_features": [
+    "open floor plan",
+    "hardwood floors",
+    "balcony",
+    "patio doors opening to garden",
+    "automatic gate",
+    "designer fixtures",
+    "spacious storage",
+    "high-performance internet"
+  ],
+  "lifestyle_benefits": [
+    "walkable vibrant neighborhood",
+    "close to coworking spaces and cafes",
+    "private outdoor relaxing areas",
+    "fullscreen connectivity for smart working",
+    "unique community atmosphere"
+  ],
+  "target_buyer": "Discerning digital nomads or entrepreneurial professionals seeking a premium urban base blending stylish interiors with the ultimate work-life balance. From flexible work-from-home options to community engagement, this home suits those prioritizing connectivity and inspiration.",
+  "market_positioning": "A top-tier property within Gdansk, this luxury duplex adds exceptional value through combining contemporary elegance, premier location, and strategic lifestyle benefits for digital-first urbanites. Competitive within Oliwa\u2019s elite market, offering space, features, and connectivity rare at this price point."
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Minimalist Scandinavian Duplex with Green Horizon Views",
+  "description": "This spacious Scandinavian-inspired duplex offers 3 generous bedrooms and 2 contemporary bathrooms across 128 sqm, thoughtfully designed for comfort and style. Natural light floods every room, highlighting sleek finishes and open living spaces. Underfloor heating and a modern fireplace elevate warmth and ambience. Smart home features discreetly enhance daily routines, while direct access to a private barbecue zone allows relaxation outdoors with ease.",
+  "neighborhood_description": "Nestled in 'Suburb', Pila's serene outskirt, the property enjoys green surroundings and winding walking paths in an eco-conscious, family-friendly vicinity. Residents here appreciate quiet neighborhoods, modern homes, and a welcoming ethos\u2014yet connectivity to the city is quick with direct highway access. Trends in sustainable living and community events make Suburb a dynamic yet peaceful place to call home.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 128,
+  "property_type": "duplex",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1570000,
+  "key_features": [
+    "recycling facilities",
+    "fireplace",
+    "underfloor heating",
+    "barbecue zone",
+    "smart home system",
+    "pets allowed"
+  ],
+  "lifestyle_benefits": [
+    "quiet surroundings for focused work or leisure",
+    "play area potential for families and pets",
+    "immediate access to natural walkways and parks",
+    "connectivity via highway for commuters",
+    "belonging to an eco-conscious and friendly community"
+  ],
+  "target_buyer": "Ideal for professionals or young families seeking a stylish, energy-efficient home with good highway access\u2014a tranquil retreat with easy commute options.",
+  "market_positioning": "Positioned as a high-quality, minimalist residence in green-lightly urbanized surroundings, this duplex appeals to buyers valuing low-maintenance living, design, and fast city connectivity amid nature."
+}

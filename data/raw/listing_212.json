@@ -1,0 +1,36 @@
+{
+  "title": "Minimalist Loft Living in Vibrant \u017boliborz",
+  "description": "Experience refined simplicity in this Scandinavian-inspired loft offering clean lines, abundant light, and smart use of space. Featuring one cozy bedroom seamlessly integrated with open-plan living, the home includes two modern bathrooms and clever storage solutions throughout. High ceilings and expansive windows invite the outdoors in, while refined finishes echo minimalist aesthetics. Ideal for those valuing quality over clutter, the property sets a calm, airy tone in the heart of the city.",
+  "neighborhood_description": "Located in the beloved \u017doliborz district, this loft is moments from leafy parks, lively local shops, bakeries, and cafes. With a strong sense of community and pet-friendly spaces, the area strikes a perfect balance between urban energy and relaxed, neighborly charm. Exceptional public transport and bike lanes make getting around Warsaw simple and efficient.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 63,
+  "property_type": "loft",
+  "city": "Warsaw",
+  "neighborhood": "Zoliborz",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1380000,
+  "key_features": [
+    "reception desk",
+    "landscaped surroundings",
+    "co-working space",
+    "high ceilings",
+    "large windows",
+    "modern fitted kitchen",
+    "two modern bathrooms"
+  ],
+  "lifestyle_benefits": [
+    "walkable to cafes and local shops",
+    "immediate access to parks",
+    "pet-friendly environment",
+    "connection to a vibrant creative community",
+    "space to work from home"
+  ],
+  "target_buyer": "Ideal for young couples seeking a contemporary, low-maintenance home with access to green spaces, vibrant urban life, and community amenities.",
+  "market_positioning": "A rare, stylish loft offering in sought-after \u017boliborz, blending modern minimalist design with functional amenities, positioned as a premium choice for buyers seeking exclusivity and integrated urban living in Warsaw's green quarter."
+}

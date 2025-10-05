@@ -1,0 +1,34 @@
+{
+  "title": "Eco-Smart 5-Bedroom Family Home in Krakow's Innovative Debniki",
+  "description": "Welcome to a spacious, energy-efficient house designed for modern living in tech-friendly Debniki. This contemporary residence boasts 5 bright bedrooms, 2 stylish bathrooms, and a welcoming open floor plan that encourages both connection and autonomy. Large floor-to-ceiling windows bring in natural light, while sustainable materials showcase a curated eco-conscious charm across 216 sqm. With an underground garage and direct access to a shared courtyard, ideal for family gatherings or personal relaxation, this home is purpose-built for comfort and versatility.",
+  "neighborhood_description": "Set in vibrant Debniki, you'll find a perfect balance of convenience and tranquility. The neighborhood features a growing tech community, charming cafes, local dining, and plentiful options for shopping, all easily reachable by public transit or on bike-friendly routes. Green spaces, nearby playgrounds, and scenic cycling paths create an environment primed for active, outdoor-centric living.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 216,
+  "property_type": "house",
+  "city": "Krakow",
+  "neighborhood": "Debniki",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1550000,
+  "key_features": [
+    "underground garage",
+    "energy-efficient building",
+    "open floor plan",
+    "shared courtyard",
+    "children's playground area"
+  ],
+  "lifestyle_benefits": [
+    "Perfect for digital nomads needing modern connectivity",
+    "Secure communal spaces for socializing or working",
+    "Close to tech hubs and innovation centers",
+    "Seamless city access via bikes and transit",
+    "Parks and healthy restaurants around the corner"
+  ],
+  "target_buyer": "Ideal for digital nomads and eco-minded families seeking a spacious, low-maintenance environment fusing work and active leisure, with simple access to Krakow\u2019s tech industry and excellent transport links.",
+  "market_positioning": "A rare offering in Debniki\u2014this house delivers premium value through sustainability, modern design, and connectivity in a neighborhood increasingly popular with dynamic professionals and families."
+}

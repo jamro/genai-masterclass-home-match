@@ -1,0 +1,33 @@
+{
+  "title": "Contemporary Family Duplex Retreat in the Heart of Zatorze",
+  "description": "Step inside this sophisticated 145 sqm duplex, infused with light and the spirit of modern living. Designed with families in mind, the home boasts four harmonious bedrooms, two elegant bathrooms, and architectural flair throughout its spacious, flexible layout. A sleek, dedicated co-working nook serves remote working needs, while private walk-in closets promise practical luxury. Design details fuse comfort and convenience, creating a space that's both a retreat and a creative hub.",
+  "neighborhood_description": "Nestled in Zatorze, Leszno\u2019s lively center for work and play, this home enjoys closeness to reputable schools, diverse leisure amenities, and the city's burgeoning business district. Sidewalks buzz with families and furry companions, reflecting a pet-friendly spirit and sense of community pride. With both public transport and highway access moments away, your day unfolds effortlessly, wherever it takes you.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 145,
+  "property_type": "duplex",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1320000,
+  "key_features": [
+    "modern duplex layout",
+    "co-working space",
+    "fitness center access",
+    "private parking slot",
+    "large walk-in closet",
+    "spacious living area"
+  ],
+  "lifestyle_benefits": [
+    "family-friendly community",
+    "convenient business district proximity",
+    "pet-friendly area",
+    "easy commute"
+  ],
+  "target_buyer": "Perfect for modern families with children who seek generous spaces, convenience, and dedicated work-from-home capacity, all in a dynamic, child- and pet-friendly environment.",
+  "market_positioning": "This property stands out in Zatorze\u2019s family-oriented market by offering a rare blend of modern design and work-life flexibility just steps from urban business and social amenities, providing significant value at a competitive price point."
+}

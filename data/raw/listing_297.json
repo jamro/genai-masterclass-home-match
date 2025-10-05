@@ -1,0 +1,31 @@
+{
+  "title": "Modern Eco Studio Apartment with Private Parking in Zatorze",
+  "description": "This sun-filled studio in Leszno's vibrant Zatorze neighborhood blends comfort, style, and eco-conscious living. A contemporary single-bedroom layout optimizes space (32 sqm), highlighted by an open living area and integrated kitchen featuring energy-efficient appliances. Large windows promote natural light while triple-glazed, energy-saving windows keep heating bills low. The private parking space and integrated rainwater collection system set it apart for sustainability and convenience.",
+  "neighborhood_description": "Zatorze offers medium urban comfort, mixing historic charm with access to valuable modern assets. Steps away from the local business district, caf\u00e9s, and reputable schools, the area is both dynamic and practical. Convenient public transport connections and quick highway access make traveling throughout Leszno smooth, suiting young professionals and first-time homeowners alike.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 32,
+  "property_type": "studio apartment",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 387000,
+  "key_features": [
+    "private parking space",
+    "fitness center access",
+    "rainwater collection system",
+    "triple-glazed energy-efficient windows"
+  ],
+  "lifestyle_benefits": [
+    "minimal utility costs",
+    "modern open-concept living",
+    "sustainable green features",
+    "convenient city access"
+  ],
+  "target_buyer": "This property is ideal for eco-conscious first-time buyers looking for urban access on a manageable budget\u2014professionals, students, or anyone seeking a modern and green-centric city home.",
+  "market_positioning": "Outstanding value for a sustainable studio in Leszno's resurgent Zatorze area. Perfectly blends affordability with key eco-friendly features rarely found at this price point."
+}

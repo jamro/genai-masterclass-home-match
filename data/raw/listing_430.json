@@ -1,0 +1,35 @@
+{
+  "title": "Stylish Modern House with Private Garden in Trendy Krzyki",
+  "description": "Introducing a contemporary house that offers both style and comfort in the heart of Wroclaw's Krzyki neighborhood. Spanning 157 sqm, the home features an open floor plan bathed in natural light, three spacious bedrooms, and three sleek bathrooms. Highlights include a walk-in closet in the primary suite and direct access to a inviting private garden\u2014perfect for indoor-outdoor living and entertaining. Enjoy a space brimming with modern detail, large windows, and welcoming spaces geared for today\u2019s dynamic lifestyle.",
+  "neighborhood_description": "Krzyki is one of Wroclaw's most sought-after neighborhoods, revered for its trendy, vibrant atmosphere and growing array of stylish restaurants and shops. Residents enjoy easy access to public transport, safe bike lines, and quick connections to the city via nearby highways. With multiple local parks, cafes, and boutique retail options, Krzyki is perfect for those looking for both convenience and genuine urban energy.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 157,
+  "property_type": "house",
+  "city": "Wroclaw",
+  "neighborhood": "Krzyki",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1390000,
+  "key_features": [
+    "open floor plan",
+    "modern kitchen",
+    "three bedrooms",
+    "three bathrooms",
+    "walk-in closet",
+    "private garden",
+    "energy-efficient windows"
+  ],
+  "lifestyle_benefits": [
+    "urban living with green space",
+    "close to shopping and dining",
+    "great commuting options",
+    "pet-friendly layout"
+  ],
+  "target_buyer": "Ideal for young couples or urban professionals seeking a stylish home with vibrant city life and relaxing private garden spaces.",
+  "market_positioning": "This house strikes the perfect balance between urban connectivity and peaceful home retreat, outshining local apartments with generous garden space and thoughtful modern interiors, all at a compelling mid-range market price."
+}

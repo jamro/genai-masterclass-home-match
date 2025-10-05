@@ -1,0 +1,32 @@
+{
+  "title": "Charming Duplex Haven in Kazimierz Dolny\u2019s Lively Rynek",
+  "description": "Step into this enchanting three-bedroom duplex in the heart of Kazimierz Dolny\u2019s famed Rynek. With 155 sqm of flexible open floor plan, the sun-flooded dining area envelops guests in natural artistic light. All three bathrooms are elegantly arranged to provide privacy and convenience over the two vibrant levels. Unique architectural elements blend the town\u2019s historic charm with modern comforts, ready to welcome both relaxing family evenings and lively social gatherings.",
+  "neighborhood_description": "Rynek, the pulse of Kazimierz Dolny, is imbued with a spirited local vibe while offering tranquil corners and timeless market square views. From engaging local caf\u00e9s and artisan shops to evening strolls among cobblestone alleys, this low-urban density neighborhood promises a harmonious, balanced lifestyle just steps from the city\u2019s social heart. Nearby highway access makes exploring the greater region effortless.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 155,
+  "property_type": "duplex",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1420000,
+  "key_features": [
+    "bright dining area bathed in natural light",
+    "open floor plan",
+    "three bathrooms across two levels",
+    "historic architectural details",
+    "pet-friendly design",
+    "shopping and dining just steps away"
+  ],
+  "lifestyle_benefits": [
+    "ample pet space with outdoor escapes close by",
+    "proximity to green and social spaces",
+    "vibrant community life mixed with peace and privacy",
+    "flexible interiors for family or creative work-live spaces"
+  ],
+  "target_buyer": "Perfect for artistic souls and families with pets, seeking harmony between culture, tranquility, and regional adventure.",
+  "market_positioning": "A rare offering for those eager to immerse in Kazimierz Dolny\u2019s inspiring creative scene, while enjoying contemporary comfort and practical access to main travel routes."
+}

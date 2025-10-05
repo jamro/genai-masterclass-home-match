@@ -1,0 +1,36 @@
+{
+  "title": "Artful Eco-Haven: Neo-Bohemian Five Bedroom House in Nadodrze",
+  "description": "Tucked behind wildflower hedges, this sun-filled house balances old-world Nadodrze charm with modern, eco-minded design. Five spacious bedrooms and three sumptuous bathrooms offer sanctuary for family or creative living. Wide-plank hardwood floors connect luminous, airy rooms, featuring a co-working space for innovation mornings, and acoustically engineered walls for peace at day\u2019s end. Thoughtfully stewarded by careful hands, every detail exudes warmth and quiet ingenuity.",
+  "neighborhood_description": "Surround yourself with Nadodrze\u2019s boho-tinged serenity\u2014a district famed for artisan cafes, family playgrounds, and its tree-lined promenade. Ride leafy bike lanes to markets or let little feet amble to local ateliers; relaxed afternoons and lively street murals form the acoustic backdrop of life here. Seamless tram access connects you to all of Wroclaw, blending neighborhood calm with city vibrancy.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 212,
+  "property_type": "house",
+  "city": "Wroclaw",
+  "neighborhood": "Nadodrze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1890000,
+  "key_features": [
+    "Heated driveway",
+    "Co-working space",
+    "Soundproof walls",
+    "Walk-in closet",
+    "Premium hardwood floors",
+    "Solar water heating",
+    "Triple-glazed eco-windows",
+    "Close to public transport and tram stations"
+  ],
+  "lifestyle_benefits": [
+    "Low energy costs thanks to smart insulation and renewable panels",
+    "Flexible home/work flow for creative families or remote collaboration",
+    "Safe nestled gardens, perfect for pets and children",
+    "Walkability to everywhere: culture, cafes, schools",
+    "Minimalist, sustainable living meets architectural comfort"
+  ],
+  "target_buyer": "Ideally suited to eco-conscious families or professionals seeking abundant living space and the ease of mixed home/work life. Those who dream of a nurturing, creatively inspired urban environment with green touches will feel at home.",
+  "market_positioning": "Distinctively set in midmarket Wroclaw, this property competes by championing sustainability, workspace flexibility, and that blend of urban connection and restful everyday ambiance that Nadodrze embodies."
+}

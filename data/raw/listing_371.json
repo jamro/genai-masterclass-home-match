@@ -1,0 +1,32 @@
+{
+  "title": "Contemporary Studio Living in Poznan\u2019s Artistic Wilda District",
+  "description": "Step into a stylish and efficiently designed studio apartment in one of Poznan\u2019s most inspiring neighborhoods. With 31 sqm of thoughtfully planned space, this studio boasts a bright open plan, an ensuite bathroom, and modern finishes throughout. Sliders open onto a private balcony, while the property also includes a dedicated storage locker for extra convenience. Solar panels make for energy-smart living\u2014future-focused and easy on utilities.",
+  "neighborhood_description": "Wilda is celebrated for its vibrant local life and blossoming artistic community, enveloped by cozy caf\u00e9s, eclectic shops, and dining options right outside your door. Despite its lively atmosphere, quiet pocket streets make it a haven after busy work days. Residents enjoy easy access to public transport and bike lanes, connecting seamlessly to the city's business hubs and creative spaces.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 31,
+  "property_type": "studio apartment",
+  "city": "Poznan",
+  "neighborhood": "Wilda",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 458000,
+  "key_features": [
+    "ensuite bathroom",
+    "solar panels",
+    "private balcony",
+    "storage locker",
+    "EV charging station (shared)"
+  ],
+  "lifestyle_benefits": [
+    "perfect for remote work",
+    "urban-yet-peaceful setting",
+    "walkable to shopping and dining",
+    "bijou community vibe"
+  ],
+  "target_buyer": "Ideal for young professionals or remote workers seeking their own private launchpad packed with modern amenities, style, and community spirit.",
+  "market_positioning": "This is a top choice for those prioritizing location, energy efficiency, and lifestyle accessibility, delivering unbeatable value in Poznan\u2019s Wilda\u2014for owners looking to live, work, and connect in one unique place."
+}

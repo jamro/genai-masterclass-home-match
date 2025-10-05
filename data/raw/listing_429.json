@@ -1,0 +1,35 @@
+{
+  "title": "Prestige Urban Villa in Lively Ligota, Katowice",
+  "description": "Step into a luxurious, energy-efficient modern house nestled in the vibrant heart of Ligota. The residence offers a grand 195 sqm of flawlessly designed living space, featuring three spacious bedrooms, two elegant bathrooms, and a dedicated co-working area ideal for entrepreneurs seeking comfort and productivity at home. Immaculately maintained and securely fenced, the property exudes privacy with round-the-clock security ensuring peace of mind for discerning residents. Expansive windows and refined interiors invite a sense of luxury living befitting a new class of city dweller.",
+  "neighborhood_description": "Ligota is known for its harmonious blend of sparkling urban energy and a distinct, bike-friendly spirit. The neighborhood boasts a surging caf\u00e9 scene, lush parks for recreation, and seamless access to Katowice\u2019s public transport and key highways\u2014a true haven for modern entrepreneurs. Whether meeting clients or exploring leisure venues, you are perfectly positioned amidst premium business conveniences and lively street culture.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 195,
+  "property_type": "house",
+  "city": "Katowice",
+  "neighborhood": "Ligota",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1750000,
+  "key_features": [
+    "fenced yard",
+    "co-working space",
+    "energy-efficient building",
+    "24/7 security",
+    "spacious open-plan living",
+    "premium interior finishes",
+    "high-speed fiber internet"
+  ],
+  "lifestyle_benefits": [
+    "ideal for remote work and business meetings",
+    "promotes a healthy work-life balance",
+    "close proximity to business centers",
+    "safe and secure community",
+    "access to vibrant dining and leisure avenues"
+  ],
+  "target_buyer": "Visionary entrepreneurs or executives seeking a high-caliber, secure, and flexible living & working environment in a dynamic neighborhood.",
+  "market_positioning": "This property stands proudly in the premium segment, delivering an unparalleled, all-in-one luxury lifestyle addressing the evolving needs of modern entrepreneurs. Its strategic combination of residential opulence and functional co-working spaces provides rare value, with strong appreciation potential given Ligota\u2019s public transit connections and urban resurgence."
+}

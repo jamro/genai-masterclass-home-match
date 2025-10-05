@@ -1,0 +1,36 @@
+{
+  "title": "Chic Duplex Retreat for Creatives in Suburb, Nowy Sacz",
+  "description": "Discover this stylish, light-filled duplex tailor-made for artistic souls. Offering 4 spacious bedrooms and 3 well-appointed bathrooms across a generous 172 sqm layout, this home effortlessly blends comfort with modern design. A bright open-plan living area features a cozy fireplace, perfect for relaxing evenings or inspiring creative brainstorms. Outside, you\u2019ll enjoy a private fenced yard and a dedicated barbecue zone, creating an oasis for gatherings or quiet contemplation.",
+  "neighborhood_description": "Set in the laid-back Suburb neighborhood of Nowy Sacz, this property is surrounded by a quietly vibrant artistic community. With a balanced lifestyle at its core, residents embrace both bike rides through leafy streets and a family-friendly environment close to schools. Enjoy the tranquility of the suburbs without losing touch\u2014easy highway access brings you swiftly to the city or countryside whenever inspiration calls.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 172,
+  "property_type": "duplex",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1425000,
+  "key_features": [
+    "fenced yard",
+    "barbecue zone",
+    "fireplace",
+    "duplex design",
+    "open-concept living space",
+    "modern kitchen",
+    "parking",
+    "ample natural light"
+  ],
+  "lifestyle_benefits": [
+    "artistic enclave",
+    "bike-friendly routes",
+    "quiet spaces for creative work",
+    "outdoor entertaining",
+    "close proximity to schools",
+    "easy access to nature"
+  ],
+  "target_buyer": "Ideal for young professionals, artists, or creative families seeking a tranquil base to spark and nurture fresh ideas. Perfect for those who value community and smart living.",
+  "market_positioning": "Uniquely positioned for creative buyers in search of space, individuality, and quiet, all at a competitive price in one of Nowy Sacz's emerging artistic neighborhoods."
+}

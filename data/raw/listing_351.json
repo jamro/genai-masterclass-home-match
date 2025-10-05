@@ -1,0 +1,32 @@
+{
+  "title": "Designer Studio Investment Gem in Polnocne Suwa\u0142ki",
+  "description": "Presenting a luxurious, cutting-edge studio apartment designed for discerning tastes and premium living. This unique property boasts an open floor plan flooded with natural light, complemented by hardwood floors throughout. Enjoy the convenience of a dedicated home office space and the privacy of an ensuite bathroom. Additional premium touches include a sleek video intercom and a spacious laundry area\u2014making this studio the optimal blend of comfort and sophistication.",
+  "neighborhood_description": "Located in Polnocne, one of Suwa\u0142ki\u2019s most tranquil and sought-after locales, this neighborhood is famed for its artistic community vibe. Immerse yourself in nearby parks and playgrounds, offering a peaceful backdrop for both recreation and inspiration. While the area prioritizes calm, highway access ensures you remain impressively connected to the pulse of the city and beyond.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 41,
+  "property_type": "studio apartment",
+  "city": "Suwa\u0142ki",
+  "neighborhood": "Polnocne",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 419000,
+  "key_features": [
+    "open floor plan",
+    "home office space",
+    "ensuite bathroom",
+    "hardwood floors",
+    "laundry room",
+    "video intercom"
+  ],
+  "lifestyle_benefits": [
+    "exclusive, low-density community",
+    "ideal for artistic or creative residents",
+    "prime opportunity for rental and value appreciation",
+    "tranquil green surroundings"
+  ],
+  "target_buyer": "Sophisticated investors seeking a boutique property in a desirable neighborhood, focused on strong rental yields or accommodating professionals/creatives.",
+  "market_positioning": "Rare among Suwa\u0142ki listings, this studio is positioned as a turnkey premium investment within an artistic enclave, standing out for both lifestyle appeal and future growth potential in a low-urbanization district."
+}

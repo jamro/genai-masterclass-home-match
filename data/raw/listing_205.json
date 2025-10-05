@@ -1,0 +1,34 @@
+{
+  "title": "Exquisite Three-Bedroom Residence in Radziwie with Underground Garage",
+  "description": "Nestled in one of Plock's most tranquil neighborhoods, this refined 3-bedroom, 1-bathroom apartment showcases an expansive 94 sqm layout, where premium hardwood floors complement generous natural light throughout. Designed for contemporary comfort, the property offers a beautifully appointed home office area and a luxurious bathroom featuring high-end finishes. Boasting a coveted underground garage, security and convenience meet sophistication, making daily living absolutely effortless.",
+  "neighborhood_description": "Ideally located in Radziwie, enjoy a serene lifestyle with local shops, cafes, and markets a leisurely stroll away. The neighborhood offers an easy-going rhythm, while excellent public transport and highway access make city exploration or day trips exceptionally convenient. Residents appreciate a harmonious balance of peaceful living with accessible amenities and vibrant local dining.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 94,
+  "property_type": "apartment",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 987000,
+  "key_features": [
+    "underground garage",
+    "dedicated home office space",
+    "premium hardwood floors",
+    "ensuite bathroom with luxury finishes",
+    "private storage cellar",
+    "recycling facilities",
+    "shopping and dining district nearby"
+  ],
+  "lifestyle_benefits": [
+    "relaxed, low-stress pace of life",
+    "walkable to shops & cafes",
+    "secure, accessible underground parking",
+    "ideal maintenance-free living"
+  ],
+  "target_buyer": "This residence is perfect for discerning retirees seeking sophisticated comfort and easy access to daily conveniences in a calm and established neighborhood.",
+  "market_positioning": "A luxury-tier apartment that stands out in the Radziwie market for its combination of top-tier amenities, elegance, and a superb location tailored to retirees prioritizing comfort and cultured living."
+}

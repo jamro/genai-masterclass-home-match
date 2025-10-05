@@ -1,0 +1,33 @@
+{
+  "title": "Tranquil Designer Duplex With Panoramic Views in Trendy Radziwie",
+  "description": "Welcome to a sun-bathed duplex where elegance and light create a living experience both serene and inspiring. Crafted for comfort, the home\u2019s four ample bedrooms and two luxurious bathrooms are graced by expansive panoramic windows that frame urban-village vistas. Soundproof walls and advanced air conditioning ensure peace and tailor-made climate throughout the year. Modern day convenience resonates in every detail, from the efficient layout to eco-conscious recycling facilities on site.",
+  "neighborhood_description": "Nestled within Radziwie, one of Plock\u2019s most dynamic neighborhoods, you\u2019re immersed in a quietly stylish scene. The area\u2019s rapid growth heralds en vogue dining, cultural experiences, and new conveniences, while easy access to highways and public transport puts the whole city and region right at your doorstep. Creative energy weaves seamlessly with tranquil corners, crafting the ideal mosaic for modern living.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 170,
+  "property_type": "duplex",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1550000,
+  "key_features": [
+    "panoramic windows",
+    "air conditioning",
+    "soundproof walls",
+    "quiet neighborhood setting",
+    "recycling facilities"
+  ],
+  "lifestyle_benefits": [
+    "vibrant local expat community",
+    "quick access to key long-distance routes",
+    "growing trendy restaurant and coffee culture",
+    "spaces made for both privacy and social engagement",
+    "enhanced energy efficiency and sustainable waste management"
+  ],
+  "target_buyer": "Ideal for expats, traveling professionals, or multigenerational families seeking both a retreat and vibrant urban connectivity. Perfect for those who desire an artistic backdrop with conveniences that accommodate an international lifestyle.",
+  "market_positioning": "This property stands out in Plock's market as a high-end, design-forward duplex offering strong connectivity and lifestyle value, trending among upwardly mobile professionals and internationally-minded families."
+}

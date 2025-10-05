@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Smart Modern Duplex in Vibrant Ligota \u2013 Perfect for Students",
+  "description": "This spacious, light-filled duplex offers optimal comfort with 4 well-sized bedrooms and 3 stylish bathrooms. Designed for modern eco-conscious living, the 154 sqm property boasts high-efficiency systems alongside smart touches like a video intercom and guest bathroom. Open living-dining areas blend seamlessly with the contemporary kitchen and flow to a private balcony, ideal for relaxation in a green setting. An on-site EV charging station and thoughtful layout make it ideal for those embracing a sustainable lifestyle.",
+  "neighborhood_description": "Located in leafy Ligota, this property is surrounded by modern developments that co-exist beautifully with historic architecture. The family-friendly neighborhood is known for its abundant parks, bike paths, and close-knit community, while local cafes and cultural spaces create a lively student hub. With convenient public transport connections and quick access to highways, it\u2019s both peaceful and perfectly placed for university life and city exploration.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 154,
+  "property_type": "duplex",
+  "city": "Katowice",
+  "neighborhood": "Ligota",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1290000,
+  "key_features": [
+    "guest bathroom",
+    "video intercom",
+    "EV charging station",
+    "energy-efficient appliances",
+    "private balcony"
+  ],
+  "lifestyle_benefits": [
+    "quick access to universities",
+    "proximity to green areas and parks",
+    "modern, secure building",
+    "community vibe ideal for student life",
+    "environmentally sustainable features"
+  ],
+  "target_buyer": "Ideal for university students, young professionals, or shared households seeking a modern and sustainable home with easy access to campus and city amenities.",
+  "market_positioning": "This modern duplex stands out in Katowice\u2019s Ligota market with its eco-conscious amenities, four-bedroom space, and superior connectivity\u2014delivering outstanding value for students or professionals seeking sustainable quality in a vibrant neighborhood."
+}

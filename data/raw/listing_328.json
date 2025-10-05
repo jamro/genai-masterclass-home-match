@@ -1,0 +1,33 @@
+{
+  "title": "Minimalist Scandinavian Retreat with Private Green Space in G\u00f3rna",
+  "description": "Embrace tranquility in this chic, Scandinavian-inspired two-bedroom apartment tucked in the heart of G\u00f3rna. With 57 sqm of thoughtfully designed living space, this home merges clean lines, natural finishes, and an abundance of light. Step outside to your very own private garden with a dedicated barbecue area\u2014perfect for quiet mornings or gatherings with friends. The residence boasts convenient features such as an automatic gate, secure storage locker, and a heated driveway for effortless comfort year-round.",
+  "neighborhood_description": "G\u00f3rna offers a balance of historic charm and active urban convenience, just minutes from the lively center of \u0141\u00f3d\u017a. Enjoy lush green parks, architecturally-preserved streets, and vibrant local life. Residents have access to extensive bike lines and efficient public transport, making eco-friendly commutes part of daily routine.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 57,
+  "property_type": "apartment",
+  "city": "Lodz",
+  "neighborhood": "G\u00f3rna",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 690000,
+  "key_features": [
+    "private garden",
+    "barbecue zone",
+    "automatic gate",
+    "storage locker",
+    "heated driveway"
+  ],
+  "lifestyle_benefits": [
+    "easy access to public transport and bike lines",
+    "eco-friendly commuting options",
+    "secure gated entry",
+    "low-maintenance, minimalist interior",
+    "access to green outdoor spaces"
+  ],
+  "target_buyer": "Ideal for eco-conscious professionals and small families seeking minimalist living with easy access to the city centre and sustainable transport.",
+  "market_positioning": "This home delivers design-focused, sustainable living with rare amenities in G\u00f3rna's medium-urban landscape, providing excellent value for buyers seeking comfort, security, and a connection to outdoor living in \u0141\u00f3d\u017a."
+}

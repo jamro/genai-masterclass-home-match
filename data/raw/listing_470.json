@@ -1,0 +1,32 @@
+{
+  "title": "Historic One-Bedroom Apartment with Modern Comforts in Krzyki",
+  "description": "Experience the seamless blend of historic character and contemporary comforts in this charming 1-bedroom, 2-bathroom apartment located in the heart of Krzyki. With 60 sqm of thoughtfully designed living space, the home features beautiful original details alongside modern upgrades, including a welcoming fireplace and advanced security system. The spacious layout makes entertaining easy, whether hosting business colleagues or unwinding after a busy day.",
+  "neighborhood_description": "Krzyki is renowned for its historic allure and vibrant atmosphere, a favourite among Wroclaw's entrepreneurs and creatives. The neighborhood offers an active outdoor lifestyle, with well-maintained parks, lively cafes, and ample green space, as well as a network of bike lanes for those who enjoy a healthier daily commute. Excellent public transport connections keep you closely linked to Wroclaw\u2019s bustling city center.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 60,
+  "property_type": "apartment",
+  "city": "Wroclaw",
+  "neighborhood": "Krzyki",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 890000,
+  "key_features": [
+    "fireplace",
+    "security system",
+    "storage locker",
+    "landscaped surroundings"
+  ],
+  "lifestyle_benefits": [
+    "ideal for remote work and creative pursuits",
+    "steps from dynamic business hubs",
+    "immersed in Wroclaw\u2019s cultural heritage",
+    "access to outdoor and fitness spaces"
+  ],
+  "target_buyer": "Perfect for ambitious entrepreneurs or young professionals craving classic urban aesthetics and modern convenience.",
+  "market_positioning": "This property stands out for its nuanced styling\u2014offering buyers the charm of Krzyki's historical setting with the sought-after efficiency and amenities demanded by today\u2019s fast-paced entrepreneurial lifestyle."
+}

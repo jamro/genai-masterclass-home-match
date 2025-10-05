@@ -1,0 +1,31 @@
+{
+  "title": "Minimalist Studio Amidst Greenery in Nowy S\u0105cz Suburb",
+  "description": "A serene studio apartment that beautifully embodies Scandinavian minimalism, this energy-efficient home combines simplicity with modern comfort. The uncluttered open-plan space offers a relaxing bedroom area alongside a thoughtfully designed living zone and kitchenette, all in 35m\u00b2. Large windows fill the space with natural light, while comfort is assured year-round with efficient climate control and advanced security systems.",
+  "neighborhood_description": "Located in the tranquil Suburb district of Nowy S\u0105cz, this low-density neighborhood is perfect for those seeking peace with a touch of vibrant local character. Green surroundings prevail, offering residents plentiful walking paths, and neighborly life maintains a warm and safe community escape away from city bustle. Convenient access to major highways makes travels and errands simple and direct.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 35,
+  "property_type": "studio apartment",
+  "city": "Nowy S\u0105cz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 410000,
+  "key_features": [
+    "energy-efficient building",
+    "air conditioning",
+    "security system",
+    "large windows",
+    "open-plan layout"
+  ],
+  "lifestyle_benefits": [
+    "peaceful neighborhood for relaxation",
+    "access to green spaces and fresh air",
+    "secure living for carefree retirement",
+    "convenient car travel"
+  ],
+  "target_buyer": "Retirees seeking a comfortable, low-maintenance home in a country-like environment that values peace, security, and community.",
+  "market_positioning": "Stands apart as a modern, move-in-ready studio in a safe, residential enclave, delivering privacy, low living costs, and all essential comfort features desirable to retirees."
+}

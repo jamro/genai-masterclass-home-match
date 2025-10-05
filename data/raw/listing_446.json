@@ -1,0 +1,34 @@
+{
+  "title": "Luxury Family Home in the Heart of Lively D\u0105b, Katowice",
+  "description": "This exquisite detached house offers 4 spacious bedrooms and 2 modern bathrooms across a comfortable 206 sqm of well-designed living space. Bright interiors, large windows, and a generous balcony create a warm, inviting atmosphere, ideal for both family time and hosting special gatherings. Enjoy modern comforts with thoughtful features, including an automatic gate, full wheelchair accessibility, and comprehensive 24/7 security. The home is move-in ready, designed to elevate your family's everyday luxury experience.",
+  "neighborhood_description": "Located in the vibrant D\u0105b neighborhood, your new residence combines modern urban energy with a balanced, family-friendly lifestyle. World-class public transport, easy highway access, and scenic bike lines connect you swiftly to the city center\u2014while nearby parks, schools, and shopping ensure every convenience is at your doorstep. The lively atmosphere makes D\u0105b a favored choice for modern families who cherish action and relaxation alike.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 206,
+  "property_type": "house",
+  "city": "Katowice",
+  "neighborhood": "D\u0105b",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1525000,
+  "key_features": [
+    "balcony",
+    "close to public transport",
+    "24/7 security",
+    "recycling facilities",
+    "automatic gate",
+    "wheelchair accessibility"
+  ],
+  "lifestyle_benefits": [
+    "walking distance to urban attractions",
+    "balance of city conveniences and family comfort",
+    "secure, peaceful environment with reliable infrastructure",
+    "sustainable waste facilities for eco-friendly living"
+  ],
+  "target_buyer": "The ideal buyer is a family or upscale urban professionals seeking premium living space within a vibrant city setting.",
+  "market_positioning": "This home caters to discerning buyers who desire luxury and comfort without compromise, standing out in Katowice\u2019s competitive urban housing market with both upscale features and a sought-after location in the D\u0105b district."
+}

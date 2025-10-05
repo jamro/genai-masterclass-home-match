@@ -1,0 +1,33 @@
+{
+  "title": "Artist\u2019s Sanctuary: Studio Retreat Amid Suburban Greens",
+  "description": "Step into this large, sun-washed studio, expertly laid out for comfort and work-life inspiration with 38 sqm of open living space. The unique walk-in closet enables effortless creative organization, while floor-to-ceiling windows bring in gentle light and frame garden views. Move through a bright and airy living area with handy kitchenette, leading fluidly to a private garden\u2014a rare spot for both peace and play. Residents are greeted at a stylish reception desk, assuring warmth and security for every moment at home.",
+  "neighborhood_description": "Suburb neighborhood in Pila is a haven of green space and relaxed charm. Here, tree-lined avenues and community gardens set the tone for slower days, ideal for bicycle rides or contemplative strolls. With key shopping and casual dining found nearby plus excellent proximity to schools, this area draws those seeking tranquility with urban conveniences within reach. Highway access grants speedy escapes for city travel or creative weekend adventures.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 38,
+  "property_type": "studio",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 390000,
+  "key_features": [
+    "walk-in closet",
+    "private garden",
+    "private parking space",
+    "reception desk",
+    "shopping nearby",
+    "dining nearby"
+  ],
+  "lifestyle_benefits": [
+    "space to work remotely",
+    "nature at your doorstep",
+    "quiet residential setting",
+    "perfect for long strolls",
+    "close access to city adventures"
+  ],
+  "target_buyer": "Ideal for expats, digital nomads, or relocators seeking creative inspiration, practical amenities, and connection to natural beauty in a calm setting.",
+  "market_positioning": "A rare studio in a peaceful, verdant neighborhood\u2014offering more space and amenities than typically found at this price, especially suited for buyers with international backgrounds seeking to blend productivity with the suburban Polish way of life."
+}

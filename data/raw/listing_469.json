@@ -1,0 +1,35 @@
+{
+  "title": "Eco-Chic Urban Loft with Fireplace and Balcony in Creative Debniki",
+  "description": "Step into a sun-soaked, modern loft featuring striking double-height ceilings and custom windows, offering 68 sqm of flexible, airy living space. The loft seamlessly blends a cozy sleeping zone, open-plan lounge with homely fireplace, elegant kitchen, two designer bathrooms, and a private balcony. Outfitted with a state-of-the-art smart home system, this home delivers comfort and convenience\u2014effortlessly harmonizing eco-consciousness and contemporary living.",
+  "neighborhood_description": "Nestled in the heart of Krakow\u2019s artistic Debniki, you'll enjoy riverfront promenades and a community known for local arts, dynamic cafes, and lively gatherings. Stroll or cycle riverside, or tap into convenient public transport and highway access. Experience urban energy and vibrant local life, just moments from the water and dynamic city center.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 68,
+  "property_type": "loft",
+  "city": "Krakow",
+  "neighborhood": "Debniki",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1050000,
+  "key_features": [
+    "balcony",
+    "smart home system",
+    "fireplace",
+    "modern open-plan layout",
+    "energy-efficient appliances",
+    "double-height ceilings"
+  ],
+  "lifestyle_benefits": [
+    "perfect for remote work and flexible schedules",
+    "artistic and creative community vibe",
+    "easy outdoor activity access (waterfront and parks)",
+    "live-car-free with smart transport links",
+    "vibrant caf\u00e9s and local culture right outside"
+  ],
+  "target_buyer": "Ideal for digital nomads or creative professionals seeking an inspiring workspace and home base, passionate about sustainability, design, and culture.",
+  "market_positioning": "Rare opportunity to secure a stylish eco-smart loft in Debniki\u2019s urban-creative quarter\u2014perfectly balancing convenience, modern tech, and lifestyle amenities in a sought-after riverside location."
+}

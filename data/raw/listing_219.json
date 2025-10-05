@@ -1,0 +1,32 @@
+{
+  "title": "Historic Harmony: Charming 3-Bed Suburban Estate with Modern Flair",
+  "description": "Nestled at the edge of Nowy Sacz, this elegant detached house exudes historic charm alongside contemporary comforts. Carefully restored, it offers three spacious bedrooms, two well-appointed bathrooms, and an airy living space of 160 sqm. Timeless architectural details blend effortlessly with a modern lighting system, built-in wardrobes, and energy-efficient windows, perfect for today\u2019s discerning homeowner. Welcoming common areas and thoughtful storage solutions integrate historic atmosphere with functionality.",
+  "neighborhood_description": "Located in the peaceful Suburb enclave of Nowy Sacz, residents enjoy a quiet atmosphere with growing modern developments and an artistic community spirit. Nearby shops and dining spots offer urban conveniences while retaining the comfort of suburban life. Proximity to highways ensures easy access in and out of the city\u2014a perk for busy professionals and entrepreneurs seeking both tranquility and connectivity.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 160,
+  "property_type": "house",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1290000,
+  "key_features": [
+    "well-maintained common areas",
+    "security system",
+    "storage room",
+    "modern lighting system",
+    "energy-efficient windows",
+    "built-in wardrobes"
+  ],
+  "lifestyle_benefits": [
+    "Serene work-from-home environment",
+    "Ample storage for equipment or products",
+    "Artistic, creative neighborhood vibe",
+    "Convenient shopping and dining nearby"
+  ],
+  "target_buyer": "Entrepreneurs or creative professionals seeking a distinguished home offering space for living and a quiet retreat for productivity, yet still close to amenities and efficient travel routes.",
+  "market_positioning": "This home stands apart within the local market, appealing to those seeking a rare mix of historic poetry and peaceful environs\u2014ideal for professionals desiring a unique setting for both personal life and business aspirations."
+}

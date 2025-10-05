@@ -1,0 +1,35 @@
+{
+  "title": "Timeless Urban Villa with Architectural Heritage in Srodmiescie",
+  "description": "This distinguished 6-bedroom house, offering 260 sqm of refined living space, is nestled in a picturesque corner of Katowice\u2019s historic Srodmiescie district. The home gracefully combines period character with modern updates, featuring lofty ceilings, panoramic windows, a clever open-plan layout, and a stately exterior. Three elegant bathrooms support easy family life and entertaining, while the inclusion of a video intercom adds an extra measure of security. Private parking behind the house offers unmatched city convenience.",
+  "neighborhood_description": "Set within Katowice's vibrant and central Srodmiescie area, the home is steps away from key business addresses, atmospheric caf\u00e9s, and cultural hotspots. Excellent public transport and dedicated bike lines make daily commutes effortless, while nearby parks and playgrounds reveal relaxation opportunities amid urban energy. This unique blend creates a balanced environment ideal for work and leisure.",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "size_sqm": 260,
+  "property_type": "house",
+  "city": "Katowice",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 2190000,
+  "key_features": [
+    "historic fa\u00e7ade",
+    "private parking space",
+    "panoramic windows",
+    "video intercom system",
+    "high ceilings",
+    "open-plan living areas",
+    "generous storage"
+  ],
+  "lifestyle_benefits": [
+    "proximity to business district",
+    "easy commute by public transport and bike",
+    "balanced urban lifestyle",
+    "access to nearby parks and playgrounds",
+    "prestigious address"
+  ],
+  "target_buyer": "Ideal for established or aspiring entrepreneurs, professionals, or families seeking a residence with architectural soul, prioritizing easy access to the city\u2019s business, culture, and green spaces.",
+  "market_positioning": "A rare opportunity for business-savvy individuals seeking a high-profile, historic home in Katowice\u2019s downtown market\u2014offering character, space, security, and an unbeatable metropolitan location."
+}

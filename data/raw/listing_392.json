@@ -1,0 +1,32 @@
+{
+  "title": "Bright Eco-Friendly Studio Retreat in Historic Brynow",
+  "description": "Welcome to a modern studio apartment designed with eco-conscious living in mind. This 38 sqm ground-floor flat offers an intuitive open-plan layout, featuring panoramic windows inviting abundant natural light. A compact culinary space opens onto a south-facing outdoor dining patio perfect for tranquil mornings. Feel secure with an integrated security system and enjoy peace in a naturally quiet neighborhood setting designed for harmonious comfort.",
+  "neighborhood_description": "Nestled in Brynow, Katowice\u2019s cherished district known for its historic charm and balanced urban-green lifestyle, the residence blends seamlessly into atmospheric tree-lined streets. Step outside to discover plentiful parks for pet-friendly strolls, as well as scenic bike paths for effortless commutes. Everything you need\u2014local shops, cozy caf\u00e9s, and reliable public transport\u2014is just around the corner.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 38,
+  "property_type": "studio apartment",
+  "city": "Katowice",
+  "neighborhood": "Brynow",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 419000,
+  "key_features": [
+    "panoramic windows",
+    "outdoor dining area",
+    "integrated security system",
+    "quiet (rear courtyard) unit",
+    "eco-efficient appliances"
+  ],
+  "lifestyle_benefits": [
+    "ideal for pet owners (near parks)",
+    "serene environment for mindfulness",
+    "supports sustainable living",
+    "fast cycling into city center"
+  ],
+  "target_buyer": "Perfect for single professionals or couples with a pet, valuing walkable, peaceful locations close to plentiful parks and eco-friendly urban amenities.",
+  "market_positioning": "Rare market fusion of affordable price, eco-modern style, and pet-friendly access in Brynow\u2019s most picturesque historic district. Suits trend-setting urban dwellers seeking both serenity and sustainable design."
+}

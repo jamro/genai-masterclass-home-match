@@ -1,0 +1,33 @@
+{
+  "title": "Loft-Style Gem with Historic Character in Radziwie",
+  "description": "Experience riverfront living in a luminous, one-bedroom historic loft nestled in Plock's iconic Radziwie neighborhood. Spanning approximately 78 sqm, this historic-conversion space artfully unites exposed brick with modern touches. The open yet distinct dining area is showered with natural light, perfect for unplugged breakfasts or dinner parties. Regale in the fresh air from your spacious balcony or wind down in the versatile living space, all conveniently set across one level. Adapted for accessibility, the flat was finished with care, including eco-smart solar panels and in-unit laundry.",
+  "neighborhood_description": "Radziwie is known for its calm, pet-friendly ethos and safe streets, attracting both families and discerning investors alike. Residents appreciate ample green spaces, playgrounds within easy reach, and a vibrant community ambience bordered by the Vistula. With quick access to public transport and proximity to a highway, both parklike serenity and city links are at your fingertips.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 78,
+  "property_type": "loft",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1180000,
+  "key_features": [
+    "spacious dining area with natural light",
+    "children\u2019s playground area on premises",
+    "large balcony overlooking the district",
+    "dedicated laundry/utilities room",
+    "wheelchair accessibility throughout",
+    "installation of solar panels for energy savings"
+  ],
+  "lifestyle_benefits": [
+    "peaceful, pet-friendly neighborhood",
+    "family amenities nearby with a kids' play area",
+    "safe and historic ambiance appeals to tenants and owners",
+    "eco-friendly living reduces utility costs"
+  ],
+  "target_buyer": "Property investors seeking unique, high-demand rental spaces with historic allure and exceptional modern features.",
+  "market_positioning": "Positioned as a premium heritage rental asset in a popular, up-and-coming district of Plock, offering strong tenant appeal and steady value appreciation."
+}

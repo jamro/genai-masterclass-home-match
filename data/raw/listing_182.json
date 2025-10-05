@@ -1,0 +1,33 @@
+{
+  "title": "Charming Family Home with Timeless Character in Zaspa",
+  "description": "Step into this historic-inspired four-bedroom home in the heart of Zaspa, Gdansk, where classical touches meet modern convenience. Spanning an ample 192 sqm, this stunner exudes old-world elegance with hardwood floors, archways, and vintage finishes throughout. The sunlit living area opens to a charming balcony, while three full bathrooms offer function and comfort for busy student living or shared arrangements.",
+  "neighborhood_description": "Nestled in a family-friendly corner of Zaspa, this peaceful area boasts tree-lined paths, children\u2019s parks, and safe cycling lanes ideal for relaxed commutes. You'll find convenient public transport links\u2014designed for students or professionals\u2014with local eateries, supermarkets, and study spaces nearby. The neighborhood offers a subtle suburban calm, perfect for unwinding after long hours at the university or library.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 192,
+  "property_type": "house",
+  "city": "Gdansk",
+  "neighborhood": "Zaspa",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1590000,
+  "key_features": [
+    "storage locker",
+    "energy-efficient windows",
+    "balcony",
+    "recycling facilities",
+    "EV charging station"
+  ],
+  "lifestyle_benefits": [
+    "shared living ideal for students",
+    "quiet setting for study and relaxation",
+    "easy cycling or public transport commutes",
+    "future-proof green amenities",
+    "safe, familial atmosphere"
+  ],
+  "target_buyer": "Perfect for student groups or university staff seeking stylish co-living with amenities tailored to modern, sustainable lifestyles.",
+  "market_positioning": "This property stands out as a rare, generously sized historic-style house in Zaspa ideal for students\u2014offering standout comfort and efficiency compared to typical student apartments, at a strong value given its character and location."
+}

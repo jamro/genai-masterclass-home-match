@@ -1,0 +1,32 @@
+{
+  "title": "Cosy Studio Retreat with Mountain Views in Dyrekcja, Chelm",
+  "description": "Discover comfort and warmth in this charming studio located in the tranquil Dyrekcja neighborhood of Chelm. This bright and efficient studio features a well-appointed modern kitchen, a contemporary bathroom, and an open-plan living and sleeping area giving a spacious feel. The highlight is a private balcony where you can enjoy peaceful mountain views and fresh air, while soundproof walls ensure calm and privacy in your personal space.\n\n",
+  "neighborhood_description": "Dyrekcja offers serene living with a balanced lifestyle at its core. This low-urban neighborhood is ideal for those looking for a peaceful atmosphere away from the city rush, with easy nearby highway access when traveling or receiving guests. Surrounding views of the lush landscape and distant mountains create the perfect restful escape for work and relaxation alike.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 35,
+  "property_type": "studio apartment",
+  "city": "Chelm",
+  "neighborhood": "Dyrekcja",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 395000,
+  "key_features": [
+    "fireplace",
+    "soundproof walls",
+    "video intercom",
+    "modern kitchen",
+    "well-maintained common areas",
+    "balcony"
+  ],
+  "lifestyle_benefits": [
+    "balance of work and relaxation",
+    "quiet remote working atmosphere",
+    "stunning mountain views from balcony",
+    "easy highway access"
+  ],
+  "target_buyer": "Perfect for digital nomads, freelancers, or singles seeking peace and creative inspiration with strong remote work-friendliness.",
+  "market_positioning": "A standout modern studio in Dyrekcja positioned at an affordable price, offering an excellent quiet alternative to city apartments for professionals who value a balanced lifestyle close to nature."
+}

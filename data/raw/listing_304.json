@@ -1,0 +1,33 @@
+{
+  "title": "Elegant Scandinavian Loft with Rooftop Retreat in Lazarz",
+  "description": "Embodying minimalist Scandinavian chic, this sunlit 1-bedroom loft reimagines modern living across a generous 74 sqm. Towering ceilings, expansive hardwood floors, and thoughtfully placed windows create a subtle interplay of light and space. Experience indoor-outdoor flow with a private rooftop deck\u2014perfect for contemplation or stylish gatherings. The open-plan layout includes two contemporary bathrooms and clever storage solutions, balanced by simple, functional lines.",
+  "neighborhood_description": "Nestled in Poznan's vibrant Lazarz, this loft enjoys a friendly, pet-welcoming atmosphere and easy bike access along local green lanes. The area is both peaceful and well-connected, with excellent public transport for quick city access and nearby bikeways for daily excursions. Families can enjoy park strolls, cozy neighborhood caf\u00e9s, and good access to trunk roads connecting the wider city.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 74,
+  "property_type": "loft",
+  "city": "Poznan",
+  "neighborhood": "Lazarz",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1140000,
+  "key_features": [
+    "rooftop deck",
+    "automatic gate",
+    "EV charging station",
+    "hardwood floors",
+    "outdoor dining area"
+  ],
+  "lifestyle_benefits": [
+    "minimalist interiors for ease of living",
+    "family-friendly floorplan",
+    "access to outdoor spaces for children and pets",
+    "energy-efficient modern systems",
+    "walkable to parks and amenities"
+  ],
+  "target_buyer": "Ideal for small families who appreciate Scandinavian simplicity and functional design, seeking a child- and pet-friendly environment with outdoor leisure spaces.",
+  "market_positioning": "A rare contemporary loft in a sought-after, bike-friendly neighborhood\u2014offering boutique space and refined features at competitive value for discerning family buyers."
+}

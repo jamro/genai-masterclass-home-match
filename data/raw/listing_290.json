@@ -1,0 +1,31 @@
+{
+  "title": "Eco-Chic Studio with Terrace in Historic Stare Miasto",
+  "description": "Step into modern living with this stylish studio apartment nestled in Zamosc\u2019s renowned Stare Miasto district. This thoughtfully designed space offers 34 sqm of abundant natural light, complemented by a private terrace perfect for morning inspiration. With a spacious walk-in closet and innovations in energy efficiency, this studio fuses sustainability with comfort in a historic setting. Its open layout is ideal for an individualized, creative home environment.",
+  "neighborhood_description": "Stare Miasto is known for its quiet atmosphere and beautiful, well-preserved architecture\u2014an ideal backdrop for creative souls. While the neighborhood maintains its tranquil charm, it enjoys new developments and a growing community. Nearby, you'll find convenient city amenities and easy transport links by highway and public transport.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 34,
+  "property_type": "studio apartment",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 429000,
+  "key_features": [
+    "landscaped surroundings",
+    "private terrace",
+    "energy-efficient building",
+    "spacious walk-in closet"
+  ],
+  "lifestyle_benefits": [
+    "inspiring environment for creativity",
+    "peaceful setting for artists",
+    "low monthly utility costs",
+    "easy access to cafes and galleries"
+  ],
+  "target_buyer": "Perfect for artists, writers, and eco-conscious creatives seeking a blend of historical ambiance and modern amenities in a manageable, light-filled space.",
+  "market_positioning": "Rarely available in the heart of Zamosc's historic district, this eco-conscious studio is perfectly matched to buyers desiring a boutique residence with sustainable features and excellent connectivity. Offers substantial value and individuality in a revitalizing, central location."
+}

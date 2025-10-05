@@ -1,0 +1,35 @@
+{
+  "title": "Elegant Family Estate with Smart Technology and Solar in Leszno \u2013 Zatorze",
+  "description": "Exemplifying luxury and refined living, this remarkable detached house in Zatorze boasts 6 spacious bedrooms and 3 designer bathrooms across an impressive 261 square meters. Large patio doors connect the living room to a meticulously landscaped garden, creating seamless indoor-outdoor living. Premium materials, a state-of-the-art smart home system, and integrated solar panels make this property both sustainable and future-ready. Secure your privacy and peace of mind with a modern security system, surrounded by artisanal finishes and ample functional space ideal for family gatherings.",
+  "neighborhood_description": "Nestled in the historical Zatorze neighborhood of Leszno, the estate captures the charm of classic Polish architecture while benefiting from family-oriented parks and playgrounds just moments away. Enjoy the harmony of old-world allure with contemporary amenities and fantastic access to local shops, schools, and efficient transport\u2014perfect for growing families valuing both comfort and convenience.",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "size_sqm": 261,
+  "property_type": "house",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1850000,
+  "key_features": [
+    "solar panels",
+    "full smart home system",
+    "patio doors opening to garden",
+    "stylish landscaped surroundings",
+    "premium security system",
+    "designer kitchen and bathrooms",
+    "double garage"
+  ],
+  "lifestyle_benefits": [
+    "ideal for large families",
+    "energy-efficient & future-proofed",
+    "playspace in private garden",
+    "walking distance to playgrounds and parks",
+    "peaceful and secure neighborhood"
+  ],
+  "target_buyer": "Ideal for large and active families seeking generous space, Thomas investing in comfort and leading-edge home technology within a growing, characterful neighborhood close to urban conveniences.",
+  "market_positioning": "This property sets the standard for upscale family living within medium-urban Zatorze, offering an exclusive mix of eco-conscious features and smart automation rarely found in Leszno. Positioned as a plush yet practical sanctuary, it's a luxury choice distinguishing itself from mass-market offerings."
+}

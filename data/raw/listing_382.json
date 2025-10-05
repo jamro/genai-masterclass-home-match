@@ -1,0 +1,30 @@
+{
+  "title": "Charming Studio with Historic Touches in Quiet Zatorze",
+  "description": "Step into a delightful studio that beautifully melds comfort with timeless charm. Featuring an intelligently designed open floor plan, this 1-bedroom, 1-bathroom apartment covers 35 sqm, offering energy-efficient windows that fill the space with natural light. A secure storage locker is included for added convenience, and the automatic gate ensures your peace of mind. With historical elements tastefully preserved, this cozy studio is perfect for someone seeking character as well as function.",
+  "neighborhood_description": "Nestled in Zatorze, a neighborhood known for ongoing modern development while retaining a serene atmosphere. Excellent public transport connections and proximity to the highway make commuting effortless. You'll enjoy tree-lined streets, green spaces, and a spaced-out urban spirit perfect for a peaceful return after work.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 35,
+  "property_type": "studio",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 379000,
+  "key_features": [
+    "energy-efficient windows",
+    "open floor plan",
+    "automatic gate",
+    "storage locker"
+  ],
+  "lifestyle_benefits": [
+    "quick commute to business districts",
+    "tranquil setting for focus and relaxation",
+    "modern infrastructure in a classic context"
+  ],
+  "target_buyer": "Ideal for professionals relocating to Leszno for work who appreciate a blend of historical charm and everyday convenience.",
+  "market_positioning": "Perfectly positioned for the discerning tenant or first-time buyer with an eye for heritage details and modern lifestyle needs. This studio is an accessible entry into Zatorze, balancing comfort, connectivity, and local flair in a rising Leszno district."
+}

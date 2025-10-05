@@ -1,0 +1,34 @@
+{
+  "title": "A Light-filled Haven for Remote Creatives in Modern Brynow",
+  "description": "Step into a sunlit, contemporary 2-bedroom apartment in the heart of Brynow. Savour mornings on the spacious balcony with treetop views, and keep life efficient with two sleek bathrooms. An integrated laundry room and open-plan living area create an effortless flow, while an underground garage and EV charging station add convenience and sustainability to your routine. Every corner is designed for creative inspiration and modern comfort, waiting for someone to call it home.",
+  "neighborhood_description": "Nestled within the boundary of progressive Brynow, this modern development pulses with style yet maintains the warmth of a safe, close-knit neighborhood. Surround yourself with caf\u00e9s ideal for remote work, revitalizing green spaces, and effortless connections to tram and bike routes for seamless city commuting. Brynow places you harmoniously amidst the excitement of Katowice while retaining tranquil living.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 78,
+  "property_type": "apartment",
+  "city": "Katowice",
+  "neighborhood": "Brynow",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 895000,
+  "key_features": [
+    "underground garage",
+    "EV charging station",
+    "balcony",
+    "laundry room",
+    "two bathrooms",
+    "modern open-plan kitchen"
+  ],
+  "lifestyle_benefits": [
+    "work-from-home ready",
+    "energy-efficient mobility",
+    "secure and green surroundings",
+    "walkable urban lifestyle",
+    "space for creativity and peace"
+  ],
+  "target_buyer": "Ideal for remote workers and creative professionals seeking an inspiring home base with modern amenities, easy community connections, and eco-friendly living in a safe, upbeat setting.",
+  "market_positioning": "This exceptional apartment stands out in the Brynow market thanks to its blend of smart tech features, stylish design, superior convenience, and a layout tailored to the modern remote professional. With its competitive price and sought-after amenities, it exemplifies next-generation living within Katowice's most vibrant neighborhood."
+}

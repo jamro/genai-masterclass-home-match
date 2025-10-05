@@ -1,0 +1,32 @@
+{
+  "title": "Welcoming Duplex with Shared Courtyard in Port District",
+  "description": "This spacious duplex offers 4 comfortable bedrooms and 3 modern bathrooms in a generous 152 square meters configuration. The thoughtfully designed layout centers around an open-plan living area, perfect for family gatherings and entertaining guests. Key features such as a large walk-in closet, ensuite bathroom in the master suite, and video intercom provide convenience and security. Enjoy easy outdoor access with a shared courtyard and benefit from the flexibility of an EV charging station on-site.",
+  "neighborhood_description": "Port District delivers a unique mix of lively urban energy paired with a relaxed coastal pace of life. Located close to the city center, local amenities, small markets, and caf\u00e9s can be easily reached by foot or bike. Biking enthusiasts and road commuters alike will appreciate speedy access to bike lines and nearby highways, making daily routines seamless regardless of lifestyle.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 152,
+  "property_type": "duplex",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1445000,
+  "key_features": [
+    "shared courtyard",
+    "ensuite bathroom",
+    "video intercom",
+    "EV charging station",
+    "walk-in closet"
+  ],
+  "lifestyle_benefits": [
+    "potential for steady rental income",
+    "room for family growth",
+    "green and peaceful surroundings",
+    "excellent biking infrastructure"
+  ],
+  "target_buyer": "Property investors seeking a high-yield opportunity in a growing area ideal for family tenants or as a coastal holiday let.",
+  "market_positioning": "Occupies a rare spot in Ustka's property market as a family-sized duplex with modern amenities and strong investor appeal near the rejuvenated Port District."
+}

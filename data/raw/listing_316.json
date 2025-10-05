@@ -1,0 +1,32 @@
+{
+  "title": "Calm Scandinavian Duplex Nestled in Ustka\u2019s Port District",
+  "description": "This serene, newly built duplex showcases minimalist Scandinavian design across 132 sqm. Large patio doors gently connect a sun-kissed lounge to private, landscaped gardens. Three bright bedrooms and three airy bathrooms establish balance between restful privacy and modern communal living. An open-plan kitchen influences natural interaction and understated aesthetics.",
+  "neighborhood_description": "The Port District of Ustka features a tranquil, family-friendly vibe embraced by green ways and open spaces. Locals enjoy peaceful evenings and morning bike rides, well-connected via quick highway links and sweeping lanes. Everyday essentials and walkable park trails are moments away, framing a balanced lifestyle close to the Baltic coastline.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 132,
+  "property_type": "duplex",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1420000,
+  "key_features": [
+    "shared courtyard",
+    "rooftop deck",
+    "landscaped surroundings",
+    "patio doors opening to garden",
+    "fitness center"
+  ],
+  "lifestyle_benefits": [
+    "quiet long-term stability",
+    "outdoor lifestyle",
+    "easy family routines",
+    "active living"
+  ],
+  "target_buyer": "Ideal for long-term renters or families pursuing sustainable stability, tranquil surroundings, and space to grow.",
+  "market_positioning": "A unique option for those seeking modern Scandinavian comfort, outdoor living, and slow-paced wellbeing, with a comparatively rare garden duplex in Ustka\u2019s emerging coastal market."
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Sunny Studio Retreat in Charming Stare Miasto",
+  "description": "Nestled in the heart of Poznan's historic Stare Miasto, this delightful studio offers comfort and modern conveniences in a compact, easy-to-maintain layout. The 34 sqm space is bright and airy, featuring a modern kitchen perfect for low-fuss cooking and a stylish bathroom designed for ultimate comfort. The highlight is the charming rooftop deck, offering an oasis after a day in the bustling city.\n\nWhether you're relaxing indoors or enjoying your private outdoor space, this home responds perfectly to the needs of those seeking low-maintenance, high-quality living.",
+  "neighborhood_description": "Stare Miasto is a vibrant and sought-after district, renowned for its picturesque streets, proximity to the city center, and green pockets for leisurely strolls. Residents enjoy unbeatable convenience, with nearby public transport and well-marked bike lines making it simple to get around. The area is friendly to families and retirees alike, combining rich history with everyday essentials from shops, parks, and healthcare facilities.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 34,
+  "property_type": "studio apartment",
+  "city": "Poznan",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 419000,
+  "key_features": [
+    "automatic gate",
+    "modern kitchen",
+    "stylish bathroom",
+    "rooftop deck with panoramic views",
+    "ample built-in storage"
+  ],
+  "lifestyle_benefits": [
+    "low-maintenance living",
+    "ideal for relaxing or entertaining",
+    "easy city access",
+    "serene escape amid urban vibrancy"
+  ],
+  "target_buyer": "Ideal for retirees or individuals seeking an accessible, secure, and central home with extra amenities for comfort.",
+  "market_positioning": "Perfectly positioned for those looking to downsize or enjoy a lock-and-leave lifestyle without sacrificing on quality or city connections. This unique studio is competitively priced for its prestigious location and contemporary features in Poznan's bustling real estate market."
+}

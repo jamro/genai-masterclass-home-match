@@ -1,0 +1,34 @@
+{
+  "title": "Elegant Modern Loft with Panoramic Views in Gdansk Orunia",
+  "description": "Step into the pinnacle of contemporary living with this spacious 3-bedroom loft of 120 square meters, crafted for discerning tastes. Large industrial-style windows flood the space with natural light, offering breathtaking mountain views and an inspiring atmosphere. Experience the luxury of open-plan living, highlighted by high ceilings, an elegant designer kitchen, and seamless connectivity perfect for remote work or entertaining guests. A sumptuous bathroom serves as a private oasis within this stunning home.",
+  "neighborhood_description": "Nestled in the rising Orunia district of Gdansk, this property advocates for forward-thinking downtown living with a suburban twist. Experience exceptional convenience with shops, cafes, and renowned dining hotspots just a stroll away, all within a youthful and growing community. Quick access to public transportation and highways streamlines your commute and facilitates beautiful weekend escapes to nearby mountains.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 120,
+  "property_type": "loft",
+  "city": "Gdansk",
+  "neighborhood": "Orunia",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1345000,
+  "key_features": [
+    "video intercom",
+    "underground garage",
+    "outdoor dining area",
+    "designer open-plan kitchen",
+    "panoramic windows",
+    "high-speed fiber internet"
+  ],
+  "lifestyle_benefits": [
+    "ideal remote-work sanctuary",
+    "mountain and cityscape views from every room",
+    "vibrant culinary scene nearby",
+    "secluded yet connected habitat",
+    "steps from shopping and essential services"
+  ],
+  "target_buyer": "Perfect for modern professionals, creative entrepreneurs, and remote workers seeking a tranquil yet cosmopolitan lifestyle anchored by high-quality amenities.",
+  "market_positioning": "A rare offering in Gdansk's flourishing Orunia, this premium loft stands out for its blend of design sophistication, thoughtful amenities, and uplifting surroundings \u2013 delivering exceptional value and elevated living to Poland\u2019s tech-minded buyer."
+}

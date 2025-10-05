@@ -1,0 +1,32 @@
+{
+  "title": "Idyllic One-Bedroom Retreat with Garden Access in Pila's Enchanting Suburb",
+  "description": "Set within a tranquil neighborhood, this charming one-bedroom apartment offers a lifestyle of comfort and natural beauty. The interiors welcome you through patio doors that blur the lines between indoors and the shared garden, ideal for morning inspiration or evening relaxation. Enjoy a sleek, fully equipped kitchen and a bright living area perfect for remote work or unwinding after a productive day. Contemporary finishes are complemented by unique touches for a space that feels both fresh and enduring.",
+  "neighborhood_description": "Suburb in Pila combines the timeless character of historic Poland with the serenity of low-density living. Residents benefit from direct highway access for effortless commutes, while enjoying leafy lanes and pet-friendly courtyards. Walks in tranquil, history-soaked streets contrast with the vibrancy just a short drive away.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 48,
+  "property_type": "apartment",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 749000,
+  "key_features": [
+    "patio doors opening to garden",
+    "shared sauna",
+    "heated driveway",
+    "full modern kitchen",
+    "dedicated parking space"
+  ],
+  "lifestyle_benefits": [
+    "Perfect for busy professionals relocating for work",
+    "Access to green outdoor spaces and privacy",
+    "Sauna for relaxation and wellness",
+    "Pet-friendly environment",
+    "Hassle-free commuting via nearby highway"
+  ],
+  "target_buyer": "Designed for professionals or singles relocating for work who value both serenity and modern comforts, especially those with pets or greetings to entertain in a quiet yet well-connected setting.",
+  "market_positioning": "Rarely available garden-level apartments in Pila's leafy outskirts\u2014especially with top amenities and direct highway access\u2014means this property stands as a prime choice for buyers seeking a harmonious blend of seclusion, style, and convenience."
+}

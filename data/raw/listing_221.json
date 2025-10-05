@@ -1,0 +1,36 @@
+{
+  "title": "Modern Family Retreat in Pila's Suburban Haven",
+  "description": "Welcome to spacious living in this beautifully updated 6-bedroom, 3-bathroom house perfect for dynamic lifestyles. Spanning an impressive 265 sqm, this property features a contemporary open-plan layout, complete with a state-of-the-art kitchen and cozy central fireplace ideal for everyday moments or entertaining guests. Outside, kids will love the private playground area, while evenings sparkle thanks to smart motion-sensor exterior lighting. Communal spaces for residents, including a lounge, enhance your opportunities for relaxation and connection.",
+  "neighborhood_description": "Live the best of both worlds\u2014Suburb in Pila offers the peace and comfort of true suburban living, surrounded by greenery with friendly neighbors and safe streets. There's a genuine local vibe here, with bustling farmer\u2019s markets and cafes, yet you\u2019re close to convenient highway access for flexible city commutes. It\u2019s the fresh balance sought by modern couples and growing families.",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "size_sqm": 265,
+  "property_type": "house",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1790000,
+  "key_features": [
+    "6 spacious bedrooms",
+    "3 stylish bathrooms",
+    "modern open-plan kitchen",
+    "fireplace",
+    "motivation-sensor exterior lighting",
+    "dedicated residents' lounge",
+    "children's playground area",
+    "private garden",
+    "ample parking"
+  ],
+  "lifestyle_benefits": [
+    "quiet and safe neighborhood",
+    "perfect for families with children",
+    "easy access to highways for commuting",
+    "community-focused vibe",
+    "roomy home office options for remote work"
+  ],
+  "target_buyer": "Young professional couples or growing families seeking more space and a relaxed suburban environment without sacrificing modern conveniences.",
+  "market_positioning": "Highly competitive for value-driven buyers wanting generous space, upgraded features and suburban tranquility\u2014all within a short drive of vibrant urban amenities."
+}

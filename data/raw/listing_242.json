@@ -1,0 +1,30 @@
+{
+  "title": "Eco-Modern Family Oasis in Suburb, Nowy Sacz",
+  "description": "This modern 6-bedroom, 2-bathroom house marries crisp architectural lines with energy-efficient innovations, perfect for conscious families. Spanning 225 sqm, the property boasts an open floor plan that floods the interiors with light and permits easy flow for entertaining and everyday life. The landscaped garden creates a scenic retreat, while the automatic gate ensures convenience and security.",
+  "neighborhood_description": "Nestled in Suburb, Nowy Sacz, this home is situated in a peaceful area known for its artistic and welcoming community. Experience a tranquil suburban vibe with ample green spaces and a neighborly culture. Despite its relaxed atmosphere, immediate highway access means adventures and commutes beyond town are easy and efficient.",
+  "bedrooms": 6,
+  "bathrooms": 2,
+  "size_sqm": 225,
+  "property_type": "house",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1325000,
+  "key_features": [
+    "modern fa\u00e7ade design",
+    "open floor plan",
+    "energy-efficient windows",
+    "automatic gate",
+    "professionally landscaped surroundings"
+  ],
+  "lifestyle_benefits": [
+    "ideal for growing families and first-time buyers",
+    "access to artistic and community events nearby",
+    "immersive green spaces for relaxation"
+  ],
+  "target_buyer": "First-time buyers or young families seeking sustainable, turnkey living in a peaceful, creative suburban locale.",
+  "market_positioning": "A standout eco-modern residence that balances value, large-family capacity, and long-term energy savings. Perfectly positioned for buyers wanting spacious contemporary comfort outside the city hustle but with easy access for commuting."
+}

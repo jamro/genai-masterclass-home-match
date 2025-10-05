@@ -1,0 +1,31 @@
+{
+  "title": "Charming Studio Apartment in Historic Stare Miasto - Ideal for Pet Lovers",
+  "description": "Welcome to this beautifully renovated studio nestled within the heart of Stare Miasto, Zamosc\u2019s most charming historic district. This inviting property boasts an open-plan design, 1 spacious bedroom area, and a bright, modern bathroom. Enjoy plenty of sunlight thanks to large windows and a smart modern lighting system, all in a cozy 38sqm layout\u2014perfect for those seeking both comfort and practicality. An energy-efficient solar panel system helps lower utility costs while the tastefully updated modern kitchen inspires delightful daily cooking.",
+  "neighborhood_description": "Stare Miasto is renowned for its balanced lifestyle, offering peaceful streets lined with timeless architecture and quick access to everyday essentials. Families will appreciate proximity to excellent schools and welcoming green spaces, while pet owners can comfortably explore the nearby parks. Plenty of local shops, cafes, and vibrant cultural spots add to the community feel, with convenient public transport and easy highway access rounding out the area\u2019s appeal.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 38,
+  "property_type": "studio apartment",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 398000,
+  "key_features": [
+    "residents' lounge",
+    "modern lighting system",
+    "solar panels",
+    "modern kitchen"
+  ],
+  "lifestyle_benefits": [
+    "pet-friendly building and neighborhood",
+    "safe walkable surroundings",
+    "energy-efficient features for eco-conscious living",
+    "quick access to parks and outdoor spaces"
+  ],
+  "target_buyer": "Ideal for singles or couples (especially pet owners) seeking a uniquely cozy home base in a safe, friendly neighborhood with convenient access to daily essentials and leisure activities.",
+  "market_positioning": "This thoughtfully appointed, energy-efficient studio is competitively priced for Stare Miasto, offering an affordable opportunity to own a warm, modern home in Zamosc\u2019s most historic yet comfortable setting."
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Chic Modern Loft in Vibrant Dab, Katowice",
+  "description": "Bright, contemporary loft featuring 3 spacious bedrooms and a sleek, minimalist bathroom design. This newly renovated space blends modern comforts with industrial character, including built-in wardrobes for efficient storage and a designer open-plan kitchen. Walls of windows fill the home with sunlight, while streamlined finishes create an effortlessly stylish environment. A dedicated storage locker on the property adds everyday convenience.",
+  "neighborhood_description": "Located in the high-urban-level neighborhood of Dab, this property enjoys proximity to green parks and numerous cycle routes, balancing urban energy with pockets of tranquil outdoor space. Quartet-accessible public transport, dedicated bike lines, and nearby highways put the entire city and Silesian business region within convenient reach.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 112,
+  "property_type": "loft",
+  "city": "Katowice",
+  "neighborhood": "Dab",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1245000,
+  "key_features": [
+    "storage locker",
+    "newly renovated interior",
+    "modern open-plan kitchen",
+    "built-in wardrobes",
+    "eco-conscious lighting and recycling facilities"
+  ],
+  "lifestyle_benefits": [
+    "walkable to cafes and coworking spaces",
+    "ideal commute to city hub via public transport or bike",
+    "access to parks and outdoor activities",
+    "enables a sustainable active lifestyle"
+  ],
+  "target_buyer": "Entrepreneurs and professionals seeking a distinctive, eco-minded space with modern amenities just minutes from business hubs and urban social life.",
+  "market_positioning": "This loft stands out as a rare blend of industrial chic and green-focused design in Dab, positioned to attract dynamic professionals who value both workspace adaptability and access to lively city infrastructure."
+}

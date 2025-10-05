@@ -1,0 +1,35 @@
+{
+  "title": "Minimalist Scandinavian Home in Creative Katowice Hideaway",
+  "description": "This tastefully renovated house blends airy Scandinavian minimalism with cozy livability across its 4 serene bedrooms and 3 refined bathrooms. Spanning a generous 190 sqm, every corner embodies clean lines, abundant natural light, and functional beauty. The heated driveway welcomes you home in comfort, and the thoughtfully designed balcony extends tranquil views for fresh perspectives. An open-plan kitchen/dining creates the ideal setting for gathering, while dedicated bicycle storage makes life smooth for urban explorers.",
+  "neighborhood_description": "Set in the dynamic, bike-friendly Dab neighborhood, residents enjoy direct access to local cafes, schools, and lush parks perfect for creativity on the move. Seamlessly connected to public transport and major highways, getting around Katowice and beyond is effortless. Neighborhood life offers a rare balance of vibrant energy and quiet inspiration, ideal for balanced living.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 190,
+  "property_type": "house",
+  "city": "Katowice",
+  "neighborhood": "Dab",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1640000,
+  "key_features": [
+    "heated driveway",
+    "newly renovated interior",
+    "bicycle storage",
+    "laundry room",
+    "dining area with natural light",
+    "balcony"
+  ],
+  "lifestyle_benefits": [
+    "ideal for creative work-from-home setup",
+    "close to bike lines and green spaces",
+    "minimalist atmosphere inspiring productivity",
+    "abundant natural light",
+    "quick access to cultural hotspots and cafeterias"
+  ],
+  "target_buyer": "Creatives, artists, and urban professionals seeking a tranquil, bright living space with room for self-expression and family, coupled with convenient city access.",
+  "market_positioning": "Nestled in a sought-after, artist-friendly locale, this premium house stands out for its Scandinavian-inspired renovation and versatile features geared towards contemporary, creative living. Its size and amenities offer rare value among high-urban homes in Katowice."
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Chic Urban Loft in Vibrant Baluty \u2013 Perfect for Pet Owners",
+  "description": "Step into this bright and stylish one-bedroom loft nestled in a revitalized industrial building. Featuring spacious open-plan living, this 58 sqm home is adorned with panoramic windows offering stunning urban views. Airy yet cozy, it comes with a dedicated storage locker, a beautiful guest bathroom, and energy-efficient windows throughout.",
+  "neighborhood_description": "Situated in Baluty, one of Lodz\u2019s most dynamic neighborhoods, you\u2019ll enjoy a mix of lively urban energy and a young, trendy vibe perfect for professionals. Outstanding public transport and quick highway connections mean everything is easily accessible, while nearby cafes, pet-friendly parks, and modern amenities create a vibrant social scene.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 58,
+  "property_type": "loft",
+  "city": "Lodz",
+  "neighborhood": "Baluty",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 945000,
+  "key_features": [
+    "storage locker",
+    "energy-efficient windows",
+    "panoramic windows",
+    "guest bathroom"
+  ],
+  "lifestyle_benefits": [
+    "dedicated pet spaces nearby",
+    "easy commute via public transport",
+    "community green areas",
+    "secure, lock-and-leave lifestyle"
+  ],
+  "target_buyer": "Ideal for young professionals or couples with pets looking for a stylish, central home with low upkeep and dynamic surroundings.",
+  "market_positioning": "Stands out for its industrial charm and practical pet-friendly features\u2014offering contemporary style at excellent value within Lodz\u2019s highly desirable Baluty district."
+}

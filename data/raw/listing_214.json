@@ -1,0 +1,34 @@
+{
+  "title": "Sleek Urban Studio with Panoramic Windows in Trendy Krzyki",
+  "description": "Step into sophisticated city living with this stylish studio apartment, designed perfectly for young professionals. The open-plan layout utilizes every meter thoughtfully, highlighted by large panoramic windows filling the space with energizing natural light. Upscale finishes, smart storage solutions, and a chic bathroom establish both comfort and convenience. Enjoy elevated touches like a secure storage locker and access to beautifully landscaped surroundings.",
+  "neighborhood_description": "Located in Krzyki, one of Wroclaw\u2019s most vibrant and eco-friendly communities, this address places you within the city\u2019s cultural heart and emerging green scene. Savor easy access to public transport and dedicated bike lines, surrounded by coffee spots, galleries, and lush parkways. Enjoy a neighborhood that values sustainable living, artistic flair, and social vibrancy.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 33,
+  "property_type": "studio apartment",
+  "city": "Wroclaw",
+  "neighborhood": "Krzyki",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 440000,
+  "key_features": [
+    "panoramic windows",
+    "storage locker",
+    "stylish bathroom",
+    "built-in wardrobe",
+    "landscaped surroundings",
+    "secure entry"
+  ],
+  "lifestyle_benefits": [
+    "Access to thriving cultural events",
+    "Situated in an eco-conscious enclave",
+    "Abundant natural light",
+    "Perfect launchpad for a dynamic urban lifestyle"
+  ],
+  "target_buyer": "Ideal for young professionals or digital nomads seeking a touch of luxury and convenience in Wroclaw's creative district.",
+  "market_positioning": "Highly desirable starter or investment property for style-minded urbanites, positioned competitively in Krzyki\u2019s trending market with premium features catered to modern lifestyles."
+}

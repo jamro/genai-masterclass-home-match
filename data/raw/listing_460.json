@@ -1,0 +1,33 @@
+{
+  "title": "Luxury Studio Sanctuary near Sopot Waterfront",
+  "description": "Experience refined living in this elegant studio apartment situated in the distinguished Kamienny Potok district of Sopot. Boasting a sleek, open-plan interior year-round bathed in natural light, this modern space offers a sophisticated living and sleeping area alongside a beautifully appointed bathroom. At approximately 36 sqm, the apartment seamlessly blends comfort with practicality\u2014ideal for a premium urban lifestyle. Exclusive access to a swimming pool within the development, high-end custom lighting, and a private EV charging station cater to your every need.",
+  "neighborhood_description": "Kamienny Potok thrives as a cultural district in Sopot, renowned for its close proximity to the city\u2019s sandy waterfront and vibrant promenade. The area provides easy access to leafy parks, boutique shopping, and gourmet dining, all complemented by efficient public transit and scenic bike lines, making it perfect for hopping between relaxation and local excitement. Popular with modern families and those seeking both vibrancy and peaceful moments by the sea.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio apartment",
+  "city": "Sopot",
+  "neighborhood": "Kamienny Potok",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 475000,
+  "key_features": [
+    "swimming pool access",
+    "modern lighting system",
+    "EV charging station",
+    "high-security entrance",
+    "open-concept living/sleeping area"
+  ],
+  "lifestyle_benefits": [
+    "walking distance to waterfront",
+    "access to shopping and dining",
+    "ideal urban cycling routes",
+    "destination for cultural outings",
+    "holistic wellness amenities"
+  ],
+  "target_buyer": "Sophisticated singles or young couples seeking understated luxury near the seaside; also well-suited to small families with a child desiring upscale living in Sopot with premium amenities and a prime city-meets-nature location.",
+  "market_positioning": "Uniquely positioned as a premium boutique studio combining spa-grade leisure facilities with immediate access to Sopot\u2019s waterfront aura. Competes with high-end city apartments by offering more exclusive, resort-style amenities in a tranquil, yet central area."
+}

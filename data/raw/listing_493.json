@@ -1,0 +1,36 @@
+{
+  "title": "Sleek Studio Haven for Modern Professionals in Bronowice",
+  "description": "Step into this meticulously designed studio apartment in Bronowice, perfectly suited for city-savvy professionals. With smart home features throughout and a streamlined modern kitchen, every inch of the 34 sqm open-plan space has been thoughtfully considered for maximum comfort and connectivity. Ease into relaxation with exclusive resident amenities like a sauna and barbecue zone, or enjoy the assurance of an underground garage and a stylish reception area.",
+  "neighborhood_description": "Located in Krakow\u2019s progressive Bronowice neighborhood, you\u2019re moments from verdant parks, tech hubs, and a vibrant riverside promenade. This area strikes the ideal balance between city energy and a friendly, innovative vibe\u2014making commuting seamless with extensive public transport, well-developed biking lanes, highway access, and easy connections to the airport.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 34,
+  "property_type": "studio apartment",
+  "city": "Krakow",
+  "neighborhood": "Bronowice",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway",
+    "airport"
+  ],
+  "price": 449000,
+  "key_features": [
+    "smart home system",
+    "modern kitchen",
+    "shared sauna",
+    "underground garage",
+    "reception desk",
+    "barbecue zone"
+  ],
+  "lifestyle_benefits": [
+    "quick access to tech firms",
+    "relaxation zones at home",
+    "near parks and recreation",
+    "walkable to the river",
+    "great for eco-friendly commuting"
+  ],
+  "target_buyer": "Ideal for young professionals or expats relocating for work, seeking convenience, style, and smart urban living moments from offices in dynamic Krakow.",
+  "market_positioning": "Competitively positioned towards upwardly-mobile singles and professionals seeking contemporary comfort, secure amenities, and easy transportation, standing out due to its smart features and stylish community setting."
+}

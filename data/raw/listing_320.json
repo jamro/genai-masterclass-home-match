@@ -1,0 +1,32 @@
+{
+  "title": "Charming Studio Oasis in Peaceful Brynow, Katowice",
+  "description": "This cozy studio offers a newly renovated interior combining practicality and style, making it perfect for comfortable living. With 35 sqm of efficiently designed space, the apartment includes a modern, open layout, energy-efficient windows that flood the room with natural light, and a tastefully finished bathroom. Enjoy summer evenings on the inviting rooftop deck and skip the parking hassle thanks to your private parking space. Boasting calm and quiet, this studio is a true sanctuary to recharge and relax.",
+  "neighborhood_description": "Nestled in the family-friendly Brynow district, this location balances tranquility with great connections across Katowice. You'll appreciate peaceful surrounds, ample green spaces, and convenient everyday amenities like shops, cafes, and groceries. Reliable public transportation and extensive bike lanes mean easy commutes to the city center or university campuses without sacrificing the slower pace of neighborhood life.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 35,
+  "property_type": "studio",
+  "city": "Katowice",
+  "neighborhood": "Brynow",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 389000,
+  "key_features": [
+    "private parking space",
+    "newly renovated interior",
+    "energy-efficient windows",
+    "quiet neighborhood setting",
+    "rooftop deck"
+  ],
+  "lifestyle_benefits": [
+    "peaceful study environment",
+    "easy commute to universities",
+    "outdoor relaxation on rooftop deck",
+    "close to amenities"
+  ],
+  "target_buyer": "Ideal for students or young professionals seeking a quiet and convenient home environment with easy access to university campuses and vibrant city attractions.",
+  "market_positioning": "Refreshingly modern yet affordable, this studio targets first-time buyers and students who value peaceful living within a well-connected urban district, offering a strong balance between price, features, and location in the Brynow real estate market."
+}

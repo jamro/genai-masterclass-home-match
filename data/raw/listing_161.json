@@ -1,0 +1,32 @@
+{
+  "title": "Sunlit Designer Loft for Modern Family Living in Artistic Radziwie",
+  "description": "Set within a charming, converted industrial space, this airy 120 sqm loft welcomes you with streams of natural light, its soaring ceilings opening above three tranquil bedrooms and two elegant bathrooms. The home balances creative spirit and family comfort, highlighted by a sleek modern kitchen, ensuite spa-inspired master bath, and ample built-in storage. For convenience and security, benefit from elevator access and an automatic gate. Every element serves daily ease, while exposed brick and wide plank floors nod to its artistic roots.",
+  "neighborhood_description": "Nestled in Radziwie, one of Plock\u2019s most vibrant, family-friendly districts, the loft sits moments from leafy parks, lively playgrounds, and excellent schools\u2014all in a relaxed setting steeped in local creative energy. Explore museums, galleries, and community festivals right outside your door, all comfortably removed from city bustle. Commuting is a breeze thanks to public transport stops and nearby highway links.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 120,
+  "property_type": "loft",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 995000,
+  "key_features": [
+    "elevator access",
+    "ensuite bathroom",
+    "automatic gate",
+    "storage room",
+    "modern kitchen"
+  ],
+  "lifestyle_benefits": [
+    "walk to parks and playgrounds",
+    "close to schools and cultural attractions",
+    "family-sized open layout",
+    "relaxed neighborhood vibe"
+  ],
+  "target_buyer": "Perfect for creative or professional families with children who long for both city convenience and calm, inspiring living spaces.",
+  "market_positioning": "This unique loft represents a rare opportunity in Radziwie: a contemporary, move-in-ready family home with authentic industrial character, competitively priced for discerning buyers recognising the value of space, community, and architectural flair."
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Elegant Urban Retreat with Private Garden in Leszno Zatorze",
+  "description": "Discover a unique blend of elegance and comfort in this luxurious 1-bedroom, 2-bathroom apartment, encompassing 62 square meters of thoughtfully designed living space. Convenient elevator access seamlessly ushers you up to an oasis complete with a charming private garden\u2014perfect for moments of relaxation. Delight in features like a cozy fireplace for fabulous winter evenings, serene home office space, and modern bicycle storage. The property marries practicality with sophistication at every turn.",
+  "neighborhood_description": "Nestled in the sought-after Zatorze neighborhood, this address caters to a vibrant, eco-conscious community known for its serenity, green spaces, and glimpses of distant mountain views. With seamless access to public transport and key highway routes, the location grants a perfect balance between peaceful living and inmmediate connectivity. Daily essentials, cafes, and recreation facilities are only moments away, encouraging a lifestyle both convenient and refined.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 62,
+  "property_type": "apartment",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 880000,
+  "key_features": [
+    "bicycle storage",
+    "elevator access",
+    "private garden",
+    "home office space",
+    "fireplace",
+    "24/7 security"
+  ],
+  "lifestyle_benefits": [
+    "proximity to universities",
+    "dedicated study space",
+    "green sustainable living",
+    "mountain views",
+    "tranquil yet connected locale"
+  ],
+  "target_buyer": "Discerning student seeking unrivaled individual comfort and style, appreciative of prestige location with strong academic and lifestyle links.",
+  "market_positioning": "Situated where urban luxury intersects with tranquil suburban charm, this apartment sits at the top-tier of Leszno\u2019s market for premium rentals/sales to young professionals and affluent students desiring upscale amenities and eco-forward living."
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Spacious 3-Bedroom Family Apartment with Scenic Mountain Views in Grunwald, Poznan",
+  "description": "Welcome to this bright and spacious 3-bedroom apartment nestled in Grunwald, Poznan\u2014a perfect home for families and pet lovers alike. With generously sized rooms and an open-plan living area, this apartment spans 94 sqm and offers two modern bathrooms for daily comfort. Contemporary design is coupled with practical amenities such as a video intercom and wheelchair-accessible entrances, ensuring both safety and convenience. Step outside to enjoy the resident-only children's playground, ideal for families to bond and socialize.",
+  "neighborhood_description": "Located in the heart of the welcoming Grunwald district, this residence boasts a genuine sense of community with friendly neighbors and frequent family activities. You'll love evening walks with mountain views on nearby trails, or taking advantage of the many green spaces for you and your pet to enjoy. Easy access to public transport, extensive bike lines, and the local highway simplifies daily commutes, while nearby schools, shops, and cafes support vibrant, family-friendly living.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 94,
+  "property_type": "apartment",
+  "city": "Poznan",
+  "neighborhood": "Grunwald",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 980000,
+  "key_features": [
+    "Video intercom system",
+    "Children's playground area",
+    "Wheelchair accessible building",
+    "Bright open-plan living",
+    "Two modern bathrooms"
+  ],
+  "lifestyle_benefits": [
+    "Perfect for pet owners with access to open green spaces",
+    "Safe and friendly community for families and children",
+    "Convenient transportation options for easy commuting",
+    "Mountain views from common areas"
+  ],
+  "target_buyer": "An active family or a couple with pets seeking a close-knit, child-friendly, and accessible community with easy city access.",
+  "market_positioning": "A spacious, mid-market, family-oriented apartment with premium community features in Poznan's desirable Grunwald neighborhood, blending comfort with practical amenities."
+}

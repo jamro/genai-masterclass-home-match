@@ -1,0 +1,33 @@
+{
+  "title": "Industrial-Style Modern Loft with Green Tech in Tranquil Dyrekcja",
+  "description": "Experience urban living in this spacious, high-ceilinged loft featuring 2 bedrooms and 2 bathrooms, thoughtfully designed for maximum comfort and style. Measuring 97 sqm of open-plan space, this modern property offers floor-to-ceiling windows, polished concrete flooring, and a private balcony perfect for enjoying quiet mornings. The key feature is the advanced smart home system, seamlessly integrated into every room, making city life simple and convenient.",
+  "neighborhood_description": "Nestled within the peaceful neighborhood of Dyrekcja in Chelm, residents enjoy a safe haven with a distinct bike-friendly culture. The low urban density and nearby highway access offer a convenient escape from city bustle\u2014perfect for commuters and those valuing privacy. Surroundings offer green lanes, cozy local markets, and ample pocket parks for relaxation or morning jogs.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 97,
+  "property_type": "loft",
+  "city": "Chelm",
+  "neighborhood": "Dyrekcja",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1160000,
+  "key_features": [
+    "high ceilings and open plan layout",
+    "full home smart automation",
+    "south-facing private balcony",
+    "integrated solar panels",
+    "modern residents' lounge",
+    "wheelchair accessible entrance and elevator",
+    "24/7 on-site security"
+  ],
+  "lifestyle_benefits": [
+    "easy highway access for commuters",
+    "energy savings from solar tech",
+    "peaceful and secure surrounding",
+    "ample cycling and running routes nearby"
+  ],
+  "target_buyer": "Envisioned for property investors and young professionals seeking a stylish space that's both a savvy investment and a comfortable residence. Ideal for those who desire turn-key convenience alongside smart, sustainable features.",
+  "market_positioning": "This loft stands out in the Chelm market for its blend of modern amenities and sustainability, targeting buyers looking for future-proof, low-maintenance investments. Its features and location position it above standard offerings in the suburb bracket, offering strong rental and resale potential."
+}

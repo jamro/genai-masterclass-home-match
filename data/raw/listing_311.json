@@ -1,0 +1,30 @@
+{
+  "title": "Minimalist Scandinavian House with Private Garden Near Waterfront",
+  "description": "This six-bedroom Scandinavian-inspired house balances space and simplicity. Natural light pours into an open-plan living area with clean design cues and calming whites. Three stylish bathrooms meet modern needs while a private garden offers fresh air for family gatherings, work, or relaxation.",
+  "neighborhood_description": "Set in Suburb, Nowy Sacz, this eco-conscious enclave is mere steps from the serene waterfront. Residents enjoy peace and nature, expanding outdoor opportunities within a thoughtful community driven by green living initiatives. Proximity to highway access supports easy travel around the region.",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "size_sqm": 234,
+  "property_type": "house",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1420000,
+  "key_features": [
+    "children's playground area",
+    "residents' lounge",
+    "private garden",
+    "reception desk"
+  ],
+  "lifestyle_benefits": [
+    "tranquility for focused work",
+    "proximity to waterfront walks or runs",
+    "room for creativity and family life",
+    "active eco community spirit"
+  ],
+  "target_buyer": "Remote professionals and digital nomads with families prioritizing balance of nature, community, and flexible working from a spacious, light-filled home.",
+  "market_positioning": "Distinct within the local market for blending functional minimalism, dedicated family/play areas, and workspace flexibility, all positioned within an eco-conscious riverside neighborhood."
+}

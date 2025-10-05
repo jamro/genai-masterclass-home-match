@@ -1,0 +1,32 @@
+{
+  "title": "Modern Scandinavian Home with Urban Outlook in Radziwie",
+  "description": "Bathe in natural light in this minimalist Scandinavian-inspired house, featuring 3 comfortable bedrooms and 2 sleek bathrooms. The open living space boasts a fireplace that anchors calm evenings and flows into a refined modern fa\u00e7ade design. Step out to a private barbecue zone\u2014an open-air invitation to unwind or entertain. Retreat outdoors commingles at-home serenity with invigorating city views.",
+  "neighborhood_description": "Set in Radziwie, Plock's vibrant gateway, the house overlooks gradually developing modern surroundings\u2014ample city energy with the breathtaking silhouette of mountains in the distance. Abundant green spaces merge with new amenities, set beside swift highway access and dependable public transport options for seamless commuting.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 137,
+  "property_type": "house",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1240000,
+  "key_features": [
+    "modern Scandinavian fa\u00e7ade",
+    "EV charging station",
+    "inviting fireplace",
+    "private barbecue zone",
+    "energy-efficient solutions"
+  ],
+  "lifestyle_benefits": [
+    "optimal commuter location",
+    "indoor-outdoor integration",
+    "contemporary living",
+    "quiet corners for remote work"
+  ],
+  "target_buyer": "Ideal for professionals or families seeking a fresh start\u2014those relocating for work who value design clarity, sustainable features, and proximity to both workplaces and nearby amenities.",
+  "market_positioning": "Positioned for discerning buyers looking for a rare fusion of minimalist Scandinavian elegance and modern utility in a lively, up-and-coming area with swift connections to Plock's economic hubs."
+}

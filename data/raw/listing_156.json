@@ -1,0 +1,34 @@
+{
+  "title": "Striking Urban Duplex in the Heart of Stare Miasto",
+  "description": "Step inside this contemporary duplex nestled between history and modernity in Poznan's Stare Miasto. The four generous bedrooms and three sleek bathrooms are designed to provide a calm escape amid city buzz, spanning a thoughtfully arranged 152 sqm. A sun-kissed dining area welcomes you with natural light while the signature modern kitchen forms the heart of the home. Enjoy crafted landscapes fine-tuned for low-maintenance living.",
+  "neighborhood_description": "Stare Miasto pulses with artistic flair, rich heritage, and a dynamic social beat. Indulge in the array of shopping and gourmet dining on every picturesque street corner, or simply bask in the safety and cultured calm of this old-town gem. Excellent public transport and scenic bike lines express the urban vibrancy and seamless connectivity essential for city life.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 152,
+  "property_type": "duplex",
+  "city": "Poznan",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1450000,
+  "key_features": [
+    "modern kitchen",
+    "dining area with natural light",
+    "landscaped surroundings",
+    "rainwater collection system",
+    "bicycle storage",
+    "smart home system"
+  ],
+  "lifestyle_benefits": [
+    "prime location for strong rental income",
+    "appealing to cosmopolitan tenants",
+    "minimal upkeep for investors",
+    "lock-up-and-leave convenience",
+    "eco-friendly and sustainable utilities"
+  ],
+  "target_buyer": "The ideal buyer is an astute property investor seeking both capital appreciation and high rental yield through strong location draw and low-maintenance city living. Attractive for those building a modern, urban portfolio or seeking to delight discerning tenants.",
+  "market_positioning": "This property commands a rare position amidst Poznan's most coveted heritage district, standing out with sustainable, future-focused features. Well-priced for its address and amenitized appeal, the duplex is tailored for the savvy investor keen to combine price stability, rental prospects, and lustrous European city living."
+}

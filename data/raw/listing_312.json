@@ -1,0 +1,34 @@
+{
+  "title": "Exclusive Waterfront Retreat in Krosno Old Town with Modern Luxuries",
+  "description": "Discover the appeal of refined country living in this newly renovated five-bedroom house, basking in tranquil natural light thanks to premium energy-efficient windows. Sprawling over 260 sqm of thoughtfully designed space, every corner invites comfort: from versatile rooms\u2014ideal for family activities or a dedicated home office\u2014to two contemporary bathrooms. The heart of the home centers around an open-plan living area extending onto a picturesque shared courtyard, promising privacy and elegance in every detail. A turn-key proposition blending classic architecture with lavish modern upgrades.",
+  "neighborhood_description": "Nestled in Krosno's charming Old Town, this historic neighborhood exudes a peaceful ambiance, embraced by lush green surroundings and nearby water vistas. Stroll tree-lined lanes, cycle through bike-friendly paths, or unwind by the tranquil river mere steps away. Combining serenity with easy highway access, Old Town pairs old-world character with emerging innovative, tech-focused co-working spaces and amenities.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 260,
+  "property_type": "house",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1790000,
+  "key_features": [
+    "energy-efficient windows",
+    "newly renovated interior",
+    "home office space",
+    "shared courtyard",
+    "spacious open-plan living area",
+    "luxury bathroom fittings",
+    "ample storage space"
+  ],
+  "lifestyle_benefits": [
+    "walks by the waterfront",
+    "easy cycling routes",
+    "private home office for remote work and expats",
+    "green, peaceful environment",
+    "excellent for gatherings and entertaining"
+  ],
+  "target_buyer": "Ideal for successful expats, professionals, or international families seeking peace, style, and connectivity within a prestigious Krosno address.",
+  "market_positioning": "A rare fusion of classic elegance and contemporary convenience, this prestigious home commands local attention as the premium residence for discerning global buyers seeking an inspiring retreat in one of Krosno's most coveted, quiet neighborhoods."
+}

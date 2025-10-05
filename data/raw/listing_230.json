@@ -1,0 +1,34 @@
+{
+  "title": "Elegant Duplex in Zamosc's Historic Stare Miasto \u2013 Perfect for Modern Families and Entrepreneurs",
+  "description": "Welcome to this beautifully presented 3-bedroom, 3-bathroom duplex in the heart of Stare Miasto, Zamosc. Featuring a spacious layout of 162 sqm, this energy-efficient home offers abundant natural light and airy interiors. The ground floor seamlessly connects the modern kitchen and living area to a tranquil garden space through patio doors, perfect for family gatherings and relaxation. Thoughtfully designed built-in wardrobes and air conditioning throughout the property add modern comfort, while the private garden provides a lush outdoor retreat.",
+  "neighborhood_description": "Stare Miasto is renowned for its unique blend of historic charm and modern conveniences. With easy access to public transport and highways, entrepreneurs and families enjoy both connectivity and calm in this vibrant district. Charming cobblestone streets and architectural landmarks are complemented by quality caf\u00e9s and local businesses.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 162,
+  "property_type": "duplex",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1390000,
+  "key_features": [
+    "fitness center",
+    "built-in wardrobes",
+    "co-working space",
+    "energy-efficient building",
+    "air conditioning",
+    "patio doors opening to garden"
+  ],
+  "lifestyle_benefits": [
+    "Spacious private garden for family entertainment",
+    "In-home co-working space for productivity",
+    "Modern amenities set within a historical setting",
+    "Convenient access to transport and Zamosc\u2019s business district",
+    "Ideal for active entrepreneurial families"
+  ],
+  "target_buyer": "Dynamic families or entrepreneurs seeking space to grow a business and a family in a community rich in history and convenient to local amenities.",
+  "market_positioning": "This duplex stands out as a unique home-office solution, combining heritage surroundings with contemporary finishes to attract professionals and families that want style, efficiency, and prime city access within Zamosc."
+}

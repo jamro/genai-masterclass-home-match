@@ -1,0 +1,31 @@
+{
+  "title": "Minimalist Loft Retreat with Mountain Views in Koscielisko",
+  "description": "This sleek, minimalist Scandinavian loft sits at the edge of breathtaking environs in the Koscielisko village, just outside Zakopane. Thoughtfully designed across 60 sqm, the space bathes in natural light through expansive panoramic windows and boasts a walk-in closet. The streamlined single bedroom and bespoke bathroom offer comfort paired with design simplicity. Elevator access and an underground garage provide day-to-day convenience.",
+  "neighborhood_description": "Surrounded by the quiet, rustic charm of Koscielisko, this loft benefits from a storied historic village atmosphere and proximity to well-regarded local schools. The area is prized for its tranquil character, striking mountain backdrop, and swift road connections to Zakopane via the nearby highway.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 60,
+  "property_type": "loft",
+  "city": "Zakopane",
+  "neighborhood": "Koscielisko",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1060000,
+  "key_features": [
+    "underground garage",
+    "panoramic windows",
+    "elevator access",
+    "walk-in closet",
+    "dedicated barbecue zone"
+  ],
+  "lifestyle_benefits": [
+    "close proximity to nature trails",
+    "inspiring mountain panoramas from private windows",
+    "calm village pace supports productivity",
+    "modern amenities for ease of daily living"
+  ],
+  "target_buyer": "Ideal for entrepreneurs or young professionals seeking a serene base that stimulates self-driven work and creativity, surrounded by wilderness and classic village charm.",
+  "market_positioning": "A contemporary loft for the discerning buyer wanting understated elegance and modern features, rare in a historic village setting\u2014premium minimalist living with mountain proximity, targeted at ambitious professionals valuing peace and connectivity."
+}

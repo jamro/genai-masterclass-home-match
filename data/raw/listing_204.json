@@ -1,0 +1,34 @@
+{
+  "title": "Duplex With Timeless Elegance in Vibrant Zatorze",
+  "description": "Step into historic charm with this beautifully preserved duplex featuring 4 spacious bedrooms and 3 modern bathrooms. Spread effortlessly across 147 sqm, the property harmonises original craftsmanship\u2014think high ceilings, restored moldings, and sunlit quartz-finished outdoor dining balcony. The thoughtful layout blends comfort and elegance, complete with dedicated storage rooms, a guest bathroom, plus elevator access for easy everyday living.",
+  "neighborhood_description": "Nestled in Leszno\u2019s lively Zatorze district, this address places you moments from picturesque caf\u00e9s, shopping arcades, and boutiques that reflect the neighbourhood's dynamic urban spirit. The area features diverse dining, trendy hotspots, and excels in family-friendliness with top-rated schools nearby and wide green boulevards. Urban culture meets effortless convenience here, with easy access to both public transport and highways.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 147,
+  "property_type": "duplex",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1160000,
+  "key_features": [
+    "24/7 security",
+    "storage room",
+    "guest bathroom",
+    "outdoor dining area",
+    "pets allowed",
+    "elevator access"
+  ],
+  "lifestyle_benefits": [
+    "Peace of mind in a secured community",
+    "Urban energy mingled with rich history",
+    "Convenience of nearby shops and parks",
+    "Space and amenities perfect for growing families or hosting friends",
+    "Pet-friendly home in a bustling location"
+  ],
+  "target_buyer": "First-time buyers aiming for style and substance will love this duplex\u2014a unique chance for families, young professionals, or anyone seeking modern comfort balanced with authentic period charm in a connected urban setting.",
+  "market_positioning": "This residence represents an accessible entry to the Leszno market for style-conscious buyers, combining historic ambiance with contemporary comfort and location perks in a growth-oriented neighborhood poised for future value."
+}

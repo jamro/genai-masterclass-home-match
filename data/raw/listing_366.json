@@ -1,0 +1,34 @@
+{
+  "title": "Warm Family Loft with Artistic Flare in Polesie",
+  "description": "Step into this radiant 102 sqm artist-inspired loft, perfectly curated for family life. Set in a red-brick former factory, this airy retreat stretches across two intuitive levels, revealing two cheerful bedrooms over gleaming hardwood floors. Natural light pours in through oversized windows into the inviting living space and the fully-equipped, modern kitchen dazzles with smart appliances. Slide open the glass doors to your private terrace\u2014an oasis for relaxed evenings or sun-soaked morning playdates.",
+  "neighborhood_description": "Nestled in the heart of Polesie, an eclectic artistic community pulses through every nearby mural and street-side gallery. Caf\u00e9s and cycle-friendly paths fill this lively district, while leafy bike lanes and parks span in every direction\u2014a true haven for young families. With excellent public transport links and swift highway access, you\u2019re perfectly placed to navigate Lodz with ease.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 102,
+  "property_type": "loft",
+  "city": "Lodz",
+  "neighborhood": "Polesie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1080000,
+  "key_features": [
+    "children's playground area",
+    "recycling facilities",
+    "terrace",
+    "modern kitchen",
+    "rainwater collection system",
+    "hardwood floors"
+  ],
+  "lifestyle_benefits": [
+    "family-friendly open layout",
+    "wall space for art or expression",
+    "access to green communal courtyards",
+    "bike-friendly commuting"
+  ],
+  "target_buyer": "This home is perfect for creative families wishing to nurture young children in a vibrant, inspiring, and sustainable Lodz neighborhood.",
+  "market_positioning": "Uniquely placed for families seeking more than simple square footage\u2014a home matching their artistic lifestyle, in an up-and-coming creative quarter, providing charm, utility, and daily inspiration."
+}

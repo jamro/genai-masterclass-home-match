@@ -1,0 +1,32 @@
+{
+  "title": "Eco-Modern Duplex Retreat in the Port District, Ustka",
+  "description": "Embrace sustainable living in this contemporary 4-bedroom duplex nestled in Ustka\u2019s tranquil Port District. Spanning 150 sqm, this energy-efficient home features bright, open-plan spaces ideal for creative pursuits, two modern bathrooms, and direct access to green surroundings. The duplex offers a private barbecue zone and a dedicated laundry room, complemented by meticulously maintained shared areas, marrying function with style.",
+  "neighborhood_description": "The Port District offers a unique blend of culture and tranquility, known as Ustka\u2019s up-and-coming quarter for artists and creatives. Enjoy the peaceful ambiance of a low-density, rapidly growing neighborhood with galleries and studios springing up alongside picturesque street art. Effortlessly commute thanks to convenient highway connections and scenic bike lanes, all against the backdrop of the Baltic coast.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 150,
+  "property_type": "duplex",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1475000,
+  "key_features": [
+    "quiet neighborhood setting",
+    "energy-efficient building",
+    "barbecue zone",
+    "well-maintained common areas",
+    "laundry room"
+  ],
+  "lifestyle_benefits": [
+    "proximity to emerging cultural hubs",
+    "inspiring privacy and tranquility",
+    "sustainable eco-friendly design",
+    "space ideal for art studios"
+  ],
+  "target_buyer": "Ideal for artists, writers, and visionaries seeking a blend of eco-conscious living and a serene environment that sparks creativity.",
+  "market_positioning": "This duplex stands out in Ustka as a modern, eco-friendly home tailored for creatives, competitively priced within the area\u2019s evolving market, and offering cohesive, purposeful amenities in Ustka\u2019s thriving Port District."
+}

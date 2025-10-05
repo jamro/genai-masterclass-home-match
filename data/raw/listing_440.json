@@ -1,0 +1,33 @@
+{
+  "title": "Historic Duplex with Character in Trendy Wilda",
+  "description": "Discover the appeal of this distinguished 5-bedroom duplex, nestled within one of Poznan\u2019s iconic townhouses in Wilda. This property blends historic architectural elements\u2014such as original hardwood floors\u2014with contemporary comforts like balcony views and storage space. Boasting a generous 146 sqm combined over two airy floors, the residence offers spacious group living alongside two full bathrooms. Adjacently, a cared-for shared sauna and access to a courtyard invite relaxation between studies or after lively gatherings.",
+  "neighborhood_description": "Wilda is known for its vibrant mix of tradition and innovation, emerging as one of Poznan's most revitalized neighborhoods. Modern caf\u00e9s, markets, and communal spaces flourish amid historic townscape. The area is extremely pet friendly and easily traversed\u2014students will enjoy direct proximity to public transport and a network of safe bike lines for effortless access to university campuses and city hotspots.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 146,
+  "property_type": "duplex",
+  "city": "Poznan",
+  "neighborhood": "Wilda",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1390000,
+  "key_features": [
+    "original hardwood floors",
+    "shared sauna",
+    "balcony",
+    "storage locker",
+    "shared courtyard"
+  ],
+  "lifestyle_benefits": [
+    "plenty of living space for roommates",
+    "urban yet quiet setting",
+    "distance to city universities and cultural life",
+    "relaxing communal sauna and outdoor courtyard",
+    "pet-friendly environment"
+  ],
+  "target_buyer": "Ideal for student groups seeking shared yet independent living close to campuses and city life, with room for studying, relaxing, and entertaining.",
+  "market_positioning": "A unique historic duplex offering larger space and rare amenities compared to typical flats, blending age-old charm with modern updates for vibrant urban students or young communities seeking a warm, characteristic base in central Poznan."
+}

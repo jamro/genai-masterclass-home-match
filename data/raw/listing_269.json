@@ -1,0 +1,35 @@
+{
+  "title": "Bright Family House with Barbecue Zone in Stare Miasto",
+  "description": "This charming house in the heart of Stare Miasto offers a wonderful blend of comfort and functionality, perfect for modern families. With four spacious bedrooms and two well-appointed bathrooms over 180 sqm, the home provides abundant space for work, relaxation, and entertaining guests. The thoughtfully landscaped surrounds and a dedicated barbecue zone create private spaces untethered from the bustle of city life. Large windows throughout bring in plenty of natural light, crafting an inviting atmosphere for all seasons.",
+  "neighborhood_description": "Located within walking distance to Poznan\u2019s lively city center, this home stands in a historic district filled with architectural character. You'll be steps away from an exciting array of shopping and dining options, convenient public transport connections, and extensive bike paths for smooth urban living. The neighborhood blends old-town charm with a vibrant, modern lifestyle.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 180,
+  "property_type": "house",
+  "city": "Poznan",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1850000,
+  "key_features": [
+    "close to public transport",
+    "private barbecue zone",
+    "landscaped garden",
+    "four bedrooms",
+    "spacious living area",
+    "historic neighborhood",
+    "bicycle storage"
+  ],
+  "lifestyle_benefits": [
+    "convenient bike and public transport access",
+    "dedicated zones for remote work",
+    "walkable shopping and dining",
+    "family-friendly outdoor spaces",
+    "plenty of natural light"
+  ],
+  "target_buyer": "Ideal for families seeking urban living with easy remote work setups or for professionals wanting proximity to city center and historic charm.",
+  "market_positioning": "A rare opportunity for a move-in ready family house in high-demand Stare Miasto, combining city-center convenience, green outdoor retreats, and excellent access to local amenities. Perfectly suited for those who balance home comfort with active metropolitan lifestyles."
+}

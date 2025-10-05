@@ -1,0 +1,37 @@
+{
+  "title": "Stylish Loft with Balcony & Rooftop in Artistic Ochota",
+  "description": "Immerse yourself in modern urban living with this bright and airy 1-bedroom loft. Boasting 48 sqm of intelligently designed space, the apartment features an open-concept living room accented by a striking modern lighting system and seamless flow to a private balcony. Thoughtful amenities include secure bicycle storage, perfect for city commuters, and access to a stunning rooftop deck for sunset views and relaxation. Pets are welcome, making this a fantastic option for young urbanites with furry friends.",
+  "neighborhood_description": "Located in Ochota, one of Warsaw's most dynamic yet peaceful neighborhoods, this property is renowned for its vibrant artistic community, family-friendly atmosphere, and abundance of nearby parks and playgrounds. The streets are quiet, with mature trees lining the pedestrian boulevards, and the neighborhood is exceptionally well connected by public transport, cycle paths, and proximity to the airport.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 48,
+  "property_type": "loft",
+  "city": "Warsaw",
+  "neighborhood": "Ochota",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "airport"
+  ],
+  "price": 1230000,
+  "key_features": [
+    "modern lighting system",
+    "balcony",
+    "bicycle storage",
+    "rooftop deck",
+    "open-plan living space",
+    "secure entry",
+    "pet-friendly",
+    "high ceilings"
+  ],
+  "lifestyle_benefits": [
+    "ideal for pet owners",
+    "walkable to parks and green spaces",
+    "community-minded neighbors",
+    "close to trendy cafes and art galleries",
+    "easy commute to business districts"
+  ],
+  "target_buyer": "The ideal buyer is a young professional or couple, possibly with a pet, seeking a stylish launchpad in one of Warsaw\u2019s best-connected, greenest, and most creative urban pockets.",
+  "market_positioning": "Positioned at an attractive mid-range price, this high-demand loft offers rare amenities and design features in Ochota, making it stand out for buyers seeking modern lifestyle upgrades with convenience and community."
+}

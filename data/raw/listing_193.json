@@ -1,0 +1,33 @@
+{
+  "title": "Minimalist Duplex Retreat Near Green Waterfront in Baluty",
+  "description": "This elegant duplex in Lodz\u2019s Baluty neighborhood offers 4 well-lit bedrooms, 3 modern bathrooms, and a generous 166 sqm space. Inspired by Scandinavian minimalism, the interior flows seamlessly between living, work, and rest zones\u2014a calm, functional canvas ready for your creative vision. Elevator access and thoughtfully integrated built-in wardrobes blend practicality with understated aesthetics. Residents benefit from eco-friendly features such as a rainwater collection system and enjoy well-maintained common areas, heightening the sense of refinement throughout.",
+  "neighborhood_description": "Situated in a dynamic, trendy zone of Baluty, the property is enveloped in green surroundings and moments from the peaceful waterfront. This district harmonizes urban convenience with recreational opportunities, and is recognized for its safe atmosphere and young, forward-thinking community. Excellent public transport and direct highway access ensure effortless connections across Lodz and beyond.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 166,
+  "property_type": "duplex",
+  "city": "Lodz",
+  "neighborhood": "Baluty",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1520000,
+  "key_features": [
+    "4 bedrooms, 3 bathrooms",
+    "built-in wardrobes",
+    "elevator access",
+    "rainwater collection system",
+    "well-maintained common areas",
+    "minimalist Scandinavian fittings"
+  ],
+  "lifestyle_benefits": [
+    "Steps from the waterfront for inspiration or relaxation",
+    "Trendy, energetic local scene and cafes",
+    "Encourages sustainable low-impact living",
+    "Quiet, safe neighborhood ideal for remote work or creative pursuits"
+  ],
+  "target_buyer": "Ideal for entrepreneurs, remote professionals or creative leaders seeking a peaceful, trend-conscious environment with pragmatic amenities and quick city connections.",
+  "market_positioning": "This duplex stands out in Lodz\u2019s market for modern executives wanting spacious, flexibility-oriented living with environmental sensibility in a vibrant, popular neighborhood."
+}

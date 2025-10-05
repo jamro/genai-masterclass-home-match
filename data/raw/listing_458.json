@@ -1,0 +1,31 @@
+{
+  "title": "Eco-Modern Studio Haven in Trendy Kazimierz Dolny Rynek",
+  "description": "This beautifully appointed studio combines modern living and eco-conscious design in a cozy 38 sqm space. The airy open-plan bedroom blends seamlessly with a comfortable living area, featuring a spacious walk-in closet and an ensuite bathroom. Stylish finishing touches complement sustainable materials throughout, including a rainwater collection system that supports an earth-friendly lifestyle.",
+  "neighborhood_description": "Rynek, at the heart of Kazimierz Dolny, is celebrated for its trendy and dynamic spirit, set against a background of modern developments and historic charm. While offering a peaceful, low-density setting, it's just steps away from boutique shopping and vibrant dining spots. With easy highway access, exploring the wider region is a breeze.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 38,
+  "property_type": "studio apartment",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 375000,
+  "key_features": [
+    "rainwater collection system",
+    "walk-in closet",
+    "ensuite bathroom",
+    "shopping and dining nearby",
+    "quiet neighborhood setting"
+  ],
+  "lifestyle_benefits": [
+    "sustainable, eco-conscious design",
+    "set in a trendy modern neighborhood",
+    "ideal for a flexible expat lifestyle",
+    "easy regional exploration via highway"
+  ],
+  "target_buyer": "Perfect for eco-minded expats seeking a stylish modern studio with amenities for leading a sustainable and flexible lifestyle in a culturally rich Polish town.",
+  "market_positioning": "Stands out as a unique eco-conscious studio offering outstanding value and character for individuals wanting a blend of contemporary living, sustainability, and the vibrancy of Kazimierz Dolny's Rynek district."
+}

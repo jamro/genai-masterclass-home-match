@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Modern Duplex Haven in Heart of Kazimierz Dolny",
+  "description": "Sophisticated and sustainable living awaits in this contemporary duplex set in a peaceful corner of Rynek, Kazimierz Dolny. Enjoy three spacious bedrooms, each complemented by a sleek en-suite bathroom, spread across 142 sqm of thoughtfully designed eco-modern space. Touches like a cutting-edge lighting system, energy-efficient finishes, generous natural light, and quiet, soundproof walls create a truly comfortable retreat. Direct elevator access ensures fuss-free transitions between floors, while wheelchair accessibility is maintained throughout.",
+  "neighborhood_description": "Nestled in the charming historic district of Rynek, you'll feel immersed in the town\u2019s artsy spirit and tranquil ambience. The area is close to the Vistula River waterfront, winding bike-friendly paths, and the local market square with cozy cafes and galleries\u2014a unique blend of convenience and serenity perfect for a balanced lifestyle.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 142,
+  "property_type": "duplex",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1490000,
+  "key_features": [
+    "swimming pool access",
+    "elevator access",
+    "soundproof walls",
+    "wheelchair accessibility",
+    "private balcony",
+    "modern lighting system"
+  ],
+  "lifestyle_benefits": [
+    "peaceful environment ideal for remote work",
+    "fast internet access",
+    "just steps from nature and bike paths",
+    "proximity to riverside caf\u00e9s and creative venues",
+    "well-suited for eco-friendly digital nomads"
+  ],
+  "target_buyer": "Ideal for digital nomads and ambitious professionals seeking a green, quiet, and inspirational workspace without sacrificing comfort, access, or style\u2014especially those looking for a harmonious blend of rural calm and modern connectivity.",
+  "market_positioning": "This rare, modern duplex is a top-tier offering in Kazimierz Dolny\u2019s property market: spacious, future-focused, and perfectly placed for remote professionals prioritizing both connection and tranquility."
+}

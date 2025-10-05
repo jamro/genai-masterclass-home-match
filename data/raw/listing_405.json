@@ -1,0 +1,33 @@
+{
+  "title": "Deluxe Studio Embracing Historic Radziwie Quietude",
+  "description": "Nestled within a period building infused with rustic charm, this luxurious studio offers elegant modern living in a thoughtfully restored space. Airy and gorgeously sun-dappled, it features a cleverly designed 37 sqm interior with a contemporary kitchen and generously sized dining nook, illuminated by natural light. Sleek adaptations like elevator access, air conditioning, and wheelchair-friendly solutions couple with the tranquil terrace, seamlessly blending comfort with timeless aesthetics.\n",
+  "neighborhood_description": "Radziwie is known for its serene, historic essence, preserved 19th-century character, eco-conscious local initiatives, and a quiet atmosphere. The neighborhood ensures convenient connections with frequent public transport and instant access to the nearby highway, while offering a rare peacefulness just across the river from downtown P\u0142ock\u2019s cultural highlights. Strolls down cobblestone streets and riverside greenways add an exclusive retreat element to everyday life in this desired area.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 37,
+  "property_type": "studio apartment",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 395000,
+  "key_features": [
+    "wheelchair accessibility",
+    "air conditioning",
+    "terrace",
+    "elevator access",
+    "modern kitchen",
+    "dining area with natural light"
+  ],
+  "lifestyle_benefits": [
+    "privacy amid historic architecture",
+    "space for small luxury gatherings",
+    "ecosmart living near the river",
+    "low-noise location ideal for relaxation"
+  ],
+  "target_buyer": "Discerning singles or couples who value luxury, comfort, and accessibility, and who appreciate both contemporary finishes and an authentic historic neighborhood setting.",
+  "market_positioning": "A premium, rare studio integrating accessibility and historic charm; a stand-out suite catering to buyers wanting a quiet, exclusive retreat with striking modern amenities in medium-urban P\u0142ock."
+}

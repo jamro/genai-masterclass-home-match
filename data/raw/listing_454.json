@@ -1,0 +1,34 @@
+{
+  "title": "Eco-Chic 3-Bedroom Apartment in Wroclaw Stare Miasto Near Business Hub",
+  "description": "Experience eco-conscious city living in this stylish, naturally lit 3-bedroom apartment located in Stare Miasto, Wroclaw's vibrant heart. The efficient floor plan includes an airy living area, sleek modern kitchen, three quiet bedrooms, and an upgraded bathroom fitted with water-saving amenities. Large energy-efficient windows minimize your ecological footprint and maximize comfort. Thoughtfully designed neutral interiors allow for easy customization to your taste.",
+  "neighborhood_description": "Nestled in the tech-savvy district of Stare Miasto, the apartment is just steps from Wroclaw\u2019s dynamic business core, bustling coworking caf\u00e9s, and green community parks. This highly urban neighborhood is celebrated for its thriving start-up culture and offers accessible bike paths alongside efficient public transport few moments from your door. Family-friendly playgrounds, artisan bakeries, and trendy eateries give the area a cosmopolitan flair.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 76,
+  "property_type": "apartment",
+  "city": "Wroclaw",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1275000,
+  "key_features": [
+    "recycling facilities",
+    "energy-efficient windows",
+    "access to co-working space",
+    "high-speed fiber internet",
+    "modern built-in kitchen",
+    "video intercom system"
+  ],
+  "lifestyle_benefits": [
+    "reduce your carbon footprint",
+    "work remotely with ease",
+    "enjoy Wroclaw\u2019s bikeable city life",
+    "excellent nightlife and dining",
+    "walk to parks and business centers"
+  ],
+  "target_buyer": "Perfect for eco-conscious expats, young professionals, or relocating entrepreneurs seeking sustainable living in the pulsing core of Wroclaw.",
+  "market_positioning": "A standout choice among Stare Miasto\u2019s apartments, this property emphasizes green features, flexibility for remote workers, and a premier location near top business zones and cultural landmarks."
+}

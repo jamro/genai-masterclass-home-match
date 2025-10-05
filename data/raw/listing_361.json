@@ -1,0 +1,34 @@
+{
+  "title": "Eco-Friendly Modern Duplex with Pet Oasis in Zatorze, Leszno",
+  "description": "Discover contemporary comfort in this architecturally stylish duplex spanning 172 sqm. With four spacious bedrooms, three sleek bathrooms, and a thoughtfully zoned home office, this property is perfect for a growing family or remote professionals. Enjoy seamless everyday living with features like heated driveways, automatic gates for security, air conditioning, and an outdoor dining terrace to host or relax. The convenient laundry room ensures effortless home management without sacrificing elegance or functionality.",
+  "neighborhood_description": "Nestled in Zatorze, Leszno\u2019s well-connected neighborhood, this home offers exceptional public transit and quick highway access for stress-free commutes. Pet lovers and outdoor enthusiasts will embrace the nearly waterfront environment, combining urban conveniences with natural serenity. Local parks, cafes, and essential services are within easy reach, shaping a dynamic, family-friendly community vibe.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 172,
+  "property_type": "duplex",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1420000,
+  "key_features": [
+    "automatic gate",
+    "heated driveway",
+    "air conditioning",
+    "laundry room",
+    "home office space",
+    "outdoor dining area"
+  ],
+  "lifestyle_benefits": [
+    "garden and pet-friendly spaces",
+    "energy-efficient systems",
+    "eco-conscious finishes",
+    "spaces designed for hybrid/flexible work",
+    "close to parks and walking paths"
+  ],
+  "target_buyer": "The ideal buyer is a modern, eco-minded family or young professionals seeking spacious, sustainable living in proximity to urban amenities, with pets in mind.",
+  "market_positioning": "Uniquely positioned for those valuing green lifestyles in central Poland, offered in the upper mid-range price segment relative to similar Leszno listings. Stands out with its eco-focused upgrades, pet-centric showpiece features, and rare access to both green areas and city infrastructure."
+}

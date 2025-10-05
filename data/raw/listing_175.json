@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Friendly Haven with Modern Comfort in Suburb, Nowy Sacz",
+  "description": "Welcome to this modern, eco-conscious house offering 3 spacious bedrooms, 2 contemporary bathrooms, and 136 sqm of ergonomic living space. Flooded with natural light through large windows, the home features sumptuous hardwood floors and a generous balcony ideal for enjoying tranquil outdoor moments. Wide hallways and wheelchair-friendly design speak to thoughtful accessibility. Journey effortlessly to shared green areas, meticulously maintained for year-round relaxation within a caring community.",
+  "neighborhood_description": "Located in the peaceful Suburb neighborhood of Nowy Sacz, this house is enveloped by nature and a pet-friendly atmosphere, reflecting a responsible, eco-conscious community spirit. Future-forward developments and ongoing enhancements make this low-urban level area an attractive, growing neighborhood for families and long-term renters. Convenient highway access ensures excellent connectivity to regional centers and neighboring towns\u2014ideal for commuting professionals or those seeking both serenity and modern convenience.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 136,
+  "property_type": "house",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1240000,
+  "key_features": [
+    "well-maintained common areas",
+    "balcony",
+    "hardwood floors",
+    "wheelchair accessibility",
+    "large windows",
+    "modern kitchen"
+  ],
+  "lifestyle_benefits": [
+    "long-term property stability",
+    "access to green/community spaces",
+    "pet-friendly living",
+    "peaceful environment",
+    "eco-conscious surroundings"
+  ],
+  "target_buyer": "Long-term renters or families seeking stability in a quiet, nature-focused neighborhood with a commitment to sustainability and community.",
+  "market_positioning": "This property uniquely combines accessible modern living and sustainable design in a fast-developing, eco-minded locale, ideal for tenants seeking comfort and long-term roots away from the density and bustle of city life\u2014all at a competitive market price."
+}

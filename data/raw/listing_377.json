@@ -1,0 +1,32 @@
+{
+  "title": "Stylish Loft in Centrum Zakopane with Garden Access & Chic Fireplace",
+  "description": "Discover this spacious and stylish 3-bedroom loft nestled in the heart of Zakopane's sought-after Centrum neighborhood. Featuring airy open-plan living crowned by a statement fireplace, the loft seamlessly blends modern design with cozy warmth. Floor-to-ceiling patio doors connect to a shared garden, extending your creative space outdoors. Contemporary, well-maintained interiors and a modern fa\u00e7ade ensure a fresh canvas for your own artistic flair.",
+  "neighborhood_description": "Centrum strikes the perfect balance between city convenience and a peaceful suburban vibe, attracting young professionals seeking inspiration and comfort. Enjoy walkable access to cafes, bars, galleries, and Zakopane\u2019s thriving arts scene, all set against stunning Tatra vistas. Reliable public transport and highways keep you effortlessly connected across the city and beyond, while daily amenities remain steps from your door.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 91,
+  "property_type": "loft",
+  "city": "Zakopane",
+  "neighborhood": "Centrum",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1250000,
+  "key_features": [
+    "well-maintained common areas",
+    "patio doors opening to shared garden",
+    "recycling facilities",
+    "modern street-facing fa\u00e7ade",
+    "feature fireplace"
+  ],
+  "lifestyle_benefits": [
+    "ideal for home art studios or collaborative spaces",
+    "easy walk to creative hubs and cultural venues",
+    "quiet corners for relaxation and reflection",
+    "green views fostering a calm, inspired mood"
+  ],
+  "target_buyer": "Ambitious young professionals, artists, and creatives who want an urban retreat with direct access to Zakopane\u2019s vibrant core, while cherishing a space designed for flexible live-work balance.",
+  "market_positioning": "Well-priced for Centrum with considerable value through unique loft architecture and trendy amenities, this property appeals to an emerging creative class seeking lifestyle and investment potential in one of Zakopane\u2019s most desirable and dynamic districts."
+}

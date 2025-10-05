@@ -1,0 +1,31 @@
+{
+  "title": "Investor\u2019s Opportunity: Spacious 5-Bedroom House in Historic Stare Miasto",
+  "description": "This sizable 5-bedroom, 2-bathroom house in Zamosc\u2019s Stare Miasto is set across approximately 195 sqm, perfectly balancing classic charm with contemporary potential. Entertain in style in the expansive living room or residents\u2019 lounge, enjoy morning coffee on either of two balconies, and end your day with rooftop deck sunsets. Walk-in closets add storage and comfort across the main bedrooms, while thoughtful updates ensure modern convenience.",
+  "neighborhood_description": "Nestled amid the vibrant and growing Stare Miasto district, you\u2019re immersed in local history and everyday amenities. The area boasts a friendly, quiet atmosphere, while being close to reputable schools, beloved caf\u00e9s, and convenient city transport connections. Whether commuting via public transport or by highway, accessibility and city comforts are at your doorstep.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 195,
+  "property_type": "house",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1580000,
+  "key_features": [
+    "residents' lounge",
+    "walk-in closet",
+    "balcony",
+    "rooftop deck"
+  ],
+  "lifestyle_benefits": [
+    "appealing long-term rental possibility",
+    "low-maintenance yard for busy lifestyles",
+    "easy access to both cultural sights and practical amenities",
+    "space for co-living or remote work"
+  ],
+  "target_buyer": "Real estate investors searching for high-demand multi-room homes or co-living opportunities in an established yet appreciating urban neighborhood.",
+  "market_positioning": "This house is competitively positioned for value-focused property investors and young professionals, offering standout features in Zamosc\u2019s historical and growing core. Its scale, flexibility, and location support stable returns and future appreciation amid Stare Miasto\u2019s considerable appeal."
+}

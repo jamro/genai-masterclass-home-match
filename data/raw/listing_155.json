@@ -1,0 +1,31 @@
+{
+  "title": "Luxurious Eco-Studio in Green Nowy Sacz Suburb",
+  "description": "Discover elegant minimalist living in this stylish studio, thoughtfully designed for refined comfort. With a spacious, open-plan layout of 36 sqm, each element reflects quality\u2014from a state-of-the-art modern kitchen to expansive windows filling the interior with natural light. Premium finishes throughout perfectly complement the glamorous bathroom and integrated smart video intercom system. The floorplan ensures effortless accessibility, with wheelchair-friendly access for your complete peace of mind.",
+  "neighborhood_description": "Nestled in a tranquil, leafy suburb of Nowy Sacz\u2014a district cherished for its nurturing blend of culture and lush landscapes\u2014this residence offers a serene sanctuary amidst vibrant surroundings. You\u2019ll enjoy immediate access to quiet parks, artisanal caf\u00e9s, and local cultural attractions, while seamless highway connections bring the city within easy reach. Designed for those who value both privacy and inspired outdoor spaces, Suburb is famed for its family-friendly vibe and rich community spirit.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 495000,
+  "key_features": [
+    "wheelchair accessibility",
+    "video intercom",
+    "solar panels",
+    "modern kitchen",
+    "dedicated children's playground area"
+  ],
+  "lifestyle_benefits": [
+    "exceptional privacy and tranquility",
+    "eco-friendly energy savings",
+    "modern luxury in a green setting",
+    "safe, welcoming community environment"
+  ],
+  "target_buyer": "An individual or couple seeking a prestigious, move-in-ready home embracing sustainable luxury and effortless connectivity, valuing green surroundings over inner-city bustle.",
+  "market_positioning": "A standout offering among Suburb studios\u2014combining eco-savvy solar technology, modern luxury, and rare accessibility\u2014crafted for selective buyers prioritizing elegance and long-term value."
+}

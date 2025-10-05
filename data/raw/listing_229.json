@@ -1,0 +1,34 @@
+{
+  "title": "Spacious 6-Bedroom Family Haven Near the Lake \u2013 Perfect for Long-Term Living",
+  "description": "Nestled in the serene Lake District of Elk, this inviting house offers spacious living with six bright bedrooms and two generous bathrooms. Set on a plot of 240 sqm, the home features a cozy living/dining area, a dedicated home office space, and a welcoming private garden \u2013 perfect for family gatherings and outdoor play. Excellently maintained communal areas, a 24/7 security presence, and a delightful residents' lounge rebuild a true sense of comfort and security.",
+  "neighborhood_description": "The Lake District is renowned for its tranquil atmosphere, right on Elk's beautiful waterfront, while conveniently close to the vibrant city center. Embark on long strolls by the lake or easily access highways for out-of-town trips, making it ideal for both work and leisure balance. A nearby children's playground and ample green spaces give families room to bloom.",
+  "bedrooms": 6,
+  "bathrooms": 2,
+  "size_sqm": 240,
+  "property_type": "house",
+  "city": "Elk",
+  "neighborhood": "Lake District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1600000,
+  "key_features": [
+    "24/7 security",
+    "residents' lounge",
+    "private garden",
+    "well-maintained common areas",
+    "children's playground area",
+    "home office space"
+  ],
+  "lifestyle_benefits": [
+    "room for a growing family",
+    "safe environment for children",
+    "direct access to outdoor amenities",
+    "comfortable workspace for remote work",
+    "peaceful lakeside setting",
+    "easy travel options"
+  ],
+  "target_buyer": "Ideal for long-term renters or families searching for stability, space, and access to excellent amenities\u2014all in a safe, family-oriented neighborhood.",
+  "market_positioning": "This property is rare in offering both size and outdoor amenities, competing at the upper end of the local rental market while remaining affordable for families valuing privacy, safety, and long-term stability."
+}

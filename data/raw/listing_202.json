@@ -1,0 +1,30 @@
+{
+  "title": "Historic Chic Duplex with Modern Touches in Pila Suburb",
+  "description": "Embrace historic character in this beautifully crafted duplex offers 4 spacious bedrooms and 3 modern bathrooms across 172 sqm. Blending classic charm with high-tech comfort, this residence features modern facade design fitted perfectly with underfloor heating throughout. Generous and light-filled living spaces are ideal for gatherings and everyday elegance at home.",
+  "neighborhood_description": "Situated in Pila's tranquil Suburb, a low-urban neighborhood, you\u2019ll find the peace of green surroundings matched with fast highway access for optimal convenience. The area is growing into a tech-oriented enclave, drawing smart investors and families seeking potential value and privacy alike. Easy reach to city amenities while removed from rush and bustle ensures a unique blend of old-world peace and modern practices.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 172,
+  "property_type": "duplex",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1495000,
+  "key_features": [
+    "underfloor heating",
+    "video intercom",
+    "heated driveway",
+    "modern fa\u00e7ade design"
+  ],
+  "lifestyle_benefits": [
+    "opportunity for investment in a developing tech-oriented area",
+    "tranquil ambiance ideal for long-term tenancy",
+    "proximity to highways for business travel and easy city access",
+    "energy-efficient and maintenance-reducing modern technologies"
+  ],
+  "target_buyer": "Ideal for savvy property investors attracted to emerging neighborhoods with long-term upside and convenience \u2014 families, renters, or professionals valuing both tech and tradition.",
+  "market_positioning": "Poised as a fusion between elegant historical architecture and ultimate modern convenience, this duplex occupies a rare niche: blending timeless character and valuable high-tech infrastructure in one of Pila\u2019s intriguing suburban prospects."
+}

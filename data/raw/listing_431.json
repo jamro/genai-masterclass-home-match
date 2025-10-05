@@ -1,0 +1,33 @@
+{
+  "title": "Tranquil Scandinavian Home with Terrace in Zatorze",
+  "description": "Embodying Scandinavian simplicity, this contemporary 3-bedroom, 3-bathroom house offers 148sqm of thoughtfully designed living space. Large windows flood the open-plan living area with natural light, connecting seamlessly to a private terrace and fenced yard, perfect for morning coffees or quiet retreats. Underfloor heating ensures all-season comfort, and eco-friendly features support a mindful lifestyle.",
+  "neighborhood_description": "Set in Zatorze, one of Leszno's trendier, growing districts, residents enjoy stylish, comfortable living with the added bonus of distant mountain views. Essential amenities and recreation are within easy reach via well-connected public transport or quick access to highway links, offering both calm at home and vibrancy just beyond the doorstep.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 148,
+  "property_type": "house",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1090000,
+  "key_features": [
+    "private terrace",
+    "fenced yard",
+    "spacious open-plan living",
+    "underfloor heating",
+    "energy-efficient appliances",
+    "recycling facilities"
+  ],
+  "lifestyle_benefits": [
+    "quiet private garden for relaxation",
+    "scenic mountain views from the terrace",
+    "low-maintenance, step-free design",
+    "close to fresh food markets and cafes"
+  ],
+  "target_buyer": "Ideal for retired individuals or couples seeking minimalist comfort, secure grounds, and a thriving yet peaceful community.",
+  "market_positioning": "A niche offering for discerning buyers who desire contemporary amenities, eco-conscious touches, and the understated elegance of Scandinavian design, all nestled in Leszno\u2019s stylish yet tranquil Zatorze district."
+}

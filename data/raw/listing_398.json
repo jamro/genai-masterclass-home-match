@@ -1,0 +1,33 @@
+{
+  "title": "Modern Scandinavian Studio Retreat in Kamienny Potok",
+  "description": "This minimalist Scandinavian studio offers seamless open-plan living in an uncluttered and thoughtfully designed layout. Large windows invite natural light into the 30 sqm space, while integrated storage allows efficient use of every corner. A modern kitchenette pairs custom cabinetry with up-to-date appliances, complementing the airy, peaceful atmosphere. The en suite bathroom features contemporary finishes and a walk-in shower, creating a truly functional and elegant home.",
+  "neighborhood_description": "Situated in Sopot's Kamienny Potok, you\u2019ll enjoy the charm of a cultural and family-friendly district with easy access to vibrant local restaurants, parks, and neighborhood amenities. Stroll or bike along lush, well-maintained pathways, or reach city attractions quickly via public transport links. The peaceful neighborhood ambiance strikes a comfortable balance between lively surroundings and quiet residential living.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 30,
+  "property_type": "studio apartment",
+  "city": "Sopot",
+  "neighborhood": "Kamienny Potok",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 445000,
+  "key_features": [
+    "reception desk",
+    "air conditioning",
+    "rooftop deck",
+    "modern kitchenette",
+    "fenced yard",
+    "elevator"
+  ],
+  "lifestyle_benefits": [
+    "low-maintenance living",
+    "secure access for peace of mind",
+    "enjoyable rooftop relaxation with sea breezes",
+    "cycle-friendly routes"
+  ],
+  "target_buyer": "Ideal for retirees seeking effortless living in a tranquil setting, close to amenities and community activities, with excellent building facilities and minimal upkeep.",
+  "market_positioning": "A rare find within Sopot\u2019s cultural enclave\u2014modern, secure, and efficient living tailored for those who value peace, convenience, and both community and privacy."
+}

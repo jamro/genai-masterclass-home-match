@@ -1,0 +1,34 @@
+{
+  "title": "Artful Waterfront Duplex Retreat in Port District",
+  "description": "Experience expansive living in this luxurious three-bedroom, three-bathroom duplex boasting 142 sqm of masterfully designed space. Open concept social areas flow elegantly to a state-of-the-art, sunlit kitchen. Private elevator access conveys modern convenience, while an underground garage offers security and direct entry. Peaceful upper-level retreats and a guest bathroom round out this signature home\u2014perfectly balancing comfort and sophistication.",
+  "neighborhood_description": "Set in the charming Port District of Ustka, this duplex benefits from a tranquil, low-urban environment steeped in local character. You'll enjoy immediate access to the picturesque waterfront while being moments away from artist studios, boutique caf\u00e9s, and lively seasonal markets. Highway and well-maintained bike lines ensure convenient travel, with serene coastal pathways just meters from your door.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 142,
+  "property_type": "duplex",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1620000,
+  "key_features": [
+    "modern kitchen",
+    "underground garage",
+    "guest bathroom",
+    "private elevator access",
+    "open-plan living area",
+    "designer fixtures"
+  ],
+  "lifestyle_benefits": [
+    "ideal for creative pursuits",
+    "waterfront promenades at your doorstep",
+    "tranquil neighborhood for focused work",
+    "direct access to port-side caf\u00e9s and galleries",
+    "proximity to the Baltic Sea for daily inspiration"
+  ],
+  "target_buyer": "Discerning artists, creatives, and remote professionals yearning for inspiration and tranquility, where living and working meet artfully.",
+  "market_positioning": "This property exemplifies luxury coastal living for connoisseurs seeking exclusivity and creative resonance, standing apart as one of the most expansive and elegantly appointed residences on Ustka\u2019s waterfront."
+}

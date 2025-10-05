@@ -1,0 +1,32 @@
+{
+  "title": "Minimalist Nordic Home with Space, Style, and Serenity",
+  "description": "Embrace Scandinavian simplicity in this elegantly appointed five-bedroom house. Full of light and space, its open living area harmonizes with minimalist finishes, while natural materials give warmth throughout. A large rooftop deck provides expansive views, and five well-proportioned bedrooms make for flexible living. Two immaculate bathrooms, a dedicated storage room, and a heated driveway offer practicality for every season.",
+  "neighborhood_description": "Located in Ustka's quiet Port District, this property sits in a pet-friendly and safe neighborhood well-suited for growing families. Everyday essentials, shops, and inviting caf\u00e9s are within close reach, assuring easy convenience in a relaxed and secure setting. Pedestrian-friendly streets lead quickly out towards the scenic lanes bordering the town and down toward Baltic beaches.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 178,
+  "property_type": "house",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1290000,
+  "key_features": [
+    "fenced yard",
+    "storage room",
+    "rooftop deck",
+    "heated driveway"
+  ],
+  "lifestyle_benefits": [
+    "ample play space for children",
+    "pet-friendly yard",
+    "peaceful and secure environment",
+    "easy access to shops and cafes",
+    "proximity to beaches and outdoors"
+  ],
+  "target_buyer": "Families with children seeking a safe, functional, and bright minimalist home where convenience, space, and calm blend effortlessly.",
+  "market_positioning": "Positioned as a premium family property in a low-density, sought-after seaside enclave, this home marries modern utility and timeless Scandinavian aesthetics\u2014an ideal choice for buyers putting a premium on tranquility and flexibility close to both nature and local amenities."
+}

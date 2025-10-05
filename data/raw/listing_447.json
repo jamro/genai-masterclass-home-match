@@ -1,0 +1,29 @@
+{
+  "title": "Charming 1-Bed Apartment with Mountain Views in Elk\u2019s Lake District",
+  "description": "Welcome to a spacious 1-bedroom, 2-bathroom apartment designed for cozy living and smart investment. With 56 square meters, this home features a bright living area, a sleek modern kitchen, and two contemporary bathrooms for guest convenience. Unwind on your exclusive rooftop deck after a peaceful day or host delightful gatherings in style.",
+  "neighborhood_description": "Situated in Elk\u2019s serene Lake District, this low-urban-level neighborhood exudes a relaxing, eco-conscious vibe. Enjoy breathtaking mountain views, clean air, and direct highway access to the city center and regional destinations. Local residents value sustainability and a close sense of community, making this area especially peaceful and family-oriented.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 56,
+  "property_type": "apartment",
+  "city": "Elk",
+  "neighborhood": "Lake District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 780000,
+  "key_features": [
+    "modern kitchen",
+    "video intercom",
+    "recycling facilities",
+    "rooftop deck"
+  ],
+  "lifestyle_benefits": [
+    "star-gazing or mountain sunsets atop your rooftop deck",
+    "join a nature-loving community",
+    "opportunity for eco-friendly living in a quiet locale"
+  ],
+  "target_buyer": "Ideal for property investors seeking a tranquil atmosphere blended with modern amenities, as well as individuals or couples looking to rent out a comfortable and attractive apartment in a green area.",
+  "market_positioning": "Perfectly positioned for buyers or investors interested in lower-urban-level neighborhoods with high demand for privacy and natural beauty. Combines sought-after green living features and modern comfort at a desirable mid-level price point in the Elk market."
+}

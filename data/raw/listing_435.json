@@ -1,0 +1,30 @@
+{
+  "title": "Modern Family Apartment with Underground Garage in Nowy S\u0105cz Suburbs",
+  "description": "This inviting apartment offers 2 spacious bedrooms and 2 contemporary bathrooms within 77 square meters of thoughtfully designed living space. Enjoy a light-filled open-plan living and dining area, a modern, well-equipped kitchen, and a premium walk-in closet in the master suite. Relax in comfort, benefit from smart home features such as a modern lighting system and practical motion-sensor exterior lights. The added underground garage ensures your family's vehicles are always secure.",
+  "neighborhood_description": "Located in the peaceful Suburb district of Nowy S\u0105cz, this bike-friendly, family-oriented community is perfect for those seeking a tranquil setting. The area is known for its eco-conscious atmosphere and vibrant local life, with welcoming neighbors and easy access to nature trails. Quick highway connections make commuting throughout the region a breeze for expat professionals and families alike.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 77,
+  "property_type": "apartment",
+  "city": "Nowy S\u0105cz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 775000,
+  "key_features": [
+    "underground garage",
+    "modern lighting system",
+    "motion-sensor exterior lights",
+    "walk-in closet"
+  ],
+  "lifestyle_benefits": [
+    "safe and family-friendly surroundings",
+    "active, bike-friendly environment",
+    "easy highway connection for commuters",
+    "engaged, international community"
+  ],
+  "target_buyer": "Ideal for expat families or couples seeking a welcoming, peaceful place to call home with good commuting options and a community-oriented lifestyle.",
+  "market_positioning": "A competitive option for expats and local families wanting modern design and comfort outside the busy center, blending tranquil suburban living with convenient access to regional transport routes."
+}

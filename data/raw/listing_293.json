@@ -1,0 +1,32 @@
+{
+  "title": "Exquisite Studio Retreat with Stunning Mountain Views",
+  "description": "Discover a magnificent studio, masterfully designed for comfort and efficiency. This newly renovated space features a spacious, open-concept layout with a bright ambiance and contemporary finishes. Boasting a modern kitchen and meticulously styled interiors, every inch has been tailored for sublime luxury. Encompassing 36 square meters, this premium studio balances sophistication and convenience for a truly elite lifestyle experience.",
+  "neighborhood_description": "Nestled in the tranquil Suburb neighborhood of Nowy Sacz, residents enjoy a peaceful suburban atmosphere surrounded by serene mountain views. The area offers nearby shopping, dining, and schools\u2014all set against picturesque bike-friendly streets. Perfect for those seeking a calm retreat with every day-to-day necessity minutes away, while a convenient highway connection affords smooth access to the city and beyond.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 410000,
+  "key_features": [
+    "modern kitchen",
+    "newly renovated interior",
+    "stylish bathroom",
+    "large windows with mountain views",
+    "high-quality finishes",
+    "dedicated parking spot"
+  ],
+  "lifestyle_benefits": [
+    "ideal study and relaxation environment",
+    "quiet neighborhood for focused learning",
+    "easy bike access to schools and local amenities",
+    "proximity to peaceful nature trails"
+  ],
+  "target_buyer": "This elegant studio is perfectly suited for students or young professionals seeking a peaceful yet prestigious base, where study and personal well-being go hand-in-hand.",
+  "market_positioning": "Catering to a discerning clientele, this studio stands out in the local market for its combination of luxurious design, premium finishes, and unrivaled views, making it a top-tier choice in Nowy Sacz's exclusive suburban settings."
+}

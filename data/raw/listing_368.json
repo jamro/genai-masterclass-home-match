@@ -1,0 +1,35 @@
+{
+  "title": "Modern Scandinavian Duplex Near Port \u2013 Spacious, Secure, Serene",
+  "description": "Step into minimalist comfort in this recently constructed duplex in Ustka\u2019s tranquil Port District. Featuring five thoughtfully designed bedrooms and two modern bathrooms across 187 square meters, the home balances clean lines, open living areas, and large windows to maximize natural light. Curated finishes, contemporary fixtures, and intelligent security systems add premium simplicity for peaceful daily life. Ideal for professionals with ample space for living and working.",
+  "neighborhood_description": "Port District offers quiet charm just minutes from the city center\u2019s conveniences, with easy highway access and scenic bike lines tracing the waterfront. Quiet streets evoke calm while mountain views can be glimpsed in the distance. Essential shops, cafes, and green spaces fulfill everyday needs without the bustle of city waster streets.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 187,
+  "property_type": "duplex",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1480000,
+  "key_features": [
+    "duplex layout",
+    "24/7 security",
+    "heated driveway",
+    "barbecue zone",
+    "advanced security system",
+    "energy-efficient design",
+    "private garden area"
+  ],
+  "lifestyle_benefits": [
+    "understated Scandinavian interiors",
+    "natural light in all bedrooms",
+    "outdoor living space",
+    "privacy and security",
+    "easy commute to city center"
+  ],
+  "target_buyer": "Professionals or families relocating for work in Ustka, seeking privacy, functional living spaces, and a serene home base near central amenities.",
+  "market_positioning": "Positioned as a high-quality, move-in-ready residence, offering one of the largest and most secure modern homes in Ustka's low-density Port District for discerning buyers seeking urban proximity without sacrificing tranquility and space."
+}

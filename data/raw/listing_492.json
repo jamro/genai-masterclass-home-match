@@ -1,0 +1,33 @@
+{
+  "title": "Historic Mountain Retreat with Modern Comforts in Pardalowka",
+  "description": "Step into timeless elegance with this beautifully restored house nestled in the quiet charm of Pardalowka, Zakopane. Offering 6 spacious bedrooms and 3 full bathrooms, the property spans 235 sqm\u2014a perfect harmony of mountain tradition and modern finds. Meticulous renovations blend wooden beams, artful stonework, and original detailing with up-to-date conveniences such as air conditioning and advanced 24/7 security systems. Expansive terraces frame the home, where you can soak in the tranquil panoramic views of the Tatra foothills.",
+  "neighborhood_description": "Pardalowka is a picturesque, low-density neighborhood in Zakopane experiencing thoughtful growth, prized for its blend of natural serenity and accessible amenities. Enjoy weekend strolls to local artisan boutiques and cozy eateries, or let the kids play in the newly expanded parks and playgrounds nearby. Excellent highway access ensures seamless getaways, whether heading toward the Tatra National Park or lively Zakopane town center.",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "size_sqm": 235,
+  "property_type": "house",
+  "city": "Zakopane",
+  "neighborhood": "Pardalowka",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1750000,
+  "key_features": [
+    "24/7 security",
+    "air conditioning",
+    "large sunny terrace",
+    "historic architectural accents",
+    "renovated interior",
+    "detached garage",
+    "eco-friendly materials"
+  ],
+  "lifestyle_benefits": [
+    "immersed in natural beauty",
+    "outdoor mountain activities at your door",
+    "ample space for family gatherings",
+    "ecologically conscious design"
+  ],
+  "target_buyer": "This property is perfect for eco-conscious families or buyers seeking a storied holiday residence immersed in both history and nature, offering security and convenience in a peaceful alpine setting.",
+  "market_positioning": "Well-positioned in the upper-mid segment of Zakopane's property market, this residence stands out due to its combination of historic craftsmanship and contemporary, environmentally conscious upgrades in a steadily growing, sought-after neighborhood."
+}

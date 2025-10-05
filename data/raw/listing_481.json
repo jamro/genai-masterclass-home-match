@@ -1,0 +1,32 @@
+{
+  "title": "Minimalist Scandinavian Duplex in Polnocne: Serene Workspace, Thoughtful Design",
+  "description": "Experience sophisticated simplicity in this beautifully-designed duplex located in the relaxed Polnocne district of Suwa\u0142ki. With 3 spacious bedrooms, 2 modern bathrooms, and 127 sqm of seamless living space, this home blends functionality with Scandinavian aesthetics\u2014calm finishes, natural light, and uncluttered layouts make every day tranquil. Key features like smart home tech, video intercom, elevator access, and a private children\u2019s playground foster both connectedness and comfort. Designed for a modern lifestyle, integrated rainwater collection supports eco-conscious living.",
+  "neighborhood_description": "Polnocne is defined by its peaceful rhythm, ideal for those seeking a retreat from urban bustle while staying minutes from Suwa\u0142ki\u2019s city center. The location guarantees quick access to the highway and shorter commutes, with excellent schools nearby and an emerging, energetic vibe. Trendy spots are blossoming close by, making it increasingly popular with forward-thinking professionals and their families.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 127,
+  "property_type": "duplex",
+  "city": "Suwa\u0142ki",
+  "neighborhood": "Polnocne",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1280000,
+  "key_features": [
+    "smart home system",
+    "video intercom",
+    "rainwater collection system",
+    "children's playground area",
+    "elevator access"
+  ],
+  "lifestyle_benefits": [
+    "quiet, focused environment for remote work",
+    "short drive to city center",
+    "safe, family-friendly community",
+    "easy access to highway and regional travel",
+    "scandinavian-minimalist interiors in natural tones"
+  ],
+  "target_buyer": "Perfect for remote working couples or young families who seek a quiet environment, technological conveniences, and sustainable living\u2014all within easy reach of city amenities and respected schools.",
+  "market_positioning": "Uniquely positioned as one of Polnocne's most stylish and technology-integrated new builds, offering more features and modern utility than other family homes at a similar price point. Appeals strongly to remote workers and design-minded buyers seeking flexibility and serenity without sacrificing urban connection."
+}

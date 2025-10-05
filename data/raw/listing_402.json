@@ -1,0 +1,34 @@
+{
+  "title": "Luxurious Duplex Retreat in Radziwie With Contemporary Elegance",
+  "description": "Step into refined living in this premium 4-bedroom duplex, artfully designed for modern comfort. Spanning an impressive 220 sqm, this residence boasts luminous open-plan spaces adorned with elegant hardwood floors. The master suite offers a serene ensuite bath, while beautifully crafted built-in wardrobes ensure ample storage throughout. Distinctive details and an expansive outdoor dining area elevate every occasion with an air of sophistication.",
+  "neighborhood_description": "Set within Radziwie, Plock's emerging hub, your new address is found at the intersection of tranquillity and inspiration. Embrace a balanced lifestyle in a peaceful suburban environment favored by families, creatives, and professionals alike. Nearby public transport and highway links deliver seamless connectivity, while green pockets encourage relaxing walks and active, pet-friendly living.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 220,
+  "property_type": "duplex",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1580000,
+  "key_features": [
+    "outdoor dining area",
+    "ensuite bathroom",
+    "built-in wardrobes",
+    "expansive hardwood floors",
+    "open-plan kitchen and living zone",
+    "professional-grade appliances"
+  ],
+  "lifestyle_benefits": [
+    "high investment rental yield potential",
+    "ideal for executives or relocation housing",
+    "private outdoor gatherings",
+    "excellent family accommodations",
+    "pet-friendly layout"
+  ],
+  "target_buyer": "The perfect opportunity for property investors seeking steady upscale rental income or multigenerational families yearning for comfort amidst appealing surroundings.",
+  "market_positioning": "This property stands out as a rare turnkey luxury duplex in Radziwie, serving as an aspirational family home or premium addition to an investment portfolio, benefiting from strong market appreciation and robust commuter connectivity."
+}

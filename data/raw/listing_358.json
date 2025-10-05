@@ -1,0 +1,33 @@
+{
+  "title": "Historic Portside Apartment with Eco Sensibility and Modern Comforts",
+  "description": "Step into this beautifully restored 3-bedroom, 2-bathroom apartment nestled in Ustka\u2019s famed Port District. With a generous 96 sqm layout, period features blend with tasteful modern upgrades, offering both charm and practicality. Light floods spacious living areas adorned with preserved architectural elements, while energy-efficient features keep running costs low. Residents enjoy access to a peaceful shared courtyard, a seasonal swimming pool, and the security of an automatic gate.",
+  "neighborhood_description": "The Port District is steeped in maritime history and radiates a vibrant local atmosphere, ideal for those who appreciate stories of the past and the dynamic charm of a seafaring town. Enjoy superb highway access for getaway trips and scenic bike lines throughout the area, allowing for eco-friendly transportation and seaside exploration. The neighborhood offers farmers\u2019 markets, cozy caf\u00e9s, and quick routes to beaches and dunes.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 96,
+  "property_type": "apartment",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 895000,
+  "key_features": [
+    "restored historic architecture",
+    "energy-efficient upgrades",
+    "shared courtyard",
+    "swimming pool access",
+    "automatic gate",
+    "modern kitchen with eco appliances"
+  ],
+  "lifestyle_benefits": [
+    "eco-friendly living",
+    "community-focused amenities",
+    "safe and tranquil environment",
+    "biking and outdoors lifestyle"
+  ],
+  "target_buyer": "Ideal for eco-conscious families, historic property lovers, or remote professionals seeking a serene coastal home with traditional charm.",
+  "market_positioning": "This unique apartment stands out as a rare historic offering in Ustka\u2019s quiet Port District, delivering sustainable living and authentic character amidst the scenic seaside\u2019s vibrant, local culture."
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Minimalist Scandinavian Loft in Trendy Polesie",
+  "description": "Experience contemporary Scandinavian minimalism in this spacious one-bedroom loft nestled in a converted industrial building. Open-plan living areas showcase natural light through patio doors that lead into a shared garden sanctuary. Sleek design is carried through two tastefully appointed bathrooms and restful sleeping quarters. Perfectly blending modern comfort with minimalist aesthetics, this 69 sqm loft is designed for stylish yet functional living.",
+  "neighborhood_description": "Set in Polesie, Lodz\u2019s vibrant and active neighborhood, residents enjoy the balance of a trendy, dynamic lifestyle and peaceful green surroundings. Quick access to public transport, dedicated bike lines, and major highways makes commuting and urban exploration effortless. Local cafes, parks, and fitness paths are all within easy reach, while a pet-friendly environment welcomes four-legged friends to join your new adventure.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 69,
+  "property_type": "loft",
+  "city": "Lodz",
+  "neighborhood": "Polesie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 994000,
+  "key_features": [
+    "fitness center",
+    "shared courtyard",
+    "patio doors opening to garden",
+    "quiet neighborhood setting"
+  ],
+  "lifestyle_benefits": [
+    "access to outdoor activities",
+    "ideal for students seeking stylish comfort",
+    "pet-friendly policy",
+    "productive workspace options nearby"
+  ],
+  "target_buyer": "The ideal buyer is a university student or young professional who appreciates Scandinavian-inspired design and the convenience of flexible live-work spaces in a trendy, pet-friendly community.",
+  "market_positioning": "Positioned as a standout loft offering for design-focused students and young professionals in central Lodz, this home delivers privacy and comfort at a mid-range price point, set apart by unique amenities and direct connections to study, recreation, and transport hubs."
+}

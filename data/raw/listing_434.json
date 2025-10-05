@@ -1,0 +1,34 @@
+{
+  "title": "Refined Luxury Retreat in Green Baluty: Modern 4-Bedroom Home for Inspiring Entrepreneurs",
+  "description": "Embrace distinguished living in this impeccably designed 4-bedroom, 2-bathroom luxury house, strategically positioned in the heart of Baluty, Lodz. Boasting 225 sqm of carefully appointed space, this contemporary residence features expansive patio doors welcoming natural light and seamlessly connecting dining and lounge zones to your private, landscaped garden. Premium finishes, a state-of-the-art kitchen, and a security-fenced yard make this home ideal for modern professionals who appreciate comfort, privacy, and style.",
+  "neighborhood_description": "Baluty stands out as one of Lodz's rapidly developing neighborhoods \u2014 right on the axis of growth while maintaining a tranquil family-friendly environment amidst lush greenery. Residents have swift access to major highways for business travel and public transport for seamless commuting; parks and picturesque walkable streets make every day a joy to experience.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 225,
+  "property_type": "house",
+  "city": "Lodz",
+  "neighborhood": "Baluty",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1890000,
+  "key_features": [
+    "spacious 4-bedroom floor plan",
+    "modern open-concept kitchen",
+    "premium wide patio doors opening onto a secluded garden terrace",
+    "fenced and landscaped yard for security and pets",
+    "exclusive residents' lounge for meetings or relaxation",
+    "ample natural light in all living areas"
+  ],
+  "lifestyle_benefits": [
+    "optimum privacy and quiet in a growth-focused setting",
+    "high-speed commuting access for entrepreneurs",
+    "ideal space for hosting business or family gatherings",
+    "pet-friendly grounds for animal lovers",
+    "a residence designed to support work-life balance"
+  ],
+  "target_buyer": "Ambitious entrepreneurs and executives looking for a premium home that doubles as an inspiring home office, perfect for families who value modern architecture, quietude, and swift business connections in the city.",
+  "market_positioning": "Positioned as a premium choice among Lodz's new single-family residences, this property appeals to discerning professionals and investors seeking sustained value in a sought-after, emerging urban environment blending connectivity, comfort, and long-term prestige."
+}

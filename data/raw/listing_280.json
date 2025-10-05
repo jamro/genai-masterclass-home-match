@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Conscious Apartment With Mountain Views in Tranquil Dyrekcja",
+  "description": "Newly renovated with modern touches, this sunny 3-bedroom apartment offers a perfect blend of comfort, style, and sustainability. With one sleek bathroom and a contemporary kitchen, every corner is thoughtfully designed to meet daily needs. The spacious 87 sqm layout invites tranquility, complemented by smart lighting, eco-friendly appliances, and ample natural light.",
+  "neighborhood_description": "Dyrekcja is a quiet, verdant neighborhood in Chelm characterized by low urban density, perfect for those seeking respite from city crowds. Enjoy shopping and dining options just minutes away as well as proximity to the business district\u2014all with the stunning backdrop of nearby mountains. Efficient highway access provides seamless travel for commuters and road trip lovers alike.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 87,
+  "property_type": "apartment",
+  "city": "Chelm",
+  "neighborhood": "Dyrekcja",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 947000,
+  "key_features": [
+    "private parking space",
+    "automatic gate",
+    "modern lighting system",
+    "EV charging station",
+    "modern kitchen",
+    "newly renovated interior"
+  ],
+  "lifestyle_benefits": [
+    "easy access to highway for commuters and travelers",
+    "flexible parking for families with electric vehicles",
+    "mountain views for relaxation",
+    "low urban noise level ensures tranquility",
+    "nearby shopping and dining for daily convenience"
+  ],
+  "target_buyer": "Ideal for long-term renters or buyers seeking long-lasting stability and an active, green-conscious lifestyle close to city amenities, yet away from urban hustle.",
+  "market_positioning": "This property stands out in Dyrekcja\u2019s market as an energy-efficient, newly renovated apartment for those valuing private eco-friendly transportation, panoramic surroundings, and convenient access to shopping and business, rarely matched at this price point."
+}

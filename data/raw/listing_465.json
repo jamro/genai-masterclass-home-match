@@ -1,0 +1,32 @@
+{
+  "title": "Character Loft with Rich History in Serene Suwa\u0142ki",
+  "description": "Step inside this captivating historic loft and discover a remarkable blend of vintage architecture and modern comforts. With three bright bedrooms, one stylish bathroom and a generous open-plan living space, this unique property offers 135 sqm of airy interiors accentuated by towering ceilings and panoramic windows. Crafted for lively gatherings, the kitchen and dining area open seamlessly to a tranquil shared courtyard and outdoor dining space\u2014a true rarity in the city. Ample sunlight, exposed brick, and a sleek, modern lighting system reveal a home full of charm and sophistication.",
+  "neighborhood_description": "Nestled within the artistic community of Polnocne, Suwa\u0142ki, this loft sits amidst leafy parks, peaceful playgrounds, and neighbors passionate about creative pursuits. The low urban level of the area means quiet surroundings, while its proximity to major highways gives unfettered access to the city and outlying regions, perfect for weekend adventures or business travel. Local bakeries and lively local workshops complete the neighborhood\u2019s welcoming, expat-friendly feel.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 135,
+  "property_type": "loft",
+  "city": "Suwa\u0142ki",
+  "neighborhood": "Polnocne",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1240000,
+  "key_features": [
+    "shared courtyard",
+    "modern lighting system",
+    "panoramic windows",
+    "shared sauna",
+    "outdoor dining area"
+  ],
+  "lifestyle_benefits": [
+    "artist-friendly setting",
+    "quiet surroundings ideal for remote work",
+    "ample light for creative hobbies",
+    "easy car access for regional trips",
+    "welcoming expat vibe"
+  ],
+  "target_buyer": "Ideal for expats, artists, and remote professionals seeking both inspiration and calm, with the convenience of road links for countrywide travel.",
+  "market_positioning": "A rarely available historic loft balancing local charm, modern amenities, and community atmosphere, uniquely appealing to creative buyers and international relocations in Suwa\u0142ki\u2019s tranquil outer district."
+}

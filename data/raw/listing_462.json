@@ -1,0 +1,33 @@
+{
+  "title": "Cozy Pet-Friendly Studio with Panoramic Windows in Debniki",
+  "description": "Welcome to this inviting studio apartment in the heart of Debniki. With a thoughtfully designed open living space of 34 sqm, this home features oversized panoramic windows that bathe the interiors in natural light. The modern kitchenette and spacious bathroom create practical comfort. Security is ensured with a 24/7 monitored building, while residents take pride in the landscaped surroundings.\n\n",
+  "neighborhood_description": "Debniki offers a truly community-focused atmosphere, home to an engaged, artistic crowd. The neighborhood delights in green areas for leisurely walks and offers easy accessibility by bike, public transport, or car via the nearby highway. Locally-renowned caf\u00e9s, pet-friendly parks, and regular neighborhood events foster a warm, welcoming vibe.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 34,
+  "property_type": "studio",
+  "city": "Krakow",
+  "neighborhood": "Debniki",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 445000,
+  "key_features": [
+    "panoramic windows",
+    "24/7 security",
+    "modern kitchenette",
+    "landscaped communal gardens",
+    "spacious bathroom"
+  ],
+  "lifestyle_benefits": [
+    "pet-welcoming building",
+    "close to riverside walking trails and parks",
+    "secure entry for peace of mind",
+    "vibrant, community-based events"
+  ],
+  "target_buyer": "Perfect for pet lovers, singles or young couples seeking an artistic and friendly environment that celebrates four-legged companions.",
+  "market_positioning": "Ideally positioned for those entering Krakow\u2019s property market who value comfort, practicality, and vibrant community living, this studio expertly balances security and lifestyle for a fair price in Debniki."
+}

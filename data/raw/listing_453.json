@@ -1,0 +1,33 @@
+{
+  "title": "Bright Family Home with Solar Panels & Secure Living in Psie Pole",
+  "description": "Welcome home to this spacious and energy-efficient house nestled in the vibrant Psie Pole neighborhood. With five comfortable bedrooms and two modern bathrooms, this media-filled residence boasts a sunny open floor plan perfect for relaxed family gatherings. Highlights such as a state-of-the-art security system, rooftop solar panels, 24/7 security patrol, and generous storage spaces ensure comfort, safety, and peace of mind. The 190 sqm layout is thoughtfully designed to accommodate growing families seeking modern convenience and lasting value.",
+  "neighborhood_description": "Psie Pole is a rapidly evolving, family-oriented district offering plenty of green spaces, established schools, and child-friendly amenities. Residents enjoy easy access to public transport and convenient highway links, shortening commutes and expanding leisure opportunities very family will love. It's a welcoming zone blending tradition with a fresh, modern spirit.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 190,
+  "property_type": "house",
+  "city": "Wroclaw",
+  "neighborhood": "Psie Pole",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1580000,
+  "key_features": [
+    "security system",
+    "solar panels",
+    "storage locker",
+    "open floor plan",
+    "24/7 security"
+  ],
+  "lifestyle_benefits": [
+    "family-friendly area",
+    "low utility bills (solar panels)",
+    "plenty of storage",
+    "safe neighborhood",
+    "space for a home office"
+  ],
+  "target_buyer": "Ideal for first-time home buyers seeking a comfortable, energy-efficient start in a lively, growing community.",
+  "market_positioning": "A competitively priced, practical, and modern family house in a thriving district\u2014an uncommon find offering long-term value and cutting-edge amenities for new homeowners."
+}

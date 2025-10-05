@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Friendly Modern Duplex with Private Garden in Central Zakopane",
+  "description": "Welcome to an eco-conscious modern duplex conveniently situated in Zakopane\u2019s Centrum district. This spacious duplex spans 155 square meters and features four bedrooms, three elegant bathrooms, and expansive living areas highlighted by floor-to-ceiling panoramic windows. Designed with comfort in mind, the home boasts wheelchair accessibility and advanced energy-efficient windows throughout. Enjoy direct access from the living space onto a serene, private garden\u2014ideal for naturing a relaxed lifestyle in harmony with the landscape.",
+  "neighborhood_description": "Centrum offers a calm yet engaging community-focused atmosphere, perfect for those seeking both convenience and tranquility. The knot of local amenities includes shops, caf\u00e9s, parks, and easy access to hiking trails set against Zakopane\u2019s scenic backdrop. Residents benefit from comprehensive public transport links and main highway access, ensuring stress-free trips into town or for further excursions.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 155,
+  "property_type": "duplex",
+  "city": "Zakopane",
+  "neighborhood": "Centrum",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1640000,
+  "key_features": [
+    "wheelchair accessibility",
+    "panoramic windows",
+    "energy-efficient windows",
+    "quiet neighborhood setting",
+    "private garden"
+  ],
+  "lifestyle_benefits": [
+    "minimal noise and traffic for tranquil living",
+    "easy access to community services",
+    "optimized spaces for comfort and mobility",
+    "beautiful outdoor garden for activities or peaceful reflection",
+    "relaxed pace blended with nearby amenities"
+  ],
+  "target_buyer": "Perfect for retirees prioritizing comfort, accessibility, and an active-yet-serene lifestyle close to health services and community amenities.",
+  "market_positioning": "Carefully curated for discerning buyers valuing sustainability, accessibility, and their own relaxing haven, this duplex sits in the mid- to upper-range segment\u2014offering rare accessibility and eco credentials just minutes from Zakopane\u2019s renowned natural beauty."
+}

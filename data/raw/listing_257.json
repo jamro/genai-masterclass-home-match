@@ -1,0 +1,33 @@
+{
+  "title": "Historic Studio Oasis with Modern Comfort in Zatorze",
+  "description": "Immerse yourself in this soulful studio, perfectly blending classic architectural accents with smart modern updates. The inviting open layout offers versatility for living, relaxing, and entertaining. Afternoon sunlight highlights the recently soundproofed walls, ensuring serenity even at the heart of town. A spacious walk-in closet and a hidden-in-plain-sight laundry area create uncommon convenience for a studio.",
+  "neighborhood_description": "Set within Zatorze's peaceful, residential quarters, this address promises tranquility and a slower-paced lifestyle despite its easy access to Leszno\u2019s core. Caring green spaces and relaxation zones, including a shared barbecue area and children\u2019s playground, nurture a welcoming community atmosphere ideal for international newcomers. Regional transportation is just steps away, with quick connections to city conveniences and major highways.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 37,
+  "property_type": "studio apartment",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 335000,
+  "key_features": [
+    "soundproof walls",
+    "walk-in closet",
+    "laundry room",
+    "barbecue zone",
+    "children's playground area"
+  ],
+  "lifestyle_benefits": [
+    "Peaceful suburban vibe",
+    "Relaxed pace of life",
+    "Welcoming expat community",
+    "Easy travel for commuters",
+    "Low-maintenance historic living"
+  ],
+  "target_buyer": "Ideal for expat professionals or freelancers seeking an easy-to-settle space in a community rooted in Polish tradition with a modern international twist.",
+  "market_positioning": "Distinctive among Leszno studios, this property stands out for its fusion of historic touches, neighborly amenities, and sought-after features uncommon in compact homes\u2014particularly appealing to expats and those valuing tranquility without losing connectivity."
+}

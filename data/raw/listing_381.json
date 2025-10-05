@@ -1,0 +1,33 @@
+{
+  "title": "Charming Family Home with Rooftop Deck in Eco-Friendly Port District",
+  "description": "Welcome to this spacious and inviting 5-bedroom house nestled in Ustka's tranquil Port District. Boasting two modern bathrooms and generously sized living spaces, this home seamlessly combines functionality with warm, family-friendly appeal. Relax in comfort with air conditioning on sunny days, enjoy meals in your dedicated outdoor dining area, and discover a restful rooftop deck that catches fresh sea breezes. Flexible rooms easily adapt to living, remote work, or hobbies, while thoughtful storage spaces help keep family life organized.",
+  "neighborhood_description": "The Port District in Ustka is loved for its laid-back pace, safe streets, close proximity to quality schools, and an eco-conscious spirit. Bike paths and highway connections make daily commutes simple, while local community gardens and parks are places where neighbors connect. The area\u2019s low urban level ensures peace while enjoying every convenience close to home.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 185,
+  "property_type": "house",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1480000,
+  "key_features": [
+    "air conditioning",
+    "rooftop deck",
+    "co-working space",
+    "outdoor dining area",
+    "storage room"
+  ],
+  "lifestyle_benefits": [
+    "safe, peaceful neighborhood",
+    "eco-conscious surroundings",
+    "close to reputable schools",
+    "room to grow for families",
+    "space for remote/home work"
+  ],
+  "target_buyer": "Perfect for young couples starting a family who value a quiet, safe environment and outdoor living, with space to work or expand their household.",
+  "market_positioning": "Situated in a desirable, emerging family neighborhood near the sea, this property offers exceptional value for space and amenities, making it a standout choice for dynamic young families in Ustka."
+}

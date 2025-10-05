@@ -1,0 +1,33 @@
+{
+  "title": "Scandinavian-Inspired Light-Filled Duplex in Green Zatorze",
+  "description": "Defined by minimalist, Scandinavian influences, this duplex delivers tranquility and style merged with everyday function. Offering 5 airy bedrooms across 176 square meters, the home balances open, sunlit communal spaces with private retreats. Elegant design details scaffold every space, from authentic underfloor heating to a statement fireplace anchoring the living area.",
+  "neighborhood_description": "Nestled in Zatorze, a neighborhood known for its relaxed, family-friendly environment, this address provides the serenity of parks and walking paths amidst subtle urban energy. Easy access to public transport and the highway streamlines commuting and weekend escapes, while bike-friendly streets promote active, sustainable lifestyles.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 176,
+  "property_type": "duplex",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1450000,
+  "key_features": [
+    "fireplace",
+    "fitness center",
+    "dining area with natural light",
+    "underfloor heating",
+    "private garden",
+    "floor-to-ceiling windows"
+  ],
+  "lifestyle_benefits": [
+    "calm, green surroundings",
+    "excellent connectivity",
+    "spacious, adaptable interiors for remote work",
+    "ideal for hosting and entertaining"
+  ],
+  "target_buyer": "Ideal for professionals or expat families relocating for work who appreciate functional design, touchpoints of everyday wellness, and the balance of suburban peace with urban convenience.",
+  "market_positioning": "Positioned in the upper mid-range segment, this duplex offers superior finishes, ample living space, and rare on-site amenities in Zatorze\u2014a compelling, move-in ready opportunity for discerning buyers within comfortable commuting distance of corporate and educational hubs."
+}

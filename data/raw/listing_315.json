@@ -1,0 +1,33 @@
+{
+  "title": "Renovated Historic Duplex with Tech-Forward Spirit in Pila's Suburb",
+  "description": "Experience the perfect blend of historic charm and modern comfort in this beautifully renovated duplex in Pila's tranquil Suburb neighborhood. This spacious residence offers 4 bright bedrooms and 2 stylish bathrooms spread over 148 sqm of thoughtfully arranged living space. Enjoy newly refreshed interiors\u2014all while benefiting from dedicated work-from-home areas ideal for digital nomads. Outside, savor meals al fresco in your private, fenced yard or entertain under the stars.",
+  "neighborhood_description": "Set within Pila's Suburb, this area embraces a quietly progressive, tech-focused energy while boasting easy highway access. With excellent schools and the comfort of a peaceful, mostly residential environment, the neighborhood offers the space to thrive\u2014perfect for families who need convenience as well as digital professionals seeking quiet productivity. Nearby local grocery stores, cafes, and green spaces add to quality of daily life.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 148,
+  "property_type": "duplex",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1465000,
+  "key_features": [
+    "outdoor dining area",
+    "private parking space",
+    "newly renovated interior",
+    "laundry room",
+    "fenced yard",
+    "underground garage"
+  ],
+  "lifestyle_benefits": [
+    "ideal for remote work",
+    "quiet tech-oriented area",
+    "safe and private yard for relaxation or pets",
+    "proximity to schools",
+    "seamless highway connection for easy travel"
+  ],
+  "target_buyer": "Ambitious digital nomads and tech professionals desiring an inspiring mix of heritage charm, modern comfort, and access to both strategic commuter routes and tranquil surroundings.",
+  "market_positioning": "A rare opportunity to secure a fully renovated, tech-friendly historic duplex in a low-urban, family-oriented district of Pila; distinguishes itself through modern amenities blended with classic architecture, tailor-made for those seeking unique character and flexibility for work-life balance."
+}

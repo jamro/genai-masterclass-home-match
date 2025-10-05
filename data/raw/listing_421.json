@@ -1,0 +1,33 @@
+{
+  "title": "Minimalist Scandinavian House in Srodmiescie, Katowice",
+  "description": "Embrace understated elegance in this beautifully designed Scandinavian-inspired house, nestled discreetly in Srodmiescie. Flooded with natural light, the open living spaces seamlessly connect four serene bedrooms, two stylish bathrooms, and a tranquil laundry room. Crafted with clean architectural lines and a modern fa\u0000e7ade, the home features underfloor heating throughout and exceptional storage solutions to promote uncluttered living. A dedicated fitness center area is thoughtfully included, offering convenience, balance, and wellbeing.",
+  "neighborhood_description": "Srodmiescie is at the heart of Katowice, known for its fusion of historic charm and modern convenience. Residents enjoy easy access to trendy shopping destinations, inspiring dining spots, and gentle riverside promenades. This community-centered, high-urban locale values peace and community connection, making it a coveted address for modern living.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 185,
+  "property_type": "house",
+  "city": "Katowice",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1650000,
+  "key_features": [
+    "modern fa\u0000e7ade design",
+    "underfloor heating",
+    "laundry room",
+    "dedicated fitness area",
+    "ample storage locker",
+    "large windows with natural light"
+  ],
+  "lifestyle_benefits": [
+    "minutes away from shopping and dining",
+    "easy walks to scenic waterfront",
+    "peaceful, community-focused neighborhood",
+    "ideal for active, minimalist living"
+  ],
+  "target_buyer": "Young couples or small families who appreciate Nordic design, value wellness and convenience, and prioritize active, urban lifestyles.",
+  "market_positioning": "A rare opportunity in the Srodmiescie district, this offering merges minimalist luxury and privacy with doorstep access to the city's urban energy. Well-suited for discerning modern buyers seeking high design in a vibrant community."
+}

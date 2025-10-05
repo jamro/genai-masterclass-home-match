@@ -1,0 +1,33 @@
+{
+  "title": "Spacious Modern House with Private Garden and Artistic Neighborhood Vibe in Radziwie",
+  "description": "Welcome to this beautifully appointed 6-bedroom, 3-bathroom house in the heart of Radziwie, Plock. Offering 285 sqm of contemporary living space, this home boasts expansive interiors suited for both entertaining and comfortable daily living. Enjoy uncompromising storage thanks to built-in wardrobes in every bedroom and the convenience of a heated driveway for the colder months. Outdoors, you\u2019ll love the private garden perfectly sized for pets to roam and summer gatherings. Extra amenities include an EV charging station and access to a stylish residents' lounge.",
+  "neighborhood_description": "The Radziwie neighborhood charms with both historic and artistic touches, all just minutes from Plock\u2019s dynamic city center. Enjoy a tranquil atmosphere complemented by proximity to lovely parks, playful playgrounds, and the region's creative community scene. Well-connected with public transport options and quick access to highways, everyday commutes are easy and flexible.",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "size_sqm": 285,
+  "property_type": "house",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1260000,
+  "key_features": [
+    "built-in wardrobes",
+    "heated driveway",
+    "private garden",
+    "EV charging station",
+    "residents' lounge"
+  ],
+  "lifestyle_benefits": [
+    "ideal for pet owners with a secure garden",
+    "community spaces for socializing",
+    "close to parks and walking green areas",
+    "walkable to artsy local caf\u00e9s",
+    "easy highway and public transit access"
+  ],
+  "target_buyer": "Designed for young professional families or pet-loving couples who value a spacious, modern home close to city amenities but with the comfort of a welcoming, community-oriented atmosphere.",
+  "market_positioning": "This property sits at the upper mid-range within the local Plock market, addressing the needs of dynamic professionals seeking modern features, abundant space, and a pet-friendly lifestyle in a unique, character-rich urban setting."
+}

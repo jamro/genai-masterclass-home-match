@@ -1,0 +1,34 @@
+{
+  "title": "Eco-Modern Retreat by the Port: Connected Serenity Meets Smart Living",
+  "description": "Step through the doors of this contemporary 3-bedroom, 3-bathroom house in Ustka's Port District to discover a haven of tranquility and innovation. Spanning a generous 169 sqm, this home offers an inviting open-plan living space accentuated by soundproof walls and sweeping green vistas. Breathe easy with energy-efficient building materials, and enjoy crisp comfort with integrated air conditioning throughout the year. Each bathroom is elegantly appointed, while smart and accessible fixtures guarantee both style and practical living.",
+  "neighborhood_description": "The Port District blends natural beauty with everyday convenience, making it an ideal setting for those seeking peace with light urban access. Green surroundings inspire a healthier pace of life, and local shops and cafes create opportunities for vibrant breaks amid your workday. Located near the business district but insulated from its bustle, this area offers effortless bike line and highway access for seamless getaways or commuting.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 169,
+  "property_type": "house",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1700000,
+  "key_features": [
+    "energy-efficient building",
+    "soundproof walls",
+    "air conditioning",
+    "wheelchair accessibility",
+    "modern open-plan living",
+    "expansive green outlooks"
+  ],
+  "lifestyle_benefits": [
+    "perfect for remote work and creativity",
+    "tranquil, quiet atmosphere day and night",
+    "quick highway access\u2014escape to nature or city",
+    "enjoy local caf\u00e9s and dining nearby",
+    "sustainable, tech-friendly infrastructure"
+  ],
+  "target_buyer": "Ideal for digital nomads and remote-working professionals seeking the ultimate blend of peaceful living and quick connectivity. Families or couples desiring an accessible, barrier-free home with modern comforts in a relaxed, inspiring neighborhood will feel right at home.",
+  "market_positioning": "This unique sanctuary stands out within the Ustka market. It offers rare contemporary eco-features and soundproof construction, designed with flexible live/work needs in mind. Affordable yet exceptional, this property redefines rural luxury for the digital generation."
+}

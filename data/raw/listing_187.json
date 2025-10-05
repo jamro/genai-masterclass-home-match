@@ -1,0 +1,33 @@
+{
+  "title": "Sunlit Studio Retreat in Leafy Kamienny Potok",
+  "description": "Nestled within a charming building, this inviting studio offers a thoughtful open floor plan, accentuated by gentle natural light that dances through generous windows. At 29 sqm, the space is intelligently designed, maximizing comfort and function\u2014from cozy living to restful slumber, all unified in one elegant area. Ample closet space and an allocated storage locker make it easy to maintain a tidy, clutter-free lifestyle. The studio opens directly onto a serene, shared courtyard, ideal for that morning coffee or quiet reflection.",
+  "neighborhood_description": "Kamienny Potok is Sopot\u2019s hidden gem for lovers of greenery and gentle city life, marked by parklands and quiet trails weaving between ochre-roofed homes. Easy access to well-connected public transport and well-tended bike lines unlocks effortless exploration along the coast and beyond. With friendly markets, lush parks, and accessible highways close at hand, this neighborhood caters to those craving active days enveloped by nature.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 29,
+  "property_type": "studio",
+  "city": "Sopot",
+  "neighborhood": "Kamienny Potok",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 449000,
+  "key_features": [
+    "open floor plan",
+    "storage locker",
+    "shared courtyard",
+    "natural light",
+    "modern bathroom"
+  ],
+  "lifestyle_benefits": [
+    "low-maintenance living",
+    "access to green walking and cycling trails",
+    "quiet setting among natural surroundings",
+    "secure communal spaces ideal for sociable retirees",
+    "proximity to seafront promenades"
+  ],
+  "target_buyer": "Perfect for retirees seeking a peaceful yet socially rich downsized lifestyle amid nature, while retaining easy connections to Sopot\u2019s cultural life and medical amenities.",
+  "market_positioning": "This sun-filled studio stands out locally as an affordable, wellness-focused sanctuary. It bridges urban convenience with tranquil, nature-oriented living\u2014rarely offered in Sopot at this accessible price point."
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Light-Filled Artistic Haven in Plock\u2019s Radziwie District",
+  "description": "Awash with radiant sunlight, this inspired 3-bedroom apartment whispers creativity from every carefully curated detail. Spanning a spacious 79 square meters, its open concept living spaces bask in daylight streaming through panoramic windows. Peace is plenty here, thanks to soundproof walls that shelter your creative flow, while energy-efficient windows frame picturesque neighborhood vistas. The single modern bathroom balances practicality with poetic design.",
+  "neighborhood_description": "Radziwie blends old-time serenity with sparks of innovation under an everchanging artistic canopy. Streets host a spirited mix of indie cafes, cozy ateliers, and tranquil parks, shaping an enclave attuned to the slower tempo of makers and dreamers. Direct connections to highway routes and accessible public transport ensure the pulse of the city is always within reach despite the village-chic pace.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 79,
+  "property_type": "apartment",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 740000,
+  "key_features": [
+    "soundproof walls",
+    "energy-efficient windows",
+    "panoramic windows",
+    "motion-sensor exterior lights"
+  ],
+  "lifestyle_benefits": [
+    "Abundant natural light for atelier or home office",
+    "Peaceful ambience perfect for creating and reflecting",
+    "Member-friendly, artistic neighborhood culture",
+    "Superb transport for easy trips to exhibitions, studios, and city hotspots"
+  ],
+  "target_buyer": "Ideal for painters, ceramists, composers, or creative professionals seeking a sanctuary to live and work, immersed among fellow visionaries and green serenity.",
+  "market_positioning": "This unique flat strikes a rare balance\u2014generous space at a mid-market price, custom-tailored for creatives drawn to tranquility and light, all in one of Plock\u2019s most authentic, community-oriented pockets."
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Eco-Conscious Modern Duplex Embraced by Nature in Koscielisko",
+  "description": "Discover comfort and sustainability in this exceptional modern duplex nestled amidst the breathtaking landscapes of Koscielisko, Zakopane. Featuring four spacious bedrooms and three sleek bathrooms, this residence offers ample space for family living, with a thoughtful design rooted in function and style. Hardwood floors and a comprehensive smart home system ensure modern amenities blend seamlessly with mountain-inspired coziness. Serenity awaits in your shared courtyard\u2014perfect for social gatherings or children\u2019s play in an eco-friendly setting.",
+  "neighborhood_description": "Koscielisko is acclaimed for its picturesque, peaceful charm and a healthy, active lifestyle, with easy access to the nearby Tatra Mountains. Families enjoy a neighborhood filled with opportunities for bike outings, hiking, and enjoying vibrant local events and cuisine. Excellent highway connections make travel into Zakopane town center and regional destinations efficient, while preserving peaceful low-urban surroundings.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 165,
+  "property_type": "duplex",
+  "city": "Zakopane",
+  "neighborhood": "Koscielisko",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1480000,
+  "key_features": [
+    "shared courtyard",
+    "smart home system",
+    "hardwood floors",
+    "private balcony",
+    "mountain views",
+    "energy-efficient appliances"
+  ],
+  "lifestyle_benefits": [
+    "access to outdoor adventure families will love",
+    "bike-friendly neighborhood",
+    "quiet natural environment",
+    "close to vibrant local community events"
+  ],
+  "target_buyer": "Ideal for eco-conscious families with children who value access to nature, modern comfort, and an active outdoor lifestyle all year round.",
+  "market_positioning": "A standout family residence for those seeking a harmonious blend of privacy, sustainability, and mountain charm\u2014rare for this desirable Zakopane locale and perfect for modern, health-oriented living."
+}

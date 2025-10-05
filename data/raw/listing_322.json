@@ -1,0 +1,33 @@
+{
+  "title": "Exquisite Family Retreat with Private Garden in Suwa\u0142ki Polnocne",
+  "description": "Experience luxury family living in this splendid five-bedroom, two-bathroom detached house spanning an impressive 273 sqm. Step inside to discover luminous hardwood floors, elegantly appointed living areas, and seamless transitions between the open dining space and private outdoor oasis. Entertain guests in the exclusive residents' lounge, while children enjoy the vast garden overlooking tranquil mountain views. With contemporary air conditioning and a dedicated storage locker, every comfort has been thoughtfully crafted.",
+  "neighborhood_description": "Located in the pristine Polnocne neighborhood, this home offers privacy and peace within a welcoming, family-friendly community. Rekindle your connection with nature\u2014local parks, leafy playgrounds, and cycling greenways are within easy reach. With swift highway access and sweeping vistas, everyday convenience and leisurely countryside moments await you here.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 273,
+  "property_type": "house",
+  "city": "Suwa\u0142ki",
+  "neighborhood": "Polnocne",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1825000,
+  "key_features": [
+    "spacious residents' lounge",
+    "premium hardwood floors throughout",
+    "high-efficiency air conditioning",
+    "dedicated storage locker",
+    "expansive private garden",
+    "sunlit dining area"
+  ],
+  "lifestyle_benefits": [
+    "ideal for families seeking peace and space",
+    "safe, family-oriented setting with abundant greenery",
+    "easy highway access to Suwa\u0142ki city center and beyond",
+    "close to parks, playgrounds, and scenic walking paths",
+    "stunning mountain views for daily inspiration"
+  ],
+  "target_buyer": "Discerning families with children who value comfort, privacy, outdoor space, and premium features, preferring community ambiance with easy access to nature.",
+  "market_positioning": "This property stands among the region's superior offerings for those who prioritize refined family living and room to grow\u2014blending luxury details and low-density scenery within easy reach of urban convenience."
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Spacious Family Duplex in Tranquil Old Town Krosno",
+  "description": "Welcome to your dream family residence: a bright and modern 180 sqm duplex nestled in Krosno's Old Town. Boasting four generously sized bedrooms and three full bathrooms spread across two functional levels, the layout is perfect for harmonious family living. Expansive living and dining areas enjoy natural light, while a separate laundry room makes chores easy and fuss-free. Enjoy evenings in the fully fenced yard, and take advantage of an on-site EV charging station for your electric vehicle convenience.",
+  "neighborhood_description": "Set in Krosno\u2019s Old Town, the neighborhood balances the charm of mature development with a peaceful, suburban feel. Surrounded by modern homes and leafy streets, the area offers safe, traffic-calmed roads ideal for active families. Access to the highway provides fast connections out of town, while lush parks and recreational spaces support a vibrant outdoor lifestyle and restful atmosphere.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 180,
+  "property_type": "duplex",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1360000,
+  "key_features": [
+    "4 bedrooms",
+    "3 bathrooms",
+    "dedicated laundry room",
+    "spacious fenced yard",
+    "EV charging station",
+    "open-plan living/dining",
+    "modern kitchen with pantry",
+    "private parking space"
+  ],
+  "lifestyle_benefits": [
+    "tranquil, balanced living",
+    "great for remote working or small business setup",
+    "ideal for families seeking space and comfort",
+    "outdoor activity opportunities for all ages",
+    "quick highway access"
+  ],
+  "target_buyer": "Ideal for entrepreneurial families looking for modern comfort and room to grow\u2014especially those who value work-life balance and desire private, outdoor space while staying connected to transport.",
+  "market_positioning": "Positioned as a rare family-sized duplex in an emerging, peaceful neighborhood, this property stands out among local listings for its blend of contemporary features and entrepreneurial lifestyle support at a competitive price point."
+}

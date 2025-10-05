@@ -1,0 +1,36 @@
+{
+  "title": "Modern Eco-Chic Loft with Scenic Mountain Views in Radziwie",
+  "description": "Experience innovative urban living in this light-filled loft featuring soaring ceilings, industrial accents, and eco-friendly touches throughout. The spacious, open-concept layout includes two bedrooms and two modern bathrooms, spanning across 98 sqm. Smart floor plan design maximizes comfort, privacy, and natural light, providing perfect zones for relaxation or productivity. High-quality finishes, automatic entry systems, and built-in smart home capacity elevate this loft above the ordinary.",
+  "neighborhood_description": "Radziwie is one of Plock's most promising and rapidly developing neighborhoods, popular among young professionals seeking both convenience and outdoor spaces. Residents enjoy excellent connectivity via public transport and nearby highway access. Surrounded by investment in infrastructure and schools, plus sweeping views of the local hills, it\u2019s a hub for those with an active and healthy lifestyle.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 98,
+  "property_type": "loft",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 930000,
+  "key_features": [
+    "EV charging station",
+    "automatic gate",
+    "shared sauna",
+    "high ceilings",
+    "modern kitchen",
+    "energy-efficient lighting",
+    "smart-home ready",
+    "large windows"
+  ],
+  "lifestyle_benefits": [
+    "green energy solutions",
+    "communal wellness amenities",
+    "active neighborhood community",
+    "mountain and green views",
+    "walkable to schools and services"
+  ],
+  "target_buyer": "Young eco-conscious professionals seeking style, sustainability, and convenience, attracted to Plock's emerging neighborhoods.",
+  "market_positioning": "This loft stands out in the Plock market for its cutting-edge amenities and eco-forward approach, targeting buyers looking for a future-ready urban abode with exclusive communal features and nature-integrated living."
+}

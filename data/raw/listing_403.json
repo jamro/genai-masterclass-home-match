@@ -1,0 +1,35 @@
+{
+  "title": "Scandinavian-Inspired Four-Bedroom House with Green Outlook in Ursyn\u00f3w",
+  "description": "Step into understated elegance in this minimalist four-bedroom, two-bathroom house spanning 156 sqm. The home\u2019s Scandinavian design focuses on clean lines and functional living, with generous windows welcoming natural light. Thoughtful conveniences include a dedicated storage locker, an outdoor dining space, and access to a shared sauna, creating a balanced indoor-outdoor experience. The property feels fresh, spacious, and ready to adapt for both personal use and investment needs.",
+  "neighborhood_description": "Situated in vibrant Ursyn\u00f3w, the home sits in a relaxed, green pocket of south Warsaw favored by families and professionals. The area is known for quality schools, proximity to local shopping and dining, and convenient bike routes. With the city\u2019s coordinated public transit, nearby highways, and ease of access to Warsaw Airport, commuting\u2014and all manner of city living\u2014remain simple.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 156,
+  "property_type": "house",
+  "city": "Warsaw",
+  "neighborhood": "Ursynow",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway",
+    "airport"
+  ],
+  "price": 1980000,
+  "key_features": [
+    "minimalist Scandinavian interiors",
+    "outdoor dining area",
+    "shared sauna access",
+    "dedicated storage locker",
+    "fenced and private yard",
+    "proximity to shopping and restaurants"
+  ],
+  "lifestyle_benefits": [
+    "relaxed neighborhood pace",
+    "strong rental appeal",
+    "green, growing community setting",
+    "easy urban access for commuters"
+  ],
+  "target_buyer": "Experienced or first-time property investors seeking a fuss-free asset, or families wanting turnkey, contemporary living in Warsaw's burgeoning southern district.",
+  "market_positioning": "Priced below city-center equivalents with superior amenities, this property offers high rental potential and long-term capital growth in an evolving, desirable residential enclave."
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Modern 2-Bed in Kazimierz with Exclusive Amenities",
+  "description": "Discover this stylish 2-bedroom apartment nestled in the heart of dynamic Kazimierz. This sixth-floor, 61 sqm residence radiates warmth, featuring contemporary hardwood floors and efficient underfloor heating for all-seasons comfort. The light-filled living area seamlessly flows into a functional kitchen, while large windows offer captivating city views. Residents enjoy generous storage options and access to a private fitness center within the building.",
+  "neighborhood_description": "Located in Krakow\u2019s renowned Kazimierz district\u2014a vibrant cultural enclave with galleries, cafes, and trendy eateries. Enjoy the mix of historic charm and modern developments, where urban amenities blend with a relaxed pace of life. Well-connected bike lines and city public transport provide easy access everywhere, making it ideal for active city dwellers and pet lovers alike.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 61,
+  "property_type": "apartment",
+  "city": "Krakow",
+  "neighborhood": "Kazimierz",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1015000,
+  "key_features": [
+    "underfloor heating",
+    "hardwood floors",
+    "storage locker",
+    "fitness center",
+    "panoramic windows",
+    "modern security"
+  ],
+  "lifestyle_benefits": [
+    "easy access to dog-friendly parks",
+    "walkable to cultural hotspots and cafes",
+    "secure storage for bikes & strollers",
+    "pet-friendly building"
+  ],
+  "target_buyer": "Young professionals or couples with pets seeking a stylish, centrally-located home promising everyday convenience and active urban living.",
+  "market_positioning": "Stand-out modern new build positioned among Kazimierz\u2019s best; a rare pet-friendly offering with amenities appealing to urban professionals who value lifestyle and location."
+}

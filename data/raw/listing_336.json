@@ -1,0 +1,34 @@
+{
+  "title": "Sleek Digital Nomad Oasis with Panoramic Windows in Krzyki",
+  "description": "Step into a stunning 2-bedroom, 2-bath modern apartment boasting sweeping panoramic windows that flood the living space with light and city vistas. At 78 sqm, this stylish home blends comfort and design with a functional layout perfect for remote professionals. Eco-conscious touches like solar panels and a top-of-the-line security system offer ultimate urban peace of mind. A separate guest bathroom adds both flair and convenience.",
+  "neighborhood_description": "Set in Krzyki\u2014a bike-friendly, green neighborhood known for its relaxed ambiance\u2014the apartment is surrounded by tree-lined streets for easy weekend explorations or riverside walks. Enjoy proximity to the Oder waterfront, while seamless public transport, dedicated bike lines, and quick highway access effortlessly connect you with vibrant Wroclaw and beyond.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 78,
+  "property_type": "apartment",
+  "city": "Wroclaw",
+  "neighborhood": "Krzyki",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1070000,
+  "key_features": [
+    "panoramic windows",
+    "solar panels",
+    "advanced security system",
+    "guest bathroom",
+    "high-speed internet preinstalled",
+    "designer kitchen appliances"
+  ],
+  "lifestyle_benefits": [
+    "perfect for work-from-home and digital nomads",
+    "green bike-friendly setting",
+    "walking distance to riverside paths and parks",
+    "energized yet peaceful atmosphere"
+  ],
+  "target_buyer": "Ideal for young remote professionals and digital nomads seeking a stylish, well-connected urban base in a green neighborhood.",
+  "market_positioning": "Hits the sweet spot for design-savvy buyers\u2014they gain contemporary features in a peaceful urban locale, with value that's favorable compared to city-center pricing."
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Timeless Artistic House with Historic Charm in Gorna, Lodz",
+  "description": "This exceptional three-bedroom, two-bathroom house in Gorna invites you to live amid stories of the past and creative energies of the present. With 165 sqm of beautifully preserved living space, the property seamlessly combines classic hardwood floors, a sun-lit dining area, and energy-efficient windows that honor the balance of soul and sustainability. Benefit from a private underground garage, spacious laundry room, and a convenient reception desk for at-home gallery visits or studio times. The flowing layout elegantly adapts for live-work or family life, anchoring special moments year round.",
+  "neighborhood_description": "Gorna is emerging as a hub for artists, tech lovers, and changemakers attracted by an eco-conscious spirit and merging cultural influences. Tree-lined streets and vibrant street art cultivate inspiration, while friendly caf\u00e9s, community gardens, and expanding local markets emphasize holistic living. Nearby bike lines and seamless public transport links await just steps from your doorway, making exploration accessible and effortless.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 165,
+  "property_type": "house",
+  "city": "Lodz",
+  "neighborhood": "Gorna",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1225000,
+  "key_features": [
+    "reception desk",
+    "laundry room",
+    "hardwood floors",
+    "underground garage",
+    "energy-efficient windows",
+    "dining area with natural light"
+  ],
+  "lifestyle_benefits": [
+    "Adaptable spaces for creative studios or workshops",
+    "Bright communal areas for gatherings and inspiration",
+    "Direct access to eco-friendly amenities",
+    "In the heart of an emerging cultural district"
+  ],
+  "target_buyer": "Ideal for artists, musicians, digital creatives, or anyone seeking residential character woven with studio potential in a lively, forward-thinking community.",
+  "market_positioning": "Stands out for its heritage charm, ready creative infrastructure, and location in one of Lodz's most promising city-centrical districts for the cultural and eco-conscious."
+}

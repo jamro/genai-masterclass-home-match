@@ -1,0 +1,34 @@
+{
+  "title": "Eco-Friendly Modern Loft with Balcony in Thriving Debniki",
+  "description": "Embrace urban sustainability in this elegant, open-plan loft located in Krakow's developing Debniki district. With soaring ceilings and abundant natural light, the 2-bedroom, 1-bathroom residence spans a generous 82 sqm, delivering functional comfort for modern living. The stylish interiors highlight eco-friendly finishes and direct balcony access, perfect for morning coffee or evening relaxation. Dedicated laundry facilities and integrated EV charging cater to your practical and environmental needs.",
+  "neighborhood_description": "Debniki offers a unique balance\u2014it's safe, friendly, and constantly evolving, attracting professionals seeking serenity alongside city access. Residents benefit from excellent public transport connections, bike path infrastructure, and quick access to major highway routes. Lively caf\u00e9s, local green spaces, and river walks provide a vibrant, active backdrop for your new urban routine.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 82,
+  "property_type": "loft",
+  "city": "Krakow",
+  "neighborhood": "Debniki",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1375000,
+  "key_features": [
+    "loft layout with high ceilings",
+    "energy-efficient appliances",
+    "private balcony",
+    "EV charging station",
+    "separate laundry room",
+    "modern eco-friendly materials and finishes"
+  ],
+  "lifestyle_benefits": [
+    "walk/bike to work options",
+    "sustainable living setup",
+    "part of a safe, evolving local community",
+    "proximity to transport hubs"
+  ],
+  "target_buyer": "Perfect for professionals or couples relocating for work, who value modern, easy-care living and environmental responsibility.",
+  "market_positioning": "Distinct among Debniki lofts, this home combines modern green features and sought-after utility extras, providing ideal value for eco-conscious buyers in the mid-upper Krakow real estate market."
+}

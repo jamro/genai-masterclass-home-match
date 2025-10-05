@@ -1,0 +1,33 @@
+{
+  "title": "Historic Duplex Retreat with Modern Touches in Leszno Zatorze",
+  "description": "Discover a graceful blend of Leszno's classic architecture and modern comforts in this spacious, two-story duplex. Boasting five sun-filled bedrooms and two immaculate bathrooms, the property is set across a generous 192 square meters. Charming patio doors open out onto a landscaped private garden, perfect for relaxing afternoons and gatherings. Intelligent motion-sensor lighting, a state-of-the-art smart home system, and a secure underground garage complete this unique family haven, thoughtfully designed for elegant and efficient living.",
+  "neighborhood_description": "Zatorze offers a peaceful suburban vibe with tree-lined streets and excellent cycling routes, making it a hidden gem within Leszno. The neighborhood promotes a balanced lifestyle, with easy access to local parks and pet-friendly green spaces. Enjoy convenient public transport and quick highway connectivity, streamlining business or family commutes.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 192,
+  "property_type": "duplex",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1540000,
+  "key_features": [
+    "patio doors opening to garden",
+    "motion-sensor exterior lights",
+    "recycling facilities",
+    "underground garage",
+    "smart home system"
+  ],
+  "lifestyle_benefits": [
+    "seamless work-life balance in a tranquil setting",
+    "plenty of space for entertaining, home office, and family life",
+    "very bike-friendly district with easy green space access",
+    "secure parking and innovative home automation for busy lifestyles",
+    "pet-friendly surroundings offering daily comfort"
+  ],
+  "target_buyer": "Ideal for entrepreneurs or growing families seeking both historic ambiance and cutting-edge modern convenience, with dramatic spaces perfect for living and remote work.",
+  "market_positioning": "A rare combination of historic charm, contemporary amenities, and versatile space, this premium Zatorze duplex stands out in Leszno for dynamic professionals after refined tranquility and quick access to city life."
+}

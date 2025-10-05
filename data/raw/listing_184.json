@@ -1,0 +1,33 @@
+{
+  "title": "Timeless Serenity: Elegant Duplex Retreat in Krosno Old Town",
+  "description": "Nestled in the historic heart of Krosno's Old Town, this beautifully appointed duplex offers 4 serene bedrooms and 2 refined bathrooms across a spacious 156 sqm. Experience tranquility and modern living with soundproofed walls, letting every moment be one of calm. The luminous interiors are bathed in contemporary lighting, and a dedicated storage room ensures all your treasures have a place.",
+  "neighborhood_description": "Old Town, Krosno, combines the charm of cobbled streets with the convenience of local shopping and cozy dining just steps away. The neighborhood radiates friendly energy, a haven for those seeking both cultural engagement and peace. Its safe, close-knit community is perfect for leisurely strolls to coffee shops or artisan markets.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 156,
+  "property_type": "duplex",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1240000,
+  "key_features": [
+    "soundproof walls",
+    "shared courtyard",
+    "modern lighting system",
+    "storage locker",
+    "rainwater collection system",
+    "storage room"
+  ],
+  "lifestyle_benefits": [
+    "peaceful environment",
+    "easy access to town amenities",
+    "secure neighborhood feeling",
+    "ample space for visiting family and hobbies",
+    "historic setting with modern comforts"
+  ],
+  "target_buyer": "Ideally suited for retirees seeking comfort, community, and security, this residence is perfect for those wishing to savor their days amidst history without sacrificing swift access to urban conveniences.",
+  "market_positioning": "Seldom do homes in so charming and established a location come to market offering such modern resilience and expressive comforts; this property blends tradition and innovation, representing outstanding value for discerning retirees in Krosno."
+}

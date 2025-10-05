@@ -1,0 +1,32 @@
+{
+  "title": "Charming Eco-Friendly House with Modern Touches in Historic Rynek",
+  "description": "Nestled in the heart of Kazimierz Dolny\u2019s picturesque Rynek, this beautifully designed 5-bedroom house offers both comfort and style over a spacious 185 sqm layout. With a thoughtful modern fa\u00e7ade and energy-efficient windows, it\u2019s a home ready to welcome a new chapter, from lively family visits to peaceful independence. Two large bathrooms ensure convenience, and the easily adaptable space provides room for a home office as well as a cozy co-working nook.",
+  "neighborhood_description": "Rynek blends historic charm with an emerging eco-conscious and tech-forward spirit, attracting those looking for peace without sacrificing connectivity. The area is well-known for its quiet atmosphere, greenery, and a supportive community, making it perfect for retirees. Access to highway connections offers straightforward travel for family outings or errand runs while keeping urban bustle at bay.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 185,
+  "property_type": "house",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1630000,
+  "key_features": [
+    "home office space",
+    "energy-efficient windows",
+    "wheelchair accessibility",
+    "modern fa\u00e7ade design",
+    "adaptable co-working area"
+  ],
+  "lifestyle_benefits": [
+    "tranquil garden for relaxation",
+    "friendly eco-conscious neighborhood",
+    "suitable for single-level living",
+    "light-filled workspace options",
+    "proximity to scenic town attractions"
+  ],
+  "target_buyer": "Ideal for retirees seeking an active lifestyle in a peaceful, culturally rich environment\u2014whether enjoying a balance of privacy, community activities, or welcoming visiting family and friends.",
+  "market_positioning": "Distinctive among local offerings due to its fusion of stylish energy-efficient features with adaptability for aging in place and flexible workspace needs. Positioned as a premium choice for discriminating buyers valuing comfort, low-maintenance living, and character in a unique market."
+}

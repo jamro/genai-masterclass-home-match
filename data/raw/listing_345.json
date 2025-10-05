@@ -1,0 +1,33 @@
+{
+  "title": "Spacious Modern Family Apartment in Radziwie, Plock",
+  "description": "Discover the perfect family haven in this generously sized four-bedroom, two-bathroom apartment nestled in a modern development in Radziwie. The open floor plan creates a bright and welcoming atmosphere, making it ideal for family life and entertaining guests. Thoughtfully designed with a contemporary fa\u00e7ade and soundproof walls, this apartment ensures peace and comfort for every member of your household. Boasting energy-efficient features throughout, this property provides a sustainable and budget-friendly lifestyle without compromising style or convenience.",
+  "neighborhood_description": "Radziwie is renowned for its balanced lifestyle and community-oriented spirit, offering the tranquility of suburban living with immediate access to modern shops, restaurants, and services. Families enjoy the rich amenities nearby and a tight-knit community. Easy access to public transport and the nearby highway makes commuting seamless for busy households.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 112,
+  "property_type": "apartment",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 839000,
+  "key_features": [
+    "modern fa\u00e7ade design",
+    "open floor plan",
+    "energy-efficient building",
+    "shopping and dining nearby",
+    "soundproof walls"
+  ],
+  "lifestyle_benefits": [
+    "perfect for pet owners",
+    "ample space for growing families",
+    "community parks in vicinity",
+    "quiet environment due to soundproofing",
+    "short walk to shops and restaurants"
+  ],
+  "target_buyer": "Ideal for families\u2014or multi-generational households\u2014especially pet owners seeking a comfortable, modern apartment in a community-oriented neighborhood with easy access to transportation and amenities.",
+  "market_positioning": "Positioned as one of the more spacious, modern family apartments in Radziwie at a competitive price, this home stands out thanks to its size, pet-friendly open layout, and proximity to everyday conveniences."
+}

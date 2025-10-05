@@ -1,0 +1,32 @@
+{
+  "title": "Charming Historical House in Nadodrze \u2013 Perfect for Student Living",
+  "description": "Immerse yourself in Wroclaw\u2019s unique heritage with this beautifully preserved historic house situated in the heart of Nadodrze. Authentic architectural details blend seamlessly with contemporary comforts across 140 sqm, featuring three bright bedrooms, two modern bathrooms, and a spacious living area. Enjoy modern cooking in the fully equipped kitchen and relax in the fenced yard with its convivial barbecue zone. Safety is ensured with 24/7 security, and large energy-efficient windows let in plenty of natural light throughout the home.",
+  "neighborhood_description": "Nadodrze is known for its artistic spirit and tightly knit community, offering a perfect blend of history and modern convenience. Enjoy the vibrant caf\u00e9 culture, street art, and abundance of indie galleries just steps away. The area is well-connected via public transport and boasts a strong network of bike lines, making city exploration effortless.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 140,
+  "property_type": "house",
+  "city": "Wroclaw",
+  "neighborhood": "Nadodrze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1295000,
+  "key_features": [
+    "24/7 security",
+    "energy-efficient windows",
+    "modern kitchen",
+    "fenced yard",
+    "barbecue zone"
+  ],
+  "lifestyle_benefits": [
+    "Creative history-filled atmosphere",
+    "Easy commute to universities via tram or bike",
+    "Safe community-focused neighborhood",
+    "Plenty of trendy cafes and gathering spots"
+  ],
+  "target_buyer": "Ideal for groups of students or young academics seeking an inspiring home base near Wroclaw\u2019s universities. Also attractive to professionals or creatives in search of a lively and welcoming area steeped in history.",
+  "market_positioning": "One of the rare historical houses in Nadodrze with extensive security and modern upgrades, setting it apart for students or professionals who desire historical charm combined with today's lifestyle needs\u2014all at a competitive price in the Wroclaw city market."
+}

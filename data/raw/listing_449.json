@@ -1,0 +1,35 @@
+{
+  "title": "Contemporary Studio with Terrace in Trendy Je\u017cyce",
+  "description": "Step into urbane living in this smartly designed 32 sqm studio apartment situated in lively Je\u017cyce, Pozna\u0144. The interior features a bright, open-plan layout with a stylish kitchen nook, designated sleeping area, and a modern bathroom. Enjoy morning coffee on a private terrace, while floor-to-ceiling windows maximize daylight and city views. Fully equipped for convenience, this property integrates eco-focused solar panels and is wheelchair-accessible throughout.",
+  "neighborhood_description": "Located in the heart of Je\u017cyce, one of Pozna\u0144\u2019s liveliest and most sought-after neighborhoods. The area combines vibrant modern development with historic city charm. You're just steps from public transport, chic coworking caf\u00e9s, local schools, art galleries, dining spots, and all essential shopping destinations.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 32,
+  "property_type": "studio apartment",
+  "city": "Poznan",
+  "neighborhood": "Jezyce",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 415000,
+  "key_features": [
+    "reception desk",
+    "private terrace",
+    "solar panels",
+    "wheelchair accessibility",
+    "open-plan design",
+    "modern kitchen",
+    "secure building access"
+  ],
+  "lifestyle_benefits": [
+    "vibrant urban community",
+    "walkable surroundings",
+    "high-speed internet",
+    "flexible remote work spaces nearby",
+    "eco-friendly living"
+  ],
+  "target_buyer": "Young professionals or remote workers seeking a stylish, eco-conscious city dwelling in a lively and connected district.",
+  "market_positioning": "Highly competitive studio in a contemporary building, ideal for buyers desiring a blend of energetic urban lifestyle, sustainability, and modern conveniences in one of Pozna\u0144\u2019s most dynamic neighborhoods."
+}

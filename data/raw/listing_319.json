@@ -1,0 +1,33 @@
+{
+  "title": "Minimalist Loft Living in Old Town Krosno \u2013 Scandinavian Serenity",
+  "description": "An airy two-bedroom loft embraces Scandinavian simplicity, with clean lines and ample daylight streaming through expansive windows. This 83 sqm home offers an adaptable, open layout that's perfect for work and relaxation. Thoughtfully designed spaces make it ideal for modern minimalism, combining comfort with productivity.",
+  "neighborhood_description": "Situated in Krosno\u2019s charming Old Town, this neighborhood radiates balance\u2014offering tranquility just a short walk from the city center\u2019s vibrant cafes and services. Enjoy a serene setting, friendly local spots, and quick access to key highways for effortless connectivity. The peaceful environment pairs perfectly with a low-key yet connected lifestyle.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 83,
+  "property_type": "loft",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1080000,
+  "key_features": [
+    "minimalist Scandinavian design",
+    "private parking space",
+    "barbecue and garden zone",
+    "open-plan living and dining area",
+    "well-maintained common areas",
+    "large loft-style windows",
+    "secure building entry"
+  ],
+  "lifestyle_benefits": [
+    "perfect for digital nomads seeking peace and aesthetics",
+    "quick highway access to business hubs and regional destinations",
+    "ideal balance of relaxation and city proximity",
+    "community spaces for focused work or informal meetings"
+  ],
+  "target_buyer": "Digital nomads or remote professionals open to calm, beautifully designed spaces near yet not inside the urban bustle, appreciating low-maintenance loft living within comfortable reach of work and leisure.",
+  "market_positioning": "A rare contemporary loft in Krosno's Old Town tailored to the changing needs of modern professionals. Stands out for minimalist aesthetic, location convenience, and adaptable lifestyle solutions\u2014superb value within the mid-range market for quality loft living."
+}

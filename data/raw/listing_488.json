@@ -1,0 +1,34 @@
+{
+  "title": "Charming Historic House in Krosno Old Town: Modern Renovation Meets Classic Elegance",
+  "description": "Revel in the unique character of this beautifully renovated historic house in Krosno's enchanting Old Town. Boasting four spacious bedrooms and three modern bathrooms across 182 square meters, the property ingeniously blends architectural heritage with contemporary comforts. Step into a sun-filled living area featuring a newly renovated kitchen, then flow seamlessly to a lush private garden through elegant patio doors. Bright interiors and thoughtfully designed communal spaces make this an ideal residence for modern living.",
+  "neighborhood_description": "Located in Krosno's Old Town, enjoy a peaceful neighborhood steeped in history yet influenced by modern development. The area encourages an active, outdoor lifestyle with nearby green spaces and local amenities. Convenient highway access allows for effortless travel, and schools are easily reachable in this tranquil but connected community.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 182,
+  "property_type": "house",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1340000,
+  "key_features": [
+    "modern kitchen",
+    "patio doors opening to garden",
+    "newly renovated interior",
+    "private garden",
+    "historical architecture",
+    "spacious bedrooms",
+    "ample natural light",
+    "installed security system"
+  ],
+  "lifestyle_benefits": [
+    "short walk to local caf\u00e9s and cultural sites",
+    "tranquil garden for relaxation or study",
+    "proximity to schools",
+    "opportunities for outdoor exploration"
+  ],
+  "target_buyer": "Ideal for students wanting to share a stylish home close to schools or young professionals seeking character-filled living with getaway garden space.",
+  "market_positioning": "Rarely found in Krosno's Old Town, this renovated historic house stands out for students or communal living, offering turnkey comfort, historic charm, and modern amenities in a sought-after neighborhood with excellent highway links."
+}

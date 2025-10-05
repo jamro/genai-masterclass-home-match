@@ -1,0 +1,32 @@
+{
+  "title": "Sunlit Modern 1-Bed Apartment with Artistic Vibes in Lazarz",
+  "description": "Step into this freshly renovated 1-bedroom, 2-bathroom apartment set in a quiet block with elevator access. Showcasing an airy open floor plan, generous windows bask the interior in abundance of light. Added comforts include a dedicated storage locker and contemporary finishes throughout, combining function and modern aesthetics. With 58sqm of tastefully designed space, it\u2019s an urban retreat tailored for easy, stylish living.",
+  "neighborhood_description": "Lazarz is renowned for its creative, youthful spirit\u2014dotted with gallery spaces, cozy cafes, and artistic events. The neighborhood boasts lush parks and innovative playgrounds, offering moments of tranquility close to the scenic Warta River waterfront. Locals appreciate its thriving social atmosphere intermixed with plenty of peaceful pockets, marrying city amenities with relaxed vibes.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 58,
+  "property_type": "apartment",
+  "city": "Poznan",
+  "neighborhood": "Lazarz",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 829000,
+  "key_features": [
+    "quiet neighborhood setting",
+    "storage locker",
+    "open floor plan",
+    "newly renovated interior",
+    "elevator access"
+  ],
+  "lifestyle_benefits": [
+    "wheelchair and retiree friendly building",
+    "steps from lively art events",
+    "relaxing park walks and riverside cycling",
+    "walkable access to groceries and services"
+  ],
+  "target_buyer": "Ideal for retirees or couples desiring a low-maintenance yet creative urban lifestyle, with elevated comfort, safety, and access to culture and nature.",
+  "market_positioning": "A turnkey opportunity suited for buyers seeking vibrant, convenient city living without sacrificing tranquility. Competitively positioned with high-end finishes at a solid value in Poznan\u2019s most sought-after up-and-coming creative neighborhood."
+}

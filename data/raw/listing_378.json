@@ -1,0 +1,32 @@
+{
+  "title": "Bright Minimalist Haven in Swidnica's Historic Center",
+  "description": "Experience understated Scandinavian elegance in this inviting 3-bedroom apartment nestled in Swidnica's iconic Historic Center. Designed with an emphasis on functional minimalism, this 88 sqm residence offers an airy open floor plan connecting living and dining spaces, perfect for blending work and relaxation. A sunlit balcony invites peaceful morning coffees while thoughtfully curated sustainable elements such as energy-efficient systems and recycling facilities align with modern values. One well-appointed bathroom and a private parking space round out the home\u2019s conveniences.",
+  "neighborhood_description": "Located in the quant Historic Center, the apartment puts you moments away from the city\u2019s renowned coffee shops, creative coworking spaces, and vibrant local shops. Seamless public transport connections and quick highway access offer autonomy in your day-to-day, all within a neighborhood known for both its rich history and progressive, tech-conscious community ethos.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 88,
+  "property_type": "apartment",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 860000,
+  "key_features": [
+    "open floor plan",
+    "balcony",
+    "energy-efficient building",
+    "recycling facilities",
+    "private parking space"
+  ],
+  "lifestyle_benefits": [
+    "walkable to old town cafes",
+    "proximity to coworking spaces and tech meetups",
+    "excellent balance of urban energy and tranquility",
+    "safe, friendly community"
+  ],
+  "target_buyer": "Ideal for digital nomads or remote professionals who value connectivity, simplicity, and prime access to both lived-in culture and modern amenities.",
+  "market_positioning": "Competes as a turnkey opportunity for buyers seeking character, sustainability, and flexible live-work spaces in Swidnica's most sought-after downtown sanctuary."
+}

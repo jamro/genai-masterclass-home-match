@@ -1,0 +1,30 @@
+{
+  "title": "Charming Studio Retreat Overlooking Kazimierz Dolny\u2019s Rynek",
+  "description": "Welcome to a cozy and thoughtfully designed studio located in the historic heart of Kazimierz Dolny\u2019s iconic Rynek. This energy-efficient space features 1 bedroom, 1 stylish bathroom, and a comfortable 38 sqm layout, perfect for modern living. The studio comes adorned with a charming fireplace and offers residents access to communal recycling facilities.",
+  "neighborhood_description": "Set amidst the old-town charm of Rynek, this home is surrounded by picturesque cobbled streets and tranquil greenery. Enjoy a relaxed pace of life in this low-urbanization neighborhood, known for its bike-friendly paths and scenic natural surroundings. Local shops, vibrant cafes, and riverside walks offer the perfect blend for those seeking authenticity and comfort.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 38,
+  "property_type": "studio",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 439000,
+  "key_features": [
+    "fireplace",
+    "energy-efficient building",
+    "recycling facilities",
+    "co-working area in building"
+  ],
+  "lifestyle_benefits": [
+    "peaceful green surroundings",
+    "stress-free commuting via highway access",
+    "bike-friendly area",
+    "authentic small-town experience"
+  ],
+  "target_buyer": "Ideal for young professionals or couples starting a family who value returns to nature and community, while enjoying stylish, modern finishes.",
+  "market_positioning": "Rarely available renovated studio with top sustainability credentials and community amenities, offering substantial value compared to more urbanized markets\u2014perfect for those seeking to balance career and family in a picturesque setting."
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Minimalist Scandinavian Loft with Panoramic Views in Katowice Srodmiescie",
+  "description": "Step into a serene 2-bedroom loft defined by clean lines and Scandinavian elegance. Spacious living meets striking simplicity across 92 square meters, offering an abundance of light from panoramic windows. The carefully considered floor plan hosts an inviting main bathroom and a guest WC for added comfort. A private rooftop deck crowns the space, perfect for family gatherings or quiet evenings watching the city fade into the mountains.",
+  "neighborhood_description": "Located in Katowice's cherished Srodmiescie, urban conveniences blend seamlessly with avenues shaded by mature trees and glimpses of the distant Silesian hills. Even in this lively core of the city, a peaceful atmosphere persists. Steps from your door you'll find access to extensive public transport, dedicated bike lanes, nearby caf\u00e9s, cultural centers, and playgrounds.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 92,
+  "property_type": "loft",
+  "city": "Katowice",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1240000,
+  "key_features": [
+    "guest bathroom",
+    "rooftop deck",
+    "panoramic windows",
+    "Scandinavian minimalist design",
+    "open-plan living area"
+  ],
+  "lifestyle_benefits": [
+    "mountain views from private rooftop",
+    "child-friendly open spaces",
+    "easy walk to schools and parks",
+    "urban amenities at your doorstep"
+  ],
+  "target_buyer": "Ideal for families who appreciate minimalist design, urban living, and easy access to both green spaces and city amenities.",
+  "market_positioning": "A rarely available premium loft that balances calm family space and downtown dynamism in Katowice\u2019s most sought-after neighborhood."
+}

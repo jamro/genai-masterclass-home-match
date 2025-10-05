@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Luxury Duplex with Rooftop Deck in Krosno Old Town",
+  "description": "Step into sophisticated comfort with this exclusive 155 sqm duplex, thoughtfully designed for modern eco-conscious living. The airy, sunlit interiors showcase three spacious bedrooms complemented by two bespoke bathrooms featuring both style and sustainability. Distinct touches such as crafted built-in wardrobes and cutting-edge energy-efficient windows ensure your home blends contemporary vibes with environmental harmony. Enjoy unparalleled socializing and tranquility on your private rooftop deck\u2014an urban oasis above historic streets.",
+  "neighborhood_description": "Nestled within Krosno\u2019s charming Old Town, this residence enjoys an intimate, artistic atmosphere among cobbled streets and creative galleries. The neighborhood uniquely blends heritage and innovation, blossoming into a sought-after cultural district while preserving its peaceful character. Modern infrastructures such as proximity to highways simplify travel yet keep you embraced by the authenticity and serenity only a low-urban area can offer.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 155,
+  "property_type": "duplex",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1620000,
+  "key_features": [
+    "rooftop deck",
+    "energy-efficient windows",
+    "built-in wardrobes",
+    "24/7 security",
+    "smart home system",
+    "reception desk"
+  ],
+  "lifestyle_benefits": [
+    "private outdoor living with rooftop views",
+    "peaceful, artistic environment",
+    "state-of-the-art home automation",
+    "eco-friendly features reduce expenses and footprint",
+    "secure lock-and-leave solution"
+  ],
+  "target_buyer": "This property is ideal for eco-conscious families or professionals who appreciate sustainable luxury melded with artistic inspiration, seeking tranquility and community in a cultured setting.",
+  "market_positioning": "Positioned as one of the most sustainable premium homes in Krosno's exclusive Old Town, this duplex redefines contemporary luxury for selective buyers prioritizing smart, green features in Poland\u2019s blossoming regional market."
+}

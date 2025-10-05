@@ -1,0 +1,34 @@
+{
+  "title": "Creative Urban Retreat \u2013 Artistic 3 Bedroom Apartment with Courtyard in Zatorze, Leszno",
+  "description": "Discover this distinct 3-bedroom apartment nestled in the vibrant Zatorze neighborhood of Leszno. With 83 square meters of thoughtfully designed living space, enjoy brightness and character flowing throughout an open layout, kept cozy year-round courtesy of efficient underfloor heating. The apartment boasts a large living area, a practical storage room for supplies or bikes, and smart, motion-sensor lighting for your security. Shared, well-maintained common areas and a friendly reception desk add convenience, while large windows invite creativity and light indoors.",
+  "neighborhood_description": "Live steps from Leszno\u2019s bustling city center, within a community renowned for its creative vibe and friendly neighbors. Zatorze is close to green parks and playgrounds, making it perfect for a break from the studio or urban adventures. Perfect transport links\u2014via public transit or highway access\u2014keep your city explorations within easy reach.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 83,
+  "property_type": "apartment",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 679000,
+  "key_features": [
+    "shared courtyard",
+    "storage room",
+    "motion-sensor exterior lights",
+    "well-maintained common areas",
+    "reception desk",
+    "underfloor heating"
+  ],
+  "lifestyle_benefits": [
+    "inspiring space for artists and creatives",
+    "proximity to parks for outdoor sessions or relaxation",
+    "easy access to city cultural spots and coffee rooms",
+    "secure community environment",
+    "community-sharing vibe perfect for networking over art and design"
+  ],
+  "target_buyer": "Ideal for young professionals or visual creatives looking for a vibrant yet relaxed space with inspiring surroundings and urban conveniences.",
+  "market_positioning": "This apartment stands out in Leszno market as a rare blend of city-centered convenience and lifestyle appeal tailored to artists and culture-focused young buyers, offering amenity-rich living that supports work-play balance."
+}

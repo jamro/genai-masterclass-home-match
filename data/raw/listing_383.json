@@ -1,0 +1,31 @@
+{
+  "title": "Eco-Modern Family Haven in Ustka's Port District",
+  "description": "Embrace bright coastal living in this contemporary 4-bedroom, 3-bathroom house nestled in Ustka's coveted Port District. Spanning a spacious 193 sqm, this eco-friendly home features expansive panoramic windows that bring the lush green surrounds indoors, alongside a modern barbecue zone perfect for family gatherings. Enjoy the peace and privacy of a low-traffic locale, thoughtful recycling facilities, and quality finishes throughout.",
+  "neighborhood_description": "Set in the Port District of Ustka, your new home is surrounded by greenery with bike-friendly lanes weaving throughout the neighborhood. With easy access to highways for weekend getaways and an abundance of walking and cycling trails, this area is ideal for those who value tranquility and an active, sustainable lifestyle.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 193,
+  "property_type": "house",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1225000,
+  "key_features": [
+    "recycling facilities",
+    "panoramic windows",
+    "barbecue zone",
+    "quiet neighborhood setting"
+  ],
+  "lifestyle_benefits": [
+    "proximity to green areas",
+    "excellent cycling infrastructure",
+    "space for gardening or home projects",
+    "ample rooms for families or home offices"
+  ],
+  "target_buyer": "Perfect for long-term renters and families seeking stability, privacy, and a strong connection to nature in the beautiful Baltic seaside town of Ustka.",
+  "market_positioning": "A rare eco-conscious modern house offering spacious comfort and privacy in a low-urban, highly desirable area adjacent to the sea, appealing to buyers prioritizing sustainability, tranquility, and access to outdoor recreation."
+}

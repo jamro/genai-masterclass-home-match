@@ -1,0 +1,34 @@
+{
+  "title": "Luxurious Eco-Modern Apartment in Historic Center with Mountain Views",
+  "description": "Step into a masterfully redesigned four-bedroom apartment blending eco-conscious living with contemporary luxury. This 118 sqm home features an airy open floor plan lovingly restored to celebrate historic details, featuring modern finishes and abundant natural light. Practical design meets exclusivity in a sophisticated walk-in closet, complimentary hi-spec security, and responsibly sourced materials throughout. Live stylishly and save on winter maintenance with the heated driveway\u2014an energy-efficient rarity in city living. A thoughtfully designed bathroom offers comfort, privacy, and sustainable amenities for everyday indulgence.",
+  "neighborhood_description": "Nestled in the heart of Swidnica\u2019s Historic Center, savor daily walks along charming, centuries-old streets bordered by artisan cafes and landmark architecture. Excellent public transport options and immediate highway access ensure a seamless urban commute, while the scenic backdrop of nearby mountains elevates leisure time. This neighborhood effortlessly combines timeless character with modern convenience for those seeking elevated urban living.",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "size_sqm": 118,
+  "property_type": "apartment",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 986000,
+  "key_features": [
+    "open floor plan",
+    "walk-in closet",
+    "24/7 security",
+    "energy-efficient heated driveway",
+    "large modern windows",
+    "restored architectural details"
+  ],
+  "lifestyle_benefits": [
+    "historical ambiance with modern comforts",
+    "mountain view from living area",
+    "secure eco-luxury living",
+    "easy commute to city amenities",
+    "walkable to cafes and cultural sights"
+  ],
+  "target_buyer": "A discerning luxury homebuyer seeking an iconic residence that harmonizes sustainability, security, architectural charm, and access to urban amenities\u2014ideal for families or professionals valuing comfort, style, and eco-conscious living.",
+  "market_positioning": "Sets a high standard for sustainable luxury in Swidnica\u2019s property market, combining sought-after historic location with smart amenities and ecological solutions rarely offered in this area."
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Eco-Chic Duplex in Vibrant Stare Miasto with Green Touches",
+  "description": "Experience contemporary sustainable living in the heart of Poznan\u2019s storied Stare Miasto. This modern duplex unfurls across 158 sqm, artfully balancing brightness and functionality. The generous, open-plan living area is complemented by four serene bedrooms, two thoughtfully designed bathrooms, ample storage spaces, and a tailor-made walk-in closet. Exquisite modern lighting, an intelligent video intercom, and automated gates redefine security and ease; natural accents provide an inspired canvas for urban minds keen on eco-conscious living.",
+  "neighborhood_description": "Immerse yourself in Stare Miasto\u2019s dynamic harmony\u2014a tech-forward nucleus thriving alongside tranquil parks and newly curated green lanes. Locals and newcomers collaborate in its vibrant co-working venues, while eco-conscious amenities and cycling paths punctuate the trendsetting local buzz. All essentials\u2014from fresh markets to immersive nightlife and diverse cuisine\u2014are merely steps away, each made accessible by robust public transport and an impressive network of bike lines.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 158,
+  "property_type": "duplex",
+  "city": "Poznan",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1420000,
+  "key_features": [
+    "automatic gate",
+    "storage room",
+    "walk-in closet",
+    "residents' lounge",
+    "modern lighting system",
+    "video intercom"
+  ],
+  "lifestyle_benefits": [
+    "eco-minded design",
+    "energy-efficient systems",
+    "proximity to green spaces",
+    "enriched cycling routes",
+    "connected community vibe",
+    "access to tech-enhanced amenities"
+  ],
+  "target_buyer": "Ideal for sustainability-focused professionals, families, or creatives who value green living, seamless smart-home solutions, and the pulse of a lively, innovative city center.",
+  "market_positioning": "Uniquely situated at the intersection of style and sustainability, this duplex outshines typical offerings in its segment, elevating comfort and eco-friendly sophistication within one of Poznan\u2019s most progressive and sought-after locations."
+}

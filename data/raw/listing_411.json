@@ -1,0 +1,35 @@
+{
+  "title": "Modern Eco-Duplex by the Waterfront in Suburb, Pila",
+  "description": "Experience contemporary living in this spacious and light-filled duplex offering 3 generous bedrooms and 2 stylish bathrooms across 128 sqm. Each half of the duplex is designed for versatility, with a dedicated home office space perfect for remote work. Eco-friendly finishes such as rainwater collection and hardwood floors cater to environmentally-minded buyers, all wrapped in modern architecture enhanced by natural light. Thoughtfully designed, the open-concept kitchen and living areas flow seamlessly to private outdoor spaces tinted by mature plants.",
+  "neighborhood_description": "Located in Suburb, Pila\u2019s tranquil outskirts, this fresh property's setting is just moments away from the waterfront, where you can unwind along nature-traced paths. With a closely-knit, community-focused atmosphere, enjoy regular neighborhood events and recreational opportunities ideal for networking and relaxation. The direct highway access ensures quick commutes for professionals.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 128,
+  "property_type": "duplex",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1390000,
+  "key_features": [
+    "hardwood floors",
+    "dedicated home office",
+    "rainwater collection system",
+    "energy-efficient appliances",
+    "open-plan kitchen/living",
+    "two private entrances",
+    "covered driveway",
+    "green backyard"
+  ],
+  "lifestyle_benefits": [
+    "minimum environmental footprint",
+    "flexible space for remote work",
+    "access to waterfront activities",
+    "laid-back communitynd outdoor meetings",
+    "easy car access for weekend escapes"
+  ],
+  "target_buyer": "Ideal for eco-conscious young professionals or couples craving spacious modern living with sustainability flair, convenient commutes, and a vibrant local life close to nature.",
+  "market_positioning": "This attractively-priced eco-duplex stands out in the Suburb market with its combination of green features, modern design, and connectivity. Perfect for buyers prioritizing healthy living and workplace flexibility, while still supporting sustainable lifestyles near the waterfront."
+}

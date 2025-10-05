@@ -1,0 +1,33 @@
+{
+  "title": "Historic Charm Meets Modern Living on Kazimierz Dolny\u2019s Iconic Rynek",
+  "description": "Step into an enchanting, lovingly restored historic house featuring 4 bright bedrooms and 3 elegant bathrooms. With 197 sqm of thoughtfully designed space and a captivating open floor plan, this unique residence blends classic period details\u2014exposed beams, timeworn stonework\u2014with premium contemporary finishes. Enhanced security systems and a rare EV charging facility bring subtle sophistication, while a generous, inviting dining area flows seamlessly for both living and working.",
+  "neighborhood_description": "Nestled in the vibrant heart of Rynek\u2014Kazimierz Dolny\u2019s bustling cultural square\u2014this home is surrounded by boutique shops, artisan cafes, and top-tier dining experiences. Though peaceful and delightfully tranquil thanks to its low urban density, Rynek bursts with regular art fairs, music to stroll by, and community charm. Its historic streets offer a perfectly balanced lifestyle between timeless sanctuary and buzzing creativity, easily accessed by nearby highway links.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 197,
+  "property_type": "house",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1780000,
+  "key_features": [
+    "Open floor plan",
+    "Historic architecture with contemporary finishes",
+    "Security system",
+    "EV charging station",
+    "Premium kitchen appliances",
+    "Spacious dining and living area",
+    "Private garden courtyard"
+  ],
+  "lifestyle_benefits": [
+    "Balanced lifestyle in the cultural heart of Kazimierz Dolny",
+    "Shopping and artisan dining within steps",
+    "Historic ambiance great for creative business meetings",
+    "Peaceful, charming neighborhood with eventful weekends"
+  ],
+  "target_buyer": "Perfect for entrepreneurially minded individuals or families who appreciate artistic influence and value a harmonious work-life balance. Those seeking inspirational surroundings to fuel their creativity and business ventures will thrive here.",
+  "market_positioning": "This distinctive historic home sits at the upper end of the market, suited for buyers attracted to Kazimierz Dolny\u2019s cultural and creative pulse, and who require elegant, move-in ready living just minutes from local attractions and main road connections."
+}

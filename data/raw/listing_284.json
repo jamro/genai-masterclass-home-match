@@ -1,0 +1,31 @@
+{
+  "title": "Modern Loft Living in Rapidly Growing Pradnik Bialy",
+  "description": "Step into a contemporary 3-bedroom loft crafted for the urban professional or enterprising individual. This spacious property offers 92 sqm of flexible living space, bathed in natural light through energy-efficient windows. Textured brick accents and sleek finishes give this home both character and practicality. Relax or entertain on your private terrace overlooking the local skyline, and enjoy secure bicycle storage\u2014an ideal flexibility for active city lifestyles.",
+  "neighborhood_description": "Located in Krakow\u2019s bustling Pradnik Bialy, the neighborhood boasts modern developments set amidst green pockets. As an area on the rise, you\u2019ll find exciting new dining options and co-working spaces, all convenient to reliable public transportation and main highways for easy commuting.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 92,
+  "property_type": "loft",
+  "city": "Krakow",
+  "neighborhood": "Pradnik Bialy",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1285000,
+  "key_features": [
+    "spacious terrace",
+    "energy-efficient windows",
+    "secure bicycle storage",
+    "open-plan living area",
+    "modern kitchen appliances"
+  ],
+  "lifestyle_benefits": [
+    "ample space to work-from-home or host meetings",
+    "linked to commercial and business hubs",
+    "community of like-minded urban professionals"
+  ],
+  "target_buyer": "The ideal buyer is a young entrepreneur or urban professional seeking an inspiring, flexible home base close to Krakow\u2019s business and creative centers.",
+  "market_positioning": "This loft stands out in Pradnik Bialy for its mix of modern features, attention to workspace needs, and prime location at a price point that appeals to forward-thinking professionals and investors."
+}

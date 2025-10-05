@@ -1,0 +1,32 @@
+{
+  "title": "Eco-Modern Loft with Green Vibe in Pila's Trendy Suburb",
+  "description": "This stylish modern loft features a thoughtfully designed open layout with 2 generously-sized bedrooms and 1 sleek bathroom. Bathed in natural light, the space radiates with a harmonious blend of modern and eco-conscious decor, offering both comfort and sustainability. Efficient use of 68 square meters maximizes living space, while the contemporary fa\u00e7ade sets an inspiring first impression.",
+  "neighborhood_description": "Nestled in Suburb, one of Pila\u2019s most green and dynamic up-and-coming areas, the loft promises tranquility with access to safe pedestrian zones. Surrounded by lush parks and upstart business spaces, residents enjoy a natural setting without feeling disconnected. Easy access to major highways supports both fast commutes and convenient getaways, fostering a connected yet peaceful lifestyle.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 68,
+  "property_type": "loft",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1125000,
+  "key_features": [
+    "modern lighting system",
+    "modern fa\u00e7ade design",
+    "storage room",
+    "pets allowed",
+    "energy-efficient appliances",
+    "open-plan living area"
+  ],
+  "lifestyle_benefits": [
+    "close to nature and parks",
+    "secure and private environment",
+    "ideal for creative work or business projects",
+    "room for pets and outdoor activities"
+  ],
+  "target_buyer": "Modern entrepreneurs and business professionals who seek a smart and eco-friendly lifestyle away from the city hustle yet remain within reach of essential connections.",
+  "market_positioning": "This loft stands out as a trend-forward yet practical residence for young professionals and small-business owners who prioritize both style and sustainability. Competing strongly on both features and cost-efficiency, it leverages a desirable location within Pila's most promising green suburban enclave."
+}

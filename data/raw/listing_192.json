@@ -1,0 +1,33 @@
+{
+  "title": "Chic Artistic Studio Retreat in the Heart of Wilda",
+  "description": "Step into this luminous and inviting studio apartment, a perfect canvas for creative souls. Spanning 32sqm, this third-floor retreat features a clever open layout, stylish built-in wardrobes, a roomy walk-in closet, and a sun-drenched balcony where ideas can flourish. The contemporary kitchen melds effortlessly with the living space, and a freshly fitted bathroom completes the modern package.",
+  "neighborhood_description": "Wilda is a vibrant, growing area beloved by the artistic community, offering funky cafes, art venues, and intimate concert halls. Well-connected by a web of public transport and equipped with bike lanes, the neighborhood is perfect for young dreamers hungry for adventure or quiet inspiration. Local moderization transforms traditional streetscapes and brings bursts of color to every corner.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 32,
+  "property_type": "studio apartment",
+  "city": "Poznan",
+  "neighborhood": "Wilda",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 385000,
+  "key_features": [
+    "spacious walk-in closet",
+    "stylish built-in wardrobes",
+    "large private balcony",
+    "modern kitchenette",
+    "secure automatic gate"
+  ],
+  "lifestyle_benefits": [
+    "perfect for students",
+    "easy daily commute to universities",
+    "cosy and private creative space",
+    "access to lively arts scene and culture",
+    "sustainable urban living"
+  ],
+  "target_buyer": "Ideal for students and young professionals looking for an inspiring yet affordable nest in central Poznan, with quick access to universities and city life, but equally suited for anyone seeking a low-maintenance home filled with light and personality.",
+  "market_positioning": "This studio combines cleverly planned space and sought-after modern details, distinguishing itself among Wilda's competitive offerings. Ideally positioned for young buyers wanting to invest into a vibrant, transforming neighborhood at a reasonable entry price point."
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Sustainable Modern 4-Bedroom Apartment Surrounded by Greenery in Debniki",
+  "description": "Set in the picturesque neighborhood of Debniki, this modern 4-bedroom, 2-bathroom apartment boasts 124 sqm of comfortable living space tailored for the eco-conscious. Open-concept design meets functional layouts, including a dedicated home office perfect for professional flexibility. The bright interiors harmoniously connect to scenic landscaped communal gardens, giving residents a private oasis in an urban setting. An in-building EV charging station and ample storage cater to modern needs.",
+  "neighborhood_description": "Debniki offers a unique combination: close proximity to Krakow\u2019s vibrant city center and an abundance of green spaces like the Zakrz\u00f3wek Nature Reserve. Local amenities include eco-friendly markets, chic cafes, schools, and parks. Excellent access to public transport, bike paths, and the highway provides smooth connections for both city commuting and leisure excursions.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 124,
+  "property_type": "apartment",
+  "city": "Krakow",
+  "neighborhood": "Debniki",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1090000,
+  "key_features": [
+    "landscaped surroundings",
+    "dedicated home office",
+    "EV charging station",
+    "balcony overlooking green spaces",
+    "energy-efficient appliances",
+    "secure entrance",
+    "underground parking"
+  ],
+  "lifestyle_benefits": [
+    "sustainable living with green features",
+    "easy access to city center and amenities",
+    "active commuting via bike lines",
+    "flexibility for work-from-home investors"
+  ],
+  "target_buyer": "Ideal for property investors seeking high-demand eco-friendly apartments that attract sustainable-living tenants or families desiring efficiency and convenience close to the city core.",
+  "market_positioning": "This apartment stands out in the local Krakow market for its blend of sustainability, prime connectivity, and modern amenities, making it an attractive investment in an area favored for both rental yields and long-term growth."
+}

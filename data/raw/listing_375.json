@@ -1,0 +1,32 @@
+{
+  "title": "Charming Family Home with Garden Retreat in Nowy Sacz Suburbs",
+  "description": "Welcome to this inviting 4-bedroom family house nestled in the peaceful Suburb of Nowy Sacz. Thoughtfully renovated, the home boasts spacious interiors with modern lighting, an open family room highlighted by a cozy fireplace, and a guest bathroom perfect for entertaining. Enjoy cooking in a sun-filled kitchen and host family get-togethers in the private garden. The automatic gate and security system provide peace of mind, making this an ideal retreat for comfortable family living.",
+  "neighborhood_description": "The Suburb neighborhood offers a charming blend of artistic spirit and a relaxed pace of life away from the city bustle. Set amidst a community known for its creative energy, families will appreciate the peaceful streets and wide green spaces. Quick access to nearby highways ensures convenience for commuting while allowing for quiet evenings at home.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 186,
+  "property_type": "house",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1250000,
+  "key_features": [
+    "modern lighting system",
+    "fireplace",
+    "private garden",
+    "automatic gate",
+    "guest bathroom",
+    "nearby fitness center"
+  ],
+  "lifestyle_benefits": [
+    "ideal for families with children",
+    "ample outdoor space for play",
+    "quiet, serene surroundings perfect for relaxation",
+    "easy commuting via highway access"
+  ],
+  "target_buyer": "Perfect for families seeking a tranquil home with outdoor space, modern amenities, and a sense of community\u2014especially those who value privacy and family-oriented living.",
+  "market_positioning": "Well-positioned as a prime family residence, this property combines suburban comfort, modern conveniences, and strong value in one of Nowy Sacz's most sought-after low-density areas."
+}

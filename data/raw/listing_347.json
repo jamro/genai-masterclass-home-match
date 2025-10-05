@@ -1,0 +1,37 @@
+{
+  "title": "Exquisite Family Duplex with Modern Luxury in Zatorze",
+  "description": "Introducing an immaculately renovated duplex offering four spacious bedrooms and two elegant bathrooms, spanning 170 sqm of refined living. Bathed in natural light, the open-plan dining area seamlessly adjoins the contemporary kitchen, creating an inviting space for family gatherings. Enjoy state-of-the-art underfloor heating throughout, complemented by premium finishes for maximum comfort. Set amidst meticulously landscaped surroundings, this home truly defines sophisticated family living.",
+  "neighborhood_description": "Nestled in Leszno\u2019s vibrant Zatorze neighborhood, this property delivers the best of both worlds: a family-friendly ambiance paired with the lively urban energy characteristic of a flourishing district. Just moments from the city\u2019s renowned business and cultural quarters, residents also benefit from proximity to everyday conveniences, esteemed schools, parks, and diverse dining experiences.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 170,
+  "property_type": "duplex",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1420000,
+  "key_features": [
+    "newly renovated interior",
+    "four bedrooms",
+    "sun-filled dining area",
+    "elegant underfloor heating",
+    "modern open-plan kitchen",
+    "two designer bathrooms",
+    "private landscaped yard",
+    "spacious duplex layout"
+  ],
+  "lifestyle_benefits": [
+    "ideal for families with children",
+    "ample outdoor space for recreation",
+    "peaceful yet connected location",
+    "close to schools and parks",
+    "convenient for commuters",
+    "access to urban amenities"
+  ],
+  "target_buyer": "Perfect for discerning families seeking a premium move-in ready home that balances sophisticated comfort with functionality for busy modern life.",
+  "market_positioning": "This elegant duplex stands as a rare offering in Leszno\u2019s Zatorze, appealing to families seeking modern luxury features in a well-connected family-friendly enclave."
+}

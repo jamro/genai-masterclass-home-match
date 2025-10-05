@@ -1,0 +1,34 @@
+{
+  "title": "Historic-Style Eco House with Barbecue Zone in Artistic Zaspa",
+  "description": "This charming, eco-minded house draws inspiration from Gdansk\u2019s historic character while featuring environmentally friendly upgrades throughout. Boasting 4 spacious bedrooms and 3 modern bathrooms, the 180 sqm interior blends period detailing with thoughtful contemporary comfort. Expansive panoramic windows flood the inviting living areas with light and offer serene street and garden views. The heated driveway ensures effortless convenience during Gdansk's winter months, and a dedicated barbecue zone makes outdoor gatherings a year-round pleasure.",
+  "neighborhood_description": "Located in vibrant Zaspa, known for its thriving arts community and colorful urban murals, this house sits on a tranquil residential street surrounded by mature trees and well-tended gardens. Residents enjoy direct access to a network of bicycle paths and seamless public transport connections to Gda\u0144sk's Old Town, the seafront, and major amenities. The community attracts creative minds and families who appreciate both green spaces and city conveniences\u2014making every day feel inspired and connected.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 180,
+  "property_type": "house",
+  "city": "Gdansk",
+  "neighborhood": "Zaspa",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1650000,
+  "key_features": [
+    "barbecue zone",
+    "quiet neighborhood setting",
+    "panoramic windows",
+    "heated driveway",
+    "energy-efficient appliances",
+    "double-glazed windows",
+    "landscaped garden"
+  ],
+  "lifestyle_benefits": [
+    "sustainable living in an artistic community",
+    "reduced carbon footprint",
+    "easy cycling and commuting via public transport",
+    "peaceful yard for family activities"
+  ],
+  "target_buyer": "The ideal buyer is an eco-conscious family or creative professionals who value historical ambiance, green living, and wellness while wishing to reside in an inspiring, well-connected urban neighborhood.",
+  "market_positioning": "Uniquely situated among offering houses with both vintage appeal and modern amenities, this property appeals to those who cherish environmental responsibility, vibrant indoor-outdoor living, and proximity to city attractions within Gdansk\u2019s coveted Zaspa area."
+}

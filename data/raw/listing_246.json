@@ -1,0 +1,35 @@
+{
+  "title": "Eco-Modern 5 Bedroom House in Artistic Wilda",
+  "description": "Step into sustainable living with this spacious 5-bedroom, 2-bathroom modern house set on 185 sqm of thoughtfully designed space. Built with eco-conscious details, the bright open-plan living areas are complemented by large windows that draw in plentiful natural light. Custom wheelchair accessibility throughout ensures seamless comfort for all. Enjoy relaxing evenings in the shared residents' sauna or keep up with your wellness goals in the on-site fitness center.",
+  "neighborhood_description": "Wilda is celebrated for its unique transformation melding artistic flair with modern development, all moments from Poznan's bustling city center. Long-known as a hub for creatives, Wilda is dotted with local galleries, pop-up bakeries, and inviting green spaces. Getting around is effortless with convenient public transport links and extensive bike lines, inviting you to explore the city sustainably.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 185,
+  "property_type": "house",
+  "city": "Poznan",
+  "neighborhood": "Wilda",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1340000,
+  "key_features": [
+    "shared sauna",
+    "fitness center",
+    "recycling facilities",
+    "wheelchair accessibility",
+    "energy-efficient appliances",
+    "solar panels",
+    "spacious garden",
+    "private parking"
+  ],
+  "lifestyle_benefits": [
+    "fit for first-time eco-minded buyers",
+    "low carbon lifestyle with city access",
+    "inclusive, accessible modern interiors",
+    "participate in a thriving, creative community"
+  ],
+  "target_buyer": "Ideal for first-time buyers looking for a bright, future-friendly family space with full accessibility, close to artsy city attractions and amenities.",
+  "market_positioning": "This property stands out in the Wilda real estate market as a contemporary eco-home tailored for new homeowners, blending modern comforts and green living within steps of the city center and creative hotspots."
+}

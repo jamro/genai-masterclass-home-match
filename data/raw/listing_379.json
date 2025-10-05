@@ -1,0 +1,33 @@
+{
+  "title": "Bright Family Apartment Near Parks & Business Hub in Podg\u00f3rze",
+  "description": "Welcome to this warm and inviting two-bedroom apartment located in the heart of Krakow\u2019s established Podg\u00f3rze district. With 59 square meters of thoughtfully designed living space, this modern home offers a sun-lit living room, generous bedrooms, and a spacious bathroom. Wheelchair accessible and featuring an extra guest WC, the property provides comfort for all family members, including pets.",
+  "neighborhood_description": "Podg\u00f3rze offers a harmonious mix of city convenience and family-friendly ambiance. Well-connected by tram and bus, you\u2019ll find cycling paths right outside your door, plus easy highway access for weekend getaways. Local parks, pet-friendly bakeries, and the nearby business district create a desirable urban lifestyle.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 59,
+  "property_type": "apartment",
+  "city": "Krakow",
+  "neighborhood": "Podgorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 820000,
+  "key_features": [
+    "guest bathroom",
+    "bicycle storage",
+    "wheelchair accessibility",
+    "ground-floor access",
+    "pet-friendly policy"
+  ],
+  "lifestyle_benefits": [
+    "walk to pet-friendly parks",
+    "easy school and office commutes",
+    "secure bike storage for active owners",
+    "community green spaces"
+  ],
+  "target_buyer": "Perfect for a growing family, pet owners, or professionals seeking a friendly neighborhood with top convenience, excellent public transit, and spaces for their pets to thrive.",
+  "market_positioning": "This competitively priced apartment stands out among Podg\u00f3rze\u2019s family-focused listings thanks to its accessible layout, dedicated amenities for pet lovers, and unbeatable locality between central business areas and green recreation zones."
+}

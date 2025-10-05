@@ -1,0 +1,31 @@
+{
+  "title": "Charming Zakopane Woodland House with Mountain Views",
+  "description": "Step back in time with this beautiful four-bedroom, two-bathroom house nestled in the wooded expanse of Koscielisko, Zakopane. This historic property combines striking rustic architecture with subtle, modern comforts for year-round mountain living. With a generous 185sqm of living space, natural light pours through the wooden-framed windows, illuminating carefully preserved interiors and inviting communal spaces. Whether you\u2019re enjoying breakfast in the bright kitchen or taking in Tatra panoramas from your garden terrace, every corner tells a story of mountain charm.",
+  "neighborhood_description": "Surrounded by stunning alpine scenery, Koscielisko exudes the tranquillity and healthy lifestyle of a true mountain valley village. Enjoy trails directly from your door, world-class hiking, and an array of local inns catering to adventurers and nature-lovers. While highway access makes it easy to connect to Zakopane\u2019s bustling center or head out for weekend getaways, you\u2019ll cherish the peace and authenticity of daily life immersed in the Tatra foothills.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 185,
+  "property_type": "house",
+  "city": "Zakopane",
+  "neighborhood": "Koscielisko",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1590000,
+  "key_features": [
+    "historic wooden architecture",
+    "underfloor heating",
+    "spacious mountain-view terrace",
+    "private garden and yard",
+    "modernized bathrooms"
+  ],
+  "lifestyle_benefits": [
+    "direct access to hiking trails",
+    "quiet natural surroundings",
+    "close proximity to Zakopane attractions",
+    "private retreat feel"
+  ],
+  "target_buyer": "Ideal for young couples or growing families seeking a mix of historic charm and active outdoor lifestyle with modern conveniences.",
+  "market_positioning": "Unique blend of preserved history and updated comforts rarely found at this price-point in one of Zakopane\u2019s most sought-after neighborhoods; perfect for buyers prioritizing privacy and natural surroundings, yet needing convenient regional access."
+}

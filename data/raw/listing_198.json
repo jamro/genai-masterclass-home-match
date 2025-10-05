@@ -1,0 +1,33 @@
+{
+  "title": "Scandinavian-Inspired Studio in Radziwie with Modern Touches",
+  "description": "Step into this bright and thoughtfully designed studio apartment infused with clean Scandinavian lines and neutral tones. Recently renovated, the studio features a spacious sleeping area, streamlined kitchenette, and a sleek bathroom enhanced by minimalist fixtures and accessible guest access. Large windows invite natural light, highlighting pale wood floors and simple, modern finishes that create a peaceful retreat. This compact yet efficient space is ideal for relaxed, low-clutter living.",
+  "neighborhood_description": "Nestled in Radziwie, one of P\u0142ock's modern developments, the studio is surrounded by a relaxed, artistic vibe. The area offers residents quick access to public transport and highways, making it easy to explore the rest of P\u0142ock or commute to nearby campuses. Discover trendy caf\u00e9s, creative spaces, and a calm community pace right outside your door.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio apartment",
+  "city": "P\u0142ock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 375000,
+  "key_features": [
+    "newly renovated interior",
+    "energy-efficient appliances",
+    "guest bathroom",
+    "recycling facilities",
+    "EV charging station access"
+  ],
+  "lifestyle_benefits": [
+    "move-in ready",
+    "low maintenance",
+    "ideal for students",
+    "minimalist aesthetic",
+    "supports sustainable living"
+  ],
+  "target_buyer": "Perfect for university students or young professionals seeking a chic, functional base in P\u0142ock's thriving creative district.",
+  "market_positioning": "This stylish studio sets the benchmark for affordable, eco-conscious living in Radziwie. Positioned at an accessible price point, it outshines standard student housing by combining designer details and green amenities in a top neighborhood."
+}

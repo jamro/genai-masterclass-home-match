@@ -1,0 +1,36 @@
+{
+  "title": "Luxury Srodmiescie Loft: Elegant Modern Retreat for Discerning Retirees",
+  "description": "Experience elevated living in this stunning one-bedroom, two-bathroom loft in the heart of Gdansk's prestigious Srodmiescie district. Spanning 78 sqm of exquisitely designed space, the residence impresses with high ceilings, an open layout, and a striking modern fa\u00e7ade. Large windows fill the interiors with natural light, perfectly showcasing the finest finishes throughout. Every element exudes comfort, tranquility, and contemporary sophistication.",
+  "neighborhood_description": "Nestled in the vibrant and culturally rich Srodmiescie neighborhood, this property offers the perfect balance between urban accessibility and serene, green surroundings. Steps from parks and leafy playgrounds, it's an ideal oasis for leisurely strolls or quiet contemplation. The area boasts an esteemed cultural scene, relaxed pace, prolific shopping, and a wealth of dining experiences for the most refined tastes.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 78,
+  "property_type": "loft",
+  "city": "Gdansk",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1390000,
+  "key_features": [
+    "modern fa\u00e7ade design",
+    "open-plan living",
+    "high ceilings",
+    "floor-to-ceiling windows",
+    "proximity to public transport",
+    "luxurious bathroom finishes",
+    "storage solutions",
+    "shopping and dining nearby"
+  ],
+  "lifestyle_benefits": [
+    "perfect setting for a relaxed and sophisticated retirement",
+    "access to cultural destinations",
+    "short walks to parks and greenery",
+    "safe and peaceful environment",
+    "convenience of urban amenities within reach"
+  ],
+  "target_buyer": "Discerning retirees seeking a luxurious urban home that blends style, comfort, and accessibility with outstanding cultural and leisure options.",
+  "market_positioning": "Positioned as a premium boutique loft within Gdansk's cultural heart, ideal for buyers prioritizing sophistication, access, and walkable urban life. A unique prestige opportunity rarely available in this vibrant locale."
+}

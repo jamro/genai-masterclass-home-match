@@ -1,0 +1,31 @@
+{
+  "title": "Charming Historic Loft Immersed in Greenery, Ideal for Creatives",
+  "description": "Step inside this unique 3-bedroom, 2-bathroom loft offering 138 sqm of beautifully preserved historic character. High ceilings and exposed beams are paired with modern energy-efficient windows to complement spacious, airy interiors filled with light. Thoughtfully equipped with a rainwater collection system, and access to a dedicated children's playground area, it's perfect for families desiring sustainability as well as style.",
+  "neighborhood_description": "Set in the tranquil Suburb neighborhood of Pila, this property enjoys verdant, wide-open spaces and a welcoming, pet-friendly community reminiscent of artists\u2019 retreats in the countryside. It's ideal for those seeking creative inspiration surrounded by nature, yet offers swift highway access for convenient travel. Walks among tree-lined lanes or picnics in local parks are part of daily life here.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 138,
+  "property_type": "loft",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1160000,
+  "key_features": [
+    "energy-efficient windows",
+    "rainwater collection system",
+    "children's playground area",
+    "historic architectural details",
+    "open floor plan"
+  ],
+  "lifestyle_benefits": [
+    "abundance of green space",
+    "ideal for artists and creatives",
+    "pet-friendly living",
+    "quiet and serene environment"
+  ],
+  "target_buyer": "This residence is tailored for creative professionals, artists, or families seeking space to inspire and unwind. Those longing for a tranquil, nature-rich atmosphere while desiring practical living comforts\u2014and a nod to history\u2014will find this loft perfect.",
+  "market_positioning": "Distinctive among similar listings in Pila, this boardwalk-adjacent loft offers rare historic atmosphere with sustainability features, which appeals to buyers looking for character homes removed from busy city life yet still conveniently connected via the highway."
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Historic Townhouse Oasis: Inspire, Create, Relax in Stare Miasto",
+  "description": "Awash in light and character, this beautifully restored four-bedroom townhouse blends centuries-old brickwork with modern designer taste. Spanning 196 sqm, the open-concept living area flows seamlessly to a sun-washed terrace where ideas and evenings can flourish. Step through exquisitely crafted interiors warmed by hardwood accents and heritage details, with two stylish bathrooms complementing ample personal retreat spaces.",
+  "neighborhood_description": "Set amongst ZAMOSC'S famed Old Town cobblestones, Stare Miasto harmonizes digital dynamism with storied traditions. Walk to ancient market squares housing cool cafes, inspiring tech incubators, and lively cultural events\u2014all wonderfully accessible with convenient public transport or a quick connection to major highways. Historic charm breathes in every archway, alongside the neighborhood's emergent architectural pulse.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 196,
+  "property_type": "house",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1580000,
+  "key_features": [
+    "Sunny south-facing terrace",
+    "Exclusive residents' lounge with co-working potential",
+    "Landscaped garden surrounds",
+    "Restored historic facades",
+    "Designer kitchen with modern appliances"
+  ],
+  "lifestyle_benefits": [
+    "Perfect for creative entrepreneurs seeking inspiration",
+    "Moments from tech meetups and vibrant cafes",
+    "Quiet private retreat among city amenities",
+    "Space for collaborative gatherings and innovative work-from-home setups"
+  ],
+  "target_buyer": "Ideal for an entrepreneur or professional who wants to balance dynamic city networking, creative spaces, and peaceful comfort in an inspiring home.",
+  "market_positioning": "An exclusive opportunity in an area where history, innovation, and convenience converge\u2014a rare townhouse for visionaries in Zamosc's Stare Miasto."
+}

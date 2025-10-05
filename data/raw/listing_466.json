@@ -1,0 +1,34 @@
+{
+  "title": "Sleek Modern Duplex with Terrace in Trendy Ligota",
+  "description": "Step into contemporary living with this stylish duplex boasting a bold modern fa\u00e7ade design. Offering four spacious bedrooms and three elegant bathrooms, this home exudes both comfort and sophistication across 150 square meters. The expansive living area opens onto a private terrace\u2014ideal for relaxing after work or weekend gatherings with friends. A dedicated guest bathroom and onsite fitness center add perfectly tailored features for today\u2019s dynamic lifestyle.",
+  "neighborhood_description": "Located in Ligota, Katowice's go-to neighborhood for vibrant local life, you'll be steps from lively caf\u00e9s, parks, and trendy eateries. Efficient public transport and quick highway access connect you to the city and beyond, while the area's dynamic, up-and-coming vibe appeals to energetic urban dwellers.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 150,
+  "property_type": "duplex",
+  "city": "Katowice",
+  "neighborhood": "Ligota",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1420000,
+  "key_features": [
+    "private terrace",
+    "modern fa\u00e7ade design",
+    "three bathrooms including guest bath",
+    "onsite fitness center",
+    "open concept kitchen",
+    "dedicated parking space",
+    "pet-friendly layout"
+  ],
+  "lifestyle_benefits": [
+    "perfect for pet owners with nearby parks",
+    "fit for energetic professionals",
+    "space for remote work and entertaining",
+    "ample room for guests and hobbies"
+  ],
+  "target_buyer": "Ideal for young professionals, creative remote workers, or active couples seeking space for both pets and socializing in a lively urban setting.",
+  "market_positioning": "This duplex stands out in Ligota as a rarely available combination of modern style, pet-friendly amenities, and comfort at a mid-market premium, delivering an unparalleled contemporary urban experience in Katowice."
+}

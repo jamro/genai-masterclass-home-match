@@ -1,0 +1,34 @@
+{
+  "title": "The Artistic Loft: A Modern Retreat in the Heart of Oliwa",
+  "description": "Step into a luminous, spacious loft designed for both inspiration and tranquility. High ceilings and industrial touches fuse effortlessly with contemporary comforts, including a cutting-edge smart home system. This one-bedroom, one-bathroom sanctuary promises endless light, expansive creative zones, and seamless remote work functionality. The thoughtfully appointed interiors flow into communal spaces that are meticulously maintained, offering both exclusivity and connectivity.\n\nA private underground garage\u2014complete with EV charging station\u2014protects your vehicle and enables sustainable living, while innovative exterior lighting guides you home during all hours.",
+  "neighborhood_description": "Oliwa is Gdansk\u2019s quintessential cultural enclave: eco-conscious yet vibrant, its leafy avenues are alive with galleries, artisan shops, and organic cafes. World-class public transport, scenic bike lines, and effortless highway access keep you connected to the rest of the city\u2019s creative pulse. An outward-looking, community-focused spirit defines Oliwa, seamlessly blending green living with urban excitement, and providing everything from upmarket dining to tranquil parks within walking distance.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 54,
+  "property_type": "loft",
+  "city": "Gdansk",
+  "neighborhood": "Oliwa",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1070000,
+  "key_features": [
+    "high ceilings and open-plan design",
+    "smart home system",
+    "underground garage with EV charging station",
+    "well-maintained common areas",
+    "motion-sensor exterior lights"
+  ],
+  "lifestyle_benefits": [
+    "perfect for remote work with dedicated office zones",
+    "easy access to urban amenities",
+    "supportive eco-conscious community",
+    "inspiring atmospheres for creative professionals",
+    "excellent connectivity for flexible lifestyles"
+  ],
+  "target_buyer": "Ideal for creative remote workers or freelancers who value artistic surroundings, green living, and robust city connectivity; perfect for those who crave inspiration both at home and at their doorstep.",
+  "market_positioning": "Uniquely positioned in the ever-popular Oliwa, this rare loft adapts stylish living to the new remote work paradigm, wrapped in eco-luxury and located in one of Gdansk\u2019s high-demand districts."
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Modern Family Home with Sauna and Pet-Friendly Garden in Polesie",
+  "description": "Step into this sun-filled, intelligently designed house offering 4 spacious bedrooms and 3 stylish bathrooms within 190 sqm. The open-plan living and dining areas are accented by a cutting-edge modern lighting system, perfect for entertaining or relaxing after work. Enjoy a dedicated sauna for at-home wellness, a secured entry, and eco-conscious features including a rainwater collection system. For guests or gatherings, benefit from the convenience of an additional bathroom on the ground floor.",
+  "neighborhood_description": "Located in Polesie, one of Lodz\u2019s most up-and-coming districts, the area blends historic buildings with a fresh, tech-forward spirit. Tree-lined avenues and greenspaces set a peaceful tone while cycle paths, caf\u00e9s, and co-working spaces contribute to its urban appeal. With a pet-friendly atmosphere and a growing local scene, it\u2019s ideal for active young professionals and their four-legged friends.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 190,
+  "property_type": "house",
+  "city": "Lodz",
+  "neighborhood": "Polesie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1420000,
+  "key_features": [
+    "close to public transport",
+    "shared sauna",
+    "rainwater collection system",
+    "guest bathroom",
+    "modern lighting system",
+    "security system"
+  ],
+  "lifestyle_benefits": [
+    "ample space for pets inside and outdoors",
+    "easy commute by public transit or bike",
+    "quiet neighborhood with community activities"
+  ],
+  "target_buyer": "Young professionals or families who value smart urban living and want a contemporary, energy-efficient home with space for pets.",
+  "market_positioning": "A unique balance of comfort, technology, and lifestyle: not just another suburban house, but a tailored opportunity for forward-thinking Movers & Makers in the next-generation Polesie market."
+}

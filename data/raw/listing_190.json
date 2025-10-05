@@ -1,0 +1,33 @@
+{
+  "title": "Modern, Renovated 3-Bedroom Apartment with Private Terrace in Lake District",
+  "description": "Step inside this beautifully renovated, ground-floor apartment and enjoy an inviting blend of comfort and style. Featuring three well-proportioned bedrooms, a contemporary bathroom, and a spacious open-plan living area flowing directly onto a sunlit terrace and communal garden, this home fits both play and peaceful downtime. Enjoy low-maintenance hardwood floors, fresh interior finishes, patio doors leading outside, and a welcoming, wheelchair-accessible layout throughout. Climate-friendly air conditioning ensures comfort all year round.",
+  "neighborhood_description": "Lake District in Elk offers the ideal combination of calm green surroundings and accessibility to the city center within a short drive. The community is friendly, welcoming, and perfect for those who value peaceful living near scenic parks and playgrounds, yet want quick highway access for hassle-free commuting. Local vibes focus on neighbors, outdoor recreation, and balanced living.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 74,
+  "property_type": "apartment",
+  "city": "Elk",
+  "neighborhood": "Lake District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 899000,
+  "key_features": [
+    "wheelchair accessibility",
+    "hardwood floors",
+    "newly renovated interior",
+    "patio doors opening to garden",
+    "terrace",
+    "air conditioning"
+  ],
+  "lifestyle_benefits": [
+    "private outdoor space for entertaining",
+    "quiet, stable long-term living",
+    "immediate move-in-ready finish",
+    "comfortable year-round climate",
+    "easy highway commute"
+  ],
+  "target_buyer": "Ideal for young professionals or long-term renters seeking a sense of community, comfort, and quick access to green spaces and the city by car.",
+  "market_positioning": "A rare, modern home in a stable, sought-after residential zone, delivering high-value amenities and accessibility for those who prioritize both quiet village charm and connectivity."
+}

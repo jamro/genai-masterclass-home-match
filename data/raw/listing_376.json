@@ -1,0 +1,31 @@
+{
+  "title": "Cozy Family Home with Modern Amenities in Quiet Pila Suburb",
+  "description": "This welcoming house offers three spacious bedrooms and three modern bathrooms, making it an excellent long-term home for growing families. The home spans 155 square meters, benefitting from a contemporary layout with an airy open-plan living area and plenty of natural light. Residents can enjoy conveniences usually reserved for city living, such as a reception desk and a cozy residents' lounge\u2014perfect for relaxation or small gatherings.",
+  "neighborhood_description": "Nestled in the low-urban-level Suburb neighborhood of Pila, this home offers a true community-oriented environment. Featuring calm streets, green spaces, and friendly neighbors, it is ideal for those looking to settle in an area known for its family-friendly atmosphere. Quick access to nearby highways makes commuting effortless and connects residents to shops, schools, and services just a short drive away.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 155,
+  "property_type": "house",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1240000,
+  "key_features": [
+    "reception desk",
+    "residents' lounge",
+    "EV charging station",
+    "automatic gate"
+  ],
+  "lifestyle_benefits": [
+    "peaceful environment",
+    "tight-knit neighborhood",
+    "safe for children and pets",
+    "modern home comforts",
+    "convenient for commuters"
+  ],
+  "target_buyer": "Perfect for families or long-term renters desiring a quiet, stable community and easy road access for daily travel or outdoor excursions.",
+  "market_positioning": "This property fills a unique market need as an up-to-date, amenity-rich home in a low-urbanization area. It appeals to those who want city-like comforts and modern ideals without the density or hustle of city living."
+}

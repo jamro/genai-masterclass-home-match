@@ -1,0 +1,30 @@
+{
+  "title": "Cozy Studio Gateway Amid Krosno's Historic Tapestry",
+  "description": "Step into this thoroughly modern studio apartment harmoniously set within an Old Town building with hints of historic charm. Impeccable hardwood floors highlight the spacious sleeping and living area, where sunlight pours in through energy-efficient windows overlooking the cobbled streets. The petite kitchen comes equipped for daily living, and the refreshed bathroom completes this light-filled, serene space. Spread across 36 square meters, this studio provides both comfort and style embedded in tradition.",
+  "neighborhood_description": "Located in Krosno\u2019s storied Old Town, you wine and dine amongst preserved facades, thriving artisan boutiques, and lively squares steeped in culture. Daily essentials and shops are a stroll away, while direct access to the highway ensures straightforward regional travel. Ideal for those drawn to a tranquil retreat framed by architectural legacy and the pulse of a perennial community.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 410000,
+  "key_features": [
+    "hardwood floors",
+    "energy-efficient windows",
+    "modern fa\u00e7ade design",
+    "new bathroom fixtures"
+  ],
+  "lifestyle_benefits": [
+    "easy commuting via nearby highway",
+    "historic town surroundings",
+    "peaceful yet vibrant community ambiance",
+    "energy savings with double-glazed windows"
+  ],
+  "target_buyer": "This cozy studio is perfect for long-term renters\u2014single professionals or couples\u2014seeking stability amid cultural allure and seamless connections for work or exploration.",
+  "market_positioning": "Such studios are rare gems in the heart of Old Town Krosno, offering updated interiors combined with timeless streetscape settings and effortless highway escape\u2014an exceptional find for stability seekers at this price point."
+}

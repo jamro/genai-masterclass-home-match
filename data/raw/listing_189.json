@@ -1,0 +1,37 @@
+{
+  "title": "Charming 4-Bedroom Duplex with Cozy Family Spaces in Heart of Lazarz",
+  "description": "Welcome to a beautifully appointed duplex offering 4 sunny bedrooms and 3 full bathrooms across 146 sqm of comfortable living space. The open-plan living room adjoins a modern kitchen with dining space, leading out to a sunny balcony overlooking a peaceful leafy courtyard. Enjoy the luxury of a dedicated home office, perfect for hybrid working, and smart touches like motion-sensor exterior lights. Practical solutions include ample in-unit storage and access to a residents-only swimming pool.",
+  "neighborhood_description": "Located in family-friendly Lazarz, this home is surrounded by green parks, artist studios, and vibrant cafes and bistros. Well-known for its warm community appeal and excellent schools, Lazarz also offers direct access to public transport and convenient bike lines, making commuting and explore-go easy for the entire family.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 146,
+  "property_type": "duplex",
+  "city": "Poznan",
+  "neighborhood": "Lazarz",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1490000,
+  "key_features": [
+    "spacious duplex layout",
+    "four bedrooms",
+    "home office space",
+    "three bathrooms",
+    "storage locker",
+    "balcony",
+    "swimming pool access",
+    "motion-sensor exterior lights",
+    "modern kitchen"
+  ],
+  "lifestyle_benefits": [
+    "schools nearby for all ages",
+    "family-friendly parks",
+    "proximity to local markets and dining",
+    "space to work from home",
+    "neighborly atmosphere"
+  ],
+  "target_buyer": "Ideal for busy families with children who value comfort, community, and flexibility of a home office while being close to city amenities.",
+  "market_positioning": "A rarely available, spacious duplex in sought-after Lazarz, competitively priced for families desiring space, modern conveniences, and access to excellent local facilities in a welcoming artistic neighborhood."
+}

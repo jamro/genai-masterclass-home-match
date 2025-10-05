@@ -1,0 +1,31 @@
+{
+  "title": "Contemporary Studio Living in Radziwie: Modern Comfort, Urban Ease",
+  "description": "Step into a sleek 32 sqm studio designed for comfort and convenience. This airy apartment boasts an open-plan layout, amplified by large windows allowing natural sunlight to pour in. You'll appreciate the soundproof walls, ensuring a peaceful retreat from city rhythm. With modern finishes throughout, efficient storage solutions, elevator access, and a well-appointed bathroom, this is an ideal choice for easy, upkeep-free living.",
+  "neighborhood_description": "Located in Radziwie, one of Plock's most inviting districts, this residence blends tranquility with metropolitan perks. Experience a relaxed pace of life and benefit from a thriving local and social scene, just steps from shops, urban transport stops, and recreational spaces.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 32,
+  "property_type": "studio apartment",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 395000,
+  "key_features": [
+    "soundproof walls",
+    "elevator access",
+    "close to public transport",
+    "modern appliances"
+  ],
+  "lifestyle_benefits": [
+    "peaceful, modern environment",
+    "work-life balance close to nature and city activities",
+    "move-in-ready convenience",
+    "long-term stability"
+  ],
+  "target_buyer": "This studio is perfect for young professionals and long-term renters seeking a cozy urban haven within budget.",
+  "market_positioning": "A competitively priced choice among Plock studio apartments, offering enhanced privacy, modern comfort, and unmatched access to commuting routes within a lively, up-and-coming neighborhood."
+}

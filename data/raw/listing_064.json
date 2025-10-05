@@ -1,33 +1,33 @@
 {
-  "title": "Cozy One-Bedroom With Terrace in Historic Stare Miasto",
-  "description": "Welcome to this charming 1-bedroom apartment in the heart of Stare Miasto, Zamosc. The spacious 45 sqm layout features an open-plan living area and a modern kitchen, designed to maximize comfort and efficiency. Bright and energy-efficient windows let in ample natural light and offer pleasant views, while the private terrace creates the perfect retreat for a morning coffee or evening relaxation.",
-  "neighborhood_description": "Stare Miasto, nestled in downtown Zamosc, boasts trendy cafes, lively local markets, and beautifully preserved architecture, offering the appeal of both tradition and a growing culture. This rapidly evolving neighborhood is known for its dynamic vibe and a welcoming, family-friendly community atmosphere, set against scenic mountain views in the distance. Residents enjoy easy access to local shops, green spaces, and efficient public transport connections.",
-  "bedrooms": 1,
+  "title": "Minimalist Loft with Character in Swidnica's Historic Center",
+  "description": "Step into Scandinavian serenity in this expertly designed three-bedroom loft set in Swidnica\u2019s historic heart. Natural light floods the minimalist interiors, while airy open living spaces provide the perfect ambiance for family life. A seamlessly integrated kitchen, restful private bedrooms, and versatile co-working area support contemporary living with understated style. Access a private balcony and unwind above historic rooftops.",
+  "neighborhood_description": "Nestled in the Historic Center, this loft combines the neighborhood\u2019s distinctive charm and security with easy access to key city arteries. Nearby parks, quaint caf\u00e9s, and family-run shops foster a close, friendly community\u2014ideal for young families and those seeking space for creativity. The area is pet-friendly, tranquil yet vibrant, with efficient connections to public transport and highways for convenient daily commutes.",
+  "bedrooms": 3,
   "bathrooms": 1,
-  "size_sqm": 45,
-  "property_type": "apartment",
-  "city": "Zamosc",
-  "neighborhood": "Stare Miasto",
+  "size_sqm": 116,
+  "property_type": "loft",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
     "highway"
   ],
-  "price": 680000,
+  "price": 1220000,
   "key_features": [
-    "energy-efficient windows",
-    "private terrace",
-    "secure entry system",
-    "modern kitchen",
-    "fenced yard functionality (shared outdoor space)"
+    "balcony",
+    "co-working space",
+    "outdoor dining area",
+    "rooftop deck",
+    "shared courtyard"
   ],
   "lifestyle_benefits": [
-    "Ideal for long-term renters looking for stability",
-    "Safe environment with neighborhood vitality",
-    "Walking distance to amenities and urban conveniences",
-    "Scenic mountain views from the vicinity",
-    "Low-maintenance living with outdoor relaxation space"
+    "community-focused living",
+    "child and pet-friendly environment",
+    "flexibility for remote/work-from-home lifestyle",
+    "safe residential area",
+    "quick commutes to regional attractions"
   ],
-  "target_buyer": "Perfect for individuals or couples seeking a stylish, low-maintenance home in a vibrant yet peaceful district\u2014particularly long-term renters or first-time property owners wishing to settle in an authentic community.",
-  "market_positioning": "Positioned as an excellent value in central Zamosc, this apartment sits at the sweet spot for those wanting heritage charm without sacrificing modern amenities. It stands out for long-term renters who seek stability, urban connection, and community-centric living within a trendy and up-and-coming neighborhood."
+  "target_buyer": "Contemporary families with children seeking open-plan Nordic style in a neighborhood balancing dynamic energy with peace and safety.",
+  "market_positioning": "Uniquely positioned among Swidnica\u2019s family-friendly lofts, offering minimalist design, coveted features, and maximum value in the town\u2019s central, historical district. Perfect for families and professionals looking for accessible upscale living."
 }

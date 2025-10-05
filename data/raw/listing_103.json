@@ -1,37 +1,31 @@
 {
-  "title": "Artistic Duplex with Lush Garden Refuge by the Kazimierz Dolny Rynek",
-  "description": "Tucked among the exquisite greenery of Kazimierz Dolny\u2019s historical core, this stunning 3-bedroom duplex harmonizes modern comforts and rustic charm across 128 sqm of beautifully designed living space. Walk into sun-bathed interiors finished with natural materials, artistic flourishes, and clever custom storage. Double-glazed doors open onto manicured gardens, and clever eco-features such as a rainwater collection system add sustainable elegance to your outdoor retreat. The upstairs loft welcomes relaxation or creative work, seamlessly connecting private life and new adventures.",
-  "neighborhood_description": "Rynek, the heart of Kazimierz Dolny, offers vibrant caf\u00e9 culture amidst a setting steeped in artistic tradition. This peaceful enclave prizes scenic green spaces, making it perfect for outdoor pursuits like cycling and riverside walks. With easy highway access, you are perfectly positioned for weekend getaways or quick commutes to larger cities.",
-  "bedrooms": 3,
-  "bathrooms": 2,
-  "size_sqm": 128,
-  "property_type": "duplex",
+  "title": "Elegant Apartment With Historic Flair in Kazimierz Dolny's Heart",
+  "description": "Experience a unique blend of timeless charm and modern comfort in this beautifully renovated 1-bedroom apartment situated in the picturesque Rynek of Kazimierz Dolny. Boasting a bright open floor plan, this restful home features an inviting living area, pristine ensuite bathroom, and air conditioning for year-round comfort. Step out onto your private terrace and enjoy picturesque views that encapsulate the historical ambiance of the neighborhood.",
+  "neighborhood_description": "Nestled in Rynek\u2014the main square of Kazimierz Dolny\u2014this residence is surrounded by a tapestry of historic architecture, charming cafes, and vibrant artist boutiques. Despite its tranquil, low-urban setting, it\u2019s an easy walk to the heart of town, ideal for daily strolls among popular galleries and riverside walks. With highway access nearby, convenience blends seamlessly with the serenity of a heritage-focused neighborhood.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 48,
+  "property_type": "apartment",
   "city": "Kazimierz Dolny",
   "neighborhood": "Rynek",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 1280000,
+  "price": 695000,
   "key_features": [
-    "landscaped surroundings",
-    "rainwater collection system",
-    "private storage room",
-    "spacious living areas",
-    "modern kitchen",
-    "two remodeled bathrooms",
-    "lofted ceilings",
-    "direct garden access",
-    "sophisticated lighting",
-    "near central Rynek"
+    "air conditioning",
+    "open floor plan",
+    "bicycle storage",
+    "terrace",
+    "ensuite bathroom"
   ],
   "lifestyle_benefits": [
-    "serene, artistic atmosphere steps from caf\u00e9s and galleries",
-    "abundance of bike and walking paths",
-    "lifestyle balanced between tranquillity and adventure",
-    "green, energizing backdrop for creativity and work-from-home",
-    "quick reach to expressways and city connections"
+    "peaceful retreat from city bustle",
+    "rich cultural and historic surroundings",
+    "ideal for bike rides and riverside walks",
+    "walking access to town center amenities"
   ],
-  "target_buyer": "Ideal for international expats, artists, and remote professionals seeking a green refuge in Poland's vibrant cultural hub, while maintaining easy travel links to urban centers.",
-  "market_positioning": "With its blend of sustainable living and storybook surrounds in one of Poland's top heritage towns, this property sits firmly in the premium expat enclave segment\u2014a unique opportunity in the local market rarely matched by modernized, garden-rich homes in Kazimierz Dolny\u2019s historic Rynek."
+  "target_buyer": "This apartment is ideally suited for retirees seeking a peaceful yet culturally rich environment, who wish to remain connected to the community while enjoying manageable, modern living.",
+  "market_positioning": "Distinctively positioned for discerning buyers valuing historic character and tranquility, this apartment offers a rare opportunity for a serene lifestyle in one of Poland's most renowned artistic towns."
 }

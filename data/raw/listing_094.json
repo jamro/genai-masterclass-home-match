@@ -1,33 +1,34 @@
 {
-  "title": "Modern Studio Sanctuary in Vibrant Srodmiescie with Solar Savvy Features",
-  "description": "Step into urban comfort with this chic studio apartment designed for the modern entrepreneur. The 35 sqm open-plan space is adorned with minimalist architecture, smart finishes, and abundant natural light. Experience undisturbed focus with soundproof walls, and fuel your sustainable lifestyle with integrated solar panels. Enjoy a peaceful night's sleep separated from the hustle while relishing city living.",
-  "neighborhood_description": "Located in the heart of Srodmiescie, this property is surrounded by lush green courtyards and parks amid dynamic city life. A few steps away, you'll find the best shopping, dining, and recreation spots in Lodz, along with excellent public transport links and extensive bike lanes that make getting around efficient and eco-friendly.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 35,
-  "property_type": "studio apartment",
-  "city": "Lodz",
-  "neighborhood": "Srodmiescie",
-  "urban_level": "high",
+  "title": "Charming Duplex with Home Office and Pool Access in Swidnica's Historic Center",
+  "description": "Experience the perfect harmony of modern comfort and old-world charm in this spacious, 174 sqm duplex situated in the heart of Swidnica's Historic Center. Boasting four bright bedrooms, including a master suite with an ensuite bathroom, it's ideal for growing families or remote professionals. Two full bathrooms, a dedicated home office space, and access to a shared swimming pool provide exceptional convenience and luxury. High ceilings, quality finishes, and thoughtful design ensure this home is as functional as it is inviting.",
+  "neighborhood_description": "Set amid Swidnica's vibrant Historic Center, this neighborhood blends cultural heritage with contemporary living. Explore picturesque streets lined with caf\u00e9s, museums, and family-oriented amenities, all while enjoying a lively yet welcoming vibe. With reliable public transport and highway access, daily commutes are effortless, and the area's tech-forward atmosphere ensures connectivity for modern living.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 174,
+  "property_type": "duplex",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines"
+    "highway"
   ],
-  "price": 417000,
+  "price": 1370000,
   "key_features": [
-    "solar panels",
-    "soundproof walls",
-    "shopping and dining nearby",
-    "fenced yard access",
-    "modern, energy-efficient appliances"
+    "home office space",
+    "ensuite bathroom",
+    "access to swimming pool",
+    "spacious duplex layout",
+    "high ceilings",
+    "modern fittings"
   ],
   "lifestyle_benefits": [
-    "vibrant entrepreneurial atmosphere",
-    "walk-to-everything convenience",
-    "eco-friendly lifestyle support",
-    "green outdoor spaces nearby",
-    "excellent city connectivity"
+    "long-term stability",
+    "family-friendly environment",
+    "proximity to cultural landmarks",
+    "easy commutes",
+    "historical ambiance paired with tech-friendly surroundings"
   ],
-  "target_buyer": "Designed for ambitious young professionals, digital nomads or urban entrepreneurs seeking a smart, sustainable home-base in Lodz.",
-  "market_positioning": "A perfect entry-level investment or home for up-and-comers, putting refined technology and city-centre vibrancy within reach for the modern mover."
+  "target_buyer": "Perfect for families or professionals seeking a stable, long-term rental or investment in a culturally rich, community-focused environment with modern ICT infrastructure.",
+  "market_positioning": "This property stands out as a rare family-size duplex in the heart of Swidnica, offering upscale amenities and historic charm, positioning it as a premium option for renters seeking long-term comfort with a touch of cultural vibrancy."
 }

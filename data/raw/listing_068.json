@@ -1,35 +1,33 @@
 {
-  "title": "Light-Filled Nordic Home with Eco Touch Evenings",
-  "description": "This serene Scandinavian-inspired house features clean architectural lines, natural wood finishes, and an intentional layout designed for mindful living. With five bright bedrooms, three bathrooms, and a dedicated home office, every room balances privacy and openness. Large energy-efficient windows and a spacious terrace invite natural light, seamlessly connecting indoor spaces to the tranquil, fenced yard nestled in greenery. Purposeful sustainability touches such as integrated recycling facilities resonate through this home, tailoring it for those who value environment and design equally.",
-  "neighborhood_description": "Suburb is where the calm embraces you\u2014offering a peaceful suburban vibe steeped in quiet historic charm. Families and newcomers enjoy safe streets, a growing local community, and ample green spaces. Access to the nearby highway ensures swift getaways into urban centers while allowing you to return home to tranquility.",
-  "bedrooms": 5,
-  "bathrooms": 3,
-  "size_sqm": 218,
-  "property_type": "house",
-  "city": "Pila",
-  "neighborhood": "Suburb",
-  "urban_level": "low",
+  "title": "Historic Studio Retreat with Modern Eco-Touches in Je\u017cyce",
+  "description": "Step into Poznan history with this beautifully-restored studio apartment tucked within a classic Je\u017cyce tenement. Boasting original parquet flooring and soaring ceilings, the airy space seamlessly blends old-world charm with contemporary eco-friendly upgrades. The open-plan design ensures natural light throughout, while a modern bathroom provides everyday comfort.",
+  "neighborhood_description": "Situated in sought-after Je\u017cyce, the studio is surrounded by caf\u00e9s, vibrant local markets, and leafy urban parks. This bike- and family-friendly neighborhood is renowned for excellent public transport links and its proximity to Poznan\u2019s bustling city center, offering both peace and convenience.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 38,
+  "property_type": "studio apartment",
+  "city": "Poznan",
+  "neighborhood": "Jezyce",
+  "urban_level": "high",
   "transport_options": [
-    "highway"
+    "public transport",
+    "bike lines"
   ],
-  "price": 1550000,
+  "price": 420000,
   "key_features": [
-    "spacious terrace",
-    "fenced yard",
-    "recycling facilities",
-    "energy-efficient windows",
-    "dedicated home office",
-    "minimalist Scandinavian finishes",
-    "open-plan living/dining",
-    "smart heating system"
+    "original parquet flooring",
+    "high ceilings",
+    "solar panels",
+    "rainwater collection system",
+    "pets allowed",
+    "fitness center in building"
   ],
   "lifestyle_benefits": [
-    "enable conscious and sustainable living",
-    "light-filled creative workspace at home",
-    "peaceful garden relaxation space",
-    "space to grow a family or cultivate hobbies",
-    "fast connection to the city via highway"
+    "eco-conscious living",
+    "walk to schools and shops",
+    "community-oriented locale",
+    "perfect for bikers and commuters"
   ],
-  "target_buyer": "Ideal for eco-conscious families or professionals seeking an elegant, sustainable home base; perfect for buyers transitioning from city living who desire comfort, environmental design, and a serene neighborhood.",
-  "market_positioning": "Positioned as a distinctive find for modern buyers: this home effortlessly combines minimal Scandinavian style and eco-minded amenities, offering more space and tranquility than a city home and standing out for its conscious-centric design choices in the Suburb district."
+  "target_buyer": "Ideal for young families seeking authentic local character and green features in a child-friendly urban environment.",
+  "market_positioning": "This competitively priced studio stands out for its blend of period architecture, green innovations, and unbeatable Je\u017cyce location, making it a rare find in Poznan's busy market."
 }

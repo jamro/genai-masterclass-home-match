@@ -1,32 +1,33 @@
 {
-  "title": "Timeless Family House with Historic Character in Artistic Psie Pole",
-  "description": "Step into a spacious family residence full of classic Wroclaw charm. This four-bedroom, two-bathroom house offers generous living spaces across 185 m\u00b2, blending traditional architecture with select contemporary upgrades. The open dining area, complete with energy-efficient windows, creates a bright gathering heart to the home. Smart home features and thoughtful details like a cozy children's play area deliver unmatched comfort for every family member.",
-  "neighborhood_description": "Located in coveted Psie Pole, this home graces a neighborhood celebrated for its strong artistic spirit and lively community energy. The area boasts reputable schools just a short walk away, along with tree-lined streets perfect for pets and families. Convenient public transport and easy highway access seamlessly connect you to all of Wroclaw, keeping city life within reach but never at the expense of tranquility.",
-  "bedrooms": 4,
-  "bathrooms": 2,
-  "size_sqm": 185,
+  "title": "Charming Family Home with Modern Comforts in Rynek, Kazimierz Dolny",
+  "description": "Step into comfort and style in this newly renovated, energy-efficient family house situated steps from the lively town square of Kazimierz Dolny. This delightful home with three spacious bedrooms and three pristine bathrooms offers a warm and flexible open-plan living area ideal for both entertaining and cozy gatherings. At 155 sqm, this property features a sparkling new kitchen, generous laundry room, and even convenient elevator access for easy mobility on all levels. Abundant natural light paired with tasteful finishes make it a bright, welcoming place anyone would be proud to call home.",
+  "neighborhood_description": "Located in the relaxed and tech-oriented Rynek neighborhood, this home blends modern convenience with the peaceful pace of river-town living. Enjoy lovely walks down charming cobbled streets, benefit from a growing community spirit, and relish direct highway access for effortless connections to major Polish cities. Thoughtful development balances nature and innovation, ensuring a tranquil and progressive environment close to local caf\u00e9s, shops, and parks.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 155,
   "property_type": "house",
-  "city": "Wroclaw",
-  "neighborhood": "Psie Pole",
-  "urban_level": "medium",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
     "highway"
   ],
-  "price": 1490000,
+  "price": 1260000,
   "key_features": [
-    "well-maintained common areas",
-    "smart home system",
-    "energy-efficient windows",
-    "children's playground area",
-    "recycling facilities"
+    "newly renovated interior",
+    "heated driveway",
+    "elevator access",
+    "laundry room",
+    "fully equipped modern kitchen",
+    "bright, open living spaces",
+    "garden with terrace"
   ],
   "lifestyle_benefits": [
-    "peaceful environment ideal for long-term stability",
-    "community of artists and families",
-    "walkable to high-quality local schools",
-    "pet-friendly neighborhood"
+    "relaxed pace of life",
+    "balanced surroundings with tech amenities",
+    "perfect for young families or first-time buyers",
+    "proximity to nature and cultural sites"
   ],
-  "target_buyer": "The ideal buyers are families or long-term renters seeking a secure, lasting address with flexible spaces for working, learning, and relaxing benefitting from a supportive artistic community.",
-  "market_positioning": "This property is uniquely positioned as an elegant, smart-updated family house with access to a thriving neighborhood scene, blending manageable city connectivity with ample private and social spaces, squarely focused on buyers valuing longevity and residential serenity."
+  "target_buyer": "Ideal for first-time buyers and young families seeking a safe, calm neighborhood offering both modern touches and authentic charm.",
+  "market_positioning": "This attractively priced home stands out in Kazimierz Dolny as a flexible, feature-rich option perfect for families looking for comfort and community in a peaceful yet forward-thinking area."
 }

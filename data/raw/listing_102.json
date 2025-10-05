@@ -1,30 +1,33 @@
 {
-  "title": "Luxury Studio Retreat in Rynek\u2014Kazimierz Dolny\u2019s Scenic Heart",
-  "description": "Discover exceptional comfort with this premium studio apartment perfectly situated in Kazimierz Dolny\u2019s esteemed Rynek. Spanning 42 sqm, this airy one-bedroom, one-bathroom residence gracefully blends contemporary style with intimate charm. The fully equipped, modern kitchen opens onto bright living spaces, seamlessly flowing to a picturesque shared courtyard\u2014ideal for relaxing outdoors.",
-  "neighborhood_description": "Nestled in the coveted, low-urbaned Rynek area, this home offers tranquility amidst Kazimierz Dolny\u2019s storied beauty. Reside moments from artisan caf\u00e9s, vibrant galleries, and historic walks, all while enjoying direct highway access for effortless travel. The neighborhood\u2019s serene, bike-friendly streets are perfect for active families and those who delight in outdoor recreation.",
+  "title": "Scandinavian-Inspired Loft Retreat Overlooking the Lakes",
+  "description": "Embrace elevated minimalism in this open-concept 1-bedroom loft, expertly crafted for serene living. Floor-to-ceiling energy-efficient windows flood the expansive floor plan with gentle daylight, highlighting clean architectural lines. The kitchen and dining area are thoughtfully positioned to capture beautiful views, and a private terrace invites effortless indoor-outdoor living. Your vehicle is secure in the underground garage, enhancing both comfort and peace of mind.",
+  "neighborhood_description": "Located in the tranquil Lake District of Elk, this low-urban-level enclave offers a peaceful, pet-friendly environment ideal for relaxed living. Enjoy vibrant local life and markets nearby, well-regarded schools, and an idyllic suburban ambiance including lakeside pathways. The highway access connects you swiftly to regional business hubs and travel opportunities.",
   "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 42,
-  "property_type": "studio apartment",
-  "city": "Kazimierz Dolny",
-  "neighborhood": "Rynek",
+  "size_sqm": 58,
+  "property_type": "loft",
+  "city": "Elk",
+  "neighborhood": "Lake District",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 485000,
+  "price": 1140000,
   "key_features": [
-    "shared courtyard",
-    "pets allowed",
-    "modern kitchen",
-    "recycling facilities"
+    "loft layout",
+    "dining area with natural light",
+    "open floor plan",
+    "terrace",
+    "underground garage",
+    "energy-efficient windows"
   ],
   "lifestyle_benefits": [
-    "energetic outdoor lifestyle",
-    "safe, bike-friendly environment",
+    "ideal space for remote work",
+    "peaceful getaway from urban noise",
+    "access to recreation",
     "pet-friendly community",
-    "close proximity to historic attractions"
+    "outdoor dining possibilities on terrace"
   ],
-  "target_buyer": "Ideal for small families seeking a prestigious riverside oasis, or discerning couples wanting stylish tranquility plus outdoor opportunity.",
-  "market_positioning": "A rare premium offering perfectly blending intimate comfort with outdoor luxury, standing out for its modern amenities in one of Kazimierz Dolny\u2019s most iconic and tranquil quarters."
+  "target_buyer": "Perfect for digital nomads and minimalist professionals seeking a calming, inspiring home base in nature, with the flexibility to connect to work and travel conveniently.",
+  "market_positioning": "A distinctive blend of modern Scandinavian aesthetics and serene suburban location positions this property as a rare offering for remote workers in search of inspiration and well-being."
 }

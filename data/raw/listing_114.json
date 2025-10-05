@@ -1,36 +1,31 @@
 {
-  "title": "Artful Loft Oasis Among Debniki\u2019s Urban Charms",
-  "description": "Step inside this newly renovated loft, where sunlight streams through soaring windows and open-plan design meets modern comfort. With 2 spacious bedrooms, each featuring ample storage and one with a luxurious ensuite, this loft blends creative energy with homely warmth. Revel in your elevated living space spread across 98m\u00b2, including an airy outdoor dining terrace\u2014ideal for breezy Krakow evenings and al fresco work sessions.",
-  "neighborhood_description": "Nestled in Debniki, an energetic Krakow district known for its dynamic atmosphere and thriving caf\u00e9 scene, this home places you amidst vibrant amenities. The area boasts a lively, pet-friendly community, diverse dining, and boutique shopping, combined with quick connections via public transport, bike lines, and nearby highways. Life here is perfectly balanced\u2014active yet tranquil, stimulating yet social.",
-  "bedrooms": 2,
+  "title": "Historic Old Town Duplex: Period Elegance with Modern Comfort",
+  "description": "Discover this enchanting duplex in the heart of Krosno's storied Old Town. Offering 5 spacious bedrooms and 2 classic bathrooms across a generous 197 sqm, this residence blends historic architectural charm with contemporary accessibility. Panoramic windows flood the living areas with light and invite picturesque views of the charming town surrounds. Practicality meets tradition with a guest bathroom on the main floor, subtle preservation of original detailing, and a thoughtfully integrated plan designed for easy movement, including wheelchair accessibility.",
+  "neighborhood_description": "Nestled among cobbled lanes and colorful townhouses, Old Town in Krosno radiates a peaceful, artistic energy. The locale is favored by the creative community and growing families, with convenient access to local schools and boutique galleries. Seamless highway connections put both tranquil nature escapes and business zones within easy reach.",
+  "bedrooms": 5,
   "bathrooms": 2,
-  "size_sqm": 98,
-  "property_type": "loft",
-  "city": "Krakow",
-  "neighborhood": "Debniki",
-  "urban_level": "medium",
+  "size_sqm": 197,
+  "property_type": "duplex",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
     "highway"
   ],
-  "price": 1280000,
+  "price": 1425000,
   "key_features": [
-    "ensuite bathroom",
-    "outdoor dining area",
-    "storage room",
-    "newly renovated interior",
-    "walk-in closet",
-    "storage locker"
+    "guest bathroom",
+    "wheelchair accessibility",
+    "panoramic windows",
+    "original architectural details",
+    "generous living areas"
   ],
   "lifestyle_benefits": [
-    "flexible work-from-home spaces",
-    "high-speed internet for digital nomads",
-    "cosmopolitan neighborhood attractions",
-    "pet-friendly living",
-    "seamless city connections",
-    "cultural caf\u00e9s and inspirational vibe"
+    "historic character for creative expression",
+    "peaceful atmosphere surrounded by artistic community",
+    "proximity to schools, shops, and green spaces",
+    "comfortable multi-generational living options"
   ],
-  "target_buyer": "Imaginative digital nomads or creative professionals seeking an inspiring living and working environment, with the vibrancy of Krakow at your doorstep.",
-  "market_positioning": "This loft is poised as a rare fusion of urban trendiness and tranquility, especially tailored for remote professionals requiring connectivity, style, and access to Krakow\u2019s buzzing social life. Its modern upgrades and design-focused amenities offer stand-out appeal in the local property market."
+  "target_buyer": "Ideal for young couples seeking historic elegance with flexible space to live, create, host, and expand their family within a stimulating yet peaceful neighborhood.",
+  "market_positioning": "Uniquely positioned among historic residences, this duplex delivers authentic Old Town character\u2060\u2014enhanced by rare layout versatility and accessibility, an exceptional match for Krosno's discerning buyers who value heritage with thoughtful modern updates."
 }

@@ -1,34 +1,31 @@
 {
-  "title": "Charming Family Home with Modern Comfort in Kazimierz Dolny's Rynek",
-  "description": "Welcome to this delightful detached house situated in the heart of Kazimierz Dolny's picturesque Rynek neighborhood. Boasting three generous bedrooms and two stylish bathrooms, this 135 sqm home offers both space and functionality for your family's needs. The open dining area is bathed in natural light, while quality hardwood floors provide warmth throughout. Eco-conscious buyers will appreciate the practical rainwater collection system, and a fully appointed laundry room adds everyday convenience.",
-  "neighborhood_description": "Rynek is one of Kazimierz Dolny's most historic spots, renowned for its tranquil small-town charm, low-density housing, and a friendly local atmosphere. Families and pet owners enjoy strolls along quiet lanes, all while being a short drive from express highways for easy commuting. You'll find this safe, peaceful neighborhood ideal for those seeking productivity away from city bustle without sacrificing accessibility.",
-  "bedrooms": 3,
-  "bathrooms": 2,
-  "size_sqm": 135,
-  "property_type": "house",
-  "city": "Kazimierz Dolny",
-  "neighborhood": "Rynek",
+  "title": "Cozy Studio Haven with Modern Perks in Krosno's Old Town",
+  "description": "This bright and contemporary studio offers the perfect retreat for solo dwellers or couples seeking comfort and simplicity. Spanning 37 sqm, the property maximizes every inch with clever modern design, featuring a private open-plan bedroom and a pristine, full-sized bathroom. The modern fa\u00e7ade allows for ample natural light, while engineered heating keeps your home warm year-round. Pets are welcome, making this studio an ideal pick for animal lovers.",
+  "neighborhood_description": "Nestled within Krosno's Old Town, this neighborhood charms with a peaceful suburban feel enriched by an artistic community. Nature enthusiasts and those with active lifestyles will appreciate the green, open spaces for walking and relaxing outdoors, all within a trendy yet quiet area far from city noise. Easy highway access makes regional travel a breeze.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 37,
+  "property_type": "studio",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 1480000,
+  "price": 399000,
   "key_features": [
-    "rainwater collection system",
-    "dedicated laundry room",
-    "dining area with natural light",
-    "hardwood floors",
-    "private garden",
-    "modern kitchen",
-    "energy-efficient heating"
+    "pets allowed",
+    "modern fa\u00e7ade design",
+    "heated driveway for safe winter access",
+    "resident fitness center",
+    "shared co-working area"
   ],
   "lifestyle_benefits": [
-    "perfect for remote work and relaxation",
-    "quiet surroundings ideal for productivity",
-    "safe and pet-friendly community",
-    "quick highway access for business or leisure",
-    "plenty of space for family comfort and creativity"
+    "Direct access to outdoor areas for pets",
+    "Quiet and safe for serene living",
+    "Art events and creative community happenings nearby",
+    "On-site spaces to support work-life balance and wellbeing"
   ],
-  "target_buyer": "Ideal for remote-working families or professionals who want a harmonious blend of countryside serenity and modern luxury. Pet lovers and nature enthusiasts seeking a comfy, stylish base close to Quicker road connections will find this home perfect.",
-  "market_positioning": "Positioned attractively in the Kazimierz Dolny market, this property offers a rare combination of updated amenities, eco-minded features, generous living space, and access to main transport routes\u2014standing out as a premium family home for those seeking comfort and ease outside of high-urban areas."
+  "target_buyer": "Ideal for singles or couples\u2014especially those with small pets\u2014seeking a low-maintenance yet up-to-date home with space for play and relaxation.",
+  "market_positioning": "A rare find in Krosno\u2019s tranquil Old Town, this studio offers standout amenities for the price range, appealing to buyers who value modern comforts and a pet-friendly environment, with quick highway access to travel destinations."
 }

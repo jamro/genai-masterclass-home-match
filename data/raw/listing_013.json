@@ -1,31 +1,33 @@
 {
-  "title": "Urban Studio Jewel in Vibrant Wilda",
-  "description": "Step into a sunlit studio harmonizing modern design with everyday comfort. This crisp, thoughtfully laid-out retreat measures 32 sqm, featuring a flexible open-plan living area, cozy sleeping corner, and sleek bathroom. Underfloor heating and eco-friendly touches like a rainwater collection system seamlessly blend innovation and comfort.",
-  "neighborhood_description": "Set in energetic Wilda, the studio sits amongst artful caf\u00e9s, boutique shops, and inviting parks, brilliantly marrying city pulse with a sense of safety. Bike paths thread through the district and excellent public transport puts Poznan at your doorstep.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 32,
-  "property_type": "studio",
-  "city": "Poznan",
-  "neighborhood": "Wilda",
+  "title": "Artist\u2019s Duplex Haven in Swidnica\u2019s Historic Heart \u2014 Green Living Redefined",
+  "description": "Welcome to a breathtakingly renovated three-level duplex boasting 156 sqm of sunlit living space, brimming with sustainable elegance in Swidnica\u2019s Historic Center. Discover three spacious bedrooms and three designer bathrooms seamlessly blending old-world charm with modern ecological touches. The living area is cocooned by rich wooden textures, anchored by a fireplace and a direct walkout to a private, greenery enclosed barbecue zone \u2014 perfect for al fresco dining under mountain-kissed skies.",
+  "neighborhood_description": "Step outside your quiet enclave into Swidnica\u2019s thriving Historic Center: a mosaic of cobbled streets lined with cafes, galleries, and artisan shops. Here, the business district, esteemed schools, and rolling mountain vistas are just moments away. Public transit and nearby highway access make city exploration and commutes effortless.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 156,
+  "property_type": "duplex",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines"
+    "highway"
   ],
-  "price": 445000,
+  "price": 1399000,
   "key_features": [
-    "underfloor heating",
-    "rainwater collection system",
-    "modern fa\u00e7ade design",
-    "expansive windows",
-    "efficient layout"
+    "barbecue zone",
+    "newly renovated interior",
+    "fireplace",
+    "triple-pane eco-windows",
+    "smart energy system",
+    "stylish open-plan kitchen"
   ],
   "lifestyle_benefits": [
-    "enlivening local culture",
-    "walk-to-everything convenience",
-    "responsible urban living"
+    "outdoor entertaining for family and friends",
+    "energy-efficient living",
+    "walkable to vibrant city culture",
+    "close to nature reserves and mountain hikes"
   ],
-  "target_buyer": "Ideal for young couples seeking an inspiring urban starting point with both style and eco-conscious conveniences.",
-  "market_positioning": "This competitively priced studio offers next-level living in Wilda\u2019s thriving milieu, blending sustainable amenities with chic comfort at the heart of Poznan\u2019s renaissance district."
+  "target_buyer": "Ideal for eco-conscious professionals, creative families, or anyone seeking a blend of historic intrigue and sustainable sophistication near the heart of Swidnica.",
+  "market_positioning": "A rare fusion of historic architecture and eco-minded renovation, positioning this duplex at the high end of Swidnica\u2019s urban market for sustainably oriented buyers who value both character and progress."
 }

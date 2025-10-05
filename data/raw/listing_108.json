@@ -1,34 +1,32 @@
 {
-  "title": "Smart Eco Duplex with Private Garden in Podg\u00f3rze",
-  "description": "Experience contemporary eco-conscious living in this spacious duplex located in Krakow\u2019s sought-after Podg\u00f3rze district. Featuring 4 light-filled bedrooms and 3 modern bathrooms, this 158 sqm residence offers elegance paired with advanced smart home technology. Enjoy gatherings in open, hardwood-floored living spaces leading directly into your private fenced garden \u2013 perfect for sustainability enthusiasts or young families.",
-  "neighborhood_description": "Podg\u00f3rze strikes the ideal balance between city convenience and tranquil space. Wander tree-lined bike routes to the nearby parks or attend local markets that reflect a thriving, eco-conscious and family-oriented community. With excellent public transport links, extensive bike lanes, and access to key highways, daily commute and connectivity are never an issue.",
-  "bedrooms": 4,
-  "bathrooms": 3,
-  "size_sqm": 158,
-  "property_type": "duplex",
-  "city": "Krakow",
-  "neighborhood": "Podgorze",
-  "urban_level": "medium",
+  "title": "Charming Historic Studio Retreat in Wola",
+  "description": "Step into a uniquely charming studio apartment that beautifully combines Warsaw's past and present. Measuring a comfortable 36 square meters, this residence welcomes you with original hardwood flooring, a cozy built-in fireplace, and modern underfloor heating for comfort all year round. Enjoy hosting or unwinding beside the warmth of your own fireplace, a rare feature among studio homes. Thanks to an automatic gate, coming home and accessing your private parking space is made effortless.",
+  "neighborhood_description": "Nestled in the high-energy heart of Wola\u2014a district rich in history yet buzzing with modern innovations\u2014this home appeals to urban adventurers. The area is known for its strong tech-oriented atmosphere, abundant green pockets, and convenient access to central Warsaw\u2019s best amenities including cafes, co-working spaces, and cultural spots.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio apartment",
+  "city": "Warsaw",
+  "neighborhood": "Wola",
+  "urban_level": "high",
   "transport_options": [
     "public transport",
     "bike lines",
     "highway"
   ],
-  "price": 1565000,
+  "price": 468000,
   "key_features": [
-    "smart home system",
-    "private garden",
-    "fenced yard",
-    "hardwood floors",
-    "floor-to-ceiling windows",
-    "dedicated laundry area"
+    "private parking space",
+    "automatic gate",
+    "fireplace",
+    "underfloor heating"
   ],
   "lifestyle_benefits": [
-    "steps from green parks",
-    "safe and private outdoor space",
-    "excellent bike infrastructure",
-    "relaxed, community feeling"
+    "Perfect for expats seeking a blend of history and modernity",
+    "Low-maintenance urban living",
+    "In walking distance to coworking hubs and green spaces",
+    "Seamless city and international connectivity"
   ],
-  "target_buyer": "Ideal for eco-minded property investors seeking strong rental demand, families wanting modern amenities, or those prioritizing a balance between city access and sustainable living.",
-  "market_positioning": "This eco-modern duplex presents an exceptional opportunity in Podg\u00f3rze\u2019s competitive market for investors and families alike, blending immediate contemporary comfort with future-focused community living."
+  "target_buyer": "Ideal for expats, remote workers, and unmarried professionals looking for an inspiring, historic, and conveniently located home in central Warsaw.",
+  "market_positioning": "This property stands out in the studio apartment segment of Wola thanks to its rare character features, top-tier amenities, and superb location in a sought-after, tech-focused district close to everything Warsaw has to offer."
 }

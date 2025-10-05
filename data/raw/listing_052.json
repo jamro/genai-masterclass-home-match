@@ -1,34 +1,35 @@
 {
-  "title": "Historic 3-Bed Apartment with Work-From-Home Appeal in Pr\u0105dnik Bia\u0142y",
-  "description": "Set within a charming building that captures the enduring ambiance of Krakow's history, this 3-bedroom apartment offers the ideal blend of classic architecture and modern comfort. With sprawling 76 sqm, this home boasts a spacious living area harmoniously combined with a dedicated dining nook suffused with natural sunlight. Animals are warmly welcomed, and a flexible layout makes it perfect for those needing a distinct space for a home office. A well-kept bathroom and refinished hardwood floors add to the home's traditional appeal.",
-  "neighborhood_description": "Pr\u0105dnik Bia\u0142y represents a harmonious balance of Krakow\u2019s historic past and its contemporary growth. Known for its pet-friendly and welcoming environment, the neighborhood integrates lush parks with modern restaurants, coffee shops, and shopping options nearby. Thanks to its strong network of public transportation and quick highway access, travel across the city and beyond is seamless for commuters and remote workers alike.",
-  "bedrooms": 3,
-  "bathrooms": 1,
-  "size_sqm": 76,
-  "property_type": "apartment",
-  "city": "Krakow",
-  "neighborhood": "Pradnik Bialy",
-  "urban_level": "medium",
+  "title": "Distinctive Family Home with Verdant Sanctuary & Exclusive Comforts in Stare Miasto",
+  "description": "Step into refined elegance with this expansive 5-bedroom, 2-bathroom residence nestled in the historic heart of Poznan\u2019s Stare Miasto. Spanning a generous 230 sqm, this detached house harmoniously combines modern conveniences with tranquil surroundings. Indulge in spacious light-filled rooms, unwind in your private terrace, or retreat to the plush primary suite featuring an ensuite bathroom for utmost privacy. High-end finishes and premium motion-sensor exterior lighting add a distinct touch of sophistication and security.",
+  "neighborhood_description": "Ideally positioned in the vibrant Stare Miasto, experience the exquisite balance of energetic city life and peaceful green escapes. This highly sought-after, growing neighborhood offers direct access to lush parks, scenic riverside walkways, and welcoming playgrounds ideal for children and families. With seamless public transport options and picturesque bike lanes at your doorstep, the area supports an active and outdoorsy lifestyle while characterized by a warm and supportive community spirit.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 230,
+  "property_type": "house",
+  "city": "Poznan",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
   "transport_options": [
     "public transport",
-    "highway"
+    "bike lines"
   ],
-  "price": 1165000,
+  "price": 1890000,
   "key_features": [
-    "Spacious home office area",
-    "Expansive living/dining room with abundant natural light",
-    "Recently restored original parquet floors",
-    "Pet-friendly policy",
-    "Fiber optic internet ready",
-    "Secure building with modern access control"
+    "ensuite bathroom",
+    "motion-sensor exterior lights",
+    "spacious terrace",
+    "high-end natural finishes",
+    "engineered hardwood floors",
+    "dedicated utility room",
+    "private landscaped garden"
   ],
   "lifestyle_benefits": [
-    "Perfect environment for remote work",
-    "Live-work balance surrounded by greenery",
-    "Short walks to local cafes and amenities",
-    "Community green spaces for recreation and pets",
-    "Easy commute with robust public transport"
+    "access to thriving parks and playgrounds",
+    "perfect for outdoor and active living",
+    "nestled in a green yet urban environment",
+    "safe and family-friendly lanes",
+    "stylish contemporary setting for entertaining or relaxation"
   ],
-  "target_buyer": "Ideal for remote professionals or young families seeking a tranquil workspace and the historic character found only in Krakow\u2019s established districts. Pet owners or digital creatives will find the flexible layout, local parks, and connectivity particularly attractive.",
-  "market_positioning": "Rarely available, this mid-sized apartment offers substantial value for its blend of authentic charm, work-from-home potential, and proximity to both city buzz and outdoor escapes\u2014an uncommon opportunity in Krakow's surging real estate market."
+  "target_buyer": "Ideal for discerning first-time buyers or modern families looking to establish roots in Poznan\u2019s top-tier urban address\u2014buyers who seek quality, comfort, and a future-oriented neighborhood.",
+  "market_positioning": "This property embodies exceptional value in the premium segment of Poznan\u2019s housing market, standing out for its rare combination of size, location, and contemporary amenities in a central, high-growing neighborhood redefining status and comfort."
 }

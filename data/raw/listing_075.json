@@ -1,10 +1,10 @@
 {
-  "title": "Modern Duplex Retreat with Terrace & Rooftop in Kazimierz Dolny",
-  "description": "Experience contemporary comfort and creative design in this stylish 3-bedroom, 3-bathroom duplex just steps from the quaint Rynek square. Spanning 138 sqm, this luminous home features inviting open spaces, a spacious balcony off the living area, a sun-soaked terrace, and exclusive access to your own rooftop deck. Smartly laid-out for both entertaining and privacy, the residence offers flexible indoor/outdoor living, abundant natural light, and top-floor panoramic mountain views.",
-  "neighborhood_description": "Rynek merges vibrant local life with the rustic charm of low-density living. Outdoor caf\u00e9s, boutiques, and eclectic dining spots cluster around the market square, while panoramic countryside and mountain vistas offer relaxing weekends. With direct highway connections, weekend city escapes and easy journeys across Poland are conveniently close.",
+  "title": "Elegant Duplex with Modern Comforts & Historic Surroundings in Rynek, Kazimierz Dolny",
+  "description": "Embrace refined living in this luxurious 3-bedroom, 2-bathroom duplex nestled within the iconic Rynek neighborhood of Kazimierz Dolny. Spanning 156 sqm, this elegantly designed residence combines contemporary features with the charm of a storied architectural heritage. Natural light abounds, illuminating spacious living zones characterized by quality finishes and neutral tones, while thoughtful amenities make every moment effortless. The expansive private driveway boasts underfloor heating for year-round convenience, and eco-conscious solutions such as solar panels enhance both comfort and energy savings. Wheelchair accessibility throughout ensures step-free enjoyment for every family member and guest.",
+  "neighborhood_description": "Enjoy the perfect blend of modern development and old-world appeal, with Rynek\u2019s picturesque squares surrounded by both preserved historic townhouses and newly developed homes. Located near verdant parks and whimsical playgrounds, the neighborhood offers a quiet retreat alongside vibrant cultural landmarks and quaint caf\u00e9s. Excellent highway access places this tranquil luxury home just a comfortable drive away from city centers and weekend escapes.",
   "bedrooms": 3,
-  "bathrooms": 3,
-  "size_sqm": 138,
+  "bathrooms": 2,
+  "size_sqm": 156,
   "property_type": "duplex",
   "city": "Kazimierz Dolny",
   "neighborhood": "Rynek",
@@ -12,21 +12,21 @@
   "transport_options": [
     "highway"
   ],
-  "price": 1490000,
+  "price": 1630000,
   "key_features": [
-    "balcony",
-    "terrace",
-    "rooftop deck",
-    "outdoor dining area",
-    "EV charging station"
+    "heat-controlled driveway",
+    "solar panels with energy storage",
+    "fully wheelchair accessible interior and entry",
+    "private garden patio",
+    "custom-fitted open kitchen",
+    "designer stone and hardwood finishes"
   ],
   "lifestyle_benefits": [
-    "stunning mountain views",
-    "leisure groceries and bakeries nearby",
-    "quick access to highway",
-    "ideal base for remote work",
-    "vibrant outdoor culture"
+    "private and secure pet-friendly yard",
+    "close proximity to scenic parks",
+    "quiet low-traffic street ideal for walking pets",
+    "ecologically efficient living"
   ],
-  "target_buyer": "Ideal for internationally minded professionals and expat families desiring a base that blends tranquillity with creativity in a dynamic arts town.",
-  "market_positioning": "A rare opportunity in the local market\u2014this high-spec duplex delivers lifestyle features uncommon in the region, perfect for urbane buyers seeking nature and culture in an exclusive residential setting."
+  "target_buyer": "Discerning homeowners seeking luxury comfort and modern sustainability, especially those prioritizing pet-friendly features, accessibility, and easy highway connections. Ideal for families or couples wanting space to work from home and entertain without sacrificing tranquility.",
+  "market_positioning": "A rare, premium duplex amongst modern and historical neighbors, offering advanced amenities in one of Kazimierz Dolny\u2019s most valued cultural locations. Perfectly blends contemporary convenience and classic allure\u2014delivering notable value elevating it above most local offerings."
 }

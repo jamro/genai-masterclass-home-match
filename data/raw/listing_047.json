@@ -1,34 +1,31 @@
 {
-  "title": "Sleek Studio Haven with Rooftop Deck in Premium Orunia Complex",
-  "description": "Step into understated luxury with this fully-appointed studio, offering a harmonious blend of form and function within 33 sqm of elegant, open-concept living space. Meticulously designed for comfort, it boasts soundproof walls for undisturbed peace, contemporary finishes, and a panoramic rooftop deck that invites you to unwind or entertain guests against scenic city views. Thoughtful touches include a sleek bathroom, modern kitchenette, and views lining the tranquil courtyard.",
-  "neighborhood_description": "Situated in vibrant Orunia, this property offers seamless access to Gda\u0144sk's cultural heart as well as plentiful green spaces and bike paths for active mornings or relaxed weekend strolls. Orunia resonates with a lively local scene yet maintains a calming residential ambiance, populated by dynamic caf\u00e9s, artisanal bakeries, and efficient connections to public transport and city routes unrelated with the highway network.",
+  "title": "Sun-Drenched Studio Retreat in the Artistic Heart of Stare Miasto",
+  "description": "Step into an inviting, airy studio where creativity finds its muse. This thoughtfully curated 1-bedroom (open-plan) apartment boasts a smart, sun-soaked living space, contemporary kitchen area, and a luxe walk-in closet for organization reimagined. With graceful modern finishes that harmonize effortlessly with historic surroundings, it's a space truly designed for artistry and contemplation. An elegant bathroom completes this serene urban oasis, providing comfort and inspiration in equal measure.",
+  "neighborhood_description": "Nestled in Poznan's iconic Stare Miasto, your new home pulses with dynamic energy: lively galleries, caf\u00e9s, and artisanal boutiques surround you at every turn. The vibrant shopping and dining scene is just outside your door, while beautiful cobblestone streets inspire noon day strolls and twilight musings. Expect a unique blend of local charm, historic monuments, and contemporary creativity defined by a truly balanced lifestyle.",
   "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 33,
-  "property_type": "studio",
-  "city": "Gdansk",
-  "neighborhood": "Orunia",
-  "urban_level": "medium",
+  "size_sqm": 32,
+  "property_type": "studio apartment",
+  "city": "Poznan",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
   "transport_options": [
     "public transport",
-    "highway"
+    "bike lines"
   ],
-  "price": 469000,
+  "price": 445000,
   "key_features": [
-    "soundproof walls",
-    "panoramic rooftop deck",
-    "video intercom",
-    "underground garage",
+    "walk-in closet",
     "well-maintained common areas",
-    "24/7 security"
+    "rooftop deck",
+    "recycling facilities"
   ],
   "lifestyle_benefits": [
-    "worry-free urban living",
-    "quiet and privacy for remote work",
-    "long-term stability in a premium residence",
-    "secure bike storage",
-    "access to vibrant caf\u00e9s and green corridors"
+    "Minutes from galleries, studios, and cafes",
+    "Efficient public transit and scenic cycling routes",
+    "Artisan markets at your doorstep",
+    "Dynamic, inspiration-rich atmosphere"
   ],
-  "target_buyer": "Discerning professionals or couples seeking a modern, secure haven in a vibrant, bike-friendly community with excellent local amenities and straightforward commuting.",
-  "market_positioning": "Poised at the affluent edge of Orunia\u2019s residential market, this exclusive studio stands out for its premium amenities, security features, and harmonious setting, catering perfectly to long-term tenants prioritizing stability and a sophisticated, city-connected lifestyle."
+  "target_buyer": "This space is perfect for artists, independent creatives, or young professionals seeking a vibrant home where inspiration and practicality work hand in hand. Ideal for singles craving the convenience and character of a high-energy urban environment.",
+  "market_positioning": "Rare to market, this meticulously-kept studio offers a fusion of old town allure with thoughtful contemporary upgrades\u2014with coveted amenities and unbeatable access to Poznan\u2019s cultural and culinary hubs, it\u2019s an exceptional find for savvy urban buyers."
 }

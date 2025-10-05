@@ -1,35 +1,32 @@
 {
-  "title": "Minimalist Studio Retreat with Balcony and Garden Access in Bronowice",
-  "description": "This sleek, minimalist Scandinavian studio offers a bright open plan living space unfurling to 32 sqm. Clean lines, natural textures, and large windows amplify light and tranquility. Step through patio doors onto your private balcony seamlessly connecting indoor living with the landscaped garden below. The intelligently designed layout optimizes functionality, giving a sense of spaciousness unusual for a studio.",
-  "neighborhood_description": "Nestled in the tranquil and increasingly sought-after Bronowice district of Krakow, this residence combines suburban calm with outstanding links to the heart of the city. The area is cherished for its peaceful ambiance, abundant green spaces, cycling paths, and convenient proximity to daily amenities. Residents enjoy a balance of quiet, verdant streets and easy access to a vibrant urban lifestyle.",
+  "title": "Luminous Loft Retreat for the Inspired Remote Worker",
+  "description": "Step into a sun-drenched, modern loft in Lodz\u2019s charming Gorna district, where architectural elegance meets comfort and creativity. This open-concept sanctuary features one spacious bedroom, two beautifully designed bathrooms, and a sleek, airy living area perfect for unwinding beside a contemporary fireplace. The state-of-the-art insulated fa\u00e7ade design and an abundance of natural light enhance the home\u2019s distinct character. Tailored for seamless modern living, the exceptional dining space and dedicated home office nook blend productivity and relaxation harmoniously.",
+  "neighborhood_description": "Gorna combines peaceful residential streets with pockets of creative vitality\u2014family-friendly, safe, and exhilarating for those who cherish quietude yet want proximity to city life. Convenient bike lanes encourage healthy commutes or leisurely rides, while well-connected public transport places all of Lodz within clear reach. Lush green spaces and local cafes infuse each day with neighborly warmth.",
   "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 32,
-  "property_type": "studio",
-  "city": "Krakow",
-  "neighborhood": "Bronowice",
+  "bathrooms": 2,
+  "size_sqm": 65,
+  "property_type": "loft",
+  "city": "Lodz",
+  "neighborhood": "Gorna",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines",
-    "highway",
-    "airport"
+    "bike lines"
   ],
-  "price": 415000,
+  "price": 1075000,
   "key_features": [
-    "landscaped surroundings",
-    "balcony",
-    "patio doors opening to garden",
+    "modern lighting system",
+    "dining area with natural light",
+    "fireplace",
     "modern fa\u00e7ade design",
-    "energy efficient windows",
-    "integrated storage solutions"
+    "home office space"
   ],
   "lifestyle_benefits": [
-    "seamless indoor-outdoor living",
-    "access to peaceful communal gardens",
-    "walkable location amidst greenery",
-    "calm space promoting wellbeing"
+    "inspirational work-from-home environment",
+    "tranquil atmosphere for creativity",
+    "access to cycling routes",
+    "easy city access for collaboration"
   ],
-  "target_buyer": "Discerning singles or couples seeking a high-end, minimalist home with exclusive design and direct connection to the outdoors. Ideal for professionals desiring effortless travel links and a refined lifestyle in a quiet but well-connected neighborhood.",
-  "market_positioning": "A rare find for those who seek understated luxury with the convenience of urban and travel amenities, set in an enclave valued for its tranquility and green spaces."
+  "target_buyer": "Ideal for freelancers, designers, entrepreneurs and all those who need a serene yet energizing living and working space in the heart of Lodz. Perfect for solo professionals or creative couples who value peaceful evenings and stylish surroundings while staying vitally connected to city energy.",
+  "market_positioning": "Distinctive modern loft in a sought-after mid-urban neighborhood, combining intimate residential quiet with outstanding connectivity and contemporary amenities. A true standout residence for discerning remote or hybrid workers seeking a stylish sanctuary within reach of Lodz\u2019s best offerings."
 }

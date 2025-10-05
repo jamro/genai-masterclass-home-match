@@ -1,32 +1,34 @@
 {
-  "title": "Minimalist Scandinavian Duplex in Artist-Friendly Kazimierz Dolny",
-  "description": "A stylish and spacious duplex offering clean lines, open, light-filled living spaces, and natural materials throughout. This home features 4 comfortable bedrooms and 3 minimalist-inspired bathrooms. Meticuloulsy designed to create an inviting ambiance, its functional kitchen and large windows inspire everyday creativity. Underfloor heating and thoughtful sustainable features emphasize both comfort and simplicity.",
-  "neighborhood_description": "Nestled on Rynek in Kazimierz Dolny, this property sits at the heart of a growing, creative neighborhood. Experience inspiration all around\u2014close to galleries, artisanal cafes and the business district, with peaceful, leafy streets just steps from shopping and dining. Proximity to key highways makes regional travel effortless, ideal for those who blend studio and home life.",
+  "title": "Modern Luxury Family Apartment with Garden Access in the Heart of Srodmiescie",
+  "description": "Experience metropolitan luxury and comfort in this exceptional four-bedroom apartment in Katowice's prestigious Srodmiescie. Spacious interiors flow effortlessly from entry hall to the sun-filled living-dining area, featuring premium parquet flooring and underfloor heating. Grand patio doors open directly to a manicured communal garden, redefining indoor-outdoor living. Secure bicycle storage, an EV charging facility, and ample natural light further distinguish this property as a sophisticated urban retreat.",
+  "neighborhood_description": "Srodmiescie stands as Katowice\u2019s vibrant city center, pulsating with tech innovation, culture, and access to leading schools and leisure venues. Enjoy the energy of this trendy, family-friendly neighborhood, all set against a stunning urban mountain backdrop. Immaculate transport connections include direct access to Katowice\u2019s tram network, easy cycling routes, and a dynamic city buzz at your doorstep.",
   "bedrooms": 4,
-  "bathrooms": 3,
-  "size_sqm": 165,
-  "property_type": "duplex",
-  "city": "Kazimierz Dolny",
-  "neighborhood": "Rynek",
-  "urban_level": "low",
+  "bathrooms": 1,
+  "size_sqm": 124,
+  "property_type": "apartment",
+  "city": "Katowice",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
   "transport_options": [
-    "highway"
+    "public transport",
+    "bike lines"
   ],
-  "price": 1260000,
+  "price": 1250000,
   "key_features": [
-    "children's playground area",
-    "underfloor heating",
-    "guest bathroom",
-    "rainwater collection system",
-    "shopping and dining nearby"
+    "recycling facilities",
+    "patio doors opening to garden",
+    "bicycle storage",
+    "EV charging station",
+    "shared courtyard",
+    "underfloor heating"
   ],
   "lifestyle_benefits": [
-    "Ideal for artists and creatives",
-    "Access to green and tranquil surroundings",
-    "Easy highway connectivity",
-    "Moments from galleries and creative spaces",
-    "Comfortable and stylish for work-life balance"
+    "minutes from ivory schools and green parks",
+    "accessible family-oriented amenities",
+    "modern tech infrastructure",
+    "secure and pet-friendly space",
+    "designed for both work-from-home and social gatherings"
   ],
-  "target_buyer": "Perfect for artists, designers and creative families seeking an airy, inspiring home with convenient access to both nature and modern amenities in a quiet but developing community.",
-  "market_positioning": "Distinctive in its blend of minimalist architecture and artist-friendly ambiance, this duplex sets itself apart in Kazimierz Dolny\u2019s Rynek as a rare contemporary offering for buyers looking for space, inspiration, and growth in an iconic and creative setting."
+  "target_buyer": "Perfect for families seeking stylish city living with room to grow and easy access to high-quality schools, urban conveniences, and daily outdoor escapes.",
+  "market_positioning": "A rare premium find within Katowice\u2019s most desirable district, this apartment blends vast, refined living space, top-tier green architecture, and city connectivity, catering to discerning buyers seeking investment value, comfort, and distinction."
 }

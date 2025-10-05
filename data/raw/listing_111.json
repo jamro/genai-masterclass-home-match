@@ -1,30 +1,33 @@
 {
-  "title": "Freshly Renovated Studio in Trendy Nowy Sacz Suburb",
-  "description": "Step into a bright, newly renovated studio apartment nestled in a peaceful and dynamic part of Nowy Sacz. This inviting ground-floor flat offers a well-planned open space with dedicated zones for living, working, and sleeping\u2014perfect for easy, contemporary living. The thoughtfully designed interior is wheelchair accessible, and as a bonus, residents enjoy access to a modern shared sauna for ultimate relaxation. This is the perfect cozy yet inspiring space where you truly feel at home.",
-  "neighborhood_description": "Located in Suburb, an up-and-coming neighborhood in Nowy Sacz with a growing sense of energy and new trends. This area is known for its tranquility and family-friendly charm while benefiting from direct, easy access to the city\u2019s main highway. With several new cafes, small parks, and creative workspaces springing up, Suburb welcomes an active, social, and forward-minded community.",
+  "title": "Eco-Luxury Garden Apartment in Historic Rynek",
+  "description": "Experience unique luxury and sustainability in the heart of Kazimierz Dolny\u2019s enchanting Rynek neighborhood. This stunning one-bedroom apartment offers elegant, modern design within a harmonious, energy-efficient building. Large patio doors connect the living space with a lush green garden, ideal for tranquil relaxation. Elevator access ensures seamless comfort while thoughtful finishes and eco-forward materials speak to elevated living standards.",
+  "neighborhood_description": "Rynek embraces an artistic spirit and a peaceful vibe, set amid avenues of galleries, artisan shops, and quaint caf\u00e9s. Exceptional for families and creatives alike, the area blends historic ambiance with beautiful river views, all in a quiet, low-density setting. Easy access to main highways allows delightful journeys into the surrounding natural landscapes or effortless trips to Lublin and Warsaw.",
   "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 35,
-  "property_type": "studio apartment",
-  "city": "Nowy Sacz",
-  "neighborhood": "Suburb",
+  "size_sqm": 49,
+  "property_type": "apartment",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 370000,
+  "price": 950000,
   "key_features": [
-    "newly renovated interior",
-    "wheelchair accessibility",
-    "shared sauna",
-    "open studio layout",
-    "modern appliances"
+    "elevator access",
+    "energy-efficient building",
+    "patio doors opening to garden",
+    "modern, insulated windows",
+    "luxury fitted kitchen",
+    "premium natural finishes"
   ],
   "lifestyle_benefits": [
-    "peace and quiet for remote work",
-    "fast highway access to city and mountain escapes",
-    "growing creative community"
+    "lower carbon footprint",
+    "quiet artisan community",
+    "seamless indoor-outdoor living",
+    "walkable historic center",
+    "serene riverside setting"
   ],
-  "target_buyer": "Ideal for digital nomads, solo young professionals or couples who value comfort and connectivity without city-center bustle.",
-  "market_positioning": "This property stands out as one of Nowy Sacz Suburb\u2019s best values for first-time buyers or remote workers seeking stylish living away from the city's noise, with fresh amenities and growth potential."
+  "target_buyer": "This property is ideally suited for discerning eco-conscious buyers, artists, or small families desiring an elegant huiadosmn between historic charm and modern sustainability.",
+  "market_positioning": "This exclusive apartment represents a rare opportunity in Kazimierz Dolny to combine sophisticated living with ecological awareness\u2014 ideally positioned for those seeking premium design, luminous interiors, and one-of-a-kind cultural surroundings."
 }

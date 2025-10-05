@@ -1,10 +1,10 @@
 {
-  "title": "Artists' Haven Studio Near Ustka Port",
-  "description": "Step into your own slice of tranquility with this thoughtfully designed studio in Ustka's picturesque Port District. With 30 square meters of artist-inspired textures and natural light, this cozy sanctuary seamlessly blends style and utility. A compact but perfectly appointed kitchen overlooks a spacious living area fast becoming your blank canvas\u2014ready for both relaxation and creation. Enjoy restful nights in your private bedroom corner and a fresh, modern bathroom perfect for unwinding after seaside adventures.",
-  "neighborhood_description": "Port District greets you with the salty breeze and views of distant mountain landscapes\u2014an inviting canvas for your daily life. Cyclists and walkers delight in safe, bike-friendly paths weaving through a community focused on well-being, with shops, cafes, and a burgeoning local arts scene close at hand. Perfect peace and plenty of open green space distinguish this unique neighborhood from the city\u2019s more bustling parts.",
+  "title": "Artistic Studio Loft with Balcony in Ustka\u2019s Hidden Port Gem",
+  "description": "Bask in inspiration within this bright, impeccably presented studio loft in Ustka\u2019s sought-after Port District. This thoughtfully designed 32 sqm studio features a spacious living/sleeping zone that opens onto a private balcony\u2014perfect for creative mornings or tranquil sunsets. Enjoy an inviting kitchen, a sleek modern bathroom, and immediate access to tastefully tended common areas that reflect the refreshing sea-breeze spirit. Residents relish summer dips in the included swimming pool, making every day feel like a getaway.",
+  "neighborhood_description": "Embrace life nestled near Ustka\u2019s revitalized business district, mere steps from a vibrant maze of cozy caf\u00e9s, seafood bistros, and unique local retail. With direct access to serene bike lines and the nearby highway, you find the perfect balance between peaceful coastal charm and urban convenience\u2014ideal for short or long-term rentals. The Port District\u2019s stroll-worthy lanes pulse with seaside energy and authenticity, drawing visitors keen to enjoy both commerce and relaxation.",
   "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 30,
+  "size_sqm": 32,
   "property_type": "studio apartment",
   "city": "Ustka",
   "neighborhood": "Port District",
@@ -13,21 +13,19 @@
     "highway",
     "bike lines"
   ],
-  "price": 378000,
+  "price": 389000,
   "key_features": [
-    "shopping and dining nearby",
-    "private parking space",
+    "balcony",
+    "EV charging station onsite",
     "well-maintained common areas",
-    "panoramic window views",
-    "modern kitchen"
+    "shared swimming pool access"
   ],
   "lifestyle_benefits": [
-    "serene and artistic ambiance",
-    "easy bike access to amenities and seaside",
-    "close-knit, community-focused area",
-    "space for home office or studio",
-    "mountain and port views"
+    "prime investment prospects in an emerging area",
+    "handy for both commuters and beach lovers",
+    "steps from dining, modest nightlife, and burgeoning business hubs",
+    "ideal pied-\u00e0-terre or holiday let contours"
   ],
-  "target_buyer": "Perfectly suited for young couples seeking inspiration and calm\u2014those looking for a blend of modern comfort and proximity to Ustka's cultural heartbeat",
-  "market_positioning": "This studio is an affordable, high-value oasis for creative spirits\u2014rare in Ustka's tranquil Port District, with secure parking and modern updates enhancing market appeal for emerging buyers."
+  "target_buyer": "A discerning property investor seeking a turn-key unit with high rental appeal, looking to capture rising demand among urban professionals, digital nomads, and seasonal tourists in a core coastal destination.",
+  "market_positioning": "Distinguished among studio offerings in Ustka by its blend of smart amenities, rare swimming pool access, and unique location at the intersection of commerce and leisure, this property shines as an effortlessly rentable, future-facing investment."
 }

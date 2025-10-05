@@ -1,30 +1,34 @@
 {
-  "title": "Charming Studio Retreat with Modern Touches in Chelm's Serene Dyrekcja",
-  "description": "Discover this delightful studio apartment perfectly designed for comfort and style. With an open floor plan and a bright, welcoming interior, this home is tailored for both relaxation and effortless living. A spacious ensuite bathroom and smart access with an automatic gate enhance your day's ease, while a convenient reception desk ensures added security and service. This thoughtfully planned 36 sqm studio seamlessly combines practical living with a touch of luxury.",
-  "neighborhood_description": "Nestled in Chelm\u2019s tranquil Dyrekcja neighborhood, the area exudes warmth with its pet-friendly ambiance and vibrant local life. Enjoy morning walks among leafy streets and friendly neighbors, with the convenience of nearby highways for easy commuting seamlessly blending rural calm with city access. Dyrekcja is the perfect setting for families or individuals who cherish serene surroundings and strong community ties.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 36,
-  "property_type": "studio apartment",
-  "city": "Chelm",
-  "neighborhood": "Dyrekcja",
-  "urban_level": "low",
+  "title": "Historic Family Haven with Modern Comforts in Stare Miasto",
+  "description": "Experience timeless charm in this elegantly renovated five-bedroom house set in the heart of Zamosc's historic Stare Miasto. Spanning 238 sqm, this exceptional family home seamlessly blends classic architectural details\u2014arched windows, original exposed beams\u2014and sophisticated modern conveniences. Families will love the generous fenced yard, perfect for play, while features like the heated driveway and elevator offer comfort in every season. A gracious guest bathroom and thoughtful storage enhance its practical appeal.",
+  "neighborhood_description": "Stare Miasto enchants with its picturesque, green spaces and protected historic charm, yet embraces a forward-thinking spirit with strong connections to local tech sectors and start-ups. Enjoy a balanced lifestyle within walking distance to vibrant caf\u00e9s, leafy parks, and excellent schools. Quick access to public transport and nearby highways keeps you seamlessly linked to the wider city.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 238,
+  "property_type": "house",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
   "transport_options": [
+    "public transport",
     "highway"
   ],
-  "price": 372000,
+  "price": 1490000,
   "key_features": [
-    "automatic gate",
-    "open floor plan",
-    "reception desk",
-    "ensuite bathroom"
+    "heated driveway",
+    "fenced yard",
+    "elevator access",
+    "guest bathroom",
+    "historic architectural elements",
+    "spacious living area",
+    "modern kitchen appliances"
   ],
   "lifestyle_benefits": [
-    "privacy and luxury living",
-    "peaceful environment",
-    "pet-friendly setting",
-    "easy highway access"
+    "secure play area for children",
+    "step into green parks and cafes",
+    "blend of historic peace and modern work-life connections",
+    "short commutes to top neighbourhood schools"
   ],
-  "target_buyer": "Ideal for discerning individuals or couples seeking entry into luxury living or downsizing from larger homes without compromising comfort.",
-  "market_positioning": "This property stands out in the low-density Dyrekcja market as a rare opportunity to blend high-end features and comfort with the tranquility of suburban living, offering exceptional value for the price."
+  "target_buyer": "Ideal for families seeking historic atmosphere coupled with modern amenities, especially those wanting outdoor space for children and proximity to lively urban features.",
+  "market_positioning": "A rare opportunity for families looking to own a spacious historic house in Zamosc\u2019s UNESCO-listed core, uniquely offering both architectural grandeur and forward-thinking conveniences at a competitive price in the heart of Stare Miasto."
 }

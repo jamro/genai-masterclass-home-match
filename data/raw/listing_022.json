@@ -1,34 +1,33 @@
 {
-  "title": "Minimalist Scandinavian Loft with Modern Tech in Bronowice",
-  "description": "Experience tranquil minimalism in this stylish two-level loft designed in the Scandinavian tradition. The 2-bedroom, 2-bathroom layout flows through 89 sqm of open, sunlight-filled space accented by clean lines, neutral tones, and sustainable features. Integrated solar panels capture natural energy, while a versatile open floor plan blends kitchen, living, and work-from-home areas effortlessly. Subtle motion-sensor exterior lighting and a contemporary security system provide comfort and peace of mind. Perfect for those who value simplicity and efficiency without compromise.",
-  "neighborhood_description": "Located in Bronowice, this modern building stands within a lively district known for its proximity to universities and tech hubs. A range of cafes, shopping outlets, and dining spots cater to every taste\u2014all conveniently nearby. Bronowice's forward-thinking spirit makes this loft ideal for students seeking balance between urban life and study.",
-  "bedrooms": 2,
-  "bathrooms": 2,
-  "size_sqm": 89,
-  "property_type": "loft",
-  "city": "Krakow",
-  "neighborhood": "Bronowice",
-  "urban_level": "medium",
+  "title": "Tranquil Creative Retreat in Ustka\u2019s Port District",
+  "description": "Step into this charming three-bedroom, three-bathroom house where every corner inspires creativity. Natural hardwood floors merge elegance with comfort, while sunlight sweeps through airy common spaces perfect for work or unwinding. The ground floor offers seamless indoor-outdoor flow to a dedicated barbecue zone\u2014ideal for evening gatherings. An underground garage provides both convenience and security.",
+  "neighborhood_description": "Set within Ustka's peaceful Port District, this community-focused area boasts local shopping and dining just a bike ride away. With low urban hustle, you'll find ample space to focus and breathe, all backdropped by Baltic breezes. Enjoy easy access to the region\u2019s highways and scenic bike lanes underpinning an active, modern lifestyle.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 162,
+  "property_type": "house",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
     "highway",
-    "airport"
+    "bike lines"
   ],
-  "price": 1380000,
+  "price": 1440000,
   "key_features": [
-    "solar panels",
-    "open floor plan",
-    "motion-sensor exterior lights",
-    "guest bathroom",
-    "security system"
+    "3 spacious bedrooms",
+    "3 modern bathrooms",
+    "hardwood floors",
+    "underground garage",
+    "dedicated barbecue zone",
+    "light-filled open plan living spaces"
   ],
   "lifestyle_benefits": [
-    "quiet workspace for studying",
-    "energy-efficient living",
-    "walkable access to campuses and services",
-    "modern tech-oriented surroundings"
+    "quiet for remote work",
+    "steps from local amenities",
+    "active biking routes",
+    "private outdoor entertaining space"
   ],
-  "target_buyer": "Students or young professionals in search of a stylish yet practical home base within reach of universities, coworking spaces, and city amenities.",
-  "market_positioning": "This property is a rare offering: an energy-efficient loft in a medium-density, tech-driven neighborhood, positioned for students and starters seeking above-average standards in finish and comfort without leaving Krakow's social and academic pulse."
+  "target_buyer": "Ideal for remote working professionals or creative individuals seeking retreat-like calm yet convenient coastal living, with fast connections to road networks and a thriving community atmosphere.",
+  "market_positioning": "Uniquely marrying serenity with function, this house offers rare value in Ustka\u2019s Port District\u2014bringing together work-friendly tranquility, outdoor dining options, and fast highway access. It stands out as a haven for those blending productivity with leisure."
 }

@@ -1,32 +1,34 @@
 {
-  "title": "Eco-Modern Studio Retreat in Peaceful Pardalowka",
-  "description": "This contemporary studio apartment pairs modern living with eco-conscious design. Thoughtfully arranged within its 32 square meters, the space features a well-lit living and bedroom zone, a sleek bathroom, and efficient built-in storage. The kitchen area is fitted with energy-saving appliances, while floor-to-ceiling windows bring in ample natural light. Residents also enjoy access to a shared sauna for relaxation after mountain adventures.",
-  "neighborhood_description": "Set in Pardalowka, a tranquil Zakopane neighborhood known for its community focus and green ethos, this studio encourages a healthy, sustainable lifestyle. The area is surrounded by pristine natural scenery and fosters strong neighborhood connections, perfect for those who enjoy living in harmony with nature.",
+  "title": "Sleek Eco Loft in Katowice\u2019s Srodmiescie with Modern Touches",
+  "description": "Step into contemporary urban living in this stylish 62 sqm loft in the heart of Srodmiescie. Featuring one spacious bedroom with a walk-in closet, two elegant bathrooms, and an open-concept living area with a state-of-the-art kitchen, this residence blends comfort with modern sustainability. Floor-to-ceiling windows fill the space with natural light, highlighting thoughtfully selected natural materials, energy-efficient fixtures, and an integrated rainwater collection system.",
+  "neighborhood_description": "Srodmiescie is Katowice\u2019s vibrant city center\u2014favored by tech-savvy professionals, first-time buyers, and artists alike. The area teems with creative studios, green cafes, and great schools, all set within walking and biking distance. Access to reliable public transport and dedicated bike lanes makes getting around fresh and flexible, reflecting the area\u2019s forward-thinking blend of innovation and community.",
   "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 32,
-  "property_type": "studio apartment",
-  "city": "Zakopane",
-  "neighborhood": "Pardalowka",
-  "urban_level": "low",
+  "bathrooms": 2,
+  "size_sqm": 62,
+  "property_type": "loft",
+  "city": "Katowice",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
   "transport_options": [
-    "highway"
+    "public transport",
+    "bike lines"
   ],
-  "price": 449000,
+  "price": 1120000,
   "key_features": [
-    "bicycle storage",
-    "laundry room",
-    "modern lighting system",
-    "shared sauna",
-    "floor-to-ceiling windows",
-    "built-in storage"
+    "co-working space in the building",
+    "elevator access",
+    "heated driveway for eco ice management",
+    "modern open-plan kitchen with high efficiency appliances",
+    "walk-in closet in the bedroom",
+    "rainwater collection system with filtration"
   ],
   "lifestyle_benefits": [
-    "join an eco-conscious community",
-    "mountain air and tranquil vistas",
-    "space-efficient modern design",
-    "proximity to Main Highway for commuting"
+    "live in a tech-oriented and artistic community",
+    "easy access to schools and creative startups",
+    "eco-friendly building management",
+    "commute sustainably on bike or public transport",
+    "enjoy shared productivity and communal events"
   ],
-  "target_buyer": "Ideal for eco-minded professionals relocating for work who value convenient access combined with a peaceful and community-focused home base.",
-  "market_positioning": "This property stands out as an affordable and sustainable option for professionals seeking a balance of modern convenience, wellness amenities, and tranquil natural surroundings, redefining work\u2013life harmony in Zakopane."
+  "target_buyer": "Ideal for first-time buyers, especially young professionals and couples seeking a eco-modern urban home immersed in Katowice\u2019s dynamic, innovative center.",
+  "market_positioning": "This loft stands out in Katowice\u2019s booming Srodmiescie neighborhood by offering sustainable luxury and communal workspaces at a competitive price point, making it an appealing opportunity for buyers entering the market who value green amenities and future-ready design."
 }

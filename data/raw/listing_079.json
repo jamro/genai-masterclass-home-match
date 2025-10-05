@@ -1,35 +1,33 @@
 {
-  "title": "Minimalist Scandinavian Loft in Modern Ursyn\u00f3w",
-  "description": "Bathed in natural light, this 3-bedroom loft pairs open-concept living with authentic Scandinavian minimalism. Sleek finishes and a modern kitchen flow into a spacious living area. Smart storage with built-in wardrobes and a generous walk-in closet keep living easy and clutter-free. Newly refreshed interiors celebrate clean lines and artisanal attention to detail.",
-  "neighborhood_description": "Situated in the dynamic Ursyn\u00f3w district, this property enjoys access to a rapidly developing hub with strong tech-oriented undertones. Conveniently poised near highways and public transportation, it offers unrivaled connectivity to the city center, local caf\u00e9s, and workplaces. Ample bike lines promote an active, flexible lifestyle for residents.",
-  "bedrooms": 3,
-  "bathrooms": 1,
-  "size_sqm": 93,
-  "property_type": "loft",
-  "city": "Warsaw",
-  "neighborhood": "Ursynow",
+  "title": "Serene Scandinavian Duplex Near Zamosc Waterfront",
+  "description": "Immerse yourself in minimalist Scandinavian charm with this contemporary duplex located in the heart of Zamosc\u2019s Stare Miasto. Offering 5 thoughtfully designed bedrooms and 3 sleek bathrooms, this 187 sqm home exudes modernity and simplicity. Enjoy the seamless flow between airy living spaces and the calming facade that maximizes light and elegance. Expansive balconies and elevator access ensure comfort whether welcoming guests or unwinding in solitude.",
+  "neighborhood_description": "Set in the family-friendly Stare Miasto neighborhood, this property balances historic atmosphere with contemporary living. Close proximity to the stately waterfront and abundant green spaces create a warm setting for walks, play, and relaxation. Superb public transport links and quick highway access make commuting and exploring easy from your doorstep.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 187,
+  "property_type": "duplex",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines",
-    "highway",
-    "airport"
+    "highway"
   ],
-  "price": 1530000,
+  "price": 1395000,
   "key_features": [
-    "modern kitchen",
-    "walk-in closet",
-    "built-in wardrobes",
+    "balcony",
+    "elevator access",
+    "barbecue zone",
     "modern fa\u00e7ade design",
-    "EV charging station",
-    "fitness center"
+    "underground garage"
   ],
   "lifestyle_benefits": [
-    "lock-and-leave convenience",
-    "excellent transit options",
-    "energetic, tech-driven environs",
-    "proximity to city center"
+    "pet-friendly spaces and nearby parks",
+    "minimalist Scandinavian interior ambiance",
+    "secure parking for vehicles",
+    "family-friendly neighborhood vibe",
+    "effortless commuting access"
   ],
-  "target_buyer": "Ideal for first-time buyers drawn to modern design, flexible interiors and an urban yet calm neighborhood.",
-  "market_positioning": "A standout mid-range purchase in Ursyn\u00f3w, this property provides cutting-edge design and modern amenities without compromise, catering to upwardly mobile young professionals and savvy newcomers to homeownership."
+  "target_buyer": "Ideal for pet-loving families or professionals who value clean design and pet-friendly living amidst historic surroundings.",
+  "market_positioning": "This duplex offers a unique blend of Scandinavian design and functional amenities rarely seen in Zamosc\u2019s market, promising optimal comfort with understated elegance in a highly sought-after district."
 }

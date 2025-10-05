@@ -1,34 +1,32 @@
 {
-  "title": "Charming Family Duplex with Modern Touches in Peaceful Radziwie",
-  "description": "Welcome to this spacious and thoughtfully designed duplex located in the tranquil neighborhood of Radziwie, P\u0142ock. Combining style and practicality, the home features five generously sized bedrooms and two modern bathrooms, making it perfect for growing families or couples planning for the future. The inviting open floor plan connects the kitchen, dining, and living areas, creating a warm atmosphere filled with natural light. Upgraded features such as efficient air conditioning, a contemporary kitchen, convenient storage locker, and a sustainable rainwater collection system ensure a comfortable and eco-friendly lifestyle for all seasons.",
-  "neighborhood_description": "Radziwie offers a peaceful suburban vibe characterized by green spaces and a mindful, eco-conscious community spirit. Families enjoy close proximity to schools, parks, and crisp walking paths. Essential amenities, local stores, and cultural sites are all within easy reach. Public transport and direct highway connections make commuting to central P\u0142ock or neighboring cities a breeze, adding both convenience and flexibility for modern living.",
-  "bedrooms": 5,
-  "bathrooms": 2,
-  "size_sqm": 192,
-  "property_type": "duplex",
-  "city": "P\u0142ock",
-  "neighborhood": "Radziwie",
-  "urban_level": "medium",
+  "title": "Charming Studio with Historic Touches in Tranquil Pila Suburb",
+  "description": "This beautifully preserved studio offers an inviting blend of historic allure and modern functionality. Featuring a generously sized open-concept living space, you'll enjoy a modern kitchen ideal for preparing favorite meals, refreshing air conditioning, and full wheelchair accessibility. The meticulously designed bathroom caters to a comfortable lifestyle, and sustainable touches like the rainwater collection system add an eco-friendly dimension. This is a unique opportunity to enjoy serene living in a thoughtfully updated period property.",
+  "neighborhood_description": "Nestled in a quiet corner of the Pila suburb, this safe and community-focused area is renowned for its friendly, eco-conscious environment. With nearby access to highways, residents enjoy easy connections to nearby cities while basking in the peaceful countryside atmosphere. It's the perfect setting for individuals valuing sustainability and a strong neighborhood spirit.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 38,
+  "property_type": "studio",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
     "highway"
   ],
-  "price": 1450000,
+  "price": 418000,
   "key_features": [
     "air conditioning",
-    "modern open floor plan",
-    "storage locker",
+    "wheelchair accessibility",
+    "modern kitchen",
     "rainwater collection system",
-    "fully equipped contemporary kitchen",
-    "access to nearby swimming pool"
+    "large windows",
+    "historic details"
   ],
   "lifestyle_benefits": [
-    "perfect for growing families or young couples",
-    "peaceful, suburban setting away from city bustle",
-    "active lifestyle with parks and walking areas",
-    "commuting ease thanks to public transport and highway proximity",
-    "eco-friendly community initiatives"
+    "close-knit, friendly community",
+    "low noise environment",
+    "plenty of natural green spaces",
+    "ideal for expats seeking tranquility"
   ],
-  "target_buyer": "Ideal for young couples planning to start or grow their family, or established families seeking great value and spacious, contemporary living close to nature without sacrificing city access.",
-  "market_positioning": "This modern duplex stands out for offering ample space, smart features, and superb sustainability in a peaceful suburban pocket. It delivers the perfect compromise between calm, family-oriented living, and convenient access to city amenities\u2014making it a highly attractive choice for progressive families in P\u0142ock."
+  "target_buyer": "An expatriate or individual seeking peaceful living with modern amenities surrounded by a sense of history, sustainability, and a warm local community.",
+  "market_positioning": "This property stands out in the local market for its blend of historic character, modern updates, and sustainability in a secure, eco-minded suburb. It is especially attractive to those moving internationally or those searching for tranquil living away from crowded urban centers at a competitive price point."
 }

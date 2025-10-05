@@ -1,34 +1,32 @@
 {
-  "title": "Modern House Retreat in Port District\u2014Perfect for Family Entrepreneurs",
-  "description": "Discover comfort and inspiration in this spacious family home nestled in Ustka's peaceful Port District. With 3 generous bedrooms and 2 elegant bathrooms, this property blends modern functionality with warm, inviting spaces. The open floor plan seamlessly connects the chef's kitchen to bright living areas, and the primary bedroom features a luxurious walk-in closet. A private rooftop deck offers the perfect sanctuary for both relaxation and hosting guests.",
-  "neighborhood_description": "Set in a contemporary community, the Port District offers a quiet, eco-conscious atmosphere perfect for families who appreciate modern comforts and proximity to nature. Local parks and well-maintained playgrounds are just a walk away, nurturing an active and community-focused lifestyle. Cycling enthusiasts and commuters will appreciate easy highway access and an expansive network of bike lines.",
-  "bedrooms": 3,
-  "bathrooms": 2,
-  "size_sqm": 172,
-  "property_type": "house",
-  "city": "Ustka",
-  "neighborhood": "Port District",
-  "urban_level": "low",
+  "title": "Scandinavian Studio Haven in Historic Stare Miasto",
+  "description": "Discover minimalist design in the heart of Zamosc with this light-filled studio. The open floor plan combines living, dining, and sleeping space, complemented by clean lines and subtle tones. Modern finishes ensure comfort, while smart spatial solutions create an uncluttered feel in this 34 sqm studio. Secure underground parking with an EV charging station and intuitive tech touches like video intercom add convenience in one sophisticated package.",
+  "neighborhood_description": "Located in Stare Miasto, the historic yet vibrant heart of Zamosc, the neighborhood blends bike-friendly paths with a rich cultural tapestry. Enjoy instant access to cafes, markets, museums, and lively urban energy, along with efficient links to public transport and highway connections. This area is ideal for those seeking both restful retreat and city exploration.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 34,
+  "property_type": "Studio apartment",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
   "transport_options": [
-    "highway",
-    "bike lines"
+    "public transport",
+    "highway"
   ],
-  "price": 1390000,
+  "price": 410000,
   "key_features": [
-    "open floor plan",
-    "24/7 security",
-    "rooftop deck",
-    "walk-in closet",
-    "modern appliances",
-    "energy-efficient building",
-    "double garage"
+    "Open floor plan",
+    "EV charging station",
+    "Underground garage",
+    "Video intercom",
+    "Scandinavian minimalist finishes"
   ],
   "lifestyle_benefits": [
-    "quiet neighborhood ideal for work/life balance",
-    "community ties with networking potential",
-    "ability to entertain at home on the rooftop deck",
-    "green spaces and recreation nearby"
+    "Step-free convenience for easy mobility",
+    "Dual-purpose co-working space nearby",
+    "Lifestyle services within walking distance",
+    "Historic and cultural sights at your doorstep"
   ],
-  "target_buyer": "Entrepreneurial families craving ample living and working space, who want a modern, secure environment close to green amenities.",
-  "market_positioning": "A standout, contemporary option in the emerging Port District, offering entrepreneurs an attractive blend of modern design, privacy, and access to both recreation and major commuter routes\u2014rarely available for this segment of Ustka's residential market."
+  "target_buyer": "Ideal for retirees seeking a low-maintenance home with excellent leisure access, connectivity, and walkability.",
+  "market_positioning": "Positioned as a premium studio in Zamosc's sought-after cultural quarter, this property offers stylish comfort with modern amenities, appealing to those who value convenience and refined design."
 }

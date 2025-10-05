@@ -1,35 +1,34 @@
 {
-  "title": "Eco-Luxury Haven in Prestigious Brynow\u2014Contemporary 5-Bed Family Home",
-  "description": "Step into the lap of eco-luxury with this newly renovated 5-bedroom house in sought-after Brynow, Katowice. This spacious 235 sqm residence has been crafted for refined living, showcasing a seamless blend of modern interiors, sustainable finishes, and natural light throughout. The main level features an expansive sleek kitchen, airy living spaces, and an ensuite master retreat, while upstairs spills into restful bedrooms\u2014perfect for work-life balance or hosting. High-end amenities such as a private fitness center command a superior lifestyle for discerning families.",
-  "neighborhood_description": "Set in Brynow\u2014a flourishing Katowice neighborhood known for its eco-conscious community ethos and verdant parks\u2014this home gives you daily access to green playgrounds, jogging trails, and leafy walkways. Enjoy seamless connections to cycle paths and excellent public transport for relaxed city commutes, while savoring the area\u2019s excellent schools, caf\u00e9s, and boutique conveniences.",
-  "bedrooms": 5,
-  "bathrooms": 2,
-  "size_sqm": 235,
-  "property_type": "house",
-  "city": "Katowice",
-  "neighborhood": "Brynow",
+  "title": "Eco-Smart Family Loft in Historic Zamosc Old Town",
+  "description": "Step into eco-friendly loft living in the heart of Stare Miasto, Zamosc. This spacious 2-bedroom, 1-bathroom modern loft offers an airy open-plan interior with sustainable finishes and smart-energy systems, spanning a comfortable 95 sqm. Natural light floods this unique space, emphasizing a stylish blend of modern convenience and historic charm. Features such as an EV charging station, heated driveway, and supervised reception desk make life both green and convenient.",
+  "neighborhood_description": "Located in Stare Miasto, Zamosc\u2019s charming Old Town, this family-friendly neighborhood boasts tree-lined streets and easy riverfront access, perfect for weekend strolls and outdoor play. Enjoy excellent connectivity with both public transport and quick highway access, blending relaxed suburban feel with convenient commuting options. Friendly neighbors, parks, and local caf\u00e9s create a welcoming hometown atmosphere.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 95,
+  "property_type": "loft",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines"
+    "highway"
   ],
-  "price": 1890000,
+  "price": 1060000,
   "key_features": [
-    "newly renovated interior",
-    "ensuite bathroom",
-    "modern kitchen",
-    "private fitness center",
-    "spacious open-plan living",
-    "energy-efficient installations",
-    "smart home system"
+    "heated driveway",
+    "EV charging station",
+    "reception desk",
+    "fenced yard",
+    "open-plan living area",
+    "energy-efficient appliances",
+    "natural material finishes"
   ],
   "lifestyle_benefits": [
-    "walkable access to parks and nature",
-    "ideal for eco-conscious families",
-    "step to schools and playgrounds",
-    "urban luxury with tranquil privacy",
-    "proximity to public transport & cycle paths"
+    "safe fenced yard for children",
+    "close to waterfront parks and playgrounds",
+    "convenient school and family amenities nearby",
+    "reduced carbon footprint with green features"
   ],
-  "target_buyer": "Eco-minded families or professionals seeking a luxurious, environmentally-aware residence in a vibrant, growing community.",
-  "market_positioning": "Combining refined living standards with a responsible urban lifestyle, this high-spec family home sits amongst the most desirable and greenest addresses in Katowice. It appeals to buyers prioritizing luxury, family comfort, and environmental credentials in a secure, upmarket neighborhood."
+  "target_buyer": "Ideal for eco-conscious families who value safety, sustainability, and community, particularly those seeking a comfortable home for children in a culturally rich, walkable urban setting.",
+  "market_positioning": "This property stands out as one of Zamosc\u2019s premier sustainable lofts\u2014modernized for energy savings yet situated in the storied center. It appeals to discerning buyers who seek green living paired with local character and exceptional convenience for families."
 }

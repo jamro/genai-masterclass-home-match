@@ -1,34 +1,30 @@
 {
-  "title": "Urban Oasis with Garden Access in Spacious Ochota Apartment",
-  "description": "Step into a luminous 77 sqm apartment perfectly attuned to the rhythm of city life\u2014a rare find where artful design flourishes. The flowing arrangement unfolds from a stunning dining area bathed in natural light to patio doors that beckon out into a tranquil communal garden. With two elegant bedrooms, two sleek bathrooms, and a practical storage room, this apartment harmoniously balances comfort with creative inspiration.",
-  "neighborhood_description": "Situated in Ochota, one of Warsaw\u2019s most enticing urban neighborhoods, you\u2019re connected to both the city and nature. Indulge in vibrant local life, from bustling cafes and delectable dining to quick jaunts into the city center or the nearby waterfront. Ochota\u2019s energetic vibe caters to the go-getter who values both hustle and leisure, with leafy parks interwoven through urban streets.",
-  "bedrooms": 2,
-  "bathrooms": 2,
-  "size_sqm": 77,
+  "title": "Eco-Modern Mountain Apartment with Stunning Panorama in Koscielisko",
+  "description": "This thoughtfully designed 1-bedroom apartment in Koscielisko offers modern living in harmony with its natural surroundings. Spanning a comfortable 41 sqm, the space includes a bright, cozy bedroom, a contemporary bathroom, and an open-plan living area with a state-of-the-art kitchen. Large panoramic windows flood the interiors with sunlight while offering breathtaking views of the Tatras. The apartment features premium modern lighting and an overall eco-friendly focus throughout its finishes.",
+  "neighborhood_description": "Situated in tranquil Koscielisko, just outside lively Zakopane, this neighborhood is perfect for those seeking a balanced lifestyle amid growing recreational opportunities. Local amenities, scenic hiking trails, and gateway access to the Tatra National Park ensure peaceful yet stimulating living away from urban hustle. With highway connections close by, both commuting and than weekend getaways are a breeze.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 41,
   "property_type": "apartment",
-  "city": "Warsaw",
-  "neighborhood": "Ochota",
-  "urban_level": "high",
+  "city": "Zakopane",
+  "neighborhood": "Koscielisko",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
-    "airport"
+    "highway"
   ],
-  "price": 1140000,
+  "price": 815000,
   "key_features": [
-    "Dining area with abundant natural light",
-    "Patio doors opening to communal garden",
-    "Two chic bathrooms",
-    "Dedicated storage room",
-    "High ceilings and quality finishes"
+    "modern kitchen",
+    "panoramic windows",
+    "modern lighting system",
+    "eco-friendly finishes"
   ],
   "lifestyle_benefits": [
-    "Close proximity to city center and business hubs",
-    "Enjoy active outdoor lifestyle with park and bike paths",
-    "Immersed in a vibrant local cafe and art scene",
-    "Unbeatable public transport options\u2014perfect for networking on the go",
-    "Walk-able distance to green spaces and waterfront escapes"
+    "access to mountain trails and nature",
+    "serene atmosphere",
+    "potential for short-term rental income",
+    "energy-efficient design"
   ],
-  "target_buyer": "Visionary entrepreneurs seeking an inspiring city sanctuary\u2014a refined home perfectly suited for balancing work, relaxation, and urban adventure.",
-  "market_positioning": "Stands at the crossroads of contemporary comfort and creative energy; a sophisticated offering for the aspiring professional seeking a prestigious address and flexible living in Warsaw's sought-after Ochota district."
+  "target_buyer": "Ideal for eco-conscious investors seeking a modern, low-maintenance property that will appeal to holidaymakers and long-term tenants drawn to Zakopane\u2019s natural beauty.",
+  "market_positioning": "Positioned in a low-urbanized, sought-after upmarket enclave, this apartment merges modern comforts with immediate access to nature. Offers excellent potential for premium staycation rental or secure long-term value of ownership."
 }

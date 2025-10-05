@@ -1,34 +1,34 @@
 {
-  "title": "Charming Duplex with Historic Soul in Radziwie, Plock",
-  "description": "This spacious duplex blends the timeless allure of its traditional architecture with 21st-century comforts. Five sunlit bedrooms and three elegant bathrooms are spread across an impressive 248 sqm layout, providing plenty of space for relaxation and working from home. Distinctive period details, a generous open living area, and a backyard barbecue zone offer an inviting atmosphere, while a state-of-the-art modern lighting system complements the historic character.",
-  "neighborhood_description": "Set in Radziwie, one of Plock\u2019s peaceful, rapidly modernizing districts, you'll enjoy green surroundings and proximity to parks and tranquil playgrounds. The neighborhood gracefully blends a legacy of artistic features and new community spaces sprouting in this modern development. Yet, it remains well-connected, with public transport and highway access making commutes simple, ideal for professionals venturing into local or regional business hubs.",
+  "title": "Spacious Family Duplex with Scenic Rooftop Deck in Elk's Lake District",
+  "description": "This inviting duplex offers the perfect blend of space, comfort, and modern design. With 5 generous bedrooms spread over 192 sqm and 3 well-appointed bathrooms, the home provides plenty of room for growing families or dedicated remote work zones. Enjoy natural light streaming across beautiful hardwood floors, and take in stunning views from your very own rooftop deck\u2014a unique haven for relaxation or gatherings. A stylish reception area warmly welcomes residents and guests alike, making the property perfect for both work and leisure.",
+  "neighborhood_description": "Located in Elk\u2019s scenic Lake District, this area combines serenity with convenience. The tranquil neighborhood supports a balanced lifestyle, enhanced by close proximity to local shops, friendly dining spots, and the natural allure of nearby lakes. The district is on the rise, attracting modern families and digital professionals seeking space, peace, and potential.",
   "bedrooms": 5,
   "bathrooms": 3,
-  "size_sqm": 248,
+  "size_sqm": 192,
   "property_type": "duplex",
-  "city": "Plock",
-  "neighborhood": "Radziwie",
-  "urban_level": "medium",
+  "city": "Elk",
+  "neighborhood": "Lake District",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
     "highway"
   ],
-  "price": 1380000,
+  "price": 1360000,
   "key_features": [
-    "modern lighting system",
-    "backyard barbecue zone",
-    "welcoming reception desk",
-    "period architecture details",
-    "private garage",
-    "spacious open living zone",
-    "central heating system"
+    "hardwood floors",
+    "rooftop deck",
+    "reception desk",
+    "large bedrooms",
+    "open-plan living area",
+    "energy-efficient appliances",
+    "private garden access"
   ],
   "lifestyle_benefits": [
-    "ideal for work-from-home professionals",
-    "nature walks in local parks",
-    "dynamic neighborly and artistic community",
-    "easy commuting to city center and business parks"
+    "ideal for digital nomads and remote workers",
+    "ample natural light",
+    "tranquil neighborhood offering work-life balance",
+    "space for creative pursuits or family time",
+    "shopping and dining within easy reach"
   ],
-  "target_buyer": "Perfect for relocating professionals or families who crave historical ambience combined with convenience. Those working in corporate positions in Plock or nearby regions will relish the superb transport access, stylish work & leisure quarters, and vibrant, verdant surroundings.",
-  "market_positioning": "This rarely available duplex offers historic authenticity paired with exceptional upgrades, making it stand out among contemporary and traditional offerings in Radziwie. Strategically priced in the heart of the area\u2019s upper-mid real estate segment, it appeals to upscale renters or buyers seeking a distinctive, timeless character alongside modern comfort."
+  "target_buyer": "Perfect for modern families, professionals working remotely, or digital nomads seeking a peaceful environment with strong community connections. Ideal for those craving more room and appreciating a slower-paced, nature-inspired lifestyle without sacrificing urban comforts.",
+  "market_positioning": "This duplex stands out in Elk as a turnkey solution for families or remote professionals looking for a modern, spacious property in a low-urban, growing neighborhood\u2014all at an attractive mid-range price. It balances contemporary amenities with a coveted lifestyle close to nature."
 }

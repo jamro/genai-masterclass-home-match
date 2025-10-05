@@ -1,35 +1,33 @@
 {
-  "title": "Invest in Historic Charm: Spacious 5-Bedroom House in Radziwie, Plock",
-  "description": "Step into this impressive house in Radziwie, featuring five bright bedrooms and two well-appointed bathrooms across a generous 210 sqm. The home artfully blends historic charm with modern conveniences, offering a modern kitchen with up-to-date appliances and elegant patio doors leading directly into a lush private garden. Sunbeams catch the period features within, perfectly complementing the thoughtfully renovated spaces for seamless, comfortable living.",
-  "neighborhood_description": "Nestled in Radziwie, one of Plock\u2019s thriving suburban districts, this home benefits from easy access to public transport and quick highway connections. The neighborhood combines modern development with leafy, tranquil surroundings, making it attractive to residents and investors alike. Nearby green spaces, local amenities, and expanding infrastructure enrich this well-situated area.",
-  "bedrooms": 5,
+  "title": "Creative Loft Apartment with Terrace in Zamosc's Old Town",
+  "description": "Nestled in a character-rich townhouse on Zamosc\u2019s beautiful Stare Miasto, this 1-bedroom, 2-bathroom apartment offers the perfect blend of modern comfort and historic charisma. With 50 sqm of thoughtfully designed living space, enjoy sipping coffee on your private terrace with views of artful facades. Existing solar panels add efficiency while ample windows flood the space with natural light\u2014the perfect canvas for your creative vision.",
+  "neighborhood_description": "Stare Miasto is Zamosc\u2019s historic core and pulses with eclectic energy\u2014imagine galleries, outdoor installations, independent caf\u00e9s, and a lively square all just steps away. Residents thrive within a friendly, artistic community set between paradise-like riverbanks and lush public green spaces. Excellent public transport and easy access to highways connect you seamlessly to the broader city and beyond.",
+  "bedrooms": 1,
   "bathrooms": 2,
-  "size_sqm": 210,
-  "property_type": "house",
-  "city": "Plock",
-  "neighborhood": "Radziwie",
+  "size_sqm": 50,
+  "property_type": "apartment",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
     "highway"
   ],
-  "price": 1275000,
+  "price": 735000,
   "key_features": [
-    "spacious layout",
+    "solar panels",
+    "private terrace",
+    "spacious living area",
     "modern kitchen",
-    "energy-efficient windows",
-    "patio doors opening to garden",
-    "period architectural features",
-    "central heating",
-    "close to public transport",
-    "private garden"
+    "historic building",
+    "energy-efficient windows"
   ],
   "lifestyle_benefits": [
-    "versatile space for rental or multi-generational living",
-    "easy commuter access",
-    "attractive to long-term tenants",
-    "proximity to green areas"
+    "inspirational locale for artists and creatives",
+    "immediate access to art venues",
+    "active outdoor lifestyle with nearby waterfront",
+    "neighborly vibe in a growing destination"
   ],
-  "target_buyer": "Ideal for property investors seeking character, dependability, and returns in a flourishing suburban location, as well as families looking to blend classic style with comfort.",
-  "market_positioning": "Positioned as a unique opportunity in one of Plock\u2019s increasingly popular medium-urban neighborhoods, this home\u2019s blend of historic character and practical income-generating potential stands out in the local market."
+  "target_buyer": "This is an ideal base for young professionals, freelancers, and artists seeking a charismatic home in an enriching creative community.",
+  "market_positioning": "Combining a rare central position, historic character, and contemporary eco-efficiency, this apartment commands a strong appeal in Zamosc\u2019s growing real estate market for urban creatives."
 }

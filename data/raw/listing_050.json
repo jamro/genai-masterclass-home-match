@@ -1,36 +1,33 @@
 {
-  "title": "Historic Charmer in Ursyn\u00f3w \u2013 Sophisticated 5-Bedroom Family House",
-  "description": "Step through the welcoming front door into a spacious, sun-warmed home where classic details blend seamlessly with modern convenience. This substantial 275 sqm family house features five elegant bedrooms and three stately bathrooms, carefully restored to highlight historical character while enhancing comfort. With a unique modern fa\u00e7ade set amidst mature gardens and generously proportioned common areas inside, it perfectly accommodates energetic family life or tranquil retreats. Thoughtful amenities\u2014like a dedicated laundry and laundry room, as well as ample storage\u2014make this residence elegantly practical for daily living.",
-  "neighborhood_description": "Nestled in environmentally focused Ursyn\u00f3w, your new home is surrounded by an eco-conscious community that cherishes green spaces and a waterside walking distance, remarkably rare within Warsaw. Recognized for its safety and accessible recreation, Ursyn\u00f3w curates a perfect atmosphere for a balanced lifestyle. Reliable public transport, bicycle paths, direct highway access, and close proximity to the airport ensure ease of travel whether venturing locally or afar.",
-  "bedrooms": 5,
-  "bathrooms": 3,
-  "size_sqm": 275,
-  "property_type": "house",
-  "city": "Warsaw",
-  "neighborhood": "Ursyn\u00f3w",
-  "urban_level": "medium",
+  "title": "Tranquil Scandinavian Loft Surrounded by Historic Charms",
+  "description": "Open, peaceful and bright, this two-bedroom, two-bathroom loft is designed with minimalist Scandinavian elegance. Natural wood gour vagues, tall ceilings and modern rounded windows bring softness to a sleek interior. There\u2019s a cozy home office alcove, a thoughtfully-integrated laundry space and renewable fixtures throughout. For the eco-minded, a rainwater collection system sustains mindful living.",
+  "neighborhood_description": "Dyrekcja is truly a hidden gem of Chelm\u2014safe, tranquil, and steeped in historic charm. Its low urban density lends a contemplative rhythm to daily life, where cobbled paths meet refined heritage buildings and neighbors greet each other by name. Moving in and out is easy, with direct highway access facilitating comfortable connections beyond this peaceful enclave.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 84,
+  "property_type": "loft",
+  "city": "Chelm",
+  "neighborhood": "Dyrekcja",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
-    "highway",
-    "airport"
+    "highway"
   ],
-  "price": 1895000,
+  "price": 1025000,
   "key_features": [
-    "modern fa\u00e7ade design",
-    "restored historic details",
-    "laundry room",
-    "storage room",
-    "spacious layout",
-    "mature gardens"
+    "shared sauna",
+    "dedicated home office space",
+    "integrated laundry room",
+    "rainwater collection system",
+    "Scandinavian minimalist interior",
+    "expansive ceilings"
   ],
   "lifestyle_benefits": [
-    "eco-conscious living",
-    "safe and peaceful neighborhood",
-    "minimal commute time",
-    "proximity to waterfront nature trails",
-    "local community events"
+    "sustainable water usage",
+    "quiet and restorative atmosphere",
+    "sauna-ready wellness relaxation",
+    "conscious living surrounded by nature",
+    "space to work and create from home"
   ],
-  "target_buyer": "Young couples starting families, who value both historic charm and the practical benefits of modern design in a green Warsaw district.",
-  "market_positioning": "This property stands out in Ursyn\u00f3w's market as a rare opportunity to enjoy historic character with all the benefits of modern design. Excellent size and thoughtful updates make it perfect for those seeking style, convenience and community-focused living."
+  "target_buyer": "Ideal for eco-conscious couples or small families seeking quietude, heritage character and minimalist design principles. Perfect match for remote professionals or anyone embracing an eco-minded, slow living lifestyle.",
+  "market_positioning": "One of the few carefully restored lofts in the Dyrekcja area, presenting a contemporary Scandinavian feel without losing its sense of place. Distinct for its focus on sustainability and unique in blending historic substance with modern comforts."
 }

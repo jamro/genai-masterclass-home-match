@@ -1,32 +1,32 @@
 {
-  "title": "Bright Studio Loft in Gdansk\u2019s Artistic Srodmiescie",
-  "description": "Embrace city living in this modern and efficient studio apartment, nestled within a vibrant and creative building in Gdansk's sought-after Srodmiescie district. The open-plan layout (35 sqm) offers flexibility for both living and working, with abundant natural light and thoughtfully designed spaces. Enjoy a sleek kitchenette, spacious bathroom, and smart storage solutions for comfortable everyday living.",
-  "neighborhood_description": "Located at the creative heart of Gdansk, Srodmiescie thrives with an unmistakable artistic spirit and lively local culture. Filled with art studios, cozy cafes, and unique galleries, it\u2019s the perfect base for people looking to be part of a like-minded community. Efficient public transit and abundant marked bike lines make exploring the city a breeze, while historic streets meet the rolling edges of the Tricity Landscape Park\u2014with scenic hilltop views within easy reach.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 35,
-  "property_type": "studio apartment",
-  "city": "Gdansk",
-  "neighborhood": "Srodmiescie",
-  "urban_level": "high",
+  "title": "Historic Family Duplex with Timeless Elegance in Leszno's Charming Zatorze ",
+  "description": "Step into spacious living with this immaculately maintained duplex featuring five airy bedrooms and three full bathrooms across a generous 214 square meters. This captivating residence marries vintage charm with present-day comforts, boasting classic hardwood floors that perfectly accent its original architectural features. Large windows flood the interiors with natural light, while energy-efficient updates ensure year-round coziness and minimized utility bills. Indulge in relaxation at the shared sauna, exclusive to residents of this curated property.",
+  "neighborhood_description": "Located in Leszno's admired Zatorze neighborhood, this home sits amidst historical residential streets only a short stroll from scenic waterfront strolls, sprawling parks, and engaging playgrounds. The area is tailored for families, balancing tranquil outdoor spaces with superb access to robust urban amenities and convenient public transport links as well as highway connections.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 214,
+  "property_type": "duplex",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines"
+    "highway"
   ],
-  "price": 429000,
+  "price": 1480000,
   "key_features": [
     "energy-efficient building",
-    "see-through laundry room",
-    "shared co-working space",
-    "spacious bathroom",
-    "high-speed internet"
+    "original hardwood floors",
+    "shared sauna",
+    "large windows",
+    "historic architectural detailing"
   ],
   "lifestyle_benefits": [
-    "connect with an artistic community",
-    "walk everywhere: shops, galleries, and cafes nearby",
-    "city and distant hill views from window",
-    "join creative workshops or events in-house"
+    "steps to parks and waterfront",
+    "perfect for larger families",
+    "quiet neighborhood streets",
+    "access to fresh air & greenery"
   ],
-  "target_buyer": "Perfect for artists, designers, remote workers, and creatives seeking an inspiring city-base with the comforts of a community-oriented environment.",
-  "market_positioning": "A rare opportunity: a thoughtfully appointed, modern studio in one of Gdansk\u2019s most dynamic neighborhoods, offering premium amenities for city-based creatives at a competitive price point."
+  "target_buyer": "Ideal for discerning families seeking a spacious, character-filled home with modern updates, comfortable communal spaces, and play areas for children.",
+  "market_positioning": "Distinctive opportunity to own a blend of history and function in Zatorze; perfectly suited for growing families prioritizing heritage, ample interior space, and prime neighborhood amenities."
 }

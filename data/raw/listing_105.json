@@ -1,34 +1,33 @@
 {
-  "title": "Sleek Scandinavian Studio with Panoramic Windows in Grunwald",
-  "description": "Experience contemporary minimalism and luxury within this exquisite studio nestled in Grunwald. The open-concept layout bathes in natural light thanks to full-height panoramic windows, while crisp lines and muted hues define the minimalist Scandinavian aesthetic. Enjoy a large walk-in closet, elegantly combined living and slumber space, and state-of-the-art finishes throughout the 34 sqm studio. Perfect for those who crave a refined yet efficient urban home, the building features secure private parking and is energy-efficient throughout.",
-  "neighborhood_description": "Grunwald offers a trendy, dynamic vibe, bustling with delectable caf\u00e9s, independent boutiques, and green space just around the corner. A vibrant local life pulses nearby, balancing discovery with seamless access\u2014whether by public transport, bicycle, or the conveniently situated highway. This is one of Poznan\u2019s most sought-after and up-and-coming districts for both leisure and luxurious city living.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 34,
-  "property_type": "studio apartment",
-  "city": "Poznan",
-  "neighborhood": "Grunwald",
-  "urban_level": "medium",
+  "title": "Spacious 6-Bed Family Haven with Garden and Modern Wellness Near Nature",
+  "description": "This inviting six-bedroom house offers the perfect blend of comfort and function for modern families. Spanning a generous 350 sqm, the home has three bathrooms, sizeable living spaces, and thoughtfully laid-out bedrooms to give everyone privacy and room to grow. Enjoy the tranquility of a private garden\u2014ideal for pets and children\u2014and stay fit year-round in the shared sauna or fitness center. Safety and sustainability are a priority, featuring motion-sensor exterior lighting and energy-efficient windows. The property also includes an underground garage with ample storage for vehicles and kids' bicycles.",
+  "neighborhood_description": "Situated in the peaceful Suburb neighborhood of Pila, this low-urban area is distinguished by its green spaces, relaxed pace, and safe, close-knit atmosphere. This location is highly family-friendly and pet-welcoming, with shopping options and cozy dining venues just a short drive away. Convenient highway access allows for smooth journeys into the town center or out to nature escapes, making it ideal for those valuing fresh air and space.",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "size_sqm": 350,
+  "property_type": "house",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
     "highway"
   ],
-  "price": 467000,
+  "price": 1450000,
   "key_features": [
-    "panoramic windows",
-    "large walk-in closet",
-    "modern Scandinavian fa\u00e7ade",
-    "private parking space",
-    "energy-efficient building"
+    "private garden",
+    "shared sauna",
+    "motion-sensor exterior lights",
+    "fitness center",
+    "underground garage",
+    "energy-efficient windows"
   ],
   "lifestyle_benefits": [
-    "exclusive design for sophisticated tastes",
-    "trendy neighborhood life",
-    "secure free parking",
-    "eco-conscious living",
-    "proximity to amenities and city hotspots"
+    "ample space for large families or multigenerational living",
+    "pet-friendly outdoor areas",
+    "quiet, safe surroundings for children to play",
+    "convenient highway access for commuting and trips",
+    "modern wellness amenities"
   ],
-  "target_buyer": "A single luxury-seeker, traveling professional or modern minimalist who cherishes comfort, design, and convenience in the city\u2019s most exciting area.",
-  "market_positioning": "Positioned as a rare find offering high-end design and amenities in Poznan's desirable Grunwald at a compelling midmarket price, perfect for astute buyers valuing both exclusivity and urban practicality."
+  "target_buyer": "The home is ideally suited for large families seeking space to grow, pet owners, or multigenerational households who value tranquility and premium features in a safe, welcoming environment.",
+  "market_positioning": "This property stands out in the Pila market by offering a rare mix of practical family-focused amenities, generous inside and outside space, and wellness facilities. It\u2019s competitively priced given its substantial size, modern features, and appealing location for buyers seeking a serene yet conveniently connected home base."
 }

@@ -1,32 +1,34 @@
 {
-  "title": "Contemporary Studio with Soul in Dyrekcja, Chelm\u2014Your Academic Sanctuary",
-  "description": "Immerse yourself in the tranquil rhythm of Dyrekcja with this artfully designed studio, tailored perfectly for solo urban dwellers. This 34 sqm apartment boasts gleaming hardwood floors that welcome you home, complemented by a thoughtful modern lighting system to craft the perfect study nook or cozy relaxation zone. Enhanced by motion-sensor exterior lights and nestled in a quiet building, you have the reassurance and comfort that make a difference. Secure underground garage space adds another level of convenience\u2014rare for the area and perfect for drivers.",
-  "neighborhood_description": "Surrounded by the whispers of Chelm\u2019s historic past, the Dyrekcja neighborhood offers a peaceful suburban life kissed with old-world charm. Schools and educational institutes are comfortably close, catering especially to students seeking easy access. With highway links nearby, citywide exploration is streamlined, all the while you enjoy your haven of tranquility within this low-urban-level settlement.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 34,
-  "property_type": "studio",
-  "city": "Chelm",
-  "neighborhood": "Dyrekcja",
+  "title": "Eco-Smart Modern Villa Amid Serenity in Polnocne, Suwa\u0142ki",
+  "description": "Impeccably designed for modern living, this spacious eco-conscious house features 5 light-filled bedrooms and 3 sleek bathrooms across a generous 235 sqm. Entertain with ease in the large open-plan living space flowing to an inviting outdoor dining area. Intelligent motion-sensor exterior lights and a video intercom system provide both security and convenience. Exclusive access to a shared swimming pool adds a resort-style vibe to your daily life step outside.",
+  "neighborhood_description": "Set in Polnocne, a growing residential enclave in Suwa\u0142ki with historical roots and a surge of modern development, you\u2019ll enjoy charming peacefulness and open skies. The area prioritizes tranquility, green spaces, and future-oriented planning, providing breathing room but swift access to major highways for getaways or commutes. Local amenities such as new shops and recreational spots accommodate modern needs without sacrificing the draw of tradition.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 235,
+  "property_type": "house",
+  "city": "Suwa\u0142ki",
+  "neighborhood": "Polnocne",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 355000,
+  "price": 1280000,
   "key_features": [
     "motion-sensor exterior lights",
-    "quiet neighborhood setting",
-    "modern lighting system",
-    "underground garage",
-    "hardwood floors"
+    "modern fa\u00e7ade design",
+    "video intercom",
+    "recycling facilities",
+    "outdoor dining area",
+    "private garden",
+    "swimming pool access"
   ],
   "lifestyle_benefits": [
-    "peaceful ambiance for focused studies or relaxation",
-    "proximity to educational institutes",
-    "secure and convenient vehicle parking",
-    "modern, easy-to-maintain living space",
-    "enjoy walks in a historic suburb"
+    "perfect for digital nomads",
+    "sustainable living",
+    "quiet work from home spaces",
+    "garden yoga or meditation sessions",
+    "ideal for hosting coworkers or guests"
   ],
-  "target_buyer": "The ideal home for a student who treasures their privacy, prefers contemporary freedoms, and enjoys the ease of suburban comfort just outside the city heart. Perfect for young professionals beginning their academic journey in Chelm.",
-  "market_positioning": "This studio represents a rare combination in Dyrekcja\u2014contemporary amenities and secure parking bundled within a robust, character-filled neighborhood. Attractively priced for students or first-time buyers, this home stands out as a best-in-class starter abode."
+  "target_buyer": "Eco-oriented digital nomads and families seeking space to thrive\u2014combining remote work adaptability with connected comfort close to Suwa\u0142ki yet nestled away from city noise.",
+  "market_positioning": "Polnocne stands at the intersection of affordability and forward-thinking lifestyle in Suwa\u0142ki. This villa is competitively priced compared to urban-infill new builds, offering more outdoor space and all eco-modern amenities\u2014making it one of the top picks for buyers ready to step into a sustainably-minded community."
 }

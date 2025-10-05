@@ -1,33 +1,34 @@
 {
-  "title": "Contemporary Loft with Mountain Vistas in Artistic Radziwie",
-  "description": "Step into a bold expression of modern living with this captivating two-bedroom loft in Radziwie, Plock. Designed with striking, geometric lines, the modern fa\u00e7ade stands as a testament to innovative urban architecture. Expansive interior spaces soar beneath lofty ceilings, with tall windows immersing the home in natural light and framing enchanting, distant mountain views. Each room benefits from advanced soundproofing\u2014your haven of creativity, privacy, and inspiration. Guests or family will enjoy convenience with a pair of stylish, well-appointed bathrooms.",
-  "neighborhood_description": "The Radziwie neighborhood in Plock is celebrated for its balance between urban life and natural beauty. Flowing rivers and green watershed parks are close by, while excellent access to public transport and highways seamlessly connects you to city amenities and the rhythms of cultural life in Plock. This area is increasingly popular among creative professionals, entrepreneurs, and those seeking tranquility without forsaking connectivity.",
-  "bedrooms": 2,
+  "title": "Stylish Eco Apartment with Urban Green Charm in Brynow",
+  "description": "Embrace contemporary living in this airy 54 sqm apartment\u2014a haven designed for urban professionals on the move. Featuring a spacious bedroom and dual designer bathrooms, this residence blends comfort with future-ready functionality. The sun-lit open-plan kitchen and living warmly welcome creativity and relaxation, while large windows overlook calm green courtyards.",
+  "neighborhood_description": "Set in the heart of Brynow, one of Katowice\u2019s most vibrant, evolving quarters, you\u2019ll be immersed in stylish caf\u00e9s, hip co-working spaces, and park-lined avenues perfect for mindful strolls. The neighborhood radiates a trendy energy with fantastic highway access, lush green surroundings, and excellent links to public transit and cycling paths.",
+  "bedrooms": 1,
   "bathrooms": 2,
-  "size_sqm": 87,
-  "property_type": "loft",
-  "city": "Plock",
-  "neighborhood": "Radziwie",
+  "size_sqm": 54,
+  "property_type": "apartment",
+  "city": "Katowice",
+  "neighborhood": "Brynow",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "highway"
+    "bike lines"
   ],
-  "price": 1120000,
+  "price": 798000,
   "key_features": [
-    "modern fa\u00e7ade design",
-    "private parking space",
-    "high windows with mountain views",
-    "soundproof walls",
-    "open-plan living space",
-    "two stylish bathrooms"
+    "solar panels",
+    "pets allowed",
+    "recycling facilities",
+    "fitness center",
+    "large bedroom suite",
+    "two full bathrooms"
   ],
   "lifestyle_benefits": [
-    "Incredible return-on-investment potential",
-    "Ideal setting for creative work and relaxation",
-    "Effortless commuting\u2014city and countryside convenience",
-    "Peaceful, inspiring living environment"
+    "perfect for remote work",
+    "eco-conscious living",
+    "quieter yet central location",
+    "bike-friendly commute",
+    "access to artisan groceries and leisure parks"
   ],
-  "target_buyer": "This lofty sanctuary is tailored for property investors seeking a forward-looking rental asset, home-office clients, or artistic talents craving a unique urban vibe.",
-  "market_positioning": "Exceptionally positioned, this loft stands out as a rare offering in Radziwie\u2014melding high style and enticing scenery. Poised for appreciation, it's a prized choice for the discerning investor eyeing trend-forward residential assets in Plock."
+  "target_buyer": "Ideal for a dynamic professional or couple relocating for work who appreciate wellness features, sustainable amenities, and direct access to a blossoming urban scene.",
+  "market_positioning": "Positioned above-seasoned starter flats with its unique green upgrades, flexible living layout, and charming neighborhood backdrop, this property speaks to buyers seeking a lifestyle investment\u2014modern comfort with urban flair."
 }

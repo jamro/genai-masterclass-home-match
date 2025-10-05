@@ -1,38 +1,35 @@
 {
-  "title": "Elegant Urban Loft with Premium Amenities in Gda\u0144sk \u2013 Zaspa",
-  "description": "Experience sophisticated living in this expansive, newly renovated 108 sqm loft. Soaring ceilings mingle with modern design touches, enhancing the natural light throughout the open-plan living area. The loft features two serene bedrooms and two elegant bathrooms, perfectly suited to professional excellence. Entertain guests in style on your private outdoor dining terrace, or unwind after work in the exclusive residents' fitness center. Every detail of this property has been crafted for contemporary luxury and effortless comfort.",
-  "neighborhood_description": "Nestled in the trending Zaspa neighborhood of Gda\u0144sk, you\u2019ll enjoy a distinctive blend of community charm and urban convenience. The area features excellent public transport links, extensive bike paths, and a reputation for being both family-friendly and bike-friendly. Top schools, green spaces, local caf\u00e9s, and bakeries are all just a stroll away, making this location both highly sought-after and practical for relocating professionals.",
-  "bedrooms": 2,
-  "bathrooms": 2,
-  "size_sqm": 108,
-  "property_type": "loft",
-  "city": "Gda\u0144sk",
-  "neighborhood": "Zaspa",
+  "title": "Exquisite 1-Bed Luxury Apartment with Terrace in Krakow\u2019s Modern Podgorze",
+  "description": "A haven of modern elegance, this beautifully designed one-bedroom apartment offers 56 sqm of meticulously crafted living space. Enter into an airy, open-plan interior with premium finishes and soothing colors. The residence boasts a private terrace perfect for relaxing or entertaining, climate-controlled comfort with integrated air conditioning, and use of the exclusive residents\u2019 lounge. Landscaped grounds wrap the building in tranquility, enhancing the luxurious feel.",
+  "neighborhood_description": "Nestled in the heart of Podgorze, Krakow\u2019s rapidly growing tech-inspired enclave, this address provides the sought-after peaceful suburban vibe prized by discerning city dwellers. With new artisanal caf\u00e9s, riverside paths, and access to modern conveniences, this area stands as one of the city\u2019s prime up-and-coming neighborhoods.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 56,
+  "property_type": "apartment",
+  "city": "Krakow",
+  "neighborhood": "Podgorze",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines"
+    "bike lines",
+    "highway"
   ],
-  "price": 1475000,
+  "price": 1090000,
   "key_features": [
-    "newly renovated interior",
-    "2 spacious bedrooms",
-    "2 modern bathrooms",
-    "private outdoor dining area",
-    "resident fitness center",
-    "floor-to-ceiling windows",
-    "ample natural light",
-    "dedicated storage space",
-    "premium appliances"
+    "residents' lounge",
+    "private terrace",
+    "air conditioning",
+    "landscaped surroundings",
+    "modern open-plan kitchen",
+    "premium finishes",
+    "floor-to-ceiling windows"
   ],
   "lifestyle_benefits": [
-    "ideal for professionals relocating for work",
-    "vibrant work-life balance",
-    "excellent transport and cycling infrastructure",
-    "walkable to caf\u00e9s and boutiques",
-    "fitness and wellness at your doorstep",
-    "close to educational facilities"
+    "perfect for remote work and unwinding",
+    "low-maintenance luxury living",
+    "walkability to trendy caf\u00e9s and tech hubs",
+    "tranquil park-side atmosphere"
   ],
-  "target_buyer": "Ambitious professionals, executive couples, or small international families seeking a luxury turnkey home in Gda\u0144sk with top connectivity and amenities.",
-  "market_positioning": "Positioned as one of Zaspa\u2019s premier luxury lofts, this residence appeals to buyers looking for upscale finishes, exceptional amenities, and proximity to vital transport in a thriving city neighborhood."
+  "target_buyer": "Luxury seekers or tech professionals seeking sophisticated urban living in Krakow, who desire equal access to peaceful surroundings and premier conveniences.",
+  "market_positioning": "Positioned as a premium turnkey residence in a surging neighborhood, this property stands for distinguished quality and lifestyle\u2014suiting cosmopolitan buyers attracted by luxury, connectivity, and cutting-edge urban culture."
 }

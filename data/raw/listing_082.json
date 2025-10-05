@@ -1,36 +1,29 @@
 {
-  "title": "Historic Loft Oasis in Trendy Sopot Centrum",
-  "description": "Experience the perfect blend of historic charm and modern comfort in this airy, recently renovated loft situated in an iconic building in Sopot\u2019s Centrum. Spanning approximately 118 sqm, this unique apartment boasts 3 inviting bedrooms and a sun-drenched open living area with exposed original beams. The versatile layout seamlessly integrates a convenient home office, illuminated dining zone, and a contemporary kitchen designed for effortless entertaining. An energy-efficient approach and access to a shared traditional sauna enhances daily living.",
-  "neighborhood_description": "Set in Sopot\u2019s Centrum, the city\u2019s cultural pulse, this fashionable neighborhood overflows with vibrant local caf\u00e9s, bustling markets, and fast access to the sandy Baltic coastline. Enjoy trendy and dynamic streets steeped in historic elegance, within walking distance to renowned schools and prime transport nodes. Frequent trams, bike lines, and easy highway access make both city exploring and commuting effortless.",
-  "bedrooms": 3,
+  "title": "Cozy Studio Haven in Heart of Historic Kazimierz Dolny",
+  "description": "This light-filled studio blends classic charm and modern convenience with open layout design, ideal for young professionals or entrepreneurial spirits. Measuring a functional 37 sqm, the property offers one bedroom space, a stylish bathroom, practical storage, and energy-efficient windows for year-round comfort. Patio doors open directly to a serene garden, perfect for morning coffee or focused work sessions. The carefully considered features ensure comfort and efficiency in a minimalist footprint.",
+  "neighborhood_description": "Nestled on the Rynek in Kazimierz Dolny, this property places you in the tranquil heart of a historic, low-urban district. Enjoy quiet strolls with your pet, access to charming artisan shops, and weekends filled with local culture\u2014all in a collaborative, small-town community atmosphere. Fast highway links keep you flexibly connected for business travel beyond town limits.",
+  "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 118,
-  "property_type": "loft",
-  "city": "Sopot",
-  "neighborhood": "Centrum",
-  "urban_level": "high",
+  "size_sqm": 37,
+  "property_type": "studio",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
     "highway"
   ],
-  "price": 1450000,
+  "price": 397000,
   "key_features": [
-    "barbecue zone",
-    "dedicated home office space",
-    "energy-efficient windows and heating",
-    "bright dining area with natural light",
-    "access to a classic shared sauna",
-    "volume ceilings with historic details",
-    "open-plan kitchen and living area"
+    "storage room",
+    "energy-efficient windows",
+    "patio doors opening to garden"
   ],
   "lifestyle_benefits": [
-    "ideal for remote workers needing office space and connectivity",
-    "walkability to trendy restaurants, boutiques, and the beach",
-    "lively cultural life and networking opportunities",
-    "efficient for low-maintenance living",
-    "excellent commuting options"
+    "ideal for remote work or creative entrepreneurship",
+    "quiet atmosphere",
+    "pet-friendly environment",
+    "garden access"
   ],
-  "target_buyer": "Perfect for remote workers, creative professionals, and families seeking a unique, inspiring home base in one of Sopot\u2019s most lively and convenient neighborhoods.",
-  "market_positioning": "This rare historic loft offers unbeatable value and prestige in Sopot\u2019s main district, blending the character of bygone eras with modern efficiency and coworking potential\u2014a coveted haven seldom available in this price range."
+  "target_buyer": "This property is perfect for entrepreneurial young professionals seeking a balanced life\u2014someone who values peaceful surroundings, enjoys a pet-friendly and community vibe, and requires flexible space for both living and professional pursuits.",
+  "market_positioning": "A rare offering ideal for modern remote workers or creative entrepreneurs wanting an affordable foothold in historic Kazimierz Dolny. Stands out with garden access and energy efficiency in a compact studio format, priced below the town\u2019s pricier heritage homes."
 }

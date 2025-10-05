@@ -1,31 +1,30 @@
 {
-  "title": "Minimalist Studio Retreat in Artistic Dyrekcja",
-  "description": "Experience Scandinavian simplicity in this bright and thoughtfully designed studio apartment. Boasting clean lines and large windows, the space feels open and inviting, making the most of its 32 sqm footprint. The apartment includes one sleeping zone, a pristine modern bathroom, and private direct access to a meticulously kept garden. Ideal for those seeking efficiency without sacrificing comfort.",
-  "neighborhood_description": "Nestled within the safe and increasingly trendy Dyrekcja neighborhood of Chelm, this home is part of a community renowned for its artistic energy and creative initiatives. With easy access to the major highway, journeys across the city or beyond are both fast and convenient. Residents can enjoy emerging galleries and eclectic cafes in a welcoming, open-spirited locale.",
+  "title": "Eco-Friendly Studio Retreat in Tranquil Suwa\u0142ki North",
+  "description": "Discover contemporary, eco-conscious living in this modern studio apartment located in the serene P\u00f3\u0142nocne district of Suwa\u0142ki. Designed for comfort, it boasts radiant open-plan space with large windows for abundant natural light, a private bathroom, and a defined sleeping area. Thoughtful finishes and high-quality fixtures ensure both style and ease of maintenance, while upgraded systems like air conditioning and solar panels minimize your environmental footprint.",
+  "neighborhood_description": "P\u00f3\u0142nocne is a low urban level area embracing peaceful new development and natural beauty\u2014perfect for an active outdoor lifestyle. Enjoy nearby nature trails and cycling routes, and benefit from quick access to major highways for stress-free country or city travel. The neighborhood aesthetic encourages leisurely strolls and sustainable living within a growing community of like-minded residents.",
   "bedrooms": 1,
   "bathrooms": 1,
   "size_sqm": 32,
   "property_type": "studio",
-  "city": "Chelm",
-  "neighborhood": "Dyrekcja",
+  "city": "Suwa\u0142ki",
+  "neighborhood": "P\u00f3\u0142nocne",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 375000,
+  "price": 386000,
   "key_features": [
-    "energy-efficient building",
-    "fenced yard",
-    "fitness center",
-    "private garden",
-    "security system"
+    "air conditioning",
+    "solar panels",
+    "storage room",
+    "fenced yard"
   ],
   "lifestyle_benefits": [
-    "cost-effective living",
-    "creative atmosphere",
-    "privacy and garden access",
-    "on-site amenities perfect for active lifestyles"
+    "extra energy independence for lower bills",
+    "best-in-class air quality and temperature control",
+    "izable grassy yard ideal for easy gardening or unwinding outdoors",
+    "secure community with emphasis on peaceful privacy"
   ],
-  "target_buyer": "Perfect for students, young professionals, or anyone seeking a modern starter retreat close to commuter links.",
-  "market_positioning": "Unique among local options for its blend of minimalist comfort, private garden access, and secure community\u2014all positioned for entry-level buyers and students pursuing an on-trend, peaceful Chelm lifestyle at an attractive price."
+  "target_buyer": "Ideal for retirees seeking sustainable, accessible, and manageable modern living in a quiet locale, with a door to outdoor recreation.",
+  "market_positioning": "This studio stands out among Suwa\u0142ki listings for its forward-thinking eco features, increased autonomy, and strong appeal to solitude-seeking buyers or couples enjoying a vibrant yet undemanding retirement in green surroundings."
 }

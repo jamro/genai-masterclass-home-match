@@ -1,32 +1,38 @@
 {
-  "title": "Eco-Chic Studio with Country Tranquility and Modern Comfort",
-  "description": "Discover sustainable living in this thoughtfully designed, wheelchair-accessible studio in Dyrekcja, Chelm. Offering 37 sqm of expertly used space, it features an open-plan sleeping and living area, a sleek modern bathroom, and access to a well-equipped laundry room. Residents can take advantage of a private onsite swimming pool, making relaxation attainable every day. Impeccable, move-in-ready interiors with eco-conscious finishes set this unique home apart.",
-  "neighborhood_description": "Dyrekcja is Chelm\u2019s hidden gem, blending rustic historic charm with positive energy and a youthful, creative vibe. Experience unbeatable highway access, perfect for commuters or those who enjoy spontaneous getaways. Shopping and dining options nearby mean modern convenience partners with the peaceful surroundings to create a balanced lifestyle.",
-  "bedrooms": 1,
+  "title": "Scandinavian Loft Retreat in Swidnica\u2019s Historic Heart",
+  "description": "Discover subtle elegance and airy volume in this thoughtfully designed loft, featuring three spacious bedrooms built under soaring ceilings. Open-concept living blends seamlessly with minimalist finishes, offering a welcoming canvas bathed in natural light. Enjoy effortless transitions to a tranquil outdoor space set up for al fresco dining and memorable barbecues with friends and family. Modern air conditioning ensures comfort in every season, while clever storage solutions and soft, birch-hued floors evoke the calm of Scandinavian living. Sleek, timeless, and family-forward: every element makes life simple but significant.",
+  "neighborhood_description": "Set within Swidnica\u2019s historic centre, the neighborhood exudes an eco-conscious and pet-friendly vibe. Walk along tree-lined streets to boutique shops, local caf\u00e9s, and green parks, making daily rambles enjoyable. Budget carefully on commute and errands with convenient public transport and swift highway access.",
+  "bedrooms": 3,
   "bathrooms": 1,
-  "size_sqm": 37,
-  "property_type": "studio",
-  "city": "Chelm",
-  "neighborhood": "Dyrekcja",
-  "urban_level": "low",
+  "size_sqm": 116,
+  "property_type": "loft",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
   "transport_options": [
+    "public transport",
     "highway"
   ],
-  "price": 429000,
+  "price": 1249000,
   "key_features": [
-    "wheelchair accessibility",
-    "swimming pool access",
-    "shopping and dining nearby",
-    "modern bathroom",
-    "laundry room",
-    "eco-friendly systems"
+    "expansive open living space",
+    "3 bedrooms",
+    "outdoor barbecue zone",
+    "outdoor dining area",
+    "air conditioning",
+    "minimalist Scandinavian finishes",
+    "modern kitchen",
+    "large windows with natural light",
+    "ample storage",
+    "secure entry requirement"
   ],
   "lifestyle_benefits": [
-    "perfect for remote work",
-    "quiet environment for focus",
-    "fast highway access for travel",
-    "green scenery for walking and inspiration"
+    "ideal for family gatherings",
+    "ample play and rest space for children",
+    "energy-efficient and bright living",
+    "outdoor space for pets and children",
+    "stress-free urban access"
   ],
-  "target_buyer": "Ideal for remote workers who crave tranquility without sacrificing style or amenities; an individual or young couple seeking flexible work-from-home options within a lively yet quiet neighborhood.",
-  "market_positioning": "A modern, accessible studio set apart by its eco-conscious focus and creative styling, competitive within its price segment and unrivalled among comparable homes for remote-enabled lifestyles in Chelm's charming Dyrekcja district."
+  "target_buyer": "Designed for families with children who value subtle sophistication, eco-friendly living, and a practical, bright home environment in a welcoming historic neighborhood.",
+  "market_positioning": "Uniquely blending the heritage feel of Swidnica\u2019s center with contemporary Nordic aesthetics, this loft offers outstanding indoor\u2013outdoor versatility for young or growing families seeking value and comfort in the city core. Rare to market, it stands out for size, airiness, and location-driven conveniences."
 }

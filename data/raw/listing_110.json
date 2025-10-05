@@ -1,34 +1,32 @@
 {
-  "title": "Spacious Duplex with Terrace in Swidnica\u2019s Historic Center \u2013 Perfect for Modern Family Life",
-  "description": "Discover this welcoming duplex situated in Swidnica\u2019s picturesque Historic Center. Boasting 5 versatile bedrooms and 3 modern bathrooms, this generously proportioned home spans 186 sqm, perfect for a contemporary family or those desiring ample space to live and work comfortably. Enjoy natural light-filled interiors with an open floor plan, a private terrace overlooking landscaped surroundings, and enhanced peace of mind with 24/7 security and a high-end security system. The residence offers a harmonious mix of classic charm with up-to-date conveniences, making it ideal for digital professionals and families seeking both style and practicality.",
-  "neighborhood_description": "Located footsteps from Swidnica\u2019s vibrant city center, the Historic Center neighborhood enjoys medium urban buzz with easy access to restaurants, local shops, parks, and landmarks. Efficient public transport links and nearby highway access ensure you're well-connected both in and out of the city while enjoying a charming, pet-friendly urban environment. The neighborhood buzzes with historic charm, giving you the best of city living without compromising on comfort.",
-  "bedrooms": 5,
-  "bathrooms": 3,
-  "size_sqm": 186,
-  "property_type": "duplex",
-  "city": "Swidnica",
-  "neighborhood": "Historic Center",
-  "urban_level": "medium",
+  "title": "Warm Family Home in Tranquil Lake District, Elk",
+  "description": "Discover the comfort of this spacious, modern house designed for family living in the heart of Lake District, Elk. With four bright bedrooms and two well-appointed bathrooms, the 180 sqm residence offers plenty of room for relaxation and togetherness. The house features a contemporary fa\u00e7ade and a seamless flow between indoor and outdoor spaces, perfect for creating lasting memories. Step outside to the inviting dining area or unwind in the shared sauna after a long day, all within a peaceful neighborhood setting.",
+  "neighborhood_description": "The Lake District is a growing and close-knit neighborhood bordered by natural landscapes, making it ideal for families who value peace and neighborly spirit. The area offers a true sense of community, supported by new and established families alike and convenient access to quality schools close by. Commute easily thanks to nearby highway links, while day-to-day necessities and recreational spots are within quick reach.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 180,
+  "property_type": "house",
+  "city": "Elk",
+  "neighborhood": "Lake District",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
     "highway"
   ],
-  "price": 1450000,
+  "price": 1380000,
   "key_features": [
-    "Landscaped surroundings",
-    "Terrace",
-    "Open floor plan",
-    "24/7 security",
-    "Reception desk",
-    "Security system"
+    "quiet neighborhood setting",
+    "shared sauna",
+    "outdoor dining area",
+    "modern fa\u00e7ade design",
+    "spacious layout",
+    "energy-efficient windows"
   ],
   "lifestyle_benefits": [
-    "Ample private workspace for remote working",
-    "Family-friendly and pet-friendly environment",
-    "Easy access to urban amenities and historic sites",
-    "Excellent public transport links",
-    "Proximity to vibrant city life with calming green spaces for relaxation"
+    "safe surroundings for children",
+    "space for gardening & hobbies",
+    "walkable access to nature",
+    "great potential for long-term renting"
   ],
-  "target_buyer": "Ideal for digital nomads and progressive families looking to blend work and family life in a well-connected, culturally enriched environment.",
-  "market_positioning": "This well-appointed duplex stands out in the local market for its sizable layout, central yet tranquil location, family-oriented design, and premium amenities perfectly tailored for remote work lifestyles."
+  "target_buyer": "Ideal for long-term renters or families seeking stability and room to grow within a supportive local community.",
+  "market_positioning": "This home offers excellent value for families prioritizing calm neighborhood energy, safety, and a blend of comfort and modern design, standing out in Xiaw\u2019s rental and ownership market for its balance of feature-rich living in a serene location."
 }

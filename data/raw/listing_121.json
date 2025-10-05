@@ -1,32 +1,34 @@
 {
-  "title": "Serene Scandinavian Loft with Artistic Vibe in Dyrekcja, Che\u0142m",
-  "description": "This minimalist, newly renovated loft offers an expansive open floor plan drenched in natural light. Crisp, white walls balance warm hardwood floors, creating a peaceful, clutter-free atmosphere perfect for creativity. Featuring one spacious bedroom and a sleek bathroom, the space is cooled by efficient air conditioning, designed for comfort with understated elegance.",
-  "neighborhood_description": "Nestled in the tranquil Dyrekcja neighborhood of Che\u0142m, renowned for its welcoming artistic community. The area is quiet and inspiring, with local studios and galleries easily accessible, and remains close to essential amenities including nearby schools. Ideal for those seeking inspiration away from the city's bustle yet wishing for easy connections by highway.",
+  "title": "Eco-Friendly Studio Haven with Shared Courtyard and Rooftop Deck in Karlikowo, Sopot",
+  "description": "Discover an inviting modern studio designed with sustainability in mind. Natural light pours through large windows, highlighting the airy living space complete with underfloor heating. The cozy layout seamlessly integrates your bedroom nook and open-plan living area, while stylish finishes offer both comfort and function. Step out to enjoy exclusive access to a shared rooftop deck, perfect for sunny days and social evenings.\n\nMake use of the beautifully landscaped shared courtyard, giving you a quiet escape from city energy. This thoughtfully planned studio measures 32 sqm. You benefit from secure private parking\u2014 a precious commodity in this desirable locale. Bathrooms are sleek and contemporary, and the space welcomes small pets, making it a delightful option for modern pet owners caring about their ecological footprint.",
+  "neighborhood_description": "Located in peaceful and pet-friendly Karlikowo, this studio sits at the crossroads of Sopot's relaxed suburban atmosphere and its vibrant city rhythm. The area is renowned for its tree-lined streets, parks ideal for pets and access to public transport and safe bike lines. Families and young professionals alike appreciate the proximity to reputable schools and the beach, all within a friendly urban community.",
   "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 56,
-  "property_type": "loft",
-  "city": "Che\u0142m",
-  "neighborhood": "Dyrekcja",
-  "urban_level": "low",
+  "size_sqm": 32,
+  "property_type": "studio",
+  "city": "Sopot",
+  "neighborhood": "Karlikowo",
+  "urban_level": "medium",
   "transport_options": [
-    "highway"
+    "public transport",
+    "bike lines"
   ],
-  "price": 995000,
+  "price": 485000,
   "key_features": [
-    "air conditioning",
-    "open floor plan",
-    "newly renovated interior",
-    "hardwood floors",
-    "natural light",
-    "spacious living area"
+    "shared courtyard",
+    "rooftop deck",
+    "underfloor heating",
+    "private parking space",
+    "eco-friendly materials",
+    "open-plan living"
   ],
   "lifestyle_benefits": [
-    "peaceful surroundings for focused work or creativity",
-    "space ideal for setting up a studio or workshop",
-    "uplifting aesthetic for mindful living",
-    "keen sense of community among local artists"
+    "pet-friendly living",
+    "commuting by bike or public transport",
+    "close to parks and beaches",
+    "secure parking",
+    "access to green spaces"
   ],
-  "target_buyer": "An artist, designer, or creative professional seeking a calm, inspirational living and working space away from urban distractions.",
-  "market_positioning": "A unique offering in the local market, this loft stands out for its contemporary, move-in-ready design with distinctive Scandinavian appeal. One of the few newly renovated open-plan spaces at this price point in Chelm, it caters specifically to creative individuals seeking both seclusion and artistic connection."
+  "target_buyer": "Ideal for eco-conscious singles or couples\u2014especially pet owners\u2014who value access to green areas and community spaces, with an eye for efficient and modern urban living.",
+  "market_positioning": "Uniquely positioned as an eco-friendly, pet-adapted studio in Sopot's sought-after Karlikowo district, blending sustainable features and modern convenience in a secure, mid-range price point."
 }

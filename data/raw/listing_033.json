@@ -1,31 +1,33 @@
 {
-  "title": "Comfortable Four-Bedroom Apartment Ideal for Students in Leszno's Lively Zatorze",
-  "description": "This bright and inviting 4-bedroom apartment offers a perfect blend of space and comfort. With spacious rooms, an ensuite bathroom, and a well-equipped kitchen, this apartment makes for an ideal home for a student group or a family seeking plenty of flexibility. Modern interiors pair nicely with useful amenities like ample bicycle storage and built-in recycling facilities. Featuring high ceilings and plenty of natural light, this apartment creates a welcoming atmosphere day and night.",
-  "neighborhood_description": "Located in the heart of Zatorze, this apartment benefits from reliable public transport connections and easy highway access, making daily commutes simple and swift. The neighborhood is known for its vibrant cultural vibe, dotted with theatres, cafes, and art spaces, and is within close proximity to Leszno\u2019s scenic waterfront for relaxing after classes or on weekends.",
-  "bedrooms": 4,
+  "title": "Contemporary Family Loft with Terrace in Ustka's Port District",
+  "description": "Enjoy spacious, modern living in this charming 3-bedroom loft located in Ustka's serene Port District. Spread across 109 square meters, this open-layout loft offers ample sunlight, high ceilings, and a welcoming ambiance perfect for family life. The airy main living area opens directly to a generous terrace\u2014ideal for relaxing or entertaining friends and family. A stylish shared courtyard and dedicated bicycle storage add both convenience and community flair to this warm home.",
+  "neighborhood_description": "Set in Port District, Ustka\u2019s up-and-coming tech and cultural hub, this family-oriented NEIGHBORHOOD harmonizes peace and progress. Residents benefit from secure bike lanes for everyone from commuters to leisure riders, and effortless highway access simplifies weekend adventures around the coast. Cultural venues and creative energy enrich local life, making this area especially welcoming to young families and tech professionals.",
+  "bedrooms": 3,
   "bathrooms": 1,
-  "size_sqm": 96,
-  "property_type": "apartment",
-  "city": "Leszno",
-  "neighborhood": "Zatorze",
-  "urban_level": "medium",
+  "size_sqm": 109,
+  "property_type": "loft",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "highway"
+    "highway",
+    "bike lines"
   ],
-  "price": 750000,
+  "price": 1140000,
   "key_features": [
-    "ensuite bathroom",
-    "bicycle storage",
-    "recycling facilities",
-    "fitted kitchen",
-    "spacious bedrooms"
+    "3 spacious bedrooms",
+    "large sunward terrace",
+    "open-concept living room and kitchen",
+    "shared courtyard for families",
+    "secure bicycle storage",
+    "extra-high ceilings"
   ],
   "lifestyle_benefits": [
-    "walkable to cultural hotspots",
-    "fast commutes for students",
-    "green spaces and walkways surviving city bustle"
+    "Safe outdoor spaces for children",
+    "Ideal for active, cycling families",
+    "Welcoming creative and tech community",
+    "Room to grow for first-time buyers"
   ],
-  "target_buyer": "University students sharing rental, or families with teenagers who appreciate good transport, proximity to campus, and vibrant local amenities.",
-  "market_positioning": "This apartment delivers sought-after size and city connectivity in Leszno, making it especially attractive for students who prioritize communal living, ease of transit, and access to cultural life at a competitive price."
+  "target_buyer": "First-time home buyers or young families eager to nurture their children in a creative, future-focused neighborhood with a community vibe.",
+  "market_positioning": "This unique loft appeals especially to families and up-and-coming professionals looking for affordable, future-proof space in one of Ustka\u2019s most dynamic, family-friendly areas with a tech-creative edge."
 }

@@ -1,32 +1,32 @@
 {
-  "title": "Investor-Ready Studio in Krosno Old Town with Private Parking",
-  "description": "Step into a modern, open-plan studio in the heart of Krosno\u2019s historic Old Town. The property features an inviting living space with an easy-flow open floor plan, sleek bathroom, and dedicated bedroom area. Enjoy year-round entertaining in your private outdoor dining space\u2014perfect for relaxed evenings. Smart motion-sensor exterior lights, an automatic gate, reception desk, and private parking space offer ideal comfort and security.",
-  "neighborhood_description": "Old Town boasts a unique blend of historical charm and a thriving eco-conscious community. Living here offers walking distance to cultural landmarks, charming cafes, and artisan shops\u2014a lifestyle at a gentler pace, balanced and thoughtfully curated. The area supports investors seeking potential in a growing cultural district with easy highway access for seamless travel.",
-  "bedrooms": 1,
+  "title": "Stylish 2-Bedroom Apartment with Terrace in Ustka's Port District",
+  "description": "Step into modern comfort in this luminous 58 sqm apartment designed for relaxed living and smart investment. With two cozy bedrooms, a thoughtfully designed bathroom, and chic hardwood floors throughout, the space is both stylish and functional. A bright living area flows seamlessly onto your private terrace\u2014perfect for entertaining, unwinding after work, or welcoming sea breezes. An included storage room answers all organizational needs, while contemporary finishes create a move-in-ready ambiance.",
+  "neighborhood_description": "The Port District of Ustka embodies an active and open-air coastal lifestyle, with scenic pedestrian paths, accessible bike routes, and a laid-back atmosphere. Well served by roadway connections for easy commuting, the area is increasingly attractive for families and professionals seeking balance between the sea, city access, and nearby schools. Enjoy the neighborly feel\u2014all with the S\u0142upia port and sandy beaches just minutes away.",
+  "bedrooms": 2,
   "bathrooms": 1,
-  "size_sqm": 38,
-  "property_type": "studio",
-  "city": "Krosno",
-  "neighborhood": "Old Town",
+  "size_sqm": 58,
+  "property_type": "apartment",
+  "city": "Ustka",
+  "neighborhood": "Port District",
   "urban_level": "low",
   "transport_options": [
-    "highway"
+    "highway",
+    "bike lines"
   ],
-  "price": 415000,
+  "price": 689000,
   "key_features": [
-    "motion-sensor exterior lights",
-    "reception desk",
-    "open floor plan",
-    "outdoor dining area",
-    "automatic gate",
-    "private parking space"
+    "hardwood floors",
+    "storage room",
+    "private terrace",
+    "bright open-plan living area",
+    "modern kitchen"
   ],
   "lifestyle_benefits": [
-    "steps from museums and eateries",
-    "ideal for short- or long-term rental",
-    "low-maintenance, lock-up-and-go investment",
-    "balanced, eco-minded environment"
+    "ideal for investment or rental income",
+    "evening walks by the sea",
+    "quiet neighborhood",
+    "outdoor lifestyle access"
   ],
-  "target_buyer": "Ideal for property investors seeking premium, low-hassle rental units in cultural districts attuned to the needs of young professionals.",
-  "market_positioning": "Positioned as a standout investment within Krosno\u2019s vibrant Old Town, this studio appeals ever more to buyers wanting secure, rentable assets and strong potential in a city that marries heritage appeal with modern lifestyle trends."
+  "target_buyer": "Property investors and young professionals seeking turnkey coastal living with high rental potential, or those looking to enjoy low-maintenance escapes by the sea.",
+  "market_positioning": "This property stands out as a premium opportunity in Ustka, leveraging its seaside character, strategic price point, and rental yield for those capitalizing on the rise in demand for contemporary coastal apartments in secondary Polish markets."
 }

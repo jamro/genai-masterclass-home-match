@@ -1,34 +1,34 @@
 {
-  "title": "Chic Loft Living Near Ustka\u2019s Relaxed Port District",
-  "description": "This stylish two-bedroom loft is the perfect blend of modern sophistication and laid-back charm. Bright, open-concept interiors provide flexible living, cooking, and entertaining zones alongside uniquely crafted finishes for comfort and flair. The unit features a smart design to maximize its spacious 77 sqm, complete with one sleek bathroom and impressive window views. Choose to unwind indoors or make the most of your dedicated barbecue area within a quiet, green neighborhood setting.",
-  "neighborhood_description": "Nestled within Ustka\u2019s Port District, you\u2019ll enjoy low-density living in a community conscious of eco values and green spaces. Life here flows at a softer pace: unwind on local bike paths, explore seaside walking trails, or simply relax in a friendly neighborhood where nature and calm are priorities. Quick highway access connects you fast\u2014to the offerings of central Ustka and the wider region.",
-  "bedrooms": 2,
+  "title": "Sleek Studio Living in Trendy Mokot\u00f3w \u2013 Perfect City Launchpad",
+  "description": "Discover this contemporary studio apartment, thoughtfully designed for modern living. The property boasts a spacious open-plan area with distinct sleeping and living zones, complemented by energy-efficient windows ensuring restful quiet and plenty of natural light. Built-in wardrobes maximize storage, while a streamlined kitchenette suits busy urban lifestyles. Stylish finishes and inviting neutral tones make this home both functional and comfortable.",
+  "neighborhood_description": "Located in vibrant Mokot\u00f3w, one of Warsaw\u2019s top neighborhoods for young professionals, the area combines lively city culture with a relaxed, pet-friendly ambiance. Enjoy swift access to green spaces, bike paths, and popular caf\u00e9s. Convenient public transport, highway links, and proximity to the airport make daily commutes and travel hassle-free.",
+  "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 77,
-  "property_type": "loft",
-  "city": "Ustka",
-  "neighborhood": "Port District",
-  "urban_level": "low",
+  "size_sqm": 31,
+  "property_type": "studio apartment",
+  "city": "Warsaw",
+  "neighborhood": "Mokot\u00f3w",
+  "urban_level": "high",
   "transport_options": [
+    "public transport",
+    "bike lines",
     "highway",
-    "bike lines"
+    "airport"
   ],
-  "price": 1220000,
+  "price": 467000,
   "key_features": [
-    "underground garage",
-    "dedicated barbecue zone",
-    "open-concept living area",
-    "full-length windows",
-    "quiet setting",
-    "private storage included"
+    "energy-efficient windows",
+    "built-in wardrobes",
+    "fitness center",
+    "24/7 security",
+    "video intercom"
   ],
   "lifestyle_benefits": [
-    "relaxed eco-friendly lifestyle",
-    "excellent for morning walks or bike rides",
-    "proximity to sea air and undeveloped greenery",
-    "community-oriented neighborhood",
-    "perfect perch to enjoy extended leisure time"
+    "pet-friendly environment",
+    "close to local parks and waterfront",
+    "relaxed urban pace",
+    "bike-friendly"
   ],
-  "target_buyer": "Retirees or young-at-heart professionals seeking tranquil living close to the seaside, who value peace and community but want contemporary, low-maintenance design.",
-  "market_positioning": "Positioned as a stylish, low-emissions dwelling for discerning buyers who seek a bright, hassle-free home in a relaxed coastal-town port setting. Rare to market in one of Ustka\u2019s most serene near-seafront urbanizing districts, this loft represents an excellent blend of comfort, lifestyle, and modern values."
+  "target_buyer": "Young professionals or expats seeking a smart, turnkey home base for city living and swift commutes to work, leisure, and travel.",
+  "market_positioning": "This property is attractively priced within the heart of Mokot\u00f3w, catering to buyers looking for a secure, low-maintenance residence with top-notch facilities and superb connections\u2014ideal for professionals embarking on their Warsaw journey."
 }

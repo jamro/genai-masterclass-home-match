@@ -1,33 +1,32 @@
 {
-  "title": "Charming Studio Retreat in Historic Debniki",
-  "description": "Discover authentic Krakow living in this thoughtfully designed studio nestled within the charismatic streets of Debniki. With 32 sqm of practical living space, the residence boasts a modern kitchen with contemporary finishes, charming original details, and abundant natural light. Enjoy the security of a well-managed building, where residents have access to a comfortable lounge and environmentally friendly solar-powered common areas.",
-  "neighborhood_description": "Debniki enchants with its peaceful suburban vibe and lush green surroundings, yet remains well-connected to the city center. Stroll along tranquil riverside paths or enjoy leisure moments in the parks that dot this historic district. Essential amenities, boutique shops, and celebrated cafes line nearby avenues in a blend of old-world atmosphere and contemporary convenience.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 32,
-  "property_type": "studio apartment",
-  "city": "Krakow",
-  "neighborhood": "Debniki",
-  "urban_level": "medium",
+  "title": "Cozy Duplex Retreat in Dyrekcja \u2013 Peaceful Family Living Near the Waterfront",
+  "description": "Nestled in the tranquil Dyrekcja neighborhood of Chelm, this inviting duplex offers spacious living across 143 sqm. With three generous bedrooms and three modern bathrooms, this home blends classic comfort with sustainable features for low-maintenance living. Enjoy rich hardwood floors, solar panels for efficiency, and accessible recycling facilities.",
+  "neighborhood_description": "Dyrekcja is a quiet, growing neighborhood characterized by its welcoming atmosphere and awareness of eco-friendly living. The area fosters an eco-conscious community, with like-minded neighbors and proximity to Chelm's charming waterfront, perfect for leisurely walks and fresh air. Convenient highway access ensures easy connections for any visitors or day trips alike.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 143,
+  "property_type": "duplex",
+  "city": "Chelm",
+  "neighborhood": "Dyrekcja",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
     "highway"
   ],
-  "price": 489000,
+  "price": 1350000,
   "key_features": [
-    "modern kitchen",
-    "proximity to public transport",
-    "24/7 security",
-    "residents' lounge",
-    "solar panels"
+    "hardwood floors",
+    "solar panels",
+    "recycling facilities",
+    "private garden",
+    "dedicated parking",
+    "separate guest suite"
   ],
   "lifestyle_benefits": [
-    "commute ease for professionals",
-    "green spaces for relaxation",
-    "peaceful historic neighborhood",
-    "modern comfort with energy-efficient amenities"
+    "adaptable ground floor for limited mobility",
+    "bright living spaces",
+    "quiet environment",
+    "opportunities for gardening or relaxation"
   ],
-  "target_buyer": "Ideal for young professionals or individuals relocating for work, seeking a serene historic enclave within reach of city offices and main transport routes.",
-  "market_positioning": "This studio offers a balance of historic charm and modern living in Krakow\u2019s desirable Debniki, responding to growing demand from urban professionals in search of comfort and sustainability at a competitive price."
+  "target_buyer": "Ideal for retirees seeking tranquil, eco-friendly living low in distractions and high in neighborhood camaraderie. This home would suit those who value sustainability, walkable amenities, and a peaceful setting near the waterfront.",
+  "market_positioning": "A stand-out option for retirees or downsizers within Chelm, this duplex uniquely combines environmental responsibility with practical comfort, offering advantages rare to find in this compact, green enclave."
 }

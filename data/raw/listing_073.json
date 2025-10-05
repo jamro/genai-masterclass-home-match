@@ -1,34 +1,34 @@
 {
-  "title": "Modern Artistic Duplex with Rooftop Sanctuary in Serene Suwa\u0142ki",
-  "description": "Bathed in natural light and enveloped by the crisp northern air, this innovative duplex invites you to discover urban comfort seamlessly merged with wild tranquility. Spacious interiors offer four adaptable bedrooms and two thoughtfully designed bathrooms across 180 square meters, striking the perfect harmony between creativity and tranquility. Architectural flourishes\u2014including a private rooftop deck and built-in wardrobes\u2014set the tone for inspired living. Take advantage of curated residents\u2019 amenities such as a sleek lounge, fitness center, and bespoke recycling facilities in a property designed for visionaries.",
-  "neighborhood_description": "Polnocne, Suwa\u0142ki\u2019s tranquil haven, nestles you on the edge of verdant parks and rolling hills, providing panoramic mountain views that coax relaxation and inspiration in equal measure. Family friendly paths, pet-welcoming zones, and neat playgrounds make this neighborhood ideal for those who savor outdoor pursuits and appreciate peaceful surroundings. Quick highway access knits you seamlessly to business hubs and far-flung retreats.",
-  "bedrooms": 4,
-  "bathrooms": 2,
-  "size_sqm": 180,
-  "property_type": "duplex",
-  "city": "Suwa\u0142ki",
-  "neighborhood": "Polnocne",
-  "urban_level": "low",
+  "title": "Luxurious Studio Oasis with Private Garden in Serene Radziwie",
+  "description": "Elegantly designed with retirees in mind, this beautifully renovated studio apartment offers exceptional comfort and style. The open-concept living area seamlessly blends with a modern kitchen featuring top-of-the-line appliances and smart storage solutions. Patio doors open onto a manicured private garden\u2014ideal for morning coffees or leisurely afternoons. Contemporary, light-filled interiors and enhanced security systems inspire peace of mind throughout.",
+  "neighborhood_description": "Radziwie charms with its peaceful bike-friendly streets and a relaxed pace rarely found so near robust urban conveniences. Seamless public transport connections and close proximity to major highways offer both tranquil daily living and unrivaled access to city attractions, medical facilities, and shopping.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 37,
+  "property_type": "studio apartment",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
   "transport_options": [
+    "public transport",
     "highway"
   ],
-  "price": 1399000,
+  "price": 435000,
   "key_features": [
-    "built-in wardrobes",
-    "rooftop deck",
-    "fitness center",
-    "recycling facilities",
-    "residents' lounge",
-    "private yard",
-    "high-performance insulation"
+    "modern kitchen",
+    "close to public transport",
+    "patio doors opening to garden",
+    "newly renovated interior",
+    "shared sauna",
+    "security system"
   ],
   "lifestyle_benefits": [
-    "inspiring work-from-home oasis",
-    "immediate proximity to mountain trails",
-    "pet-friendly landscaping",
-    "community gardening areas",
-    "fresh air, peace, and privacy"
+    "easy upkeep perfect for retirees",
+    "relaxed garden setting",
+    "wellness amenities nearby",
+    "peaceful bike paths at your doorstep",
+    "hassle-free city access"
   ],
-  "target_buyer": "Innovative entrepreneurs, creative professionals, and visionary movers who seek a rare blend of inspired work space, recreational freedom, and privacy outside city turbulence.",
-  "market_positioning": "This duplex sets itself apart in Suwa\u0142ki\u2019s premium suburban segment, catering distinctly to the nouveau business elite who crave flexibility\u2014offering space to dream up success but privacy and wellness to savor it far from the bustle."
+  "target_buyer": "Retirees or individuals seeking an elegant, low-maintenance sanctuary that offers comfort, sophisticated design, and effortless connectivity to the city.",
+  "market_positioning": "This property sets the benchmark for premium studio living in Radziwie, distinguished by 2024 renovations, upscale communal wellness offerings, and a uniquely private indoor-outdoor lifestyle\u2014appealing to discerning buyers who value quality, security, and tranquility."
 }

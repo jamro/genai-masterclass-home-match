@@ -1,35 +1,36 @@
 {
-  "title": "Modern Eco-Friendly Duplex with Landscaped Views in Vibrant Ursyn\u00f3w",
-  "description": "Discover an elegantly designed duplex offering five spacious bedrooms and two full bathrooms, perfectly blending modern finishes with eco-conscious living. With a well-balanced layout across two levels and approximately 160 sqm of living space, the home is flooded with natural light. Enjoy an open-plan living and dining area\u2014ideal for social gatherings\u2014with access to private greenery.",
-  "neighborhood_description": "Situated in the dynamic, trendy Ursyn\u00f3w district of Warsaw, this property puts vibrant local life at your doorstep while affording peace and tranquility. Close proximity to waterfront leisure spots, top-rated schools, and abundant shopping provides excellent convenience for young families and couples. Extensive green areas and cycling paths make this an inviting community to work, relax, and connect.",
-  "bedrooms": 5,
+  "title": "Artistic Oasis Duplex with Panoramic Windows in Kazimierz Dolny",
+  "description": "Step into a unique duplex where harmony blends with creativity in every corner. Generous living spaces bathe in light from panoramic windows, embracing views of lush greenery surrounding Rynek. The innovative open-plan layout brings together four spacious bedrooms, two full bathrooms, and a modern laundry room, all finished with artistic flourishes \u0013 perfect for nurturing inspiration. Energy-efficient solar panels add a thoughtful, eco-conscious edge to this idyllic home.",
+  "neighborhood_description": "Located in the enchanting heart of Kazimierz Dolny, Rynek offers a peaceful suburban vibe amid historic charm and vibrant culture. Immerse yourself in green surroundings, yet remain seamlessly connected with convenient highway access, carving effortless journeys across the region. The area subtly embraces forward-thinking technology while retaining its tranquil soul \u0013 ideal for modern lifestyles.",
+  "bedrooms": 4,
   "bathrooms": 2,
-  "size_sqm": 160,
+  "size_sqm": 154,
   "property_type": "duplex",
-  "city": "Warsaw",
-  "neighborhood": "Ursynow",
-  "urban_level": "medium",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
-    "highway",
-    "airport"
+    "highway"
   ],
-  "price": 1650000,
+  "price": 1550000,
   "key_features": [
-    "landscaped surroundings",
-    "well-maintained common areas",
-    "motion-sensor exterior lights",
-    "high-efficiency windows",
-    "modern fitted kitchen",
-    "ample in-unit storage"
+    "duplex layout",
+    "four spacious bedrooms",
+    "two modern bathrooms",
+    "laundry room",
+    "solar panels",
+    "panoramic windows",
+    "contemporary kitchen",
+    "fresh artistic finishes",
+    "private garden area"
   ],
   "lifestyle_benefits": [
-    "step outside to bike and running trails",
-    "short walk to scenic waterfront",
-    "livable community for young couples",
-    "energy-efficient features leading to reduced bills"
+    "abundant natural light for plant lovers and pets",
+    "ample airing and play space for dogs and cats",
+    "energy efficiency for peace of mind",
+    "quiet green surrounds for relaxation and mindful living",
+    "direct highway access for weekend adventures"
   ],
-  "target_buyer": "Designed for young eco-conscious couples looking for a vibrant urban lifestyle, with potential for travelers or families that value flexible space and a sustainable, low-maintenance environment.",
-  "market_positioning": "A rare opportunity in Warsaw's Ursyn\u00f3w district\u2014this duplex merges sustainability with contemporary comfort, ideal for urbanites seeking a stylish modern home within a lively, connected suburb near central transport links."
+  "target_buyer": "Artistic couples or families cherishing a peaceful, tech-forward retreat, especially pet owners wishing for private and lush outdoor space that inspires creativity and comfort.",
+  "market_positioning": "Rare artistic duplex, competitively priced and perfectly positioned for buyers seeking a harmonious blend of nature, sustainability, and spacious comfort amidst Kazimierz Dolny's celebrated backdrop."
 }

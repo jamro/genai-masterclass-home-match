@@ -1,33 +1,32 @@
 {
-  "title": "Elegant Four-Bedroom Oasis with Private Garden in Peaceful Dyrekcja",
-  "description": "Step inside this spacious and meticulously designed 4-bedroom apartment, where an open floor plan flows effortlessly into a sleek modern kitchen. Bathed in natural light, the interiors exude understated luxury and comfort. The property\u2019s exclusive highlight is a large, private garden\u2014a rare retreat for esteemed city dwellers, created with alfresco gatherings and quiet mornings in mind. Every element, from eco-conscious recycling facilities to advanced finishes, is built for elevated living.",
-  "neighborhood_description": "Nestled in Chelm\u2019s coveted Dyrekcja neighborhood, embrace a treasure of tranquility adorned with lush green spaces and fresh air. Renowned for its peaceful suburban vibe paired with subtle urban energy, Dyrekcja offers relaxation without seclusion. Connections to nearby highways keep the rhythm of city and escape easily balanced for busy professionals and families alike.",
-  "bedrooms": 4,
-  "bathrooms": 1,
-  "size_sqm": 115,
-  "property_type": "apartment",
-  "city": "Chelm",
-  "neighborhood": "Dyrekcja",
-  "urban_level": "low",
+  "title": "Designer Loft Retreat Close to Technology and Culture",
+  "description": "Indulge in modern luxury with this refined one-bedroom loft situated in the heart of Plock\u2019s coveted Radziwie neighborhood. Spanning a generous 75 sqm, the residence boasts double-height ceilings and elegant finishes throughout. The elevated living area flows seamlessly into a gourmet kitchen and bespoke dining space, supplemented by two thoughtfully appointed bathrooms, including a stylish guest bath.",
+  "neighborhood_description": "The Radziwie neighborhood blends a forward-thinking technology scene with everyday convenience. With renowned shopping and dining options within walking distance, as well as picturesque parks and family-friendly playgrounds nearby, this is a vibrant locale tailored for an active, inspired lifestyle.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 75,
+  "property_type": "loft",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
   "transport_options": [
+    "public transport",
     "highway"
   ],
-  "price": 1090000,
+  "price": 985000,
   "key_features": [
-    "modern kitchen",
-    "private garden",
-    "open floor plan",
-    "recycling facilities",
-    "large windows",
-    "designer lighting"
+    "rainwater collection system",
+    "stylish guest bathroom",
+    "shared sauna",
+    "expansive windows",
+    "premium built-in appliances"
   ],
   "lifestyle_benefits": [
-    "tranquility matched with connectivity",
-    "ideal space for private gatherings",
-    "close to nature, perfect for pet owners and families",
-    "seamless inside-outside living",
-    "prestigious address for entertaining"
+    "energy-efficiency for responsible living",
+    "luxurious communal amenities",
+    "prime spot for shopping and dining trips",
+    "close proximity to academic and tech hubs"
   ],
-  "target_buyer": "Perfect for luxury seekers and established professionals yearning for spacious surrounds, privacy, and effortless elegance in a serene setting.",
-  "market_positioning": "Distinguished among local offerings for its harmonious blend of grandeur and garden sanctuary, this property sets a new standard for exclusive low-urban living in Chelm."
+  "target_buyer": "Discerning students and young professionals looking for a luxurious and sustainable living environment close to university zones, technology firms, and vibrant city amenities.",
+  "market_positioning": "A distinctive premium loft positioned at the intersection of modern design, environmental consciousness, and unrivaled access to both local technology hubs and urban culture\u2014an exceptional investment in a rising district."
 }

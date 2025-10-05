@@ -1,36 +1,31 @@
 {
-  "title": "Turnkey Urban 2BR Apartment with Premium Amenities in Sopot Centrum",
-  "description": "Find the perfect balance of city pulse and restful living in this sleek 2-bedroom, 2-bathroom apartment located in the heart of Sopot Centrum. With a generous 67 sqm of contemporary space, this modern apartment emphasizes comfort and smart connectivity for urban dwellers. Stylish interior finishes paired with cutting-edge automation create an intuitive, low-maintenance home\u2014ideal for a fast-paced digital lifestyle. With west-facing windows drawing in natural light, the open-plan living area flows seamlessly to a private balcony, making entertaining and home office setups a breeze on any day.",
-  "neighborhood_description": "Sopot Centrum surrounds you with the vibrancy of artistic cafes, boutiques, and a thriving dining scene, yet neighbors are community-minded and the streets appealingly peaceful. Short walks take you to bustling Monte Cassino Street or sandy Baltic beaches, while frequent trams, bike routes, and highway links put the entire Tri-City within instant reach. This district is a favorite for those who want all amenities but value a relaxing local vibe.",
-  "bedrooms": 2,
+  "title": "Chic One-Bedroom Retreat in Zamosc's Trendy Stare Miasto",
+  "description": "Step into a beautifully renovated one-bedroom apartment designed for stylish living in the heart of Zamosc\u2019s historic Stare Miasto. At 52 sqm, you\u2019ll enjoy wood-accented interiors, a bright and airy bedroom, and a sleek, modern kitchen perfect for cooking or hosting friends. The thoughtful floorplan includes two spacious bathrooms, ideal for busy mornings or sharing with a guest. Serene windows overlook a quiet courtyard, offering relaxation right in the city.",
+  "neighborhood_description": "Stare Miasto pulses with youthful energy\u2014a hub for students, professionals, and creatives alike. The area is known for its trendy cafes, waterfront strolls, and dynamic community events, all within walking distance. Seamless connections to public transport and the nearby highway make getting around the city, or even out of town, a breeze.",
+  "bedrooms": 1,
   "bathrooms": 2,
-  "size_sqm": 67,
+  "size_sqm": 52,
   "property_type": "apartment",
-  "city": "Sopot",
-  "neighborhood": "Centrum",
-  "urban_level": "high",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines",
     "highway"
   ],
-  "price": 1210000,
+  "price": 769000,
   "key_features": [
-    "motion-sensor exterior lights",
-    "underground garage",
-    "balcony",
-    "swimming pool access",
-    "secure entry",
-    "elevator",
-    "double glazing",
-    "integrated appliances"
+    "quiet neighborhood setting",
+    "hardwood floors",
+    "private parking space",
+    "modern kitchen"
   ],
   "lifestyle_benefits": [
-    "Work-from-home ready wired internet",
-    "Walk to cafes, gyms & coworking spaces",
-    "Vibrant but peaceful surroundings",
-    "Dedicated parking for stress-free car owners"
+    "walkable to university campus",
+    "close to vibrant nightlife",
+    "easy connection to city transport",
+    "tailored for solo living or student sharing"
   ],
-  "target_buyer": "Ideal for young professionals or digital nomads seeking urban sophistication with reliable privacy\u2014in walking distance to Sopot\u2019s cultural, tech, and leisure hubs.",
-  "market_positioning": "This is a turnkey city-center apartment combining rarity (private parking rare for Centrum), excellent security, and lifestyle-rich amenities at a competitive price. Appeals to buyers who value easy mobility, convenience, and a young-at-heart community spirit."
+  "target_buyer": "Ideal for students or young professionals seeking a blend of historic atmosphere and contemporary comfort, with convenience at every corner.",
+  "market_positioning": "Unique in its price range, this apartment offers premium finishes and unbeatable proximity to Zamosc nightlife and academic life. A smart choice in Stare Miasto for buyers prioritizing location, style, and easy commuting."
 }

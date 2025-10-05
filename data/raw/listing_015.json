@@ -1,35 +1,38 @@
 {
-  "title": "Eco-Modern House with Garage in Central Gdansk",
-  "description": "Step into this spacious, eco-conscious family house nestled within Gdansk\u2019s vibrant Srodmiescie district. Boasting six fully soundproofed bedrooms and two modern bathrooms, this 254 sqm energy-efficient home harmoniously blends comfort with sustainability. Ample dining area with natural light, innovative heated driveway, and an underground garage set the contemporary tone for high-urban life. The property\u2019s smart layout offers dedicated workspaces perfect for home offices or creative pursuits.",
-  "neighborhood_description": "Live just steps from charming parks, leafy playgrounds, and essential city amenities. Srodmiescie\u2019s well-connected public transport network and extensive bike lanes make getting around effortless for professionals and families alike. Enjoy close proximity to reputable schools, diverse caf\u00e9s, and cultural attractions at the city center\u2019s pulse.",
-  "bedrooms": 6,
-  "bathrooms": 2,
-  "size_sqm": 254,
-  "property_type": "house",
-  "city": "Gdansk",
-  "neighborhood": "Srodmiescie",
-  "urban_level": "high",
+  "title": "Elegant Studio Oasis with Fireplace in Polesie's Eco-Refined Setting",
+  "description": "Experience refined comfort in this thoughtfully-designed studio blending premium finishes with energy efficiency. Beautiful parquet floors lead into a bright living space featuring a cozy modern fireplace, serene private balcony, and expert climate control. The kitchenette offers seamless functionality. Ample storage solutions and a luxurious bathroom complete the premium interiors. Private parking ensures everyday convenience.",
+  "neighborhood_description": "Nestled in the desirable Polesie neighborhood, this property enjoys a peaceful locale near Lodz's vibrant business district. The area radiates an eco-conscious, pet-friendly atmosphere with abundant green areas and quiet walking paths. Residents benefit from excellent connectivity, all while savoring the serenity of low-traffic streets and a thriving local community.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio apartment",
+  "city": "Lodz",
+  "neighborhood": "Polesie",
+  "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines"
+    "bike lines",
+    "highway"
   ],
-  "price": 1995000,
+  "price": 462000,
   "key_features": [
-    "underground garage",
     "energy-efficient building",
-    "heated driveway",
-    "soundproof walls",
-    "spacious dining area with natural light",
-    "multiple home office possibilities",
-    "modern fully equipped kitchen"
+    "private parking space",
+    "fireplace",
+    "air conditioning",
+    "modern kitchenette",
+    "ample storage",
+    "luxurious bathroom",
+    "private balcony",
+    "recycling facilities"
   ],
   "lifestyle_benefits": [
-    "prime central location for easy commutes",
-    "close to urban parks for relaxation",
-    "spaces tailored for remote work and digital relaxation",
-    "eco-friendly construction lowers running costs",
-    "walk or cycle everywhere \u2013 freedom from daily driving"
+    "low-maintenance living",
+    "perfect for downsizing",
+    "walkable to amenities",
+    "lush, peaceful surroundings",
+    "pet-friendly community"
   ],
-  "target_buyer": "Ideal for remote-working families or digital nomads seeking sustainable city living with room for both family and entrepreneurship.",
-  "market_positioning": "A rare offering in Gdansk\u2019s booming premium urban segment, this house outshines typical flats with unrivaled eco-design, flexible space, and luxe family- or co-living options at a highly competitive-city price."
+  "target_buyer": "Ideal for retirees seeking an elegant, easy-care city residence with tranquil surroundings, premium amenities, and accessible urban conveniences.",
+  "market_positioning": "Positioned as a rare opportunity in Polesie, this studio stands out by offering sophisticated amenities, best-in-class energy efficiency, and seamless connectivity\u2014providing discerning buyers a luxurious yet practical Lodz lifestyle."
 }

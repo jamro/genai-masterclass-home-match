@@ -1,37 +1,32 @@
 {
-  "title": "Eco-Luxe Family Retreat with Modern Accents and Mountain Views",
-  "description": "Step into an architectural masterpiece that combines modern design with the soothing tranquility of nature. This exclusive five-bedroom, three-bathroom house offers 287-square meters of meticulously crafted interior, boasting a sleek fa\u00e7ade and cutting-edge lighting systems. The spacious layout includes a grand living area with a contemporary fireplace and an elegant home office, perfect for both relaxing and working from home. Large windows throughout flood the home with natural light and frame breathtaking mountain vistas.",
-  "neighborhood_description": "Nestled in the peaceful Suburb neighborhood of Nowy S\u0105cz, this home is surrounded by lush parks and family-friendly playgrounds, creating a perfect environment for both relaxation and recreation. Breathtaking mountain views provide a picturesque daily backdrop. Despite its tranquil setting, the area maintains a trendy, dynamic atmosphere ideal for modern families who appreciate both serenity and style.",
-  "bedrooms": 5,
+  "title": "Minimalist Duplex in the Heart of Historic Kazimierz Dolny",
+  "description": "Step inside this sunlit, Scandinavian-style duplex that offers timeless simplicity and everyday warmth. The thoughtfully designed 135 sqm layout features a seamless flow between the airy living space\u2014with a refined fireplace as its focal point\u2014and a modern, accessible kitchen. Three serene bedrooms and three bathrooms ensure comfort and privacy for residents and visitors alike. Architectural details reflect both traditional craftsmanship and calming minimalist ethos, offering the perfect blend of style and convenience in every corner.",
+  "neighborhood_description": "Nestled in Rynek, amidst the cobblestone charm of Kazimierz Dolny, this duplex enjoys proximity to the town's iconic main square. Embraced by a quiet atmosphere and abundant historic allure, residents benefit from peaceful surroundings and excellent highway access\u2014ideal for commuters. Enjoy tranquil walks amid historic facades while savoring all the advantages of this picturesque riverside haven.",
+  "bedrooms": 3,
   "bathrooms": 3,
-  "size_sqm": 287,
-  "property_type": "house",
-  "city": "Nowy S\u0105cz",
-  "neighborhood": "Suburb",
+  "size_sqm": 135,
+  "property_type": "duplex",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 1550000,
+  "price": 1480000,
   "key_features": [
-    "5 spacious bedrooms",
-    "3 luxuriously appointed bathrooms",
-    "Modern fa\u00e7ade design",
-    "State-of-the-art lighting system",
-    "Cosy fireplace in the living room",
-    "Dedicated home office space",
-    "Elegant co-working area",
-    "Energy-efficient appliances",
-    "Large private garden",
-    "Panoramic mountain views"
+    "wheelchair accessibility",
+    "fenced yard",
+    "fireplace",
+    "well-maintained common areas",
+    "dedicated parking space"
   ],
   "lifestyle_benefits": [
-    "Low environmental impact materials and systems",
-    "Breathtaking nature access right out the door",
-    "Family-centric space layouts",
-    "Peaceful, low-urban environment",
-    "Room for gardening and outdoor yoga retreats"
+    "peaceful work-from-home environment",
+    "quick highway access for commuters",
+    "historic residential ambiance",
+    "privacy with secured yard",
+    "minimalist Scandinavian interiors"
   ],
-  "target_buyer": "Eco-conscious buyers and modern families seeking a premium lifestyle with plenty of comfort and excellent spaces for home-based work and living in harmony with nature.",
-  "market_positioning": "Positioned at the top tier of the local market, this property is a rare fusion of luxury, adaptation for climate wisdom, and elegant design. It outshines traditional listings with its sustainability, premium finishes, and dedication to lifestyle quality, making it ideal for those who demand the best in surroundings, innovation, and environmental responsibility."
+  "target_buyer": "Ideally suited for professionals seeking an elegant, workspace-ready residence outside the urban bustle, offering comfort, accessibility, and privacy.",
+  "market_positioning": "An exclusive, move-in ready duplex that harmonizes Scandinavian design sensibilities with the subtle, enduring beauty of Kazimierz Dolny\u2019s storied core. Perfectly positions for discerning buyers prioritizing work-life balance, accessibility, and heritage appeal."
 }

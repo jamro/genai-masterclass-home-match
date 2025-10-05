@@ -1,10 +1,10 @@
 {
-  "title": "Modern Loft Investment Opportunity in Nowy Sacz Suburb",
-  "description": "Embrace spacious living in this stylish loft featuring 2 comfortable bedrooms and a sleek bathroom across 81 sqm of thoughtfully designed space. With towering windows, open-concept living, and high industrial ceilings, this home seamlessly blends modern comforts with distinctive architectural character. Enjoy amenities ideal for contemporary lifestyles: pets are welcome, residents have access to secure storage rooms, co-working space with high-speed internet, and a fitness center all on-site.",
-  "neighborhood_description": "Located in the Suburb neighborhood of Nowy Sacz, this property benefits from vibrant local life as well as the serenity of nearby parks and playgrounds\u2014perfect for active relaxation. Despite its low urban level, the area exudes historic charm and continues to thrive with lively community energy. Quick highway access ensures easy commutes to the city center and beyond while maintaining a peaceful residential ambiance.",
+  "title": "Eco-Modern Loft with Private Garden in Green Suburb of Nowy Sacz",
+  "description": "Experience modern green living in this distinctive 2-bedroom, 2-bathroom loft spanning 112 sqm. The property enjoys abundant natural light, lofty ceilings, and a statement modern fa\u00e7ade. Thoughtfully designed, it features ample dedicated storage, a welcoming guest bathroom, and opens onto a private garden - your oasis for outdoor enjoyment and relaxation.",
+  "neighborhood_description": "Nestled in the tranquil suburb of Nowy Sacz, you\u2019ll enjoy green surroundings, scenic walking routes, and a thriving eco-conscious community. The neighborhood is known for its peaceful environment, focus on sustainability, and bike-friendly paths that allow you to explore the beautiful countryside. Despite the semi-rural setting, direct access to highways makes commuting feel effortless.",
   "bedrooms": 2,
-  "bathrooms": 1,
-  "size_sqm": 81,
+  "bathrooms": 2,
+  "size_sqm": 112,
   "property_type": "loft",
   "city": "Nowy Sacz",
   "neighborhood": "Suburb",
@@ -12,22 +12,21 @@
   "transport_options": [
     "highway"
   ],
-  "price": 1085000,
+  "price": 1045000,
   "key_features": [
-    "pets allowed",
-    "co-working space",
-    "reception desk",
-    "fitness center",
-    "outdoor dining area",
-    "storage room"
+    "modern fa\u00e7ade design",
+    "private garden",
+    "children's playground area",
+    "storage room",
+    "guest bathroom"
   ],
   "lifestyle_benefits": [
-    "ideal for working from home and networking",
-    "opportunities for active leisure and outdoor dining",
-    "investment-friendly layout and location",
-    "flexible usage as rental or personal residence",
-    "secure space with reception services"
+    "plenty of green space for fresh air and recreation",
+    "ideal cycling and outdoor lifestyle",
+    "connects effortlessly to city and countryside by highway",
+    "family- and pet-friendly atmosphere",
+    "excellent space for remote working or creative pursuits"
   ],
-  "target_buyer": "Suited for ambitious young professionals and property investors looking for great living space with value-growth potential, or buyers seeking a credible, low-upkeep rental property.",
-  "market_positioning": "Stands out among local inventory as a turn-key opportunity for modern investors: maximizing rental appeal, blending personal comfort and strong asset fundamentals, positioned for both steady income or future resale in a rejuvenating district with increasing demand."
+  "target_buyer": "Perfect for expats and eco-conscious professionals with children or pets seeking the creativity of a loft, green surroundings, and modern comfort within an international-friendly community.",
+  "market_positioning": "This rare loft combines stand-out contemporary design and private outdoor space, positioning it as one of the most forward-thinking and distinctive residences in Nowy Sacz\u2019s suburban real estate market."
 }

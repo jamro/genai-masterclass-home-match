@@ -1,34 +1,30 @@
 {
-  "title": "Historic 4-Bedroom Apartment Embracing Pet-Friendly Charm in Old Town Zamo\u015b\u0107",
-  "description": "Live amid timeless beauty in this spacious 4-bedroom apartment located in a meticulously restored building in Zamo\u015b\u0107\u2019s Stare Miasto. The apartment sunbathes in natural light, complemented by a modern fa\u00e7ade that stands out among historic architecture. A large, inviting living area provides comfort and versatility\u2014perfect for families and their companions\u2014and is highlighted by a luxurious walk-in closet. A reliable reception desk and steel-secured video intercom assure convenience and peace of mind.",
-  "neighborhood_description": "Stare Miasto blends cobbled streets and vibrant plazas with a buzz of innovation, making it both a tech-savvy and pet-loving community. Daily strolls in historic parks meet modern caf\u00e9s, ensuring culture, comfort, and ample space to enjoy with pets. Proximity to transit hubs and main highways gives residents connectivity without compromising the old-world charisma of Zamo\u015b\u0107\u2019s famous Old Town.",
-  "bedrooms": 4,
+  "title": "Minimalist 2-Bedroom Sanctuary in Historic Stare Miasto",
+  "description": "Discover clean lines and natural light in this 2-bedroom Scandinavian-inspired apartment. With 61sqm of thoughtfully designed space, it invites both comfort and calm. Experience open living and a serene, functional layout complemented by modern detailing throughout. Subtle finishes ensure the apartment remains versatile for every chapter of life.",
+  "neighborhood_description": "Set amid the cobbled beauty of Stare Miasto in Zamosc, this locale showcases historical charm and a vibrant yet peaceful atmosphere. The neighborhood is known for its eco-conscious values and friendly, close-knit residents. Excellent connections to public transport and the highway make commuting easy while you savor the local culture and green spaces.",
+  "bedrooms": 2,
   "bathrooms": 1,
-  "size_sqm": 108,
+  "size_sqm": 61,
   "property_type": "apartment",
-  "city": "Zamo\u015b\u0107",
+  "city": "Zamosc",
   "neighborhood": "Stare Miasto",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
     "highway"
   ],
-  "price": 975000,
+  "price": 685000,
   "key_features": [
-    "walk-in closet",
-    "reception desk",
+    "shared sauna",
     "video intercom",
-    "modern fa\u00e7ade design",
-    "spacious living area",
-    "abundant natural light",
-    "secure access"
+    "motion-sensor exterior lights"
   ],
   "lifestyle_benefits": [
-    "ideal for pet owners\u2014walking paths nearby",
-    "historic Old Town ambiance with modern touches",
-    "close-knit community atmosphere",
-    "easy access to transport for city escapes"
+    "peace-of-mind safety features",
+    "stress-free connectivity for car or commuter",
+    "wellness amenities supporting healthy routines",
+    "stable, long-term leasing options"
   ],
-  "target_buyer": "Perfect for pet-loving families or professionals who cherish both urban comfort and a lively, historic neighborhood steeped in culture. Especially suited to buyers wanting a secure, modern-home experience that embraces pets.",
-  "market_positioning": "A unique offering in Zamo\u015b\u0107, this apartment combines rare historic prestige with contemporary conveniences, occupying a sought-after position for those valuing a vibrant, pet-friendly lifestyle in Old Town's core. Solidly priced for its size, location, and features, appealing especially to buyers upgrading into the charm and energy of the city heart."
+  "target_buyer": "Ideal for individuals, couples, or small families seeking a long-term rental with an emphasis on stability, wellness, and modern simplicity in a historic setting.",
+  "market_positioning": "Competitive offering in Zamosc's favored Stare Miasto district: standout wellness amenities and genuine security combine with efficient transport access for those drawn to minimalist Scandinavian living and a reliable long-term home base."
 }

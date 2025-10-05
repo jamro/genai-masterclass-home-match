@@ -1,33 +1,34 @@
 {
-  "title": "Eco-Chic Loft Living Near the Vistula Waterfront in Radziwie",
-  "description": "Embrace inspiring modern loft living in this spacious, open-concept property boasting 1 bright bedroom and a contemporary bathroom. Flooded with natural light, the dining and living area features a flexible setup ideal for creativity and relaxing mornings. Efficient underfloor heating and oversized windows pair comfort with sustainability, complemented by a smartly designed home office alcove. This loft delivers a tranquil space for the eco-conscious entrepreneur or urban dweller.",
-  "neighborhood_description": "Nestled in Plock\u2019s up-and-coming Radziwie area, this loft is located in a peaceful neighborhood known for its quiet atmosphere and proximity to the scenic Vistula riverfront. Residents will enjoy easy access to green spaces as well as being part of a growing, revitalized community. With convenient links to public transport and the highway, reaching the city center or regional hubs is effortless.",
+  "title": "Bright Studio Retreat in Family-Friendly Krzyki",
+  "description": "This stellar studio apartment blends cozy living with modern conveniences, making it an excellent home for first-time buyers. With a well-planned 32 sqm of space, this ground-floor property offers a thoughtful layout including a light-filled living and bedroom area, a chic kitchenette, and a card-access bathroom with stylish finishes. Benefit from upgraded underfloor heating and designated bicycle storage, echoing a practical and thoughtful design.",
+  "neighborhood_description": "Located in the beloved Krzyki district of Wroclaw, this apartment is surrounded by welcoming parks, community playgrounds, and plenty of local caf\u00e9s and shopping options. Families and professionals alike appreciate Krzyki's vibrant yet community-focused atmosphere\u2014with schools, green spaces, and convenient public transport all just a stroll away.",
   "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 62,
-  "property_type": "loft",
-  "city": "Plock",
-  "neighborhood": "Radziwie",
+  "size_sqm": 32,
+  "property_type": "studio",
+  "city": "Wroclaw",
+  "neighborhood": "Krzyki",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
+    "bike lines",
     "highway"
   ],
-  "price": 1245000,
+  "price": 415000,
   "key_features": [
-    "generous open-plan living",
-    "home office nook",
-    "dining area with natural light",
-    "shared sauna",
-    "bespoke storage room",
-    "energy-efficient underfloor heating"
+    "shopping and dining nearby",
+    "underfloor heating",
+    "bicycle storage",
+    "EV charging station ready",
+    "modern kitchenette",
+    "ground floor access"
   ],
   "lifestyle_benefits": [
-    "ideal for creative professionals",
-    "healthy, walkable neighborhood",
-    "steps to waterfront walks and relaxation",
-    "eco-minded features for sustainable living"
+    "strolls to parks and playgrounds",
+    "close-knit, family-oriented neighborhood",
+    "easy commutes via public transport or major roads",
+    "community fitness and cultural events"
   ],
-  "target_buyer": "Forward-thinking entrepreneurs and modern professionals seeking sustainability, a spacious home office, and enjoyable downtime close to nature and transport.",
-  "market_positioning": "A unique opportunity in Radziwie to secure a rare, eco-oriented loft designed for the next generation of entrepreneurs\u2014balancing comfort, working from home, and lifestyle pursuits, in a prospering waterside neighborhood with great connectivity."
+  "target_buyer": "Ideal for single professionals or couples looking to make their first real estate purchase in a welcoming, family-friendly neighborhood.",
+  "market_positioning": "This apartment stands out as an ideal starter home in Krzyki\u2014combining affordability, modern features, and proximity to essential amenities within one of Wroclaw's most sought-after family areas."
 }

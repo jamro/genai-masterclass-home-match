@@ -1,33 +1,33 @@
 {
-  "title": "Chic Studio Haven in Swidnica\u2019s Storied Center",
-  "description": "Step into bohemian living in this sunlit studio apartment nestled in Swidnica's treasured Historic Center. Thoughtfully designed, this 36 sqm retreat features an inviting open layout, a modern kitchen corner, ample built-in wardrobes, and a stylish bathroom bathed in soft natural light. Elegant touches combine with sustainability thanks to on-site solar panels and access to an enchanting, shared courtyard\u2014the perfect canvas for work and relaxation.",
-  "neighborhood_description": "Experience the unique blend of centuries-old architecture and modern flair in the heart of Swidnica. The Historic Center hums with artisanal coffee shops, co-working hubs, and pet-friendly parks. Transport connections\u2014including efficient public transport and easy highway access\u2014place Lower Silesia\u2019s jewels within easy reach.",
+  "title": "Eco-Modern Studio With Mountain Views and Private Yard in D\u0105b",
+  "description": "Embrace sustainable living in this newly renovated eco-conscious studio situated in D\u0105b, Katowice. This thoughtfully designed studio offers a bright open-plan living and bedroom space, one stylish bathroom, and a total of 36 sqm. Enjoy fresh air and green living with your own fenced yard and modern solar panels, keeping both your utility bills and environmental footprint low. Complete with private, dedicated parking for maximum convenience\u2014with your pet's access and well-being in mind.",
+  "neighborhood_description": "Nestled in D\u0105b's vibrant urban setting, you\u2019ll savor a quiet atmosphere typically found further from the city center while still benefiting from easy public transport, direct highway access, and scenic bike paths for weekend exploration. Stunning mountain views set a calming backdrop to this peaceful community, ideal for nature lovers and pet owners alike.",
   "bedrooms": 1,
   "bathrooms": 1,
   "size_sqm": 36,
   "property_type": "studio",
-  "city": "Swidnica",
-  "neighborhood": "Historic Center",
-  "urban_level": "medium",
+  "city": "Katowice",
+  "neighborhood": "D\u0105b",
+  "urban_level": "high",
   "transport_options": [
     "public transport",
+    "bike lines",
     "highway"
   ],
-  "price": 434000,
+  "price": 412000,
   "key_features": [
-    "built-in wardrobes",
-    "shared courtyard",
+    "newly renovated interior",
     "solar panels",
-    "residents' lounge",
-    "elevator"
+    "fenced yard",
+    "private parking space",
+    "ground-floor direct garden access"
   ],
   "lifestyle_benefits": [
-    "flexible work-from-home environments",
-    "supportive digital nomad community",
-    "eco-conscious features",
-    "vibrant cultural scene",
-    "pet-friendly district"
+    "pet-friendly environment",
+    "easy outdoor access for city walks",
+    "quiet space for relaxation and remote work",
+    "mountain views nearby"
   ],
-  "target_buyer": "Perfect for digital nomads and creatives seeking inspiration and community, plus effortless access to Swidnica\u2019s growing cultural hub.",
-  "market_positioning": "An exclusive, eco-smart studio situated at the crossroads of history and innovation\u2014ideal for young professionals or nomads seeking move-in ready security and urban-cool ambiance."
+  "target_buyer": "Urban professionals or couples who are eco-conscious, pet owners, and value easy access to green spaces and city essentials within a sustainable modern home.",
+  "market_positioning": "This studio blends modern eco-features rarely found in compact properties with optimal access to urban transport and lifestyle amenities. Pet owners and green-conscious buyers will find its private yard and sustainable upgrades a unique standout in the Katowice apartment market."
 }

@@ -1,33 +1,32 @@
 {
-  "title": "Eco-Chic Mountain Duplex with Home Office in Koscielisko",
-  "description": "Welcome to this modern duplex boasting eco-conscious features and mountain-inspired design. With 3 airy bedrooms, 2 sleek bathrooms, and a flexible home office, this 136 sqm property is tailored for comfort and efficiency. Enjoy abundant natural light, contemporary finishes, and seamless indoor-outdoor flow \u2013 your escape in the pristine greenery of Koscielisko.",
-  "neighborhood_description": "Nestled in Koscielisko, Zakopane\u2019s tranquil, low-density western neighborhood, you\u2019re steps from hiking trails and panoramic views of the Tatras. Families and professionals will love the balanced pace amid great access to schools, local culture, and essential amenities, while the close connection to the main highway ensures you\u2019re never far from urban convenience.",
-  "bedrooms": 3,
-  "bathrooms": 2,
-  "size_sqm": 136,
-  "property_type": "duplex",
-  "city": "Zakopane",
-  "neighborhood": "Koscielisko",
-  "urban_level": "low",
+  "title": "Bright Minimalist Studio Near Leszno\u2019s Business District",
+  "description": "Discover this stylish studio apartment in a new modern building in Zatorze, Leszno. The open-plan living space is defined by clean Scandinavian lines, muted colors, and clever storage solutions. Well-appointed with an ensuite bathroom and a dedicated laundry area, this studio makes excellent use of its 35 sqm floor space. Direct access to a small outdoor dining area adds a natural light and a calming retreat vibe, perfect for minimalist living.",
+  "neighborhood_description": "Zatorze is a lively, well-developed district close to Leszno\u2019s rising business and cultural centers. The area enjoys recent modern developments and caters to young professionals with quick connections to the vibrant city core via public transport and easy highway access. Coffee shops, art venues, and everyday amenities are within walking distance, supporting a stylish, urban lifestyle.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 35,
+  "property_type": "studio apartment",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
   "transport_options": [
+    "public transport",
     "highway"
   ],
-  "price": 1590000,
+  "price": 369000,
   "key_features": [
-    "24/7 security",
-    "EV charging station",
-    "private parking space",
+    "outdoor dining area",
+    "ensuite bathroom",
     "laundry room",
-    "elevator access",
-    "integrated home office space"
+    "modern minimalist design",
+    "newly built property"
   ],
   "lifestyle_benefits": [
-    "Quiet surroundings for remote work",
-    "Eco-friendly living in the Tatra foothills",
-    "Healthy outdoor lifestyle",
-    "Quick highway access to town and business hubs",
-    "Space for work-life balance"
+    "ideal for first-time ownership",
+    "low maintenance and energy efficient",
+    "walkable to amenities and culture",
+    "easy daily commute"
   ],
-  "target_buyer": "Ideal for professionals and families relocating for work seeking a peaceful, modern home that supports sustainable living, with room for a home office.",
-  "market_positioning": "This property stands out in Zakopane\u2019s market for its blend of sustainable amenities, work-from-home flexibility, security, and easy access to both nature and major transport links."
+  "target_buyer": "Perfect for first-time buyers or young professionals seeking functional space and minimalist design close to the heart of Leszno.",
+  "market_positioning": "A competitively priced entry point into Zatorze\u2019s newly developed market, balancing style, convenience, and affordability."
 }

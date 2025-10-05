@@ -1,32 +1,34 @@
 {
-  "title": "Serene Scandinavian Studio with Private Balcony in Radziwie",
-  "description": "Step into tranquility with this minimalist Scandinavian studio, offering 36 sqm of carefully curated comfort. The bright open-plan living space extends seamlessly onto a large private balcony\u2014ideal for peaceful mornings or afternoon tea. Smart motion-sensor exterior lights bring added security and ease while dedicated storage keeps your life tidy. Enjoy the practicality of a private parking space and convenient access to your own storage locker.",
-  "neighborhood_description": "Situated in the charming Radziwie neighborhood of Plock, this studio is nestled in a well-connected locale\u2014public transport and highway options are just moments away. The broader area boasts a cultural atmosphere, offering cafes, local arts, and river walks for a balanced, inspiring lifestyle. Convenience is at your doorstep while still maintaining a sense of retreat from the city bustle.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 36,
-  "property_type": "studio",
-  "city": "Plock",
-  "neighborhood": "Radziwie",
+  "title": "Eco-Modern Family Oasis in Trendy Brynow with Green Touches",
+  "description": "Discover this spacious, thoughtfully designed 5-bedroom, 3-bathroom house nestled in the heart of Brynow, Katowice. The home boasts generous living areas totaling 219 sqm, blending modern architecture with sustainable touches. Natural light floods through large windows, illuminating high quality finishes and an airy, open-plan layout. Private outdoor space promises a safe haven for pets and family gatherings alike.",
+  "neighborhood_description": "Brynow is a vibrant, growing neighborhood well-known for its amenity-rich local lifestyle and proximity to fresh green spaces, some just a stroll from tranquil waterfronts. With reliable public transport and new bike lines connecting you seamlessly to both the center and lush parks, staying mobile and eco-friendly is easy. Enjoy lively restaurants, shops, and the calm of a peaceful street backdrop.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 219,
+  "property_type": "house",
+  "city": "Katowice",
+  "neighborhood": "Brynow",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "highway"
+    "bike lines"
   ],
-  "price": 410000,
+  "price": 1865000,
   "key_features": [
-    "balcony",
-    "motion-sensor exterior lights",
-    "storage locker",
-    "private parking space",
-    "secure entry"
+    "ensuite bathroom",
+    "security system",
+    "fitness center",
+    "shopping and dining nearby",
+    "EV charging station",
+    "bicycle storage"
   ],
   "lifestyle_benefits": [
-    "peaceful, easy-care living",
-    "ideal for low-maintenance lifestyle",
-    "movement-friendly senior amenities",
-    "terrace for relaxation"
+    "fenced outdoor area for pets",
+    "easy bike commutes",
+    "health and wellness amenities",
+    "walkable lifestyle",
+    "neighborhood parks nearby"
   ],
-  "target_buyer": "Perfectly designed for retirees seeking a safe, elegantly modern, and low-maintenance home with strong transport links and everyday conveniences nearby.",
-  "market_positioning": "Well-priced, affordable entry to minimalist Scandinavian comfort in a medium-urban neighborhood popular among downsizers and those desiring access to culture and transit."
+  "target_buyer": "Ideal for eco-conscious families or pet lovers who cherish outdoor space, modern comforts, and access to pet-friendly walking areas.",
+  "market_positioning": "A premium family home with an environmentally respectful twist, uniquely positioned for active buyers prioritizing space, neighborhood development, and a future-friendly lifestyle in one of Katowice\u2019s most promising districts."
 }

@@ -1,35 +1,29 @@
 {
-  "title": "Eco-Chic Urban Apartment with Panoramic Windows in the Heart of Sopot Centrum",
-  "description": "Experience modern eco-conscious living in this beautifully designed 2-bedroom, 2-bathroom apartment nestled on the fourth floor of a newly constructed building. Expansive panoramic windows flood every room with natural light, showcasing thoughtful sustainable finishes. Integrated smart home features create effortless comfort, while your private parking space and heated driveway offer ease amidst the lively city. End your days in the calming shared sauna, exclusive to residents.",
-  "neighborhood_description": "Centrum is Sopot's vibrant artistic hub, embraced by galleries, trendy caf\u00e9s, and lush parks. Top-rated schools and creative centers are just a stroll away, making daily life both inspiring and convenient. Excellent public transport links, dedicated bike lines, and quick highway access seamlessly connect you to Gda\u0144sk, Gdynia, and the Baltic coastline.",
-  "bedrooms": 2,
-  "bathrooms": 2,
-  "size_sqm": 78,
-  "property_type": "apartment",
-  "city": "Sopot",
-  "neighborhood": "Centrum",
-  "urban_level": "high",
+  "title": "Nordic-Inspired Family Retreat in Historic Krosno",
+  "description": "Discover calm, simplicity, and natural light in this beautifully crafted, minimalist Scandinavian-style house with three generous bedrooms and three modern bathrooms. Spread over 160 sqm, clean lines and subtle hues create an inviting interior suited for contemporary living. The open-concept design maximizes space for family moments and quiet retreats alike. High-performance soundproof walls combine privacy and peace, while well-maintained gardens encourage play or unwinding outside.",
+  "neighborhood_description": "Nestled in Krosno\u2019s enchanting Old Town, your home connects to history while embracing a future-focused, tech-oriented spirit. Experience days filled with the vibrancy of cafes, markets, and community\u2026all encapsulated by a peaceful, low-urban neighborhood feel and the convenience of highway access.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 160,
+  "property_type": "house",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
     "highway"
   ],
-  "price": 1120000,
+  "price": 1280000,
   "key_features": [
-    "panoramic windows",
-    "shared sauna",
-    "smart home system",
-    "private parking space",
-    "heated driveway",
-    "energy-efficient appliances"
+    "fitness center",
+    "well-maintained common areas",
+    "soundproof walls"
   ],
   "lifestyle_benefits": [
-    "ideal for cyclists and commuters",
-    "immersed in artistic community",
-    "walking distance to local schools",
-    "sustainable and low-maintenance living",
-    "vibrant social and cultural scene"
+    "space for children to play",
+    "quiet private garden",
+    "minimalist environment",
+    "access to active lifestyle amenities"
   ],
-  "target_buyer": "Perfect for eco-conscious young couples seeking a modern and connected city lifestyle within an inspired, creative neighborhood.",
-  "market_positioning": "Positioned at the premium end of Sopot\u2019s apartment market, this home combines contemporary green living with everyday convenience and authentic cultural vibrancy. A rarity for buyers seeking excellent public transport, secure parking, and sustainable design in the lively core of Sopot."
+  "target_buyer": "Ideal for families craving balanced living\u2014ample room for children, a peaceful workspace for adults, and neighborhood amenities inspiring connection and learning.",
+  "market_positioning": "In Krosno\u2019s leafy Old Town, this residence blends understated luxury, privacy, and practicality. Standing out with minimalist design, quality amenities, and suitability for modern families, it is a rarity among the town\u2019s classical homes."
 }

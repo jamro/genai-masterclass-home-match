@@ -1,31 +1,36 @@
 {
-  "title": "Minimalist Scandinavian Loft Surrounded by Greenery",
-  "description": "Discover an inviting loft that artfully combines open space living and minimalist Scandinavian design. This thoughtfully designed home boasts 1 airy bedroom and 2 sleek, modern bathrooms across 72 sqm. Large windows embrace natural light and woodland views, creating a tranquil retreat with warm oak floors and a cozy fireplace at its heart. Flexible zones include space for living, work, and dining where simplicity meets function.",
-  "neighborhood_description": "Located in the tranquil Suburb district of Nowy Sacz, this area features low-density living with sprawling green scenery, mature trees, and winding paths. Despite its peaceful ambiance, excellent highway connections offer quick access into the city and out to surrounding areas. Suburb is cherished for its quiet, close-to-nature setting complemented by the town\u2019s timeless, historic ambience.",
-  "bedrooms": 1,
+  "title": "Historic Radziwie Loft\u2014Luxury and Character by the River",
+  "description": "Step into an unparalleled living experience in this exquisitely restored 3-bedroom, 2-bathroom loft in Plock\u2019s storied Radziwie neighborhood. Blending soaring ceilings and original brickwork with upscale modern amenities, this expansive 135 sqm home echoes the area\u2019s industrial heritage with a lavish twist. A wide-open living space and bespoke fixtures define its unique character, appealing to those with an eye for both history and design. Enjoy exclusive access to a residents-only swimming pool, delivering relaxation and recreation at your doorstep.",
+  "neighborhood_description": "The loft is situated in Radziwie, a vibrant neighborhood experiencing a tech-driven transformation yet renowned for its close-knit and welcoming community. Daily conveniences, thriving local businesses, and plenty of family-friendly amenities shape the fabric of life here. With effortless access to public transport and the highway, connectivity to greater Plock and beyond is seamless.",
+  "bedrooms": 3,
   "bathrooms": 2,
-  "size_sqm": 72,
+  "size_sqm": 135,
   "property_type": "loft",
-  "city": "Nowy Sacz",
-  "neighborhood": "Suburb",
-  "urban_level": "low",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
   "transport_options": [
+    "public transport",
     "highway"
   ],
-  "price": 990000,
+  "price": 1190000,
   "key_features": [
-    "flexible open layout",
-    "private parking space",
-    "modern fireplace",
-    "dedicated co-working area",
-    "large floor-to-ceiling windows"
+    "historic loft design",
+    "swimming pool access",
+    "private balcony",
+    "motion-sensor exterior lights",
+    "automatic gate",
+    "close to public transport",
+    "designer kitchen",
+    "large windows with city views"
   ],
   "lifestyle_benefits": [
-    "stress-free natural setting",
-    "ideal for working from home",
-    "low maintenance living",
-    "easy access to nature trails"
+    "luxurious living with heritage charm",
+    "relaxation and socializing by the pool",
+    "effortless commute",
+    "secure entry with smart features",
+    "dynamic atmosphere ideal for families and professionals"
   ],
-  "target_buyer": "Perfect for first-time buyers seeking quiet, stylish living with easy commuting by car and the comfort of a blended work-life space integrated into the home.",
-  "market_positioning": "This loft presents a rare opportunity in the local market: modern styling in a well-priced package, ideal for buyers drawn to both substance and serenity, making it unique among Nowy Sacz starter homes."
+  "target_buyer": "The ideal buyer is a luxury seeker who appreciates historic architecture merged with high-end contemporary comforts, possibly a tech-savvy professional or discerning family searching for a stylish home in a vibrant, emerging neighborhood.",
+  "market_positioning": "This property stands out as a rare fusion of loft-style luxury and nostalgic character in Plock. Unique among local listings for its modern amenities, secure features, and swimming pool access, it caters to buyers looking for exclusive living in a culturally rich, centrally connected area."
 }

@@ -1,5 +1,5 @@
 # genai-masterclass-home-match
-GenAI Masterclass Project submission
+GenAI Masterclass Project submission for Udacity's "Building Generative AI Solutions" training
 
 ## Quick Start
 
@@ -8,6 +8,26 @@ make setup          # Create virtual environment and install dependencies
 make check-env       # Verify .env file is properly configured
 make run            # Start Jupyter Lab
 ```
+
+## Project Details
+
+This project is an assessment submission for **Udacity's "Building Generative AI Solutions"** training course. The course focuses on teaching advanced AI system development with real-world impact, covering:
+
+- **Semantic Search**: Teaching AI to interpret human language through semantic search capabilities
+- **Vector Databases**: Managing complex data structures with vector databases for efficient similarity search
+- **LangChain Integration**: Hands-on development with LangChain to create adaptive language models
+- **Practical Applications**: Building user-friendly AI solutions with industry focus
+
+### Project Overview
+
+This implementation demonstrates a **GenAI-powered real estate matching system** that showcases the key concepts learned in the course:
+
+1. **Synthetic Data Generation**: Using LLMs to generate realistic real estate listings
+2. **Vector Database Creation**: Storing and organizing listing embeddings for semantic search
+3. **Semantic Search**: Finding relevant properties based on buyer preferences
+4. **Augmented Response Generation**: Personalizing listings using LLM-generated descriptions
+
+For detailed project requirements and evaluation criteria, see [rubric.md](rubric.md).
 
 ## Available Commands
 

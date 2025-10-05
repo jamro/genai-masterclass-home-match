@@ -1,36 +1,31 @@
 {
-  "title": "Eco-Conscious Smart Home Near the Vistula in Radziwie",
-  "description": "Modern sustainability meets comfort in this striking, energy-efficient 5-bedroom house in the dynamic Radziwie district of Plock. Designed for forward-thinking living, the property includes underfloor heating, state-of-the-art energy-efficient windows, and an EV charging station in its spacious dual-car garage. Perfect for families and digital nomads alike, it features a dedicated home office space and flowing open-plan living areas spanning approximately 215 sqm. Natural light abounds, emphasizing its eco-modern finishes.",
-  "neighborhood_description": "Located in Plock\u2019s Radziwie neighborhood, this stylish residence is just steps from the city\u2019s vibrant center and the iconic Vistula river waterfront. Recognized for its technology-minded community, Radziwie offers lively urban energy enhanced by convenient access to highways and public transport connections. Enjoy tech-savvy neighbors, inspiring cafes, and green riverfront spaces ideal for seamless balance between work, networking, and leisure.",
-  "bedrooms": 5,
-  "bathrooms": 3,
-  "size_sqm": 215,
-  "property_type": "house",
-  "city": "Plock",
-  "neighborhood": "Radziwie",
+  "title": "Scandinavian Studio in Historic Heart of Zamosc",
+  "description": "This bright studio perfectly embodies minimalist Scandinavian style, blending understated elegance with modern comforts. The open-plan living space incorporates a compact kitchenette, ample natural light, and sleek lines throughout. With 28 square meters of thoughtfully arranged space, this studio makes efficient living feel spacious, and a well-sized bathroom completes the layout.",
+  "neighborhood_description": "Stare Miasto boasts character-filled cobbled streets and elegant historical architecture, providing a picturesque living environment close to local parks and playgrounds. Excellent access to both public transport and nearby highways enables fuss-free commuting while remaining steps from Zamosc\u2019s famous town square.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 28,
+  "property_type": "studio apartment",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
     "highway"
   ],
-  "price": 1580000,
+  "price": 359000,
   "key_features": [
-    "EV charging station",
-    "underfloor heating",
-    "energy-efficient windows",
-    "dedicated home office space",
-    "open-plan kitchen and living area",
-    "smart home technologies",
-    "two-car garage",
-    "large backyard with eco-friendly landscaping"
+    "modern Scandinavian fa\u00e7ade",
+    "outdoor barbecue zone",
+    "dedicated outdoor dining area",
+    "open-plan interior layout",
+    "energy efficient appliances"
   ],
   "lifestyle_benefits": [
-    "ideal for remote work and digital nomads",
-    "sustainable living in tech-focused neighborhood",
-    "walkable to waterfront recreation",
-    "high-speed internet connectivity",
-    "proximity to city cafes and workspaces"
+    "quick access to campus and transit",
+    "green surroundings for relaxation",
+    "shared social areas for gatherings"
   ],
-  "target_buyer": "Digital nomads, tech professionals, or modern families seeking a green, future-ready home with flexible work-and-life integration.",
-  "market_positioning": "Outstanding option for eco-conscious buyers and remote professionals who value connectivity, modern comfort, and proximity to both natural and urban amenities. This property distinguishes itself within the Radziwie market for its smart home features and dedicated work-from-home potential."
+  "target_buyer": "The ideal buyer is a student or young professional seeking a functional urban home with easy university access and minimalist design.",
+  "market_positioning": "This studio stands out for its thoughtfully modern Scandinavian touches and rare outdoor amenities at a highly achievable price in the heart of historic Zamosc."
 }

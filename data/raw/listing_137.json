@@ -1,34 +1,33 @@
 {
-  "title": "Historic Four-Bedroom Gem in Ustka's Charming Port District",
-  "description": "Step into historic charm with this beautifully preserved four-bedroom house in Ustka's storied Port District. Spread over 186 sqm, the home features classic architecture blended with modern comforts, including three elegant bathrooms, a spacious dining area with original wood accents, and abundant natural light from generous windows and a private balcony. Thoughtful updates include a contemporary laundry room and efficient rainwater collection system, blending sustainability with tradition. Enjoy warm summer days at the outdoor barbecue zone or relax by the communal swimming pool available to residents.",
-  "neighborhood_description": "The Port District offers quiet cobblestone streets and open green spaces perfect for biking and outdoor activities, lending a vibrant touch to daily living. With close proximity to local schools and lively neighborhood markets, this area suits those seeking balance between tranquil studies and active local engagement. Reach coastal trails and the highway within minutes, connecting you quickly to the rest of the region.",
-  "bedrooms": 4,
-  "bathrooms": 3,
-  "size_sqm": 186,
-  "property_type": "house",
-  "city": "Ustka",
-  "neighborhood": "Port District",
-  "urban_level": "low",
+  "title": "Sleek Premium 1-Bedroom Apartment in Quiet Yet Vibrant Karlikowo, Sopot",
+  "description": "This impressive 1-bedroom, 2-bathroom apartment boasts modern elegance and premium materials across a spacious 52 sqm layout. Smart spatial solutions provide seamless integration of living and dining spaces, ideal for dynamic urban living. High ceilings and large windows ensure abundant natural light, matching the meticulously designed interiors. Exclusive access to a resident-only sauna and stylish rooftop deck elevates your experience, creating an extraordinary sense of place.",
+  "neighborhood_description": "Perfectly nestled in the sought-after Karlikowo neighborhood of Sopot, this home balances tranquility with a touch of lively city ambiance. Enjoy leisurely strolls to the seaside, as well as close proximity to trendsetting caf\u00e9s, vibrant shopping, and premium restaurants. The area\u2019s excellent public transport connections and dedicated bike lanes ensure easy and eco-friendly city movement, enhancing everyday convenience.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 52,
+  "property_type": "apartment",
+  "city": "Sopot",
+  "neighborhood": "Karlikowo",
+  "urban_level": "medium",
   "transport_options": [
-    "highway",
+    "public transport",
     "bike lines"
   ],
-  "price": 1560000,
+  "price": 1220000,
   "key_features": [
-    "balcony",
-    "24/7 security",
-    "swimming pool access",
-    "rainwater collection system",
-    "barbecue zone",
-    "laundry room"
+    "private storage locker",
+    "shared resident sauna",
+    "expansive rooftop deck",
+    "close to public transport",
+    "energy-efficient appliances",
+    "video intercom security"
   ],
   "lifestyle_benefits": [
-    "ideal for students with easy school access",
-    "active outdoor lifestyle opportunities",
-    "vibrant local shops and cafes",
-    "safe, community-oriented neighborhood",
-    "sustainable living with modern eco features"
+    "enjoys a peaceful yet lively urban setting",
+    "minimal commutes due to prime location",
+    "access to wellness amenities (rooftop, sauna)",
+    "easy cycling and green transport mode integration"
   ],
-  "target_buyer": "Perfect for students or young professionals seeking shared yet private living space in a relaxed, historically rich district. Equally suitable for investment as well as group student housing or co-living direction.",
-  "market_positioning": "Unique offering in Ustka: a spacious, historic house furnished with features attractive to younger buyers in a low-urban, outdoor-friendly zone\u2014excellent value for students, group renters, or family investors."
+  "target_buyer": "Perfect for first-time homeowners with premium tastes, seeking modern amenities and luxurious touches but also appreciating the convenience of public transport and walkable urban living.",
+  "market_positioning": "Stands out as a distinguished premium apartment for discerning first-time buyers; offering a unique combination of high-end amenities and thoughtful design in one of Sopot's prime residential neighborhoods. Balances luxury with access to city living and exclusive respite spaces, attracting those who value both lifestyle and investment potential."
 }

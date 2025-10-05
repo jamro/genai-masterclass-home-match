@@ -1,33 +1,33 @@
 {
-  "title": "Elegant 3-Bedroom Apartment with Historic Flair in Kamienny Potok",
-  "description": "Nestled within a beautifully maintained historic building, this 3-bedroom apartment in Kamienny Potok marries timeless architecture with modern comforts. The spacious interior covers 85 sqm, carefully laid out for both aesthetics and functionality, and is accentuated by charming original features such as detailed moldings and generously high ceilings. Enhancements like underfloor heating give a nod to contemporary living, while the airy living room opens out to sunlight throughout the day. Residents also enjoy direct access to a secure, shared courtyard\u2014the perfect spot to relax or connect with neighbors.",
-  "neighborhood_description": "Kamienny Potok pulsates with lively urban energy and a welcoming community spirit. Essential shopping and a variety of dining options are within walking distance, creating unmatched convenience for daily life or visiting tenants. The area benefits from excellent public transport links and established bike paths, offering seamless access to central Sopot, the beachfront, and major thoroughfares.",
-  "bedrooms": 3,
-  "bathrooms": 1,
-  "size_sqm": 85,
-  "property_type": "apartment",
-  "city": "Sopot",
-  "neighborhood": "Kamienny Potok",
+  "title": "Duplex Dream with Rooftop Escape in Dynamic Baluty",
+  "description": "Sip morning coffee as sunlight pours onto your stunning rooftop deck\u2014the crown jewel of this expansive, freshly renovated duplex. With four serene bedrooms, two modern bathrooms, and floor-to-ceiling energy-efficient windows, every corner feels bathed in tranquility. Step inside to embrace underfloor heating and spaces artfully designed for comfort and style, all amidst a quiet setting that lets inspiration flow. Weaving artful utility with contemporary flair, each room foregrounds style and hosts light like a gallery lit for living.",
+  "neighborhood_description": "Nestled just steps from \u0141\u00f3d\u017a\u2019s effervescent business district and adjacent cultural hotspots, Baluty lives in a rhythm all its own. Here, urban energy pulses through its lively corridors, brimming with hidden gardens, eclectic caf\u00e9s, and easy connections to public transport and major highways. Baluty balances daily hustle with quiet, tree-lined streets\u2014providing an inner-city village lifestyle fearless about color, culture, and convenience.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 148,
+  "property_type": "duplex",
+  "city": "Lodz",
+  "neighborhood": "Baluty",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines"
+    "highway"
   ],
-  "price": 1275000,
+  "price": 1390000,
   "key_features": [
+    "newly renovated interior",
+    "energy-efficient windows",
     "underfloor heating",
-    "automatic gate",
-    "EV charging station",
-    "recycling facilities",
-    "shared courtyard",
-    "shopping and dining nearby"
+    "quiet neighborhood setting",
+    "private rooftop deck"
   ],
   "lifestyle_benefits": [
-    "attracts quality tenants",
-    "walkable amenities",
-    "green commute options",
-    "potential for value appreciation"
+    "generous space for households with multiple pets",
+    "rooftop oasis perfect for play or relaxation with animals",
+    "flooring and finishes easy to maintain for pet owners",
+    "walkable to parks and green space",
+    "quiet interiors ideal for home offices or creative pursuits"
   ],
-  "target_buyer": "Ideal for property investors seeking a blend of historic appeal and strong rental prospects in one of Sopot's most dynamic precincts.",
-  "market_positioning": "This rare offering situates investors at the intersection of historic charm and urban growth, granting above-average returns amid Sopot's popular real estate sector. Few properties can match its blend of period ambiance, contemporary features, and lifestyle convenience\u2014all in a coveted, rentable location."
+  "target_buyer": "Thoughtful homeowners\u2014especially pet lovers\u2014seeking an artful haven within buzzing urban life. Perfect for growing families or energetic professionals led by their pets' adventures.",
+  "market_positioning": "A revitalized retreat in the heart of Lodz\u2019s vibrant north; blending spacious, pet-friendly luxury, sculpted comfort, and the mid-city beat with easy commuter routes\u2014a unique standout among Baluty duplex homes."
 }

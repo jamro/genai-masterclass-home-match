@@ -1,31 +1,33 @@
 {
-  "title": "Scandinavian Studio Oasis with Private Garden in Krosno Old Town",
-  "description": "This thoughtfully designed studio apartment merges minimalist Scandinavian aesthetics with functional living. The open-plan layout is illuminated by ample natural light and features oak flooring and neutral hues for soothing simplicity. Enjoy morning coffee or evenings unwind in the private garden, seamlessly accessed from the living space. Ideal for solo living, every element combines space-conscious efficiency with inviting coziness.",
-  "neighborhood_description": "Nestled in Krosno\u2019s charming Old Town, this property sits among cobbled streets and historic architecture, steps from vibrant local cafes and boutiques. The nearby waterfront provides scenic walks and recreational possibilities, infusing daily life with culture and relaxation. The peaceful, low-urban setting and easy highway access make this home a retreat from city bustle while still convenient.",
+  "title": "Eco-Chic Studio in Fast-Growing Pradnik Bialy \u2013 Ideal for Remote Work",
+  "description": "Step into this thoughtfully designed modern studio, perfect for those who value sustainability and comfort. Featuring an open floor plan that maximizes the usable space, this 32 sqm apartment comes with an independently accessible guest bathroom and private parking facility. Enjoy barrier-free living with full wheelchair accessibility entwined with energy-efficient fixtures throughout. High-quality finishings and ample natural light make this home both inviting and practical for daily life.",
+  "neighborhood_description": "Located in Krakow\u2019s trending Pradnik Bialy neighborhood, this development offers a peaceful vibe while being close to essential city services. As a growing area, residents benefit from nearby shopping, caf\u00e9s, and green spaces, all maintained with a modern, eco-savvy approach. With convenient access to public transport and highways, your trips into city center or outbound adventures are stress-free.",
   "bedrooms": 1,
   "bathrooms": 1,
   "size_sqm": 32,
-  "property_type": "studio",
-  "city": "Krosno",
-  "neighborhood": "Old Town",
-  "urban_level": "low",
+  "property_type": "studio apartment",
+  "city": "Krakow",
+  "neighborhood": "Pradnik Bialy",
+  "urban_level": "medium",
   "transport_options": [
+    "public transport",
     "highway"
   ],
-  "price": 399000,
+  "price": 445000,
   "key_features": [
-    "private garden",
-    "co-working space in building",
-    "rooftop deck shared with residents",
-    "landscaped communal surroundings",
-    "dedicated barbecue zone"
+    "wheelchair accessibility",
+    "open floor plan",
+    "guest bathroom",
+    "private parking space",
+    "energy-efficient appliances",
+    "modern isolated windows"
   ],
   "lifestyle_benefits": [
-    "perfect for pet owners\u2014garden access",
-    "quiet and secure environment",
-    "creative and productive atmosphere with co-working hub",
-    "multiple spaces for outdoor relaxation"
+    "perfect for remote working setup",
+    "lots of natural light",
+    "quiet modern development",
+    "easy mobility and accessibility"
   ],
-  "target_buyer": "Single professionals or couples seeking a tranquil Scandinavian-inspired home for themselves and their pets, desiring a peaceful retreat with outdoor space and creative amenities.",
-  "market_positioning": "A rare, thoughtfully curated studio apartment in the heart of Krosno's historic district, uniquely offering both private green space and access to premium communal amenities. This residence stands out for its blend of minimalist design, pet-friendliness, and community features, competitively priced in the local market."
+  "target_buyer": "The ideal buyer is an eco-aware professional or remote worker seeking an accessible, low-maintenance home at the heart of a city\u2019s dynamic but tranquil neighborhood.",
+  "market_positioning": "This studio positions itself as an excellent value entry into Krakow\u2019s green and growing outskirts, especially appealing to remote workers aiming for flexibility without compromising environmental standards."
 }

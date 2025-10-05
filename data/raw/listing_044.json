@@ -1,33 +1,33 @@
 {
-  "title": "Eco-Chic 3-Bed Apartment with Rooftop Deck in Trendy Orunia, Gdansk",
-  "description": "This light-filled modern apartment offers three spacious bedrooms, a contemporary bathroom, and a thoughtfully designed open plan layout. Measuring approximately 72 sqm, the property seamlessly combines comfort and energy efficiency. Residents enjoy access to a stunning rooftop deck, lush landscaped surroundings, and secure building facilities with an integrated recycling zone. Eco-conscious materials throughout give this apartment a unique, sustainable appeal perfect for today's modern lifestyle.",
-  "neighborhood_description": "Situated in Orunia, one of Gdansk's most up-and-coming and dynamic neighborhoods, this property is surrounded by greenery and stylish new developments. The area offers convenient access to public transport and highways, making commuting or exploring the city effortless and sustainable. Enjoy a vibrant local vibe, where modern urban growth meets natural beauty.",
+  "title": "Contemporary Duplex Retreat in Swidnica\u2019s Historic Center",
+  "description": "Experience superior living in this luxurious duplex nestled in the heart of Swidnica's coveted Historic Center. Spanning 145sqm, the property seamlessly blends sophisticated architectural form with practical elegance. The open-plan layout flaunts sun-drenched living spaces, pristine hardwood floors, and premium finishes. Three generous bedrooms and three designer bathrooms meet every need of the modern urban dweller ((including an elegant laundry room for convenience)). Entertain guests year-round in the private, well-appointed barbecue zone.",
+  "neighborhood_description": "The Historic Center of Swidnica exudes a peaceful yet dynamic atmosphere, drawing top tech professionals and young creatives. Stroll among charming preserved facades, avant-garde cafes, or gain rapid access to the city via superb public transport connections and nearby highway routes. This neighborhood offers a rare combination of tranquil ambiance and innovative energy.",
   "bedrooms": 3,
-  "bathrooms": 1,
-  "size_sqm": 72,
-  "property_type": "apartment",
-  "city": "Gdansk",
-  "neighborhood": "Orunia",
+  "bathrooms": 3,
+  "size_sqm": 145,
+  "property_type": "duplex",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
     "highway"
   ],
-  "price": 899000,
+  "price": 1450000,
   "key_features": [
-    "rooftop deck",
-    "shared landscaped courtyard",
-    "recycling facilities",
-    "modern security system",
-    "open plan living area"
+    "close to public transport",
+    "dedicated barbecue zone",
+    "private laundry room",
+    "engineered hardwood flooring throughout",
+    "designer fixtures and modern appliances",
+    "smart home-ready"
   ],
   "lifestyle_benefits": [
-    "quiet, green surroundings perfect for focused remote work",
-    "fast WiFi ready infrastructure",
-    "access to shared community amenities",
-    "quick and eco-friendly city commute",
-    "close to QSR and grocers"
+    "Walking proximity to coworking hubs and city culture",
+    "Ideal for remote work and after-hours relaxation",
+    "Effortless city escapes via highway access",
+    "Peaceful nights in a tech-driven, serene atmosphere"
   ],
-  "target_buyer": "Digital nomads or young professionals seeking an eco-conscious lifestyle, modern amenities, and quick city access in a growing neighborhood.",
-  "market_positioning": "This property stands out in Orunia's market for its fresh, sustainable edge in a fast-developing area. Its blend of community amenities and green innovation targets the new wave of urban dwellers seeking both connectivity and tranquility."
+  "target_buyer": "Trend-conscious young couples seeking a balance between dynamic careers and home sanctuary, who value urban connectivity as well as notable historical surroundings.",
+  "market_positioning": "This duplex occupies a premium niche in Swidnica, pairing historical prestige and architectural sophistication, squarely aimed at professionals seeking quality, character, and excellent connectivity inside a peaceful yet progressive city quarter."
 }

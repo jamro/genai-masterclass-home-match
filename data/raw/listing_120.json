@@ -1,34 +1,34 @@
 {
-  "title": "Exclusive Eco-Studio Retreat with Mountain Views in Suwa\u0142ki Polnocne",
-  "description": "Experience pristine living in this expansive 38 sqm luxury studio in the tranquil district of Polnocne, Suwa\u0142ki. Featuring an open-plan bedroom and elegantly styled bathroom, this carefully curated residence offers top-tier finishes with minimalist, sustainable materials throughout. State-of-the-art amenities such as a video intercom and privileged access to a private swimming pool elevate the sense of exclusivity. Thoughtful design creates a balance between modern comfort and an eco-conscious lifestyle, ideal for discerning buyers seeking privacy and serenity.",
-  "neighborhood_description": "Located in the serene, low-urban Polnocne neighborhood, this property provides unmatched mountain views and an inviting atmosphere. Families and pet owners alike will appreciate the peaceful, green environment that encourages an active, outdoor lifestyle. Despite its tranquility, quick access to the highway ensures convenient connectivity to the rest of Suwa\u0142ki and the region.",
+  "title": "Sophisticated Loft with Urban Flair in Radziwie, Plock",
+  "description": "Set within a chic post-industrial building, this luxury loft offers a unique blend of modern style and comfort for the discerning buyer. Boasting generous open-plan living, the residence includes 1 spacious bedroom and a designer bathroom, spanning a superb 79 square meters. Bespoke finishes, luminous windows, and sleek minimalism define the ambiance. Enjoy tech-enabled exclusive living enhanced by air conditioning and high-end fixtures throughout.",
+  "neighborhood_description": "Nestled in the tranquil Radziwie neighborhood, this address combines discreet peace with seamless connectivity. Residents benefit from quick highway access and efficient public transport options, ensuring commutes and city escapes are effortless. The area retains a quiet, retreat-like vibe while being conveniently close to urban essentials and riverside walks.",
   "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 38,
-  "property_type": "studio apartment",
-  "city": "Suwa\u0142ki",
-  "neighborhood": "Polnocne",
-  "urban_level": "low",
+  "size_sqm": 79,
+  "property_type": "loft",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
   "transport_options": [
+    "public transport",
     "highway"
   ],
-  "price": 415000,
+  "price": 1199000,
   "key_features": [
-    "modern open-plan living",
-    "video intercom",
-    "exclusive swimming pool access",
-    "contemporary bathroom",
-    "eco-friendly materials",
-    "underfloor heating",
-    "quiet neighborhood setting"
+    "guest bathroom",
+    "automatic gate",
+    "air conditioning",
+    "open-plan living space",
+    "designer custom kitchen",
+    "high ceilings",
+    "industrial-style windows"
   ],
   "lifestyle_benefits": [
-    "perfect for eco-conscious buyers",
-    "mountain and nature views from the windows",
-    "tranquil retreats from city bustle",
-    "pet-friendly property workspace",
-    "family-friendly community with outdoor recreation"
+    "ring-fenced privacy yet near amenities",
+    "perfect remote work set-up",
+    "walking access to parks and river",
+    "smooth highway connections for digital nomads on the move"
   ],
-  "target_buyer": "Ideal for environmentally minded singles or couples looking for a peaceful, luxurious pied-\u00e0-terre with guaranteed privacy and premium amenities.",
-  "market_positioning": "An exclusive, high-end choice for eco-conscious individuals seeking a refined studio retreat in one of the most peaceful and scenic settings in Suwa\u0142ki's residential market."
+  "target_buyer": "Ideal for savvy digital nomads, single professionals, or creative entrepreneurs seeking upmarket living with exceptional transport links.",
+  "market_positioning": "This premium loft positions itself in Plock\u2019s luxury segment, offering an unmatched mix of style, tech-forward finishes, and privacy\u2014an address for those seeking urban luxury and ultimate flexibility beyond typical city apartments."
 }

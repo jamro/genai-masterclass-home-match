@@ -1,33 +1,34 @@
 {
-  "title": "Tranquil Pet-Paradise House with Modern Amenities in Radziwie",
-  "description": "Blending rustic charm with contemporary comforts, this five-bedroom, three-bath house invites you to bask in light-filled, generously sized interiors flowing out onto a spacious terrace. At 245 square meters, every room feels airy and thoughtfully outfitted, capped with built-in wardrobes for effortless organization. Enjoy airy summers under soothing air conditioning, and starlit evenings in a private, fully fenced yard equipped with motion-sensor exterior lights. Rainwater collection and other eco-conscious touches enhance daily life without sacrificing luxury.",
-  "neighborhood_description": "Radziwie in Plock is a beloved haven of easy-going living and quiet streets, where weekends unfurl leisurely and neighbors exchange smiles when passing by bike or on foot. The area boasts swift public transport and speedy highway access for city commutes, yet throughout Radziwie, you'll feel enveloped in nature and an authentically eco-conscious, relaxed community spirit.",
-  "bedrooms": 5,
-  "bathrooms": 3,
-  "size_sqm": 245,
-  "property_type": "house",
-  "city": "Plock",
-  "neighborhood": "Radziwie",
-  "urban_level": "medium",
+  "title": "Minimalist Loft Retreat: Scandinavian Style in Katowice's Vibrant Dab",
+  "description": "Step into contemporary elegance in this spacious Scandinavian-inspired loft, basking in abundant natural light and functional simplicity. Its airy open-plan design hosts three bedrooms and a well-finished bathroom, delivering comfort and flexibility for your work and private retreats. Housed in a restored urban building, the loft features thoughtfully landscaped surroundings and private balcony to unwind above city life. Experience serene minimalism fused with practical amenities tailored for the discerning entrepreneurial spirit.",
+  "neighborhood_description": "Situated in vibrant Dab, Katowice, this loft benefits from outstanding urban connectivity and a close-knit entrepreneurial community. The neighborhood seamlessly merges proximity to bustling business districts with scenic waterfront spots ideal for morning runs or reflective breaks. Surrounded by trendy cafes, co-working spaces, and rapid public transport, Dab puts all key amenities within effortless reach.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 108,
+  "property_type": "loft",
+  "city": "Katowice",
+  "neighborhood": "Dab",
+  "urban_level": "high",
   "transport_options": [
     "public transport",
+    "bike lines",
     "highway"
   ],
-  "price": 1320000,
+  "price": 1275000,
   "key_features": [
-    "air conditioning",
-    "motion-sensor exterior lights",
-    "terrace",
+    "landscaped surroundings",
+    "balcony",
+    "shared sauna",
     "rainwater collection system",
-    "fenced yard",
-    "built-in wardrobes"
+    "wheelchair accessibility"
   ],
   "lifestyle_benefits": [
-    "ample room for pets to roam safely both indoors and outdoors",
-    "eco-friendly garden for sustainable living",
-    "peaceful setting with spacious, private yards",
-    "outdoor entertaining space for family and pets"
+    "inspiring creative space for entrepreneurs",
+    "less than 10 minutes to business district",
+    "views of city park and seasonal waterfront events",
+    "access to wellness and leisure facilities",
+    "secure, pet-friendly building"
   ],
-  "target_buyer": "Ideal for pet owners seeking space and security for their furry companions, but also suiting families and eco-conscious individuals desiring a modern, tranquil lifestyle close to nature.",
-  "market_positioning": "Positioned as a unique offering in Plock\u2019s market\u2014realizing perfect harmony between nature, comfort, and responsible living\u2014this rare home stands out for those valuing meaningful outdoor spaces and eco-friendly amenities amidst family-friendly attractions."
+  "target_buyer": "Ambitious entrepreneurs or remote-working professionals seeking an uplifting live-work environment with easy access to urban hubs and a vibrant business scene.",
+  "market_positioning": "Distinct among Katowice\u2019s modern residences, this loft offers a rare blend of Scandinavian-inspired design, premium amenities, and an enviable business-focused address, perfect for discerning buyers who prioritize convenience, community, and timeless aesthetics."
 }

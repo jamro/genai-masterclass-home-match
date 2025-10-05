@@ -1,32 +1,33 @@
 {
-  "title": "Minimalist Studio in Vibrant Artistic Heart of Katowice",
-  "description": "Step into the serenity of minimalist Scandinavian design in this luminous studio apartment nestled in the vibrant core of Srodmiescie. Featuring an open-concept space optimized for creativity, the apartment offers airy comfort across 33 square meters. Elegant surfaces and natural light harmonize for a calming modern home.",
-  "neighborhood_description": "Located in Srodmiescie, Katowice\u2019s tech-forward downtown neighborhood, this area hums with energy yet preserves a feeling of security and calm. Well-kept streets, local caf\u00e9s, and green city parks provide inspiring spots for relaxation or creative work. Steps away, art studios and cultural venues foster a connected creative community.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 33,
-  "property_type": "studio apartment",
-  "city": "Katowice",
-  "neighborhood": "Srodmiescie",
-  "urban_level": "high",
+  "title": "Minimalist Scandinavian-Style Duplex in Radziwie, Plock",
+  "description": "Step into understated elegance with this thoughtfully designed Scandinavian-inspired duplex. Offering 4 bright bedrooms and 2 modern bathrooms across 165 sqm, the home combines crisp, minimalist aesthetics with warm natural accents. An open-plan living area centers around a sleek contemporary fireplace, opening out to a private terrace with a dedicated barbecue zone\u2014perfect for relaxed evenings. Wonderful for families or households needing versatile space, the property delivers functional luxury in harmony with nature.",
+  "neighborhood_description": "Located in Radziwie\u2014an enchanting suburb of Plock with a medium urban atmosphere\u2014the neighborhood is shaped by a peaceful, balanced lifestyle and a refreshingly relaxed pace. You\u2019ll enjoy nearby green spaces, playgrounds, and excellent connections by public transport and highway for swift commutes across town or outward to Warsaw. Everyday conveniences, shops, and local schools round out a comfortable living experience.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 165,
+  "property_type": "duplex",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines"
+    "highway"
   ],
-  "price": 412000,
+  "price": 1390000,
   "key_features": [
-    "minimalist Scandinavian design",
-    "quiet interior outlook",
-    "secure bicycle storage",
-    "modern lift in building",
-    "well-maintained common areas"
+    "minimalist Scandinavian decor",
+    "spacious living area with fireplace",
+    "outdoor barbecue zone",
+    "private children's playground area",
+    "modern security system",
+    "fully equipped kitchen"
   ],
   "lifestyle_benefits": [
-    "vibrant artist community nearby",
-    "inspiring environment for creatives",
-    "easy commute for tech professionals",
-    "close proximity to galleries and caf\u00e9s"
+    "balanced work-life lifestyle",
+    "easy access to city center and major routes",
+    "quiet and family-friendly streets",
+    "proximity to recreation areas"
   ],
-  "target_buyer": "Ideal for artists, designers, freelancers, or remote tech professionals seeking a peaceful oasis within the bustling city center.",
-  "market_positioning": "This studio stands out for blending minimalist style with a quiet urban retreat in the heart of Katowice, offering exceptional value in a highly sought-after creative hub."
+  "target_buyer": "Perfect for professionals relocating for work, especially those seeking tranquility with seamless connectivity. Families valuing a minimalist and functional home will find comfort and space to grow; executive couples wanting a peaceful retreat with room to entertain will feel at home here.",
+  "market_positioning": "Strategically positioned as a premium duplex within a desirable and growing neighborhood, offering rare Scandinavian-inspired features and curated outdoor living just outside the city\u2019s hustle. Has strong appeal for high-earning professionals and families shifting from higher density neighborhoods."
 }

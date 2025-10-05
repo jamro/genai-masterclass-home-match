@@ -1,33 +1,35 @@
 {
-  "title": "Polesie Panorama: Four-Bedroom Urban Retreat for Modern Living",
-  "description": "Nestled on a tranquil street in the dynamic Polesie neighborhood, this beautifully appointed 4-bedroom apartment spans an impressive 128 sqm. Designed for spacious living, it features bright interiors, a dedicated home office, and expansive windows ensuring every corner is bathed in natural light. Soundproof walls create a sanctuary, making this an oasis of calm amidst city life, while underfloor heating adds a touch of everyday luxury. With practical additions like a co-working space and a sunlit balcony set up for barbecue evenings, comfort and creativity go hand-in-hand here.",
-  "neighborhood_description": "The heart of Polesie pulses with modern energy, yet a surprising peacefulness embraces its side streets. Caf\u00e9s, green spaces and artisan bakeries dot the landscape. Efficient public transport, convenient bike lanes, and fast access to the city\u2019s major highways keep you effortlessly connected while nurturing a suburban peace often elusive in urban settings.",
-  "bedrooms": 4,
-  "bathrooms": 2,
-  "size_sqm": 128,
-  "property_type": "apartment",
-  "city": "Lodz",
-  "neighborhood": "Polesie",
-  "urban_level": "medium",
+  "title": "Spacious Modern Family Home in Welcoming \u017boliborz",
+  "description": "Discover comfort and style in this beautifully maintained 5-bedroom house in sought-after \u017boliborz, Warsaw. With a generous 245 sqm of living space, the residence offers three modern bathrooms, a chef\u2019s kitchen equipped for any culinary adventure, hardwood floors, and bright, sunlit rooms throughout. The automated gate ensures privacy and security, while meticulously landscaped surroundings create a serene oasis for family life. Perfect for living and working in harmony, the home features a dedicated laundry room and an opulent ensuite in the master bedroom.",
+  "neighborhood_description": "\u017boliborz is renowned for its pet-friendly green spaces and expansive cycling network, making it a delight for active families and animal lovers. The neighborhood provides easy access to public transport and the highway, offering swift city commutes and weekend trips out of town. Trendy caf\u00e9s, highly-rated schools, local parks, and business hubs are just minutes away, enriching your lifestyle on every level.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 245,
+  "property_type": "house",
+  "city": "Warsaw",
+  "neighborhood": "\u017boliborz",
+  "urban_level": "high",
   "transport_options": [
     "public transport",
     "bike lines",
     "highway"
   ],
-  "price": 960000,
+  "price": 1850000,
   "key_features": [
-    "underfloor heating",
-    "dedicated home office space",
-    "shared co-working area",
-    "modern soundproof walls",
-    "private balcony with barbecue zone"
+    "automatic gate",
+    "landscaped surroundings",
+    "laundry room",
+    "ensuite bathroom",
+    "modern kitchen",
+    "hardwood floors"
   ],
   "lifestyle_benefits": [
-    "stable long-term rental environment",
-    "creative and professional home spaces",
-    "proximity to trendy caf\u00e9s and green parks",
-    "balance of urban convenience and peaceful retreat"
+    "space and privacy for a growing family",
+    "pet-friendly grounds",
+    "bike-friendly location",
+    "excellent connectivity for entrepreneurs",
+    "flexible areas for home office"
   ],
-  "target_buyer": "Ideal for stable, long-term renting families or remote professionals desiring comfort, a sense of community, and quiet productivity.",
-  "market_positioning": "A standout offer for those seeking a premium blend of tranquility and connectedness, uniquely suiting professionals\u2014or families\u2014in search of space, flexible work options, and access to both city life and suburban charms. Priced below many city center alternatives, it offers tremendous lifestyle value in one of Lodz\u2019s most sought-after districts."
+  "target_buyer": "Ideal for families with children and entrepreneurs seeking a high-quality, secure, and well-connected home with functional spaces for both living and remote working.",
+  "market_positioning": "This rare house in the heart of \u017boliborz blends city-life convenience with peaceful residential comfort, positioning itself as an outstanding option for professionals and families striving to balance work and lifestyle near multifaceted city amenities."
 }

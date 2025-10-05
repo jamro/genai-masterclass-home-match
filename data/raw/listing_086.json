@@ -1,33 +1,33 @@
 {
-  "title": "Charming Family Duplex with Green Surroundings in Pila Suburbs",
-  "description": "Welcome to your dream duplex! This spacious 162 sqm family home features 3 cozy bedrooms and 3 modern bathrooms, offering the perfect blend of comfort and privacy. The open-plan living space is flooded with natural light and direct access to a shared courtyard, ideal for gatherings or quiet moments. Recently fitted with air conditioning, this home ensures year-round comfort, while residents enjoy access to an on-site fitness center.",
-  "neighborhood_description": "Located in Pila\u2019s tranquil 'Suburb' neighborhood, this property is nestled in a serene area renowned for its lush greenery and a welcoming, community-focused atmosphere. Ideal for those who appreciate the outdoors and relaxed suburban living, the area also offers convenient highway connections for easy trips to the city or surrounding countryside.",
-  "bedrooms": 3,
-  "bathrooms": 3,
-  "size_sqm": 162,
-  "property_type": "duplex",
-  "city": "Pila",
-  "neighborhood": "Suburb",
+  "title": "Eco-Smart Retreat with Fireplace in Kazimierz Dolny\u2019s Historic Core",
+  "description": "Discover a thoughtfully designed 2-bedroom, 1-bathroom apartment offering modern eco-features, nestled on the picturesque Rynek. Boasting a comfortable 63 sqm layout, this home harmoniously blends traditional charm and a focus on sustainability. High-performance energy-efficient windows and a cozy fireplace create both comfort and efficiency throughout the seasons. The apartment\u2019s open-plan living area flows out to a dedicated barbecue zone\u2014ideal for al fresco moments, while entry is secure and convenient via an automatic gate.",
+  "neighborhood_description": "Situated in the artistic heart of Kazimierz Dolny, Rynek exudes a tranquil, village-like ambiance while remaining steps from local galleries, charming caf\u00e9s, and green spaces. The neighborhood values eco-living and offers ample biking opportunities, friendly streets, and close proximity to reputable schools\u2014perfect for families or outdoor enthusiasts.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 63,
+  "property_type": "apartment",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 1380000,
+  "price": 980000,
   "key_features": [
-    "air conditioning",
-    "shared courtyard",
+    "energy-efficient windows",
+    "automatic gate",
+    "fireplace",
+    "barbecue zone",
     "modern kitchen",
-    "dedicated laundry area",
-    "fitness center",
-    "private parking"
+    "secure parking"
   ],
   "lifestyle_benefits": [
-    "peaceful lifestyle",
-    "close to nature",
-    "community-oriented setting",
-    "great for gardening or walking",
-    "easy highway access"
+    "biking-friendly area",
+    "walkable to cultural venues and parks",
+    "lower utility costs due to eco-features",
+    "children-friendly neighborhood",
+    "space for home gardening"
   ],
-  "target_buyer": "Perfect for retired couples or multi-generational families seeking a peaceful, sociable environment with modern amenities and easy access to countryside leisure and travel options.",
-  "market_positioning": "This duplex uniquely combines accessible suburban pricing, upgraded amenities ideal for retirees, and a harmonious neighborhood\u2014positioned as a rare opportunity in Pila\u2019s family-friendly suburbs for buyers seeking low-density living without sacrificing comfort or activity options."
+  "target_buyer": "Eco-conscious buyers seeking a quiet, cultural lifestyle\u2014singles, couples, or small families who desire a mix of modern sustainability with authentic historic atmosphere.",
+  "market_positioning": "A rare opportunity for sustainable living in Kazimierz Dolny\u2019s most beloved location, uniquely combining modern technology with local heritage; this property appeals to buyers seeking premium comfort and energy efficiency within a peaceful, low-urban setting."
 }

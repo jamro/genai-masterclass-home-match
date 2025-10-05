@@ -1,36 +1,34 @@
 {
-  "title": "Prestigious Modern Duplex for Digital Nomads in Vibrant Wrzeszcz",
-  "description": "This expansive modern duplex offers an open-plan living experience with soaring ceilings and natural light flooding through tall windows. Four stylish bedrooms, each with built-in wardrobes, provide comfort and ample storage. Two well-appointed bathrooms blend chic design with practicality. Highlights include a state-of-the-art laundry room and access to an exclusive residents\u2019 sauna and versatile co-working spaces ideal for a flexible home-office lifestyle. Perfect for those seeking both luxury and intelligent functionality in the heart of the city.",
-  "neighborhood_description": "Wrzeszcz is Gdansk's dynamic urban hub, renowned for its balanced lifestyle and thoughtfully eco-conscious community. Stroll along tree-lined streets minutes from vibrant caf\u00e9s, artisan bakeries, lush parks, and upmarket retail, all easily accessed by extensive public transport, bike lines, and proximity to highways and the airport. Sustainable living is embraced here, as are leisure, networking, and urban ettiquette\u2014making it a favorite among innovators and travelers alike.",
-  "bedrooms": 4,
-  "bathrooms": 2,
-  "size_sqm": 156,
-  "property_type": "duplex",
-  "city": "Gdansk",
-  "neighborhood": "Wrzeszcz",
-  "urban_level": "high",
+  "title": "Modern Studio in Polesie with Home Office Niche and Urban Convenience",
+  "description": "Step into city living with this chic and airy studio apartment in the sought-after Polesie neighborhood of \u0141\u00f3d\u017a. Smartly designed with an open-concept layout, the space features a cozy sleeping area, sunny workstation perfect for remote students or young professionals, and a stylish ensuite bathroom. Gleaming hardwood floors add warmth, and the apartment resides within an energy-efficient, wheelchair accessible building, making every day comfortable and eco-conscious.",
+  "neighborhood_description": "Polesie offers a pet-friendly and bike-friendly community balanced by quiet streets and a safe, welcoming atmosphere for young creatives and students. Residence here provides quick access to public transport, well-kept bike lines, and convenient highway connections to the rest of the city and beyond.\nLocal caf\u00e9s, green parks, and essential shopping are just steps away, making it easy to experience lively urban comfort while staying focused on studies or remote work.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio apartment",
+  "city": "\u0141\u00f3d\u017a",
+  "neighborhood": "Polesie",
+  "urban_level": "medium",
   "transport_options": [
     "public transport",
     "bike lines",
-    "highway",
-    "airport"
+    "highway"
   ],
-  "price": 1620000,
+  "price": 375000,
   "key_features": [
-    "built-in wardrobes",
-    "open floor plan",
-    "laundry room",
-    "co-working space",
-    "close to public transport",
-    "shared sauna"
+    "home office space",
+    "hardwood floors",
+    "ensuite bathroom",
+    "wheelchair accessibility",
+    "energy-efficient building"
   ],
   "lifestyle_benefits": [
-    "tailored for remote work and collaboration",
-    "direct access to urban transport network",
-    "steps from trendy parks and local caf\u00e9s",
-    "private sauna for relaxation and wellness",
-    "secure entry within a thriving, mindful community"
+    "ideal for students or remote workers",
+    "pet-friendly building",
+    "quiet, focused work/live environment",
+    "bike-friendly surroundings",
+    "modern, accessible living"
   ],
-  "target_buyer": "Discerning digital nomads or young professionals valuing modern design, work-life balance, superb connectivity, and an active social lifestyle within a vaibrant metropolitan setting.",
-  "market_positioning": "Elite luxury duplex targeting premium buyers seeking top-tier amenities, exceptional urban convenience, contemporary communal work facilities, and a smart eco-friendly way of urban living in Gdansk\u2019s most sought-after neighborhood."
+  "target_buyer": "Perfect for students, young professionals, or couples seeking their own urban retreat with quick, easy transit options to both academic campuses and city hotspots.",
+  "market_positioning": "Rarely found at this price in Polesie, this studio stands out for its modern features, energy efficiency, and superb location\u2014offering maximum functionality for a new generation of city dwellers seeking value and comfort in \u0141\u00f3d\u017a."
 }

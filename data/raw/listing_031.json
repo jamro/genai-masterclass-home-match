@@ -1,34 +1,33 @@
 {
-  "title": "Spacious Family Retreat with Mountain Views and Ample Outdoor Living",
-  "description": "Welcome to your serene family haven in the heart of Rynek, Kazimierz Dolny. This spacious house features five cozy bedrooms and three modern bathrooms, nestled comfortably within 228 sqm. Enjoy time together in the large living spaces, host guests in your elegant dining room, and take advantage of a dedicated co-working area perfect for remote work or homework sessions. Soundproof walls throughout ensure quiet relaxation for all family members, while energy-efficient windows keep the home quiet and comfortable year-round.",
-  "neighborhood_description": "Situated just steps from the picturesque waterfront, Rynek boasts breathtaking mountain views and a welcoming, eco-conscious community. Embrace the vibrant outdoor lifestyle, with nature trails and green spaces at your doorstep\u2014all within easy reach via convenient highway access. The neighborhood is perfect for those seeking a close-knit, peaceful atmosphere in a renowned cultural and artistic destination.",
-  "bedrooms": 5,
+  "title": "Scandinavian Minimalist Haven with Smart Features in Nowy Sacz Suburbs",
+  "description": "This airy four-bedroom, three-bathroom house embodies minimalist Scandinavian elegance with light-washed interiors, sleek architectural lines, and a thoughtfully open-plan design. The home stretches across 183 sqm, featuring ample natural light throughout, underpinned by beautiful hardwood floors. Embrace seamless living with an advanced smart home system, video intercom, automated gates, and full air conditioning. Pet-friendly, this serene retreat is ideal for recharging, creating, and connecting in comfort.",
+  "neighborhood_description": "Set in the tranquil Suburb of Nowy Sacz, this property captures the spirit of a peaceful suburb while nestled close to waterfront spaces and echoing the town\u2019s historic and cultural charm. Enjoy quiet, leafy streets and friendly local caf\u00e9s, while the historic heart and creative district venues remain within practical reach by car. Instant highway access ensures journeys\u2014whether for a city trip or countryside escape\u2014are both swift and straightforward.",
+  "bedrooms": 4,
   "bathrooms": 3,
-  "size_sqm": 228,
+  "size_sqm": 183,
   "property_type": "house",
-  "city": "Kazimierz Dolny",
-  "neighborhood": "Rynek",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 1690000,
+  "price": 1590000,
   "key_features": [
-    "co-working space",
-    "terrace",
-    "soundproof walls",
-    "security system",
-    "children's playground area",
-    "energy-efficient windows"
+    "pets allowed",
+    "video intercom",
+    "smart home system",
+    "air conditioning",
+    "automatic gate",
+    "hardwood floors"
   ],
   "lifestyle_benefits": [
-    "Direct access to nature and mountain trails",
-    "Near the Vistula River waterfront",
-    "Playground for pets and children",
-    "Peaceful and quiet environment",
-    "Plenty of green space",
-    "Welcoming eco-conscious neighbors"
+    "quiet workspace for digital nomads",
+    "easy highway access for regional travel",
+    "private, pet-friendly setting",
+    "walks to the nearby waterfront",
+    "fresh air and natural light"
   ],
-  "target_buyer": "Perfect for families and pet owners seeking space, privacy, and a nurturing environment to grow and thrive, with access to outdoor recreation and modern amenities.",
-  "market_positioning": "This property offers an exceptional blend of tranquility, spaciousness, and practical features rarely found in central Kazimierz Dolny. It stands as a unique opportunity for those seeking a move-in ready family home with flexible live-work options in a scenic, culturally rich locale."
+  "target_buyer": "Remote professionals, small startup founders, creative individuals, or digital nomad families seeking Scandinavian-caliber style, privacy, and top connectivity with regional access.",
+  "market_positioning": "This property stands as a high-spec contemporary retreat in Nowy Sacz's peaceful suburbs, offering rarity in modern smart amenities, size, and architectural poise at an attractive price for a discerning remote work generation."
 }

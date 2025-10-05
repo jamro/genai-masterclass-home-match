@@ -1,36 +1,34 @@
 {
-  "title": "Modern Duplex Haven in Lively Wola with Superb Connectivity",
-  "description": "Experience the vibrant city life in this stylish 5-bedroom, 3-bathroom duplex, spanning a spacious 165 sqm. Impeccably finished, the property features expansive living areas with an open-plan design, natural light, and reversed-cycle underfloor heating for year-round comfort. The main suite comes complete with an ensuite bathroom, while guest rooms are perfectly sized for creative workspaces or guest stays. Private elevator access directly to the apartment and heated driveway add luxe, city-friendly touches.",
-  "neighborhood_description": "Located in Wola\u2014one of Warsaw\u2019s fastest-growing, highly urban neighborhoods\u2014this home sits amidst bike-friendly streets, community pockets, and hip urban caf\u00e9s. Enjoy unrivaled connectivity with proximity to public transport hubs, international business centers, and direct highway access, ideal for exploring both downtown Warsaw and beyond. Spending time outdoors is easy with green spaces just a jog or bike ride away.",
-  "bedrooms": 5,
+  "title": "Cozy Urban Oasis for Creative Minds in Lazarz",
+  "description": "Awash with natural light and thoughtfully redesigned for comfort and inspiration, this spacious six-bedroom house in the heart of Poznan\u2019s vibrant Lazarz blends tranquil green views with poetic architectural detailing. Stretching across 208sqm, this meticulously updated home masterfully combines modern utility and authentic character, boasting three luminous bathrooms, flowing open-plan spaces, and patio doors opening onto lush private gardens. Each floor whispers stories of modern craftsmanship: energy-efficient windows and a rainwater collection system keep life sustainable and serene, while an automatic gate delivers seamless convenience.",
+  "neighborhood_description": "Nestled amidst the leafy avenues of Lazarz, you\u2019ll find a rare radius of slowed pace in a decidedly lively city atmosphere. Famed for its buzzing local caf\u00e9s, verdant parks, and exceptional connections by tram and by bike, the neighborhood radiates both inspiration and accessibility. Serene strolls unwind just outside the gates while Poznan\u2019s best-loved eateries and markets are steps away\u2014inviting the world\u2019s digital creatives who crave both pulse and peace.",
+  "bedrooms": 6,
   "bathrooms": 3,
-  "size_sqm": 165,
-  "property_type": "duplex",
-  "city": "Warsaw",
-  "neighborhood": "Wola",
-  "urban_level": "high",
+  "size_sqm": 208,
+  "property_type": "house",
+  "city": "Poznan",
+  "neighborhood": "Lazarz",
+  "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines",
-    "highway"
+    "bike lines"
   ],
-  "price": 1680000,
+  "price": 1760000,
   "key_features": [
-    "private elevator access",
-    "ensuite bathroom in main suite",
-    "bicycle storage area",
-    "underfloor heating",
-    "heated driveway",
-    "dedicated workspace areas"
+    "motion-sensor exterior lights",
+    "patio doors opening to garden",
+    "energy-efficient windows",
+    "balcony",
+    "rainwater collection system",
+    "automatic gate"
   ],
   "lifestyle_benefits": [
-    "set in a buzzing expat hotspot",
-    "bike-commute friendly streets",
-    "element of community living in central Warsaw",
-    "excellent work-life balance opportunities",
-    "strong transport infrastructure",
-    "quiet residential surroundings despite city buzz"
+    "effortless work-from-home flow with multiple flexible rooms",
+    "peaceful garden oasis just outside",
+    "inspiring natural light ideal for creation",
+    "secure for worry-free travel and living",
+    "quick access to coworking spots and the city\u2019s creative hubs"
   ],
-  "target_buyer": "Ideal for young international professionals or families seeking sleek city living in a community-driven neighborhood, looking to blend home comfort with immediate access to Warsaw\u2019s business and leisure scene.",
-  "market_positioning": "Positioned as a premium yet practical choice for expats and professionals in the Warsaw market, offering a rare mix of large-format modern living within close reach of the city\u2019s cultural and corporate amenities."
+  "target_buyer": "Perfect for digital nomads or families craving roomy home-offices, lush greenery, and seamless city connections. Couples, global remote workers, and creators will find an ideal stage to blend private pursuits with vibrant urban living.",
+  "market_positioning": "This home stands as a rare convergence of generous living space, eco-conscious details, and unmistakably hip urban locale\u2014offered at a highly competitive price within Poznan\u2019s ascending market for modern-family dwellings with workspace flexibility."
 }

@@ -1,33 +1,33 @@
 {
-  "title": "Eco-Conscious Modern Apartment near Kamienny Potok Greenery",
-  "description": "Step into a bright, modern 2-bedroom, 2-bathroom apartment designed for energy efficiency and contemporary comfort. Spreading across 62 sqm, this thoughtfully planned home offers a spacious open-plan living area linked by patio doors to a secluded balcony and shared garden. Solar panels and top-grade insulation embrace sustainable living. Whether you prefer a cozy breakfast by the kitchen window or working in the dedicated home office nook, this space readily adapts to your lifestyle.",
-  "neighborhood_description": "Located in Sopot\u2019s Kamienny Potok, the apartment enjoys a harmonious blend of lively urban energy and lush green surroundings. The area is known for its family-friendly atmosphere, easy cycling routes, and numerous parks and playgrounds. Excellent public transport links ensure fast access to Sopot\u2019s seaside promenade, the Tricity tech ecosystem, shops, caf\u00e9s, and cultural hubs.",
+  "title": "Historic Loft Retreat with Mountain Views in Lake District, Elk",
+  "description": "Discover this unique loft that beautifully marries historic charm with modern convenience. With 2 spacious bedrooms and 1 well-appointed bathroom, this 84 sqm property features exposed brick walls and soaring ceilings boasting an abundance of natural light. The living space includes a flexible home office alcove\u2014perfect for digital nomads seeking inspiration and serenity. Private access and automated gate technology create a welcoming arrival, while residents also enjoy access to a shared swimming pool and conveniences like built-in wardrobes and a heated driveway for snowy days.",
+  "neighborhood_description": "Lake District Marries trendy and dynamic vibes with enduring mountain and lake views, inviting an outdoor-oriented lifestyle blending local charm and serenity. The vibrant local community supports creative work and slow-paced weekends, yet remains easily accessible thanks to nearby highways. Caf\u00e9s and artisan shops dot the small streets, infusing the area with warmth and creativity.",
   "bedrooms": 2,
-  "bathrooms": 2,
-  "size_sqm": 62,
-  "property_type": "apartment",
-  "city": "Sopot",
-  "neighborhood": "Kamienny Potok",
-  "urban_level": "medium",
+  "bathrooms": 1,
+  "size_sqm": 84,
+  "property_type": "loft",
+  "city": "Elk",
+  "neighborhood": "Lake District",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines"
+    "highway"
   ],
   "price": 1150000,
   "key_features": [
-    "balcony",
-    "patio doors opening to garden",
-    "solar panels",
-    "home office space",
-    "energy-efficient building"
+    "automatic gate",
+    "dedicated home office space",
+    "swimming pool access",
+    "built-in wardrobes",
+    "heated driveway",
+    "exposed brick",
+    "loft ceilings"
   ],
   "lifestyle_benefits": [
-    "eco-friendly living",
-    "outdoor relaxation spaces",
-    "convenient access to tech hub",
-    "family-friendly neighborhood",
-    "ideal for cycling enthusiasts"
+    "quiet surroundings for focused remote work",
+    "stunning natural landscape with mountain views",
+    "opportunity to join a close-knit international community",
+    "outdoor recreation opportunities year-round"
   ],
-  "target_buyer": "Ideal for first-time buyers seeking an eco-conscious, contemporary home with workspace flexibility and a focus on favourable running costs.",
-  "market_positioning": "This apartment stands out in Kamienny Potok\u2019s competitive mid-range sector as a forward-thinking home for modern lifestyles, offering sustainable amenities, smart space planning, and quick connectivity to both nature and city life."
+  "target_buyer": "Ideal for digital nomads, creatives, or young professionals seeking historic charm and a peaceful retreat with modern conveniences and workspace in scenic Elk.",
+  "market_positioning": "Situated in a growing market for remote workers, this unique historic loft stands out in Lake District with unparalleled character, top-notch amenities, and a lifestyle-oriented setting at a mid-upper price point. Perfectly positioned for buyers seeking authenticity and escape from urban bustle in the heart of Poland's emerging lifestyle destinations."
 }

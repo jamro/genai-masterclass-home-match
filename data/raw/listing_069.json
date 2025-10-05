@@ -1,32 +1,31 @@
 {
-  "title": "Charming Family House with Modern Amenities in Quiet Dyrekcja",
-  "description": "Welcome to your dream family haven! This beautifully presented detached house boasts three spacious bedrooms and two contemporary bathrooms, making it perfect for comfortable, relaxed family life. At 150 sqm, the property features an energy-efficient design to ensure year-round comfort and lower utility bills. You\u2019ll love the sun-filled living spaces, ideal for gatherings, and a dedicated home office space that makes working from home a breeze. The built-in wardrobes and generous storage ensure organizational bliss, while the effortless connection to the outdoor dining area makes entertaining enjoyable in every season.",
-  "neighborhood_description": "Located in the peaceful Dyrekcja district, you\u2019ll enjoy a sense of community and enhanced safety embraced by families and professionals alike. Dyrekcja\u2019s blend of serene setting with convenient proximity to Chelm\u2019s city center allows you to savor quiet evenings at home without missing out on urban benefits. Quick highway access makes commutes simple, and all daily necessities are just a short drive away.",
+  "title": "Scenic 3-Bed Apartment with Outdoor Living in Koscielisko",
+  "description": "Calling all young professionals and couples: Enjoy modern mountain living in this stylish 3-bedroom, 1-bathroom apartment in peaceful Koscielisko. With an airy 78 sqm layout, the space seamlessly blends comfort and function. Entertain or relax in the beautiful outdoor dining area, complete with views of the Tatras, and stay cozy year-round thanks to underfloor heating and air conditioning. Every detail is tailored for easy, contemporary living.",
+  "neighborhood_description": "Set in Zakopane's highly sought-after Koscielisko neighborhood, this apartment is surrounded by rolling greenery, mountain trails, parks, and family-friendly playgrounds. The area\u2019s strong sense of community, along with quick access to the highway for weekend getaways or commutes, makes it ideal for young people seeking both tranquility and connectedness.",
   "bedrooms": 3,
-  "bathrooms": 2,
-  "size_sqm": 150,
-  "property_type": "house",
-  "city": "Chelm",
-  "neighborhood": "Dyrekcja",
+  "bathrooms": 1,
+  "size_sqm": 78,
+  "property_type": "apartment",
+  "city": "Zakopane",
+  "neighborhood": "Koscielisko",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 1350000,
+  "price": 889000,
   "key_features": [
-    "energy-efficient windows",
-    "home office space",
-    "built-in wardrobes",
     "outdoor dining area",
-    "private garden"
+    "air conditioning",
+    "underfloor heating",
+    "balcony with mountain views",
+    "modern open-plan living space"
   ],
   "lifestyle_benefits": [
-    "peaceful family life",
-    "safe neighborhood",
-    "easy city center access",
-    "generous private space",
-    "opportunity for luxury living in calm surroundings"
+    "close to nature trails and parks",
+    "community-focused surroundings",
+    "convenient access for weekend adventures",
+    "quiet, child-friendly streets"
   ],
-  "target_buyer": "Ideal for families or couples seeking an upscale lifestyle with room to grow in a safe, community-oriented area close to the conveniences of Chelm.",
-  "market_positioning": "Positioned as an upscale, move-in ready home for discerning buyers who desire modern amenities in a tranquil neighborhood while maintaining easy access to city conveniences and commuter routes."
+  "target_buyer": "Ideal for young couples and professionals who desire a fresh, well-equipped space with access to nature and community but without urban congestion.",
+  "market_positioning": "This property stands out as a rare modern find in a scenic, tranquil neighborhood in Zakopane, offering top-notch finishes in a price bracket attractive to young professionals seeking their first home or a smart long-term investment."
 }

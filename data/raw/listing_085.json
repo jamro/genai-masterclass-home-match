@@ -1,31 +1,33 @@
 {
-  "title": "Sleek Premium One-Bedroom Apartment with Private Garden Retreat",
-  "description": "Step inside this exquisitely designed one-bedroom apartment, where comfort meets refined luxury across a bright, 46 sqm living space. Premium finishes, smart layout and expansive windows ensure the perfect ambiance for work and leisure. Enjoy access to your own private garden oasis while staying fully connected and secure via modern video intercom system. Perfect for those who desire tranquility without compromising on style or convenience.",
-  "neighborhood_description": "Set within the artistic-yet-relaxed charm of Suburb, the apartment blends privacy with a lively creative atmosphere. Locals are drawn by artisan caf\u00e9s, boutique design shops and community galleries, all complemented by ready highway access for easy connections. Essential shops, quality dining options and green spaces are always nearby.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 46,
-  "property_type": "apartment",
-  "city": "Nowy Sacz",
-  "neighborhood": "Suburb",
+  "title": "Modern Mountain Loft Retreat in Pardalowka",
+  "description": "Discover contemporary alpine living in this expansive three-bedroom loft in Zakopane\u2019s tranquil Pardalowka. Brimming with natural light, this stylish home features elegant hardwood floors that flow throughout a spacious open-plan living area. The loft offers two modern bathrooms, an intuitive smart home system, and floor-to-ceiling windows leading onto a private terrace. Whether you are lounging or hosting in the residents' exclusive lounge or utilizing spacious personal storage, your comfort is always ensured.",
+  "neighborhood_description": "Located in the peaceful Pardalowka neighborhood, this area offers the ideal mix of contemporary amenities and natural beauty. While enjoying a quieter mountain atmosphere, you\u2019ll be just minutes from trendy caf\u00e9s, local shopping, and excellent dining options for all occasions. Thoughtful modern developments blend with lively energy, making this an inspiring place for young professional families who value tranquility but don\u2019t want to sacrifice style or convenience.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 112,
+  "property_type": "loft",
+  "city": "Zakopane",
+  "neighborhood": "Pardalowka",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 845000,
+  "price": 1425000,
   "key_features": [
-    "video intercom",
-    "bicycle storage",
-    "fitness center",
-    "shopping and dining nearby",
-    "private garden"
+    "hardwood floors",
+    "residents' lounge",
+    "smart home system",
+    "terrace",
+    "storage locker",
+    "heated driveway"
   ],
   "lifestyle_benefits": [
-    "quiet creative workspace",
-    "move-in ready premium finish",
-    "easy highway commute",
-    "vibrant community feel with artistic neighbor vibe"
+    "ideal for family living",
+    "children-friendly communal areas",
+    "peaceful mountain surroundings",
+    "close to shopping and dining",
+    "modern yet quiet environment"
   ],
-  "target_buyer": "Ideal for digital nomads, professional singles and creative entrepreneurs seeking a peaceful residential address while staying close to a connected urban network and lifestyle amenities.",
-  "market_positioning": "Stands above comparable offerings with its private outdoor space, luxury fixtures and active creative community, delivering an aspirational live-and-work residence at the heart of rising Nowy Sacz quarters."
+  "target_buyer": "Young professionals or families with children seeking a stylish mountain home with modern comforts and ample space to grow, minutes from Zakopane\u2019s best amenities.",
+  "market_positioning": "Positioned as a unique luxury family loft in a serene but quickly appreciating location, this property offers a combination of space, innovation, and lifestyle rarely found in Zakopane. It appeals to buyers prioritizing both privacy and modern community living."
 }

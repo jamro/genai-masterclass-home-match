@@ -1,35 +1,33 @@
 {
-  "title": "Trendy Artistic Loft with Convenient Urban Living in Katowice D\u0105b",
-  "description": "Experience modern comfort in this stylish loft featuring vaulted ceilings and an open layout ideal for creative living. The 82 sqm space offers two spacious bedrooms, a contemporary bathroom, and a sunlit living area that\u2019s perfect for both work and relaxation. The state-of-the-art kitchen, ample laundry room, and organized walk-in closet combine function with flair, creating the ultimate adaptable home for today\u2019s modern lifestyle.",
-  "neighborhood_description": "D\u0105b stands out as one of Katowice\u2019s most vibrant neighborhoods, known for its strong cultural presence and bustling arts scene. Steps from your door, you'll find art galleries, local cafes, and an array of community events\u2014a true haven for creative minds. Excellent public transport links, bike paths, and highways mean commuting anywhere in the city is always within easy reach.",
-  "bedrooms": 2,
-  "bathrooms": 1,
-  "size_sqm": 82,
-  "property_type": "loft",
-  "city": "Katowice",
-  "neighborhood": "D\u0105b",
-  "urban_level": "high",
+  "title": "Elegant Duplex Retreat in Krosno Old Town with Contemporary Luxury",
+  "description": "Introducing a distinguished duplex featuring five spacious bedrooms and two elegantly appointed bathrooms, spread across 215 square meters of inspiring living space. The property boasts an open floor plan with meticulously crafted interiors, complemented by underfloor heating and a state-of-the-art video intercom system. Two private balconies offer peaceful spots for morning coffee or evening relaxation, and select residents enjoy access to a shared swimming pool, ideal for unwinding. Attention to winter comfort is ensured with a premium heated driveway.",
+  "neighborhood_description": "Set in the charming Old Town neighborhood of Krosno, this property offers serene surroundings and a pet-friendly ethos. Here, residents revel in the quiet atmosphere, tree-lined avenues, and the welcoming sense of community characteristic of low-density living. With direct access to major highways, this address blends tranquil privacy with convenient connectivity for quick getaways or daily commuting.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 215,
+  "property_type": "duplex",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
     "highway"
   ],
-  "price": 1050000,
+  "price": 1290000,
   "key_features": [
-    "laundry room",
-    "walk-in closet",
-    "modern kitchen",
-    "open-plan living space",
-    "exposed brick walls",
-    "urban views"
+    "balcony",
+    "underfloor heating",
+    "open floor plan",
+    "swimming pool access",
+    "video intercom",
+    "heated driveway"
   ],
   "lifestyle_benefits": [
-    "close to coworking spaces",
-    "fast internet connectivity",
-    "cross-city accessibility",
-    "steps from art galleries & caf\u00e9s",
-    "quiet enough for remote work"
+    "quiet, restful ambiance",
+    "opportunities for hosting and entertaining",
+    "pet-friendly environment",
+    "year-round comfort with climate control technology",
+    "relaxed evenings outdoors"
   ],
-  "target_buyer": "Remote workers, freelancers, and small families seeking an artistic environment to live, work, and thrive, offered up in a move-in ready package.",
-  "market_positioning": "One of only a handful of true artist-inspired lofts in D\u0105b, this home blends creativity and comfort, delivering true value for buyers wishing to join the heart of Katowice\u2019s cultural and digital community."
+  "target_buyer": "Perfectly suited for dynamic young couples or families seeking standout style, modern amenities, and a peaceful Berkeley of the city's historical heart.",
+  "market_positioning": "This luxurious duplex is distinct in its offering: sumptuously equipped and positioned within Krosno's captivating Old Town, it presents an exclusive opportunity in a usually historic and understated part of town. Luxury real estate options with such a coherent blend of modern design and tranquil neighborhood setting seldom come to market, underscoring its unique appeal for high-end buyers."
 }

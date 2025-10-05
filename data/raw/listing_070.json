@@ -1,34 +1,38 @@
 {
-  "title": "Modern Studio Living in the Heart of Sopot Centrum",
-  "description": "Experience contemporary comfort in this chic, sunlit studio situated in Sopot's vibrant Centrum. The intelligently designed 34 sqm layout features a stylish open-plan living/bedroom area, a sleek modern kitchen, separate bathroom, and dedicated workspace, perfect for remote work or creative projects. Enjoy peace of mind with 24/7 security and convenient access to a personal storage locker.",
-  "neighborhood_description": "Located just steps from Sopot\u2019s beautiful waterfront, Centrum puts you at the center of a dynamic, growing neighborhood with excellent dining, shopping, and cultural hotspots. Commuting is effortless thanks to extensive public transport, city bike lines, and quick highway access. Take evening strolls along the seaside promenade and experience the best of modern urban living.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 34,
-  "property_type": "studio",
-  "city": "Sopot",
-  "neighborhood": "Centrum",
-  "urban_level": "high",
+  "title": "Duplex Dream: Stylish 5-Bedroom Living for Students in Polesie",
+  "description": "Dappled in golden sunlight and high on function, this newly renovated duplex welcomes you to a world of vibrant student life. The property unfurls generous living space across two levels, with five serene bedrooms marked by soundproofed harmony and modern design. An open-plan living area flows seamlessly into a contemporary kitchen, and three refined bathrooms cater to group tranquility and style. Every corner details intentional artistic touches, creating an inviting and uplifting atmosphere ideal for shared aspirations.",
+  "neighborhood_description": "Nestled in Lodz\u2019s sought-after Polesie district, experience the thrill of mountain views and leafy bike trails interwoven through a bustling, balanced neighborhood. This medium-urban enclave nurtures a diverse, youthful population and stands out for its robust public transport links and easy highway access\u2014perfect for city adventure and weekend escapes. Cozy cafes, local art galleries, and open green spaces inspire a harmonious daily rhythm of study and leisure.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 162,
+  "property_type": "duplex",
+  "city": "Lodz",
+  "neighborhood": "Polesie",
+  "urban_level": "medium",
   "transport_options": [
     "public transport",
     "bike lines",
     "highway"
   ],
-  "price": 495000,
+  "price": 1420000,
   "key_features": [
-    "modern kitchen",
-    "home office space",
-    "24/7 security",
-    "storage locker",
-    "close to public transport"
+    "newly renovated interior",
+    "five bedrooms with ample natural light",
+    "modern kitchen with energy-efficient appliances",
+    "soundproof walls for privacy and study focus",
+    "on-site fitness center",
+    "three stylish bathrooms",
+    "spacious bike storage",
+    "high-speed Internet-ready",
+    "close to public transportation"
   ],
   "lifestyle_benefits": [
-    "walk to the waterfront",
-    "dynamic social scene",
-    "compact city living",
-    "close to cafes and culture",
-    "active outdoor lifestyle"
+    "perfectly suited for shared living among students",
+    "quick access to university campuses",
+    "excellent biking routes for fresh mountain air escapes",
+    "balanced routine of study and recreation",
+    "serene communal areas for social events and group projects"
   ],
-  "target_buyer": "Ideal for young professionals or couples seeking a vibrant urban lifestyle with seamless coastal access, or for families searching for a practical secondary home in a lively area.",
-  "market_positioning": "This property stands out for its modern amenities and unbeatable downtown location, providing exceptional value and solid rental potential in Sopot\u2019s highly sought-after Centrum."
+  "target_buyer": "University students or a group of young professionals seeking premium, communal, and inspirational living in a vibrant urban-meets-campus environment.",
+  "market_positioning": "Uniquely designed for collaborative living, this Polesie duplex captures impeccable style and functionality for the student market. Its newly renovated interiors and thoughtful amenities position it as an exclusive, high-comfort solution in Lodz\u2019s busy mid-tier market, standing apart for modern upgrades, convenience, and immersive community alignment."
 }

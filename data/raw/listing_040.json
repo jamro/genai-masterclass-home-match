@@ -1,33 +1,38 @@
 {
-  "title": "Chic Studio Haven in Artful Brynow",
-  "description": "Step into this luminous studio nestled in the creative quarter of Brynow, Katowice. Bathed in natural light, the apartment ingeniously maximizes space with an open living area, stylish kitchenette, and dedicated sleeping alcove. The modern ensuite bathroom features elegant fixtures and refined finishes, complete with a rain shower. Smart home features allow you to set the ambiance for inspiration\u2014or deep focus\u2014with a touch of your smartphone.",
-  "neighborhood_description": "Brynow beckons with its blend of historic charm and spirited modernity, excellent caf\u00e9s, and welcoming spaces for you and your companions\u2014four-legged ones included. Enjoy the relaxed rhythms of local life, vibrant green parks, and the buzz of cultural happenings just moments from your door. Well-developed bike lines and public transport cater to every pace of exploration and commute.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 33,
-  "property_type": "studio apartment",
-  "city": "Katowice",
-  "neighborhood": "Brynow",
+  "title": "Family Haven Duplex with Garden: Where Pets and People Thrive in Bronowice",
+  "description": "Embrace urban serenity and vibrant style in this enchanting four-bedroom duplex in Krakow\u2019s beloved Bronowice neighborhood. Bathed in sunlight, each room blends modern artistry with comfort\u2014perfect for unwinding with pets or hosting friends. The heart of the home features a generous living space seamlessly extending to an outdoor dining terrace marked by lush greenery. Enjoy the rarity of two elegantly designed bathrooms, a spacious laundry room, and abundant storage thoughtfully integrated throughout.",
+  "neighborhood_description": "Bronowice stands out for its spirited urban vibe balanced with welcoming warmth\u2014ideal for four-legged companions and their families. Parks, dog-friendly bistros, and artsy corners liven up the surroundings, while practical perks such as direct public transport, sprawling bike lines, and quick access to city highways make everyday living effortless. Local crafts, music, street food, and pet stores ensure life in Bronowice is always dynamic and convenient.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 145,
+  "property_type": "duplex",
+  "city": "Krakow",
+  "neighborhood": "Bronowice",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines"
+    "bike lines",
+    "highway",
+    "airport"
   ],
-  "price": 419000,
+  "price": 1620000,
   "key_features": [
-    "ensuite bathroom",
-    "smart home system",
-    "access to fitness center",
-    "built-in storage",
-    "open living design"
+    "storage room",
+    "outdoor dining area",
+    "laundry room",
+    "barbecue zone",
+    "motion-sensor exterior lights",
+    "private garden",
+    "multi-level layout",
+    "parking space"
   ],
   "lifestyle_benefits": [
-    "ideal for remote work and freelancers",
-    "steps from local caf\u00e9s and galleries",
-    "community green spaces nearby",
-    "pet-friendly environment",
-    "secure Bike storage"
+    "tailored for pet owners",
+    "easy access to parks and walking trails",
+    "safe, secure outdoor areas",
+    "ideal for family gatherings and entertaining",
+    "vibrant local culture and amenities nearby"
   ],
-  "target_buyer": "Remote professionals or creatives seeking a stylish, flexible home base in a charismatic neighborhood, perfect for mixing work and lifestyle.",
-  "market_positioning": "Tailored for modern urban dwellers, this thoughtfully efficient studio competes at the premium end of Katowice\u2019s single-bedroom market due to its combination of contemporary features, community vibes, and coveted Brynow address."
+  "target_buyer": "Animal lovers and vibrant families seeking an uplifting retreat for both people and pets within a friendly neighborhood, balancing tranquility and active city life.",
+  "market_positioning": "This unique duplex positions itself among Bronowice's finest pet-friendly residences, rarely matched for thoughtful amenities, generous outdoor spaces, and effortless city connectivity\u2014standing as an aspirational home for modern Krakow dwellers."
 }

@@ -1,35 +1,32 @@
 {
-  "title": "Sleek Scandinavian Duplex With Garden Views in Bronowice",
-  "description": "Experience pared-back elegance in this newly renovated Scandinavian-style duplex. Offering 3 airy bedrooms, 3 minimalist bathrooms, and a sun-drenched living area, the property blends natural textures with clean lines. Glass doors open onto a private balcony, while floor-to-ceiling windows welcome tranquil garden glimpses inside. Contemporary finishes throughout invite both calm and comfort.",
-  "neighborhood_description": "Set in vibrant Bronowice, this home is perched in a district pulsing with dynamic energy and balanced outdoor possibilities. Bestowed with parks, local squares, trendy cafes, and boutique shopping, the neighborhood supports a lively and active lifestyle. Public transport and bike lines interlace the area, while fast highway and airport access circulate you to the broader pulse of Krakow or beyond.",
+  "title": "Historic Charm Apartment Overlooking Rynek Square",
+  "description": "Step into timeless elegance with this beautifully restored three-bedroom apartment in the heart of Kazimierz Dolny\u2019s storied Rynek. Generously appointed with 125 sqm of living space, the residence blends historic character with modern comfort. The apartment features a sunlit living area, elegant parquet floors, two stylish bathrooms, including one ensuite, and refined period details throughout.",
+  "neighborhood_description": "Discover life in charming Rynek, moments from the bustling market and artisan shops that draw visitors year-round. The neighborhood\u2019s classic facades, cobblestone squares, and riverside lanes create a unique investment landscape beloved by culture seekers. A short distance to the waterfront, refined dining, and boutique shopping make this a vibrant yet relaxing setting.",
   "bedrooms": 3,
-  "bathrooms": 3,
-  "size_sqm": 135,
-  "property_type": "duplex",
-  "city": "Krakow",
-  "neighborhood": "Bronowice",
-  "urban_level": "medium",
+  "bathrooms": 2,
+  "size_sqm": 125,
+  "property_type": "apartment",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
-    "highway",
-    "airport"
+    "highway"
   ],
-  "price": 1495000,
+  "price": 1120000,
   "key_features": [
-    "newly renovated Scandinavian interior",
-    "landscaped communal surroundings",
-    "private balcony overlooking greenery",
-    "wheelchair accessible entrance and lift",
-    "dedicated pet zone in gardens",
-    "energy-efficient smart appliances"
+    "underground garage",
+    "quiet neighborhood setting",
+    "swimming pool access",
+    "ensuite bathroom",
+    "shopping and dining nearby",
+    "children's playground area"
   ],
   "lifestyle_benefits": [
-    "walk to parks and cafes with your pet",
-    "cycle-friendly streets at your doorstep",
-    "seamless highways and public transit",
-    "ample room for home-based living with pets"
+    "Embrace a prestigious address in Kazimierz Dolny",
+    "Easy walk to galleries, eateries, and the waterfront",
+    "Privacy and calm just steps from cultural events",
+    "Access to family and leisure amenities year-round"
   ],
-  "target_buyer": "Ideal for modern couples or young families, especially pet owners who value seamless indoor-outdoor connections and nearby communal green spaces.",
-  "market_positioning": "This turnkey duplex brings a rare blend of fresh interiors and lifestyle-oriented amenities to Bronowice at a competitive price for the area, appealing to buyers seeking move-in ready quality and a lively, well-connected yet balanced urban atmosphere."
+  "target_buyer": "Ideal for seasoned property investors seeking a storied address that combines passive rental appeal with long-term value in a culturally vibrant and picturesque town.",
+  "market_positioning": "An exclusive opportunity in the highly desirable Rynek, perfect for those targeting historic residences with outstanding investment potential and strong seasonal rental demand."
 }

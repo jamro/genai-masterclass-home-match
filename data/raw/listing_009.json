@@ -1,33 +1,35 @@
 {
-  "title": "Serene Scandinavian Apartment for Modern Living in Leszno's Zatorze",
-  "description": "This minimalist one-bedroom apartment embodies Scandinavian charm with clean-lined interiors and an efficient open-plan design. Spacious at 49 sqm, it features one bathroom, a bright living space flowing seamlessly into a sleek kitchen, and thoughtful modern finishes throughout. Underfloor heating ensures year-round comfort, while the walk-in closet provides practical storage to keep life clutter-free. Smart home integrations bring ease, adapting lighting, heating, and security straight from your device.",
-  "neighborhood_description": "Located in Zatorze, one of Leszno\u2019s most up-and-coming neighborhoods, residents enjoy modern developments set in a community-driven, tech-oriented area with convenient access to highways and public transport. With communal amenities like a children's playground and landscaped paths, plus bike-friendly streets, Zatorze strikes a harmonious balance between modern living and wellness.",
-  "bedrooms": 1,
-  "bathrooms": 1,
-  "size_sqm": 49,
-  "property_type": "apartment",
-  "city": "Leszno",
-  "neighborhood": "Zatorze",
+  "title": "Loft-Style Duplex Haven with Smart Charm in Wilda",
+  "description": "Step into a spacious and beautifully designed duplex, blending urban sophistication with serene privacy across 132sqm. This sunny 3-bedroom, 3-bath treasure impresses with expansive windows, soaring ceilings, and thoughtfully curated modern touches. The heart of this home is its open living space, enhanced by a smart home system and a seamlessly controlled modern lighting design, ensuring your environment is always just as you desire. Whether hosting friends or enjoying a peaceful remote work session, the tranquil bedrooms\u2014including a dreamy walk-in closet and your own fitness nook\u2014elevate daily living not just in location, but in lifestyle.",
+  "neighborhood_description": "Wilda vibrantly balances Poznan\u2019s energy with its own relaxed yet trendy rhythm\u2014creative spaces tucked among caf\u00e9s, lush parks, and pet-friendly lanes. Well-connected with public transport and bordered by smooth bike lines, the neighborhood encourages easy city access as well as inspiring wanderings on foot or wheel.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 132,
+  "property_type": "duplex",
+  "city": "Poznan",
+  "neighborhood": "Wilda",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "highway"
+    "bike lines"
   ],
-  "price": 713000,
+  "price": 1490000,
   "key_features": [
-    "underfloor heating",
-    "walk-in closet",
+    "modern lighting system",
     "smart home system",
-    "storage room",
-    "children's playground area",
-    "wheelchair accessibility"
+    "underground garage",
+    "fitness center",
+    "video intercom",
+    "walk-in closet"
   ],
   "lifestyle_benefits": [
-    "seamless remote work environment",
-    "tech-enabled and secure building",
-    "close-knit, community-oriented surroundings",
-    "ideal for those valuing comfort and functionality"
+    "dedicated remote work areas",
+    "pet-friendly building",
+    "access to on-site fitness center",
+    "private underground parking",
+    "tranquil, quiet rooms ideal for focus and creativity",
+    "inspiring surroundings rich in character and style"
   ],
-  "target_buyer": "Ideal for single professionals or couples embracing remote work, who value intelligent design, accessibility, and a connected, community-forward lifestyle in a vibrant yet peaceful area.",
-  "market_positioning": "Positioned as a modern, premium choice in Leszno\u2019s residential market, ideal for discerning buyers craving minimalist elegance integrated with innovative smart amenities in a sought-after neighborhood."
+  "target_buyer": "Perfect for remote workers, creative professionals, or young couples who value flexible, work-from-home spaces blended with modern design and amenities to enjoy both productivity and relaxation. Also great for those with pets or seeking seamless city access with a neighborhood feel.",
+  "market_positioning": "This duplex stands apart in Wilda's high-demand market by combining an impressive suite of smart home technologies with lush comfort and flexibility tailored to creative lifestyles. The price positions it enticingly for buyers seeking a refined but down-to-earth retreat within walking distance of Poznan\u2019s excitement and workplace hubs."
 }

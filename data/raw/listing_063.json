@@ -1,36 +1,34 @@
 {
-  "title": "Eco-Chic Duplex Retreat in the Heart of Zakopane Centrum",
-  "description": "This newly renovated duplex offers an inviting blend of sustainable design and contemporary lifestyle. With three spacious bedrooms and three elegant bathrooms, this 150 sqm residence boasts a fresh, modern interior that radiates light and comfort. A generous balcony brings the outdoors in, offering spectacular mountain views and the perfect spot for morning coffee or hosting friends. A dedicated storage locker adds convenience and enhances your organizational potential.",
-  "neighborhood_description": "Nestled in Zakopane's pulsing Centrum district, this address lets you experience vibrant local life amid cozy caf\u00e9s, artisanal shops, and lush parks. Children and adults alike will love the proximity to playgrounds and green spaces, while public transport and quick highway access make commuting and business travel seamless.",
-  "bedrooms": 3,
-  "bathrooms": 3,
-  "size_sqm": 150,
-  "property_type": "duplex",
-  "city": "Zakopane",
-  "neighborhood": "Centrum",
+  "title": "Historic Loft Living with Modern Touches in Trendy Pr\u0105dnik Bia\u0142y",
+  "description": "Step into timeless sophistication with this beautifully renovated 2-bedroom loft in one of Krakow\u2019s most sought-after historic quarters. This spacious 97 sqm home invites brilliant natural light across its open floor plan, seamlessly blending contemporary comforts with classic charm. Enjoy a morning coffee on your private terrace or host friends in the stylishly updated living area while overlooking a picturesque, shared courtyard. Impeccably maintained common areas echo the warmth of Krakow\u2019s architectural splendor, providing a dignified welcome for both residents and guests.",
+  "neighborhood_description": "Pr\u0105dnik Bia\u0142y boasts an airy, artistic vibe with its caf\u00e9s, independent galleries, and an active creative community right at your doorstep. Perfectly situated near the city center, this locale balances tranquility with connectivity\u2014riverside walks, lively cultural events, and boutique shopping are all within easy reach. The excellent public transit and nearby highway offer seamless access to both central Krakow and the scenic riversides.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 97,
+  "property_type": "loft",
+  "city": "Krakow",
+  "neighborhood": "Pradnik Bialy",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
     "highway"
   ],
-  "price": 1580000,
+  "price": 1150000,
   "key_features": [
-    "newly renovated interior",
-    "large balcony with mountain views",
-    "private storage locker",
-    "dedicated parking space",
-    "high-end eco-friendly appliances",
-    "triple-glazed windows",
-    "in-floor heating",
-    "energy-efficient lighting"
+    "terrace",
+    "open floor plan",
+    "shared courtyard",
+    "well-maintained common areas",
+    "newly renovated interior"
   ],
   "lifestyle_benefits": [
-    "smart layouts ideal for hybrid work",
-    "vibrant social atmosphere",
-    "direct access to business hubs",
-    "immersive outdoor activities in nature",
-    "walking distance to caf\u00e9s & coworking spaces"
+    "relaxed mornings on the terrace",
+    "walking distance to art spaces and galleries",
+    "vibrant social scene",
+    "quiet, heritage-rich surroundings",
+    "",
+    "easy connectivity to medical services"
   ],
-  "target_buyer": "Perfect for eco-minded entrepreneurs and remote professionals seeking a modern home-base in Zakopane\u2019s central, well-connected district.",
-  "market_positioning": "Positioned above standard offerings in Centrum, this property\u2019s modern eco-upgrades and design-forward renovation make it a top choice for buyers seeking comfort, sustainability, and business-minded amenities."
+  "target_buyer": "Ideal for retirees seeking an elegant, spacious home immersed in culturally rich surroundings, where calm living blends with creative opportunities and excellent urban amenities.",
+  "market_positioning": "This loft holds a unique position in the market, marrying historic character and modern convenience, particularly appealing to buyers valuing a cultivated lifestyle in close proximity to Krakow\u2019s iconic core yet with a peaceful atmosphere tailored to mature residents."
 }

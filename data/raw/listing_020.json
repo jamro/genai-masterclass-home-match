@@ -1,34 +1,32 @@
 {
-  "title": "Spacious Family House Perfect for Student Living in Karlikowo, Sopot",
-  "description": "This inviting, detached house in Karlikowo offers 6 bright bedrooms and 3 comfortable bathrooms across 238 sqm of thoughtfully organized space. The living area features a welcoming fireplace as a main hub, ideal for gatherings and cozy nights in. Beautifully landscaped surroundings, private parking, and up-to-date 24/7 security, including motion-sensor exterior lighting, assure both comfort and peace of mind. Whether enjoying sun in the garden or relaxing with friends indoors, the flexible layout is ready for both studying and living well.",
-  "neighborhood_description": "Located in the fast-growing Karlikowo neighborhood of Sopot, this property places you mere moments from the business district and various local cafes, grocery shops, and restaurants. Proximity to public transport and curated bike lines makes every commute easy and safe, while still enjoying a quiet street setting and green areas.",
-  "bedrooms": 6,
-  "bathrooms": 3,
-  "size_sqm": 238,
-  "property_type": "house",
-  "city": "Sopot",
-  "neighborhood": "Karlikowo",
-  "urban_level": "medium",
+  "title": "Minimalist Scandinavian Loft with Nature at Your Doorstep",
+  "description": "Discover refined simplicity in this one-bedroom, one-bathroom loft in Dyrekcja, Chelm. Tailored for functional elegance, the open-plan interior and built-in wardrobes offer clever storage while maintaining visual ease. Southern exposure fills every corner with natural light, marrying industrial design with a calm residential spirit. Modern amenities like an elevator and wheelchair accessibility ensure comfort and convenience for all residents.",
+  "neighborhood_description": "Nestled in Dyrekcja, this loft benefits from a subtly bustling, bike-friendly neighborhood defined by winding lanes and lush green pockets. The relaxed, semi-rural ambiance offers peace while still providing quick highway access, ideal for those valuing escape and connectivity in equal measure. A perfect setting for leisurely walks, cycling, and quiet evenings at home or in nearby parks.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 55,
+  "property_type": "loft",
+  "city": "Chelm",
+  "neighborhood": "Dyrekcja",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines"
+    "highway"
   ],
-  "price": 1875000,
+  "price": 935000,
   "key_features": [
+    "elevator access",
+    "wheelchair accessibility",
+    "modern fa\u00e7ade design",
+    "built-in wardrobes",
     "quiet neighborhood setting",
-    "landscaped surroundings",
-    "private parking space",
-    "24/7 security",
-    "motion-sensor exterior lights",
-    "fireplace"
+    "solar panels"
   ],
   "lifestyle_benefits": [
-    "spacious layout for shared or individual study",
-    "secure surroundings for peace of mind",
-    "easy walk or bike to university",
-    "welcoming communal spaces ideal for group living",
-    "ample natural light in all rooms"
+    "direct highway access",
+    "bike-friendly surroundings",
+    "abundant outdoor space for pets",
+    "relaxed pace of living"
   ],
-  "target_buyer": "Perfect for groups of university students sharing accommodation, young families seeking extra space near educational hubs, or investors looking for strong rental appeal in a developing area.",
-  "market_positioning": "Sought-after large home in a well-connected,\"medium urban\" environment close to Sopot's academic and business centers\u2014at an attractive price for families or student collectives seeking security, space, and convenience."
+  "target_buyer": "Ideal for individuals, couples, or professionals who prioritize tranquility, natural light, sustainability, and seamless pet ownership close to major transit routes.",
+  "market_positioning": "A rare modern loft combining Scandinavian restraint with eco-friendly touches, perfectly situated for those seeking calm living with direct road connections, appealing to buyers who cherish both simplicity and functionality."
 }

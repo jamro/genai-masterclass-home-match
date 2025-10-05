@@ -1,33 +1,32 @@
 {
-  "title": "Subtle Sanctuary: Five-Bedroom Scandinavian Retreat on Krosno\u2019s Historic Edge",
-  "description": "This spacious, minimalist five-bedroom house blends clean lines, light tones, and natural finishes in a classic Old Town setting. Covering 215 square meters, it offers three sleek bathrooms, extensive built-in storage including a dedicated locker, and underfloor heating for year-round comfort. Large, airy windows invite daylight into flexible living spaces designed for tranquility and versatility. ",
-  "neighborhood_description": "Old Town, Krosno, is a neighborhood defined by centuries-old architecture and cobbled streets. Its growing reputation as a tech-oriented enclave subtly energizes the serene atmosphere, bringing together innovation and history for a unique local culture. Convenient highway access ensures calm daily rhythms without feeling distant from city essentials.",
-  "bedrooms": 5,
-  "bathrooms": 3,
-  "size_sqm": 215,
+  "title": "Expansive Family Retreat Framed by Suwa\u0142ki\u2019s Tranquil Horizons",
+  "description": "Step into this elegant six-bedroom house, thoughtfully blending countryside serenity with refined comfort. Sunrays stream through wide patio doors, leading from the main living space out to a lush garden with unobstructed mountain views. Two harmonious bathrooms complement a spacious layout, while a gentle sustainability whispers in thoughtful touches like motion-sensor exterior lights. Over 240 square meters of living spaces create an inviting and pet-friendly paradise with ample indoor and outdoor territories.",
+  "neighborhood_description": "Settled quietly in P\u00f3\u0142nocne\u2014a gem on Suwa\u0142ki's greener edge\u2014this home gazes over rolling lands and distant mountains. The local vibe encourages a relaxed, outdoorsy pace, perfect for enjoying crisp air and nature trails while benefiting from swift connectivity via a nearby highway. Here, life embodies room for expansion\u2014gardens grow larger, mornings start slower, and neighbors share warm hellos.",
+  "bedrooms": 6,
+  "bathrooms": 2,
+  "size_sqm": 242,
   "property_type": "house",
-  "city": "Krosno",
-  "neighborhood": "Old Town",
+  "city": "Suwa\u0142ki",
+  "neighborhood": "P\u00f3\u0142nocne",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 1425000,
+  "price": 1280000,
   "key_features": [
-    "dedicated storage locker",
-    "underfloor heating throughout",
-    "double-glazed blackout windows",
-    "usable attic space",
-    "minimalist open staircase",
-    "hardwood floors",
-    "new appliances"
+    "motion-sensor exterior lights",
+    "balcony",
+    "patio doors opening to garden",
+    "landscaped private backyard",
+    "expansive living and dining area",
+    "dedicated laundry room"
   ],
   "lifestyle_benefits": [
-    "exceptional privacy and stability",
-    "ample space for home workstations or studios",
-    "walkable historic streets with emerging boutique culture",
-    "proximate to growing civic amenities yet embedded in calm surroundings"
+    "perfect for pet owners\u2014safe and grassy outdoor space",
+    "tranquil setting ideal for relaxation or creative pursuits",
+    "limitless dog-friendly walking trails nearby",
+    "ample room for crafting, hobbies, and celebrations under starlit skies"
   ],
-  "target_buyer": "Ideal for long-term tenants or families prioritizing privacy, creative workspace flexibility, and a harmonious lifestyle rooted in both tradition and contemporary design.",
-  "market_positioning": "A rare opportunity in Krosno\u2019s rising Old Town, this house sets itself apart by merging Scandinavian minimalist architecture with the local blend of history and forward-thinking sensibility\u2014a perfect fit for new-market professionals and families who value substance over flashiness."
+  "target_buyer": "Big-hearted families, animal lovers, or anyone seeking the unhurried rhythms of nature\u2014with ample room for both children and cherished pets. Ideal for those wanting privacy and space, yet fast access to main roads.",
+  "market_positioning": "This expansive property stands uniquely among Suwa\u0142ki\u2019s listings as a picturesque family enclave\u2014rarely found with such generous living proportions and a peaceful, pet-friendly locale, while remaining attractively priced well within reach for discerning buyers seeking more than just a home."
 }

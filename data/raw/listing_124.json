@@ -1,34 +1,33 @@
 {
-  "title": "Minimalist Sanctuary Bathing in Nature with Scandinavian Distinction",
-  "description": "Set in the tranquil heart of Kazimierz Dolny\u2019s Rynek, this light-filled minimalist house boasts 3 thoughtfully designed bedrooms and 3 sleek modern bathrooms. Embracing Scandinavian interior principles, the home features open-plan social spaces, refined natural finishes, and expansive glazing, connecting contemporary sophistication with serene surroundings. A subtle landscape design frames each view, inviting in the peace of the countryside while maximizing privacy\u2014perfect for working, relaxing, or creating.",
-  "neighborhood_description": "Nestled in Rynek, the historic square radiates charm beneath its calm, low-urban profile\u2014ideal for those valuing space and quiet. The nearby business district is quietly thriving, blending rural idyllic landscapes with a tech-oriented, pet-friendly local scene. The area supports community-driven cooperation and wellbeing for modern residents seeking focus and balance.",
-  "bedrooms": 3,
-  "bathrooms": 3,
-  "size_sqm": 162,
-  "property_type": "house",
-  "city": "Kazimierz Dolny",
-  "neighborhood": "Rynek",
+  "title": "Eco-Friendly 5-Bedroom Duplex Oasis by the Ustka Port",
+  "description": "Enjoy sustainable luxury in this spacious 5-bedroom, 2-bathroom duplex, designed for maximum comfort and efficiency. Spanning 180 sqm, this bright modern home boasts a welcoming open-plan living space with a cozy fireplace and provides flexible options for guest rooms or creative studios. With cutting-edge energy-efficient construction and an EV charging station, this home ensures eco-conscious living in serene surroundings. Residents have access to a lush shared courtyard and custom-built bicycle storage for extra convenience.",
+  "neighborhood_description": "Located in Ustka\u2019s emerging Port District, this tranquil neighborhood captures the essence of coastal living while remaining just minutes from the city center. Take advantage of well-developed bike lines that connect throughout Ustka, and effortlessly reach nearby destinations via highway access. The area is community-focused and ideal for those seeking a blend of peaceful living and engagement with friendly neighbors.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 180,
+  "property_type": "duplex",
+  "city": "Ustka",
+  "neighborhood": "Port District",
   "urban_level": "low",
   "transport_options": [
-    "highway"
+    "highway",
+    "bike lines"
   ],
-  "price": 1380000,
+  "price": 1425000,
   "key_features": [
-    "fitness center",
-    "soundproof walls",
+    "fireplace",
     "EV charging station",
-    "landscaped surroundings",
-    "wooden accents",
-    "panoramic windows",
-    "smart-home controls"
+    "bicycle storage",
+    "energy-efficient building",
+    "shared courtyard"
   ],
   "lifestyle_benefits": [
-    "private, peaceful work environment",
-    "ready home fitness options",
-    "stroll-friendly locale",
-    "inviting for pet owners and nature lovers",
-    "technology-enabled convenience"
+    "low utility bills",
+    "healthy clean air",
+    "quiet streets",
+    "walkability and bike access",
+    "opportunity to garden and enjoy outdoor spaces"
   ],
-  "target_buyer": "Remote workers and design-conscious professionals valuing privacy, silence, nature, and efficiency\u2014with room for creativity and wellness at home.",
-  "market_positioning": "Distinct among local offerings; a rare blend of minimalist Scandinavian aesthetics, advanced amenities, and quiet accessibility found in prized Kazimierz Dolny. Appeals to modern remote professionals looking for sophisticated yet subdued residential environments."
+  "target_buyer": "Perfect for retirees seeking modern comfort, eco-conscious features, and a peaceful environment close to nature and amenities in Ustka.",
+  "market_positioning": "A rare eco-friendly duplex designed with retired buyers and green living in mind; offers more space and boutique touches than standard city-center apartments while remaining highly accessible to the heart of Ustka."
 }

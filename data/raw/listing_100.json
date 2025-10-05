@@ -1,35 +1,31 @@
 {
-  "title": "Understated Scandinavian Duplex with Workspace and Pool Access in Polesie",
-  "description": "Discover refined minimalism in this four-bedroom, three-bathroom duplex that masterfully balances thoughtful design with functionality. Constructed with clean lines and an abundance of natural light, the home spans 156 sqm and boasts a dedicated home office, perfect for entrepreneurial pursuits. Relax in elegantly simple interior spaces, enjoy streamlined storage, and retreat to either of two pristine levels built for modern balance and comfort.",
-  "neighborhood_description": "Located in Lodz\u2019s trending Polesie district, this address offers both connectivity and tranquility. The neighborhood is vibrant yet peaceful, with convenient access to public transport, scenic bike lines, and highway routes. Local caf\u00e9s and dynamic green spaces encourage an active outdoor lifestyle, while distant mountain vistas provide a calming backdrop to your daily routine.",
-  "bedrooms": 4,
+  "title": "Chic Clarion of Success: Modern House in Zatorze for Visionaries",
+  "description": "Step inside this luminous modern house where inspiration finds home. Encompassing approximately 175 square meters, the residence radiates with airy space across three sunlit bedrooms and three elegant bathrooms. A designer walk-in closet becomes your private dressing salon, while the striking balcony is the ideal backdrop for dawn strategy sessions. The commune flourishes with intelligent features, including sleek motion-sensor exterior lights, as well as an exclusive residents' lounge offering an inviting retreat amid urban pursuits.",
+  "neighborhood_description": "Nestled in Zatorze, a flourishing Leszno neighborhood, this home is just minutes from the vibrant city center without losing its calm character. Enjoy the luxuries of a growing area\u2014caf\u00e9s and studios emerging alongside safe green spaces\u2014all connected by effortless access to public transport and key highways. The rhythm here blends creative ferment and a leisurely neighborhood beat, perfect for recharging or brainstorming your next big idea.",
+  "bedrooms": 3,
   "bathrooms": 3,
-  "size_sqm": 156,
-  "property_type": "duplex",
-  "city": "Lodz",
-  "neighborhood": "Polesie",
+  "size_sqm": 175,
+  "property_type": "house",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines",
     "highway"
   ],
-  "price": 1465000,
+  "price": 1290000,
   "key_features": [
-    "home office space",
-    "well-maintained common areas",
-    "swimming pool access",
-    "two-level layout",
-    "private balcony",
-    "energy-efficient appliances"
+    "walk-in closet",
+    "residents' lounge",
+    "balcony",
+    "motion-sensor exterior lights"
   ],
   "lifestyle_benefits": [
-    "quiet home office for entrepreneurs",
-    "ease of daily commute via public transport or bike",
-    "exclusive pool access for relaxation and informal networking",
-    "immediate connectivity to highways for business travel",
-    "mountain views enhancing work-life balance"
+    "Elite work-life fusion hub",
+    "Space for home office and creative thought",
+    "Peaceful community close to main city avenues",
+    "Perfect setting for entrepreneur networking and growth"
   ],
-  "target_buyer": "Ideal for entrepreneurs and professionals seeking a tranquil yet inspiring domestic workspace, with access to recreational amenities and seamless links to Lodz\u2019s business scene.",
-  "market_positioning": "Positioned in the upper mid-range segment of the Polesie market, this duplex rebels against cluttered layouts with a focus on elegant minimalism, securing strong appeal with discerning, productivity-driven buyers."
+  "target_buyer": "Ideal for ambitious entrepreneurs and creative thinkers needing both business infrastructure and inspirational tranquility. Tailored for those seeking distinction in a setting that nurtures vibrant lifestyles and new enterprises.",
+  "market_positioning": "A distinctive mid-range executive house, offering elevated features rarely matched in dynamic Zatorze. Poised perfectly between comfort and city-luxe for driven buyers desiring access, space, and an ambitious community spirit."
 }

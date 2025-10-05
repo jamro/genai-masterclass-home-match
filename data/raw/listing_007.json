@@ -1,31 +1,35 @@
 {
-  "title": "Bright 4-Bedroom Apartment in Eco-Friendly Suburbia",
-  "description": "Experience spacious, contemporary living in this light-filled, four-bedroom apartment in the sought-after Suburb neighborhood of Pila. With 93 square meters of versatile living space, the unit features generous built-in wardrobes and dedicated space for gatherings. Enjoy energy efficiency and lower utility bills thanks to installed solar panels. A separate guest bathroom ensures both comfort and convenience for residents and visitors alike.",
-  "neighborhood_description": "Nestled in Pila\u2019s modern Suburb district, you\u2019ll join an eco-conscious community that values green living and sustainability\u2014from neighborhood initiatives to nearby parks and bike paths. The low urban intensity offers tranquility within reach of schools and amenities, making it ideal for those seeking calm without giving up convenience. Easy highway access ensures quick connections for commuting, weekends away, or hybrid remote work.",
-  "bedrooms": 4,
+  "title": "Charming Studio Oasis in Historic Oliwa with Skyline Views",
+  "description": "Nestled in a beautifully preserved historic tenement, this sunny studio in Oliwa offers a unique blend of Gdansk heritage and contemporary comfort. The thoughtfully designed layout makes efficient use of its 31sqm, combining living, sleeping, and dining spaces with elegant modern touches. Large windows provide generous natural light while high ceilings evoke a sense of spaciousness. The unit comes with a tastefully renovated bathroom and an integrated, smart home system to maximize convenience.",
+  "neighborhood_description": "Oliwa is renowned for its picturesque streets lined with century-old buildings, lush parks, and vibrant caf\u00e9 culture. A favorite for those who appreciate history, the district mixes timeless charm with modern infrastructure, ensuring residents are always connected and secure. Here, residents enjoy excellent public transport, dedicated bike lines, and easy highway access\u2014all in a community that values both tradition and innovation.",
+  "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 93,
-  "property_type": "apartment",
-  "city": "Pila",
-  "neighborhood": "Suburb",
-  "urban_level": "low",
+  "size_sqm": 31,
+  "property_type": "studio apartment",
+  "city": "Gdansk",
+  "neighborhood": "Oliwa",
+  "urban_level": "high",
   "transport_options": [
+    "public transport",
+    "bike lines",
     "highway"
   ],
-  "price": 945000,
+  "price": 449000,
   "key_features": [
-    "solar panels",
-    "built-in wardrobes",
-    "spacious layout",
-    "guest bathroom",
-    "modern finish"
+    "rooftop deck",
+    "pets allowed",
+    "smart home system",
+    "renovated historic building",
+    "large windows",
+    "high ceilings"
   ],
   "lifestyle_benefits": [
-    "eco-friendly living",
-    "proximity to great schools",
-    "peaceful community vibe",
-    "cycle-friendly streets"
+    "live in a historic, storied area of Gdansk",
+    "access green parks and vibrant caf\u00e9s",
+    "technology ready for flexible work-from-home",
+    "safe and close-knit community",
+    "ideal for cycling or commuting by tram"
   ],
-  "target_buyer": "Ideal for young couples or urban professionals who want plenty of room, eco-conscious amenities, and a low-key, bike-friendly neighborhood that's still near key transport links.",
-  "market_positioning": "This apartment offers a unique balance of modern amenities and environmental consciousness at a competitive price in a fast-growing, family-oriented suburban locale\u2014an unmatched choice for those prioritizing space and sustainability."
+  "target_buyer": "Perfect for first-time buyers and professionals who appreciate a blend of old-world charm and modern amenities.",
+  "market_positioning": "This studio stands out in Gdansk\u2019s competitive market by offering a rare mix of historical ambiance with modern conveniences at an accessible price. Suited to those seeking distinctive, efficient city living in a thriving, sought-after district."
 }

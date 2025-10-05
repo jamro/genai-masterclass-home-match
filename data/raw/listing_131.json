@@ -1,32 +1,32 @@
 {
-  "title": "Contemporary Duplex Oasis in Historic Rynek, Kazimierz Dolny",
-  "description": "This impeccable duplex in the heart of Rynek offers harmonious living with five generously sized bedrooms and two stylish bathrooms, spread over 180 sqm. The open-plan centerpiece features a cozy fireplace and a cutting-edge lighting system framing the elegant living and dining spaces. Modern touches meet classic charm: enjoy easy cooking in a sleek kitchen, or host friends in the private barbecue zone. Secure bicycle storage and well-designed recycling facilities blend thoughtful sustainability with contemporary convenience.",
-  "neighborhood_description": "Nestled just steps from the vibrant Rynek square, this address delivers a balanced lifestyle\u2014historic ambiance with easy access to artisanal caf\u00e9s, galleries, and green spaces. Here, low traffic ensures peaceful days, while excellent access to major highways means getting to nearby cities and mountain activities is always within reach. Active residents will thrive on trails bordering the scenic Vistula River\u2014perfect for walkers and cyclists alike.",
-  "bedrooms": 5,
+  "title": "Charming Student Haven Amidst Baluty\u2019s Green Spaces",
+  "description": "Welcome to a vibrant four-bedroom house perfectly blending cozy charm with modern functionality. Bathed in natural light, each room provides ample spaces for study, relaxation, and social gatherings. The heart of the home, a welcoming dining area edged by sunlit windows, invites joyful meals and long conversations. Impeccably landscaped surroundings and abundant greenery create an oasis in the city, while stylish security features offer peace of mind day and night.",
+  "neighborhood_description": "Nestled in the Baluty neighborhood of Lodz, this residence enjoys the pulse of a medium-urban haven with effortless public transport access and immediate highway links\u2014perfect for exploring the city and beyond. The surrounding area is known for its pet-friendly ethos, tree-lined walkways, and a proud, eco-conscious spirit, fostering an atmosphere ideal for community living. Charming cafes and convenient services are always within reach, making daily life easy and enjoyable.",
+  "bedrooms": 4,
   "bathrooms": 2,
-  "size_sqm": 180,
-  "property_type": "duplex",
-  "city": "Kazimierz Dolny",
-  "neighborhood": "Rynek",
-  "urban_level": "low",
+  "size_sqm": 175,
+  "property_type": "house",
+  "city": "Lodz",
+  "neighborhood": "Baluty",
+  "urban_level": "medium",
   "transport_options": [
+    "public transport",
     "highway"
   ],
-  "price": 1600000,
+  "price": 1510000,
   "key_features": [
-    "barbecue zone",
-    "modern lighting system",
-    "residents' lounge",
-    "bicycle storage",
-    "fireplace",
-    "recycling facilities"
+    "24/7 security",
+    "landscaped gardens",
+    "shared courtyard area",
+    "easy access to public transport",
+    "sunny dining nook"
   ],
   "lifestyle_benefits": [
-    "proximity to Kazimierz Dolny\u2019s renowned galleries, caf\u00e9s and the Vistula River",
-    "year-round opportunities for hiking, cycling, and outdoor gatherings",
-    "tranquil living without missing city center attractions",
-    "ideal blend of sustainability and style"
+    "connect instantly with friends and classmates",
+    "embrace an eco-conscious lifestyle",
+    "quick highway links for weekend getaways",
+    "bring your pet\u2014plenty of space for walks"
   ],
-  "target_buyer": "Ideal for young professionals, creative entrepreneurs, and successful couples craving a sophisticated rural retreat and an active, sociable upmarket environment without sacrificing city access.",
-  "market_positioning": "Distinctively set in Kazimierz Dolny\u2019s most coveted historic center, this duplex combines urban luxury with tranquility, standing out to buyers seeking bespoke style, space, and convenience\u2014an uncommon gem for discerning lifestyle and status seekers."
+  "target_buyer": "Ideally suited for student groups or young academics seeking a stylish, functional, and safe retreat close to campus life while remaining convenient for city commuting and social engagement.",
+  "market_positioning": "A unique blend of urban tranquility and connectivity, this property stands as an artistic, budget-smart alternative for students\u2014from dedicated learners to creative soul-searchers\u2014seeking an inviting home in Lodz\u2019s sought-after Baluty district."
 }

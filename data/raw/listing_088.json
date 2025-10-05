@@ -1,33 +1,32 @@
 {
-  "title": "Stylish Duplex with Amenities in Historic Swidnica Center",
-  "description": "Step into this contemporary duplex located in the heart of Swidnica's charming Historic Center. Boasting four spacious bedrooms and three modern bathrooms, this 178 sqm duplex delivers an optimal blend of privacy and urban comfort. Insightful floor-plan design highlights an open-concept living area, while high-grade soundproof walls ensure a peaceful environment. Private parking, secure entry, and access to a well-maintained on-site swimming pool elevate everyday living.",
-  "neighborhood_description": "Historic Center is the place where Old World charm meets modern lifestyle\u2014a district prized for its iconic architecture, cobbled streets, and lively caf\u00e9 culture. Eco-conscious and community-focused, the neighborhood is ideal for professionals who appreciate green spaces yet value quick access to the business district and excellent public connectivity. Effortless commutes are a given with proximity to both public transport links and key highways.",
-  "bedrooms": 4,
-  "bathrooms": 3,
-  "size_sqm": 178,
-  "property_type": "duplex",
-  "city": "Swidnica",
-  "neighborhood": "Historic Center",
+  "title": "Light-Filled Scandinavian House with Terrace in Stare Miasto",
+  "description": "Nestled in Zamosc's historic Stare Miasto, this five-bedroom minimalist house pairs modern Scandinavian design with the area's centuries-old ambience. The spacious 220 sqm interior is anchored by a natural-light-fed living area, soft-toned wooden floors, and sleek built-in storage. Two tranquil bathrooms, including a private master ensuite, accompany flexible bedrooms arranged for both work and rest. Flow seamlessly onto a private terrace\u2014perfect for quiet coffee breaks or remote work sessions.",
+  "neighborhood_description": "Stare Miasto is renowned for its charming cobbled squares, inviting community spirit, and abundant shopping and dining options a short stroll away. Its medium urban energy is well-matched with green parks for walking and rec leisure, encouraging an active, engaging lifestyle beyond your door. Reliable public transport and direct highway connections link you easily to the rest of Zamosc and beyond.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 220,
+  "property_type": "house",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
     "highway"
   ],
-  "price": 1430000,
+  "price": 1670000,
   "key_features": [
-    "motion-sensor exterior lights",
-    "soundproof walls",
-    "private parking space",
-    "shared sauna",
-    "swimming pool access"
+    "ensuite bathroom",
+    "spacious terrace",
+    "minimalist built-in storage",
+    "large windows for natural light",
+    "proximity to shops and caf\u00e9s"
   ],
   "lifestyle_benefits": [
-    "walkable historic surroundings",
-    "balanced live-work atmosphere",
-    "convenient commute options",
-    "secure, energy-efficient home",
-    "easy access to local amenities"
+    "quiet yet connected environment conducive to remote working",
+    "walking distance to caf\u00e9s and community activities",
+    "ample home office options",
+    "inspiring historical surroundings"
   ],
-  "target_buyer": "Perfect for upwardly-mobile young professionals and relocating executives seeking a sophisticated home base with modern comforts, step-outside culture, and stellar commutes.",
-  "market_positioning": "Uniquely positioned for dynamic urbanites, this property stands out in Swidnica's market: it's one of the few rental-ready duplexes with dedicated parking and luxury wellness perks, all just steps away from historic Central Square and major transit links."
+  "target_buyer": "Remote workers or families seeking a serene, contemporary home designed for work-life balance in the heart of a storied Polish city.",
+  "market_positioning": "Strategically positioned for those valuing culture, community, and flexible work environments. A unique blend of modern comfort and historic charm attracts discerning buyers seeking space, style, and connection."
 }

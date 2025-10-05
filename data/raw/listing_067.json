@@ -1,35 +1,31 @@
 {
-  "title": "Charming Artists' Retreat with Mountain Views, Koscielisko, Zakopane",
-  "description": "Nestled at the foot of the Tatra Mountains, this unique 4-bedroom, 2-bathroom house blends modern comfort and rustic charm. Big windows frame panoramic mountain views, while the living room\u2019s fireplace creates a true alpine ambiance. The home features a sunlit open-plan studio, a spacious fenced yard ideal for pets or creative gatherings, and sustainable energy via recently installed solar panels. Ensuite and guest bathrooms add flexibility for families and visitors.",
-  "neighborhood_description": "Koscielisko is a laid-back mountain enclave just west of Zakopane, prized among artists, adventurers, and nature lovers. Enjoy a creative community, easy access to hiking trails and ski lifts, and frequent neighborhood art events. The area is expanding, with boutique caf\u00e9s and studios popping up, enriched by beautifully quiet scenery but also mere moments from the highway for trips into the heart of Zakopane or Kro\u015bcienko.",
-  "bedrooms": 4,
-  "bathrooms": 2,
-  "size_sqm": 160,
-  "property_type": "house",
-  "city": "Zakopane",
-  "neighborhood": "Koscielisko",
-  "urban_level": "low",
+  "title": "Cozy Studio Retreat in Safe, Vibrant Plock \u2013 Ideal for Students!",
+  "description": "Discover comfort and convenience in this inviting studio apartment, perfect for students who value both privacy and connection. This bright and modern studio offers an efficient open living and sleeping space complemented by a stylish bathroom. The apartment boasts 31 sqm of thoughtfully utilized space, ideal for easy upkeep and a clutter-free life. A video intercom enhances security, making the unit suitable for those seeking both independence and peace of mind.",
+  "neighborhood_description": "Set in the heart of the Radziwie neighborhood in Plock, you'll enjoy a safe setting with vibrant local life. The area offers superb public transport and quick highway access, making commutes to university or city center a breeze. Daily needs are steps away, and the locally-loved cafes and green spaces provide a warm community feel.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 31,
+  "property_type": "studio",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
   "transport_options": [
+    "public transport",
     "highway"
   ],
-  "price": 1920000,
+  "price": 367000,
   "key_features": [
-    "solar panels",
-    "guest bathroom",
-    "ensuite bathroom",
-    "fenced yard",
-    "fireplace",
-    "open-plan studio space",
-    "mountain views",
-    "energy-efficient windows"
+    "quiet neighborhood setting",
+    "video intercom",
+    "shared courtyard",
+    "shared sauna"
   ],
   "lifestyle_benefits": [
-    "escape from city hecticness",
-    "inspiring mountain scenery",
-    "time for creative projects",
-    "trails outside your door",
-    "space to host art friends and family"
+    "peaceful for focused study",
+    "safe neighborhood",
+    "friendly local community",
+    "easy city and campus access"
   ],
-  "target_buyer": "Emerging or established creatives, artists, or remote professionals seeking inspiration and space to nurture their passions while staying connected to culture and new opportunities.",
-  "market_positioning": "This property fills a rare niche in Zakopane/Koscielisko as an artist- and pet-friendly house with sustainable features and inspiring views, combining mountain serenity with direct road links to major towns. Its unique blend of modern eco-elements and distinctive style makes it an attractive and uncommon find for creative movers and shakers."
+  "target_buyer": "Ideal for students, young professionals, or parents seeking a safe and convenient base for their studying children.",
+  "market_positioning": "Well-priced for starter buyers and offering features that appeal to students, this studio stands out in Radziwie for its safety, community feel, and modern comforts in a lively, accessible neighborhood."
 }

@@ -1,36 +1,34 @@
 {
-  "title": "Light-Filled Family Loft in Creative Nadodrze",
-  "description": "Step into airy elegance with this exceptional 3-bedroom loft, boasting sweeping panoramic windows that frame shifting city skylines and floods of daylight. Offering approximately 110 square meters of open-plan living, this unique space blends historic industrial textures with thoughtful, family-friendly details. The modern kitchen area merges seamlessly with the dining and lounge zones, making it ideal for cozy evenings in or lively family gatherings to celebrate special milestones.",
-  "neighborhood_description": "Nadodrze\u2019s vibrant pulse offers excitement at every corner\u2014a renowned creative enclave steps away from the business district, yet flourishing with playgrounds, parks, and innovative bistros. Families enjoy social Saturday markets, expansive bike paths for adventure, and swift public connectivity, combining urban convenience with a communal ethos. Discover modern developments punctuated by art installations, all enveloped in a safe and inviting, forward-thinking atmosphere.",
+  "title": "Eco-Chic Duplex with Smart Home in Ustka's Port District",
+  "description": "Step into modern sustainability with this architectural duplex featuring 3 spacious bedrooms and 2 stylish bathrooms. Each space is thoughtfully planned, offering abundant natural light and a seamless flow perfect for family living or entertaining guests. The residence measures a generous 134 sqm, providing both comfort and functionality. Luxurious finishes, energy-efficient solutions, and a cutting-edge smart home system complete this modern eco-conscious retreat.",
+  "neighborhood_description": "Located in Ustka's calm and welcoming Port District, this property sits within a safe, community-focused locale. Enjoy the tranquil pace of a low urban area with easy access to scenic cycling paths and quick highway routes to regional business or leisure hotspots. The surroundings are ideal for those valuing peace, security, and authentic neighborly spirit.",
   "bedrooms": 3,
-  "bathrooms": 1,
-  "size_sqm": 110,
-  "property_type": "loft",
-  "city": "Wroclaw",
-  "neighborhood": "Nadodrze",
-  "urban_level": "medium",
+  "bathrooms": 2,
+  "size_sqm": 134,
+  "property_type": "duplex",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
+    "highway",
     "bike lines"
   ],
-  "price": 1265000,
+  "price": 1480000,
   "key_features": [
-    "panoramic windows",
-    "24/7 security",
-    "recycling facilities",
-    "secured entry gate",
-    "large open plan living area",
-    "dedicated family play nook",
-    "modern custom kitchen",
-    "hardwood floors"
+    "smart home system",
+    "ensuite bathroom",
+    "bicycle storage",
+    "energy-efficient appliances",
+    "private backyard",
+    "solar-ready infrastructure"
   ],
   "lifestyle_benefits": [
-    "child-friendly spaces",
-    "close to parks and creative workshops",
-    "access to vibrant local cafes",
-    "peace-of-mind security",
-    "cycle to schools and shops"
+    "commute flexibility thanks to easy highway access",
+    "healthy activities from widespread bike lanes",
+    "calm environment conducive to productivity",
+    "inviting spaces for remote work and meetings",
+    "community events in a neighborhood-focused zone"
   ],
-  "target_buyer": "Ideally suited for dynamic families seeking an airy environment within walking distance of educational hubs, parks, and cultural experiences in a creatively buzzing neighborhood.",
-  "market_positioning": "This unique family-sized loft offers a rare combination of spacious design, standout security, and artistic local color, distinguishing itself from standard apartments in Nadodrze. It's especially attractive to families wanting personality, space, and urban amenities at a competitive price in one of Wroclaw\u2019s most eclectic neighborhoods."
+  "target_buyer": "Ambitious entrepreneurs or sustainability-oriented families seeking a healthy balance between dynamic work-lifestyle and peaceful home base. Ideal for remote workers who favour cutting-edge technology and eco-elements within a tight-knit, safe community.",
+  "market_positioning": "This eco-modern duplex stands out in Ustka's property market as an exceptional fusion of smart tech and sustainable living. Its generous size, advanced features, and strong lifestyle appeal cater to emerging demand among entrepreneurs and remote professionals prioritizing well-being, security, and green values in a competitive price range."
 }

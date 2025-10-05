@@ -1,34 +1,33 @@
 {
-  "title": "Inviting Modern Loft with Sunny Dining and Private Yard in Kamienny Potok",
-  "description": "Enjoy the welcoming atmosphere of this spacious 68 sqm loft in Sopot's sought-after Kamienny Potok. With a clever open-plan layout, this home offers a bright dining area drenched in natural light, a cozy bedroom with an ensuite bathroom, and a second full bathroom\u2014perfect for guests or family. Store away your belongings in the convenient storage locker, and experience comfort year-round with energy-efficient windows keeping your sanctuary peaceful and warm. Step outside to your fenced yard, an ideal spot for relaxing with friends or letting children play securely.",
-  "neighborhood_description": "Kamienny Potok is a well-established and modern neighborhood, known for its lush parks and easy access to cycling paths, fostering an active outdoor lifestyle. Residents benefit from close proximity to Sopot's business district and family-friendly amenities, making day-to-day errands and commuting a breeze. Great public transport options and dedicated bike lanes provide seamless access around Sopot and the Tri-City area.",
-  "bedrooms": 1,
-  "bathrooms": 2,
-  "size_sqm": 68,
-  "property_type": "loft",
-  "city": "Sopot",
-  "neighborhood": "Kamienny Potok",
+  "title": "Historic Glow: Stylish 3-Bed Apartment in Leafy Zaspa",
+  "description": "Step into the charm of Gdansk with this stately 3-bedroom apartment nestled in a well-preserved block, reminiscent of Zaspa\u2019s unique historical energy. This inviting property features 71 sqm of tastefully modernized interiors while maintaining echoes of local heritage. Generous windows allow in bountiful natural light, highlighting soundproofed walls and well-configured space, including an ensuite master bedroom. Thoughtful design choices throughout ensure everyday living is both practical and peaceful.",
+  "neighborhood_description": "Located in the family-friendly streets of Zaspa, this apartment grants access to expansive parks and cycling paths Heathered with trees\u2014perfect for quiet strolls or daily commutes on bike. Local cafes, boutique shops, and easy public transport links ensure convenience, while excellent schools and playgrounds contribute to a peaceful, community-oriented vibe. Zaspa\u2019s connections to central Gdansk make this an attractive location for long-term value.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 71,
+  "property_type": "apartment",
+  "city": "Gdansk",
+  "neighborhood": "Zaspa",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
     "bike lines"
   ],
-  "price": 1220000,
+  "price": 889000,
   "key_features": [
-    "bright dining area with natural light",
-    "fenced private yard",
-    "storage locker",
+    "bicycle storage",
+    "well-maintained common areas",
+    "soundproof walls",
     "ensuite bathroom",
-    "energy-efficient windows",
-    "modern open-plan living"
+    "modernized interior",
+    "historic charm"
   ],
   "lifestyle_benefits": [
-    "easy commute with public transport and cycling options",
-    "community feel in a modern development",
-    "outdoor activities nearby",
-    "nearby business hub for career convenience",
-    "stress-free living for newly arriving expats"
+    "close to green parks and walking trails",
+    "vibrant community ideal for families and young professionals",
+    "excellent connection to city center by public and biking routes",
+    "low-maintenance earning potential"
   ],
-  "target_buyer": "Ideal for expat singles or couples seeking an active, convenient, and family-friendly base in the Tricity area, offering comfort, privacy, and easy access to both work and local amenities.",
-  "market_positioning": "This loft stands out as a rare find in Kamienny Potok, appealing to those who value modern design, energy-efficient details, and outdoor space, all within a mid-range budget and close-knit neighborhood environment."
+  "target_buyer": "Ideal for property investors seeking a strategically located estate in an appreciating district, as well as families and young professionals looking for enduring connectivity and lifestyle quality.",
+  "market_positioning": "This apartment stands as a coveted blend: historic architecture meets sustainable rental potential, in a thriving mid-urban pocket drawing young tenants, families, and long-term residents alike."
 }

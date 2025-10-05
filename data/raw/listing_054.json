@@ -1,38 +1,36 @@
 {
-  "title": "A Pet-Lover\u2019s Tech Haven Duplex in Zakopane\u2019s Peaceful Centrum",
-  "description": "Embrace harmonious living in this contemporary 5-bedroom, 3-bath duplex spanning 180 square meters, tailor-made for those valuing both family space and serenity. Immerse yourself in a light-filled interior, accentuated by an open-concept, modern kitchen and thoughtfully partitioned common areas. This sharp sanctuary boasts energy-efficient features throughout, complemented by panoramic windows capturing subdued mountain views\u2014perfect for afternoon lounging or playful pets exploring safe floors. ",
-  "neighborhood_description": "Centrum blends mountain town bustle with a unique sense of calm. Here, tranquil tree-lined streets meet innovative conveniences: bike trails weave around lively caf\u00e9s and geek-chic co-working spaces. Excellent infrastructure\u2014including reliable public transport and quick highway access\u2014makes urban outings effortless, while riverside promenades beckon for strolls with four-legged friends.",
-  "bedrooms": 5,
+  "title": "Majestic 6-Bedroom Luxury Home With Modern Comfort and Historic Charm in Radziwie",
+  "description": "Step into refined elegance with this spectacular 6-bedroom, 3-bathroom modern house, offering 295 sqm of beautifully curated living space. Expansive, sunlit interiors blend contemporary design with premium finishes, ensuring comfort and style. Entertain guests on the spacious terrace that seamlessly complements the chic living room, and store your belongings easily with the generous storage room. An underground garage provides secure parking for your vehicles, while dedicated space for children\u2019s recreation underscores the family-friendly ambiance. This residence is a masterpiece for discerning buyers seeking superior living.",
+  "neighborhood_description": "Located in Radziwie\u2014one of Plock\u2019s most desirable medium-urban neighborhoods\u2014this residence situates you steps from historic landmarks while offering a unique sense of security and tranquility. With public transport and excellent highway access, the vibrant city center with premier shopping, dining, and cultural venues is effortlessly within reach. Pedestrian-friendly streets, leafy parks, and a distinct architectural charm define the neighborhood\u2019s inviting atmosphere.",
+  "bedrooms": 6,
   "bathrooms": 3,
-  "size_sqm": 180,
-  "property_type": "duplex",
-  "city": "Zakopane",
-  "neighborhood": "Centrum",
+  "size_sqm": 295,
+  "property_type": "house",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
     "highway"
   ],
-  "price": 1550000,
+  "price": 1925000,
   "key_features": [
-    "modern kitchen",
-    "energy-efficient building",
-    "EV charging station",
-    "energy-efficient windows",
-    "well-maintained common areas",
-    "dedicated laundry room",
-    "panoramic windows",
-    "private master suite",
-    "pet-friendly flooring"
+    "spacious 6 bedrooms",
+    "3 modern bathrooms",
+    "children's playground area",
+    "ample storage room",
+    "sunlit terrace",
+    "private underground garage",
+    "premium finishes and fixtures",
+    "nearby shopping and dining options"
   ],
   "lifestyle_benefits": [
-    "perfect for pet owners",
-    "walkable to parks and riverside",
-    "community tech gatherings",
-    "safe green space for play",
-    "cycling-friendly neighborhood",
-    "easy commute to town attractions"
+    "perfect for young couples planning a family",
+    "close to vibrant social scene without sacrificing peace",
+    "safe neighborhood ambiance",
+    "historical character with modern comforts",
+    "exceptional commute possibilities"
   ],
-  "target_buyer": "Ideal for modern families or professional couples with pets seeking a smart, spacious base amid natural Polish beauty, yet minutes from everyday amenities.",
-  "market_positioning": "Positioned at the heart of Zakopane\u2019s desirable Centrum, this stylish duplex stands out for its eco-minded design and supreme amenity access, speaking directly to modern buyers prioritizing comfort, pet-friendly living, and future-forward infrastructure."
+  "target_buyer": "Designed for young couples who yearn for luxury, comfort, and playfulness in a prestigious, well-connected neighborhood\u2014a home ideal for growing families.",
+  "market_positioning": "A premier luxury offering within Plock, uniquely blending neighborhood heritage with advanced amenities. Designed for upscale living, this property commands attention from sophisticated buyers who value both historic context and contemporary lifestyle ease."
 }

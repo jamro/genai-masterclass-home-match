@@ -1,35 +1,32 @@
 {
-  "title": "Modern Eco-Chic 4-Bedroom Apartment with Premium Green Features in the Heart of Dab",
-  "description": "This elegantly appointed 4-bedroom apartment offers spacious living across 110 square meters, thoughtfully designed for an elevated urban experience. The property stands out for its modern architecture, energy-efficient windows, and a sun-filled, open-layout living area ideal for both relaxation and gatherings. Luxury meets sustainability with advanced rainwater collection and dedicated recycling facilities, ensuring everyday comfort and environmentally conscious living. A contemporary kitchen features sleek finishes, flowing seamlessly onto a private balcony that captures the neighborhood's vibrant ambiance.",
-  "neighborhood_description": "Nestled in Katowice\u2019s sought-after Dab neighborhood, residents become part of a reputed eco-conscious community committed to green living. Dab boasts unparalleled city connectivity with immediate access to public transport, thoughtfully integrated bike lines, and proximity to strategic highway connections, making commutes effortless. Trendy caf\u00e9s, premium shopping, and local parks all reside in convenient reach, complementing an affluent, city-forward environment.",
-  "bedrooms": 4,
+  "title": "Charming Studio in Historic Nowy Sacz Suburb \u2013 Contemporary Comfort Meets Old-World Allure",
+  "description": "Discover this inviting studio blending classic architectural charm with modern comfort. With a bright and airy layout of 33 sqm, the space celebrates light hardwood floors, energy-efficient features, and artfully restored details that nod to the historic setting. Tailored for single professionals or couples, the unit encompasses a generously sized studio space with a distinct sleeping mezzanine, ample bathroom, and cozy living area.",
+  "neighborhood_description": "Situated in Suburb, a historically rich part of Nowy Sacz known for its peaceful atmosphere and promising tech-inspired growth. Enjoy the best of quiet, green living alongside emerging modern developments. Quick highway access puts regional cities and business opportunities within easy reach, perfect for a flexible and connected lifestyle.",
+  "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 110,
-  "property_type": "apartment",
-  "city": "Katowice",
-  "neighborhood": "Dab",
-  "urban_level": "high",
+  "size_sqm": 33,
+  "property_type": "studio",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
     "highway"
   ],
-  "price": 1190000,
+  "price": 389000,
   "key_features": [
-    "rainwater collection system",
-    "bicycle storage",
-    "recycling facilities",
-    "energy-efficient windows",
-    "close to public transport",
-    "underground garage"
+    "energy-efficient building",
+    "quiet neighborhood setting",
+    "hardwood floors",
+    "historic-style fa\u00e7ade",
+    "high ceilings",
+    "modern kitchen"
   ],
   "lifestyle_benefits": [
-    "joining an eco-conscious urban community",
-    "seamless commuting to city hotspots and workplace",
-    "opportunity for first-time ownership in a premium building",
-    "worry-free parking with underground garage space",
-    "daily access to active, sustainable city living"
+    "peaceful environment for focused work",
+    "perfect launching pad for regional travel",
+    "walking distance to local bakeries and casual caf\u00e9s",
+    "great space for minimal living and creative pursuits"
   ],
-  "target_buyer": "Ambitious first-time buyers or young professionals who value sustainability, urban luxury, and convenient city access, seeking a sophisticated home at the intersection of premium living and environmental responsibility.",
-  "market_positioning": "Distinctly positioned as a luxury, turnkey eco-apartment, blending sustainable innovation with metropolitan accessibility\u2014rarely available in Katowice's prime neighborhoods\u2014this residence stands out among both modern developments and traditional properties. Ideal for discerning buyers eager to uplift their lifestyle and investment profile."
+  "target_buyer": "A digital nomad or remote worker craving a balanced pace of life, seeking a charming spot with fast commute options rather than downtown bustle.",
+  "market_positioning": "A rare offering for buyers valuing efficiency, character, and peace\u2014this studio stands out as a stylish yet attainable opportunity among historic properties in up-and-coming areas sustaining mindful modernization."
 }

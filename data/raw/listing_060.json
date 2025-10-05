@@ -1,35 +1,35 @@
 {
-  "title": "Charming Historic House in Swidnica's Heart with Modern Comforts",
-  "description": "Step into timeless elegance with this lovely house located in Swidnica's renowned Historic Center. Meticulously maintained, this 165 sqm property seamlessly blends historic character with modern day functionality, offering three spacious bedrooms and three full bathrooms. Thoughtfully designed, the home includes dedicated home office space and an underground garage, combining practical living with tranquil period charm. Secure, comfortable, and ready for your family's memories, it is move-in ready for its first-time owners.",
-  "neighborhood_description": "Set in the heart of Swidnica, the Historic Center neighborhood is celebrated for its centuries-old architecture and a peaceful suburban vibe. Enjoy exceptional convenience, being well-connected by public transport and highways that make daily commutes and city exploration effortless. Within a stroll you\u2019ll discover local boutiques, quaint cafes, and a vibrant cultural scene, making urban amenities easily accessible close to home.",
-  "bedrooms": 3,
-  "bathrooms": 3,
-  "size_sqm": 165,
-  "property_type": "house",
-  "city": "Swidnica",
-  "neighborhood": "Historic Center",
-  "urban_level": "medium",
+  "title": "Exquisite 4-Bedroom Apartment in Stare Miasto \u2013 Luxury Living Redefined",
+  "description": "Step into this spacious and meticulously renovated apartment in the heart of Pozna\u0144\u2019s Stare Miasto. Featuring four beautifully proportioned bedrooms, a refined bathroom, and an open-plan design, the home is perfect for those who prize modern comfort. The modern kitchen comes fully equipped, finished with high-end appliances and smart storage, while custom built-in wardrobes grace each bedroom. Elevated fixtures and carefully preserved details speak to premium craftsmanship throughout the residence, with immaculate, well-maintained common areas completing the offering.",
+  "neighborhood_description": "Located in the vibrant Stare Miasto district, this property puts every cultural, artistic, and recreational delight of central Pozna\u0144 within easy reach. Families and young professionals will thrive amid a peaceful, community-oriented vibe while enjoying excellent transport links, serene green corners, and a host of artisan caf\u00e9s. The local area balances bustling urban energy with a warm, artistic spirit\u2014an inspired place for your next chapter.",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "size_sqm": 108,
+  "property_type": "apartment",
+  "city": "Pozna\u0144",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
   "transport_options": [
     "public transport",
-    "highway"
+    "bike lines"
   ],
-  "price": 1360000,
+  "price": 1280000,
   "key_features": [
-    "24/7 security",
-    "home office space",
-    "underground garage",
-    "shopping and dining nearby",
-    "historic architectural details",
-    "energy-efficient windows",
-    "private courtyard"
+    "spacious layout",
+    "well-maintained common areas",
+    "modern, fully equipped kitchen",
+    "built-in wardrobes in every bedroom",
+    "refined designer fixtures",
+    "wooden flooring",
+    "high-speed internet ready"
   ],
   "lifestyle_benefits": [
-    "Peaceful historic setting",
-    "Perfect for first-time buyers",
-    "Quick access to local dining and shopping",
-    "Ideal home-office lifestyle",
-    "Excellent commute to city amenities"
+    "walk to culture & dining",
+    "excellent schools in vicinity",
+    "family-friendly neighborhoods",
+    "ideal work-from-home setup",
+    "urban amenities easily accessible"
   ],
-  "target_buyer": "This property is perfectly tailored for first-time buyers seeking a refined, secure dwelling with both character and coverage. Anyone desiring modern comforts within a historic, walkable area will find this the ideal entry into homeownership.",
-  "market_positioning": "Positioned as a rare opportunity in Swidnica's Historic Center, this house offers an appealing balance of historic architecture and up-to-date convenience. Highly differentiated through its unique period-style aesthetics and enhanced home security, it is a standout option in the upper-mid range market for those stepping into their first home."
+  "target_buyer": "Ideal for first-time buyers seeking a luxurious urban lifestyle, particularly young families or professionals desiring a spacious, modern apartment in a prime city-center location.",
+  "market_positioning": "Positioned at the high end of the local market, this apartment blends smart contemporary upgrades with signature Pozna\u0144 charm. It offers rare four-bedroom luxury in a sought-after area, a distinctive choice for discerning first-time buyers looking to invest in prestige and enduring value."
 }

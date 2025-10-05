@@ -1,34 +1,35 @@
 {
-  "title": "Elegant 4-Bedroom Apartment with Historic Charm in Ochota",
-  "description": "Step into Warsaw\u2019s past in this beautifully updated 4-bedroom apartment nestled in a charming early 20th-century building in desirable Ochota. Boasting an open floor plan and energy-efficient windows, this spacious 108 sqm residence features modern comforts while retaining architectural details that reflect its storied heritage. A newly revamped fa\u00e7ade complements its surroundings, and natural light graces every corner of the home. Perfect for both entertaining guests and unwinding after a productive day, the flexible layout caters to every lifestyle.",
-  "neighborhood_description": "Ochota offers the buzz of city life balanced with discreet side streets, lined with mature trees and classic architecture. Residents enjoy convenient access to top-rated schools, peaceful green oases, and a host of shopping and dining options just steps away. Cheers to unparalleled connectivity\u2014city transit, bicycle paths, and Warsaw Chopin Airport are easily accessible for work or leisure.",
-  "bedrooms": 4,
+  "title": "Charming Karlikowo Studio near the Baltic",
+  "description": "Nestled on the second floor of a historic Sopot villa, this studio apartment captures old-world charm in a thoughtfully modernized setting. Featuring beautiful wood beams, a cozy living area with a compact yet functional fireplace, and carefully restored details, the space honors the building\u2019s storied past. At 33 square meters, it smartly incorporates work and leisure zones to maximize functioning space. Ideal for those seeking comfort and efficiency by the sea, it includes a bright niche perfectly suited as your home office.",
+  "neighborhood_description": "Karlikowo, known for its welcoming artistic community and pet-friendly vibe, offers residents vibrant street culture with a peaceful twist. Admire distant mountain views on scenic walks, and enjoy being mere steps from Sopot\u2019s famous waterfront caf\u00e9s and galleries. Smooth public transport and safe bike lines make commuting effortless and sustainable in this well-connected neighborhood.",
+  "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 108,
-  "property_type": "apartment",
-  "city": "Warsaw",
-  "neighborhood": "Ochota",
-  "urban_level": "high",
+  "size_sqm": 33,
+  "property_type": "studio",
+  "city": "Sopot",
+  "neighborhood": "Karlikowo",
+  "urban_level": "medium",
   "transport_options": [
     "public transport",
-    "bike lines",
-    "airport"
+    "bike lines"
   ],
-  "price": 1285000,
+  "price": 460000,
   "key_features": [
-    "energy-efficient windows",
-    "modern fa\u00e7ade design",
-    "open floor plan",
-    "spacious living areas",
-    "shopping and dining nearby"
+    "historic villa building",
+    "fireplace",
+    "dedicated home office nook",
+    "shared co-working lounge on ground floor",
+    "modern bathroom",
+    "restored wood elements",
+    "rainwater collection for garden use"
   ],
   "lifestyle_benefits": [
-    "walkable to office spaces and coworking hubs",
-    "vibrant cultural offerings",
-    "proximity to transportation",
-    "quiet corners for remote work or relaxation",
-    "close to schools and services"
+    "inspirational setting for artistic and digital work",
+    "short walk to Baltic Sea and waterfront promenade",
+    "pet-friendly community",
+    "trendy caf\u00e9s and team spaces nearby",
+    "peaceful yet vibrant local art scene"
   ],
-  "target_buyer": "Ideal for entrepreneurs and urban professionals seeking character, convenience, and modern functionality in a prime central location.",
-  "market_positioning": "This residence stands out as a rare fusion of rich Warsaw heritage and contemporary design in Ochota, appealing to discerning buyers who prize both tradition and forward-thinking amenities. Suited to those valuing prime access without compromising on space or city elegance."
+  "target_buyer": "Remote professionals, digital nomads, or solo entrepreneurs seeking a blend of historic character, modern amenities, and creative inspiration steps from Sopot beach.",
+  "market_positioning": "This property offers rare historic charm in a popular, burgeoning creative enclave. Its efficient layout, coworking amenities, and waterfront proximity distinguish it from typical modern studios, making it a special find for urban lifestyle seekers."
 }

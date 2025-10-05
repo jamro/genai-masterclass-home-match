@@ -1,31 +1,31 @@
 {
-  "title": "Modern Eco Apartment with Balcony and Green Outlook in Suburb, Nowy Sacz",
-  "description": "Experience eco-conscious living in this contemporary 2-bedroom apartment thoughtfully designed for comfort and sustainability. The home features an open-plan living space that flows onto a generous balcony, perfect for outdoor dining or relaxing after a long day. Add in motion-sensor exterior lights, private parking, and well-appointed interiors to blend modern living with practical amenities. This first-floor apartment spans 65 sqm, offering ample room for couples or small families.",
-  "neighborhood_description": "Suburb in Nowy Sacz is a welcoming, low-density neighborhood known for its pet-friendly atmosphere and local schools nearby, perfect for growing families or long-term renters seeking tranquility. Residents appreciate easy highway access for commutes or getaways, plus green public spaces for recreation. The local vibe is warm and established\u2014a safe space where children play and neighbors know one another.",
-  "bedrooms": 2,
+  "title": "Eco-Modern Studio Gem in Dyrekcja For Investors",
+  "description": "Experience contemporary eco-conscious living in this studio apartment, perfectly designed for comfort and minimalism. With one luminous bedroom and a sleek, modern bathroom, this 35 sqm property maximizes every centimeter for optimized urban efficiency. Thoughtfully planned, the home features sustainable finishes and ample storage within an inviting open-plan layout, ideal for discerning residents. The apartment benefits from access to shared wellness spaces including a sauna and residents' lounge, providing a touch of luxury within a modest footprint.",
+  "neighborhood_description": "Situated in Chelm's low-urban Dyrekcja neighborhood, this property offers tranquility alongside modern amenities. The local area is increasingly known for its tech-oriented community and emphasis on a balanced lifestyle, attracting professionals and forward-thinking investors. Though traffic remains calm, excellent highway access easily connects you to nearby conveniences, business hubs, and natural green spaces.",
+  "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 65,
-  "property_type": "apartment",
-  "city": "Nowy Sacz",
-  "neighborhood": "Suburb",
+  "size_sqm": 35,
+  "property_type": "studio",
+  "city": "Chelm",
+  "neighborhood": "Dyrekcja",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 670000,
+  "price": 375000,
   "key_features": [
-    "outdoor dining area",
-    "motion-sensor exterior lights",
-    "balcony",
-    "private parking space",
-    "children's playground area"
+    "sustainable and eco-friendly building materials",
+    "shared sauna access",
+    "reception desk",
+    "residents' lounge",
+    "quiet and green setting"
   ],
   "lifestyle_benefits": [
-    "peaceful, pet-friendly community",
-    "outdoor space for relaxation and play",
-    "proximity to schools for young families",
-    "safe and secure environment"
+    "low-maintenance investment property",
+    "appealing to tech professionals or digital nomads",
+    "enhances wellbeing with wellness amenities",
+    "quiet neighborhood for concentration or leisure"
   ],
-  "target_buyer": "Ideal for long-term renters, small families, or professional couples who prioritize eco-friendly features, security, and access to child-friendly amenities while seeking value in a stable, community-oriented neighborhood.",
-  "market_positioning": "This apartment attracts value-conscious buyers who appreciate modern finishing in a tranquil suburb, offering mid-market pricing and sought-after features ideal for growing families, professionals, and pet owners."
+  "target_buyer": "Ideal for eco-aware property investors seeking resilient rental demand among tech-focused tenants, or those who prioritize lifestyle orientation and stable long-term value.",
+  "market_positioning": "Well-positioned as a modern studio in Chelm catering to rising trends for greener, quieter, and highly functional investment properties, within a neighborhood attractive to upwardly mobile professionals and the tech community."
 }

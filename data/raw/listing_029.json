@@ -1,34 +1,32 @@
 {
-  "title": "Enchanting Historic Villa With Modern Comfort By Leszno\u2019s Waterfront",
-  "description": "Step into timeless elegance with this spacious, restored early 20th-century villa that seamlessly blends historic charm with cutting-edge convenience. Offering six naturally lit bedrooms spread across 260 sqm, this stately home also features two contemporary bathrooms, exquisite hardwood floors, and soundproof walls for a tranquil living experience. Modern upgrades include a heated driveway and a discreet reception area, supporting flexible live/work arrangements. The elegant interior radiates character through original fixtures juxtaposed with functional touches to suit today\u2019s digital lifestyle.",
-  "neighborhood_description": "Nestled in the distinguished Zatorze neighborhood, this home situates you moments from Leszno\u2019s tranquil waterfront, beckoning bike rides and peaceful strolls alike. Renowned for its quiet, residential atmosphere, the area boasts excellent access to public transport and the nearby highway, simplifying both local commutes and longer journeys. Families and professionals alike will relish proximity to well-regarded schools and bike-friendly routes.",
-  "bedrooms": 6,
-  "bathrooms": 2,
-  "size_sqm": 260,
-  "property_type": "house",
-  "city": "Leszno",
-  "neighborhood": "Zatorze",
-  "urban_level": "medium",
+  "title": "Historic Artist\u2019s Studio Retreat with Elegant Terrace in Polnocne",
+  "description": "Steeped in subtle historic character, this inviting studio apartment is the perfect habitat for creative souls. The thoughtfully designed 35 sqm space presents an airy main room with seamless access through patio doors onto a private terrace, offering tranquil garden vistas year-round. Smart built-in wardrobes maximize every meter, while energy-efficient underfloor heating ensures soup\u00e7on of comfort through long northern winters. Wake each morning bathed in gentle light\u2014this unique property feels as inspiring as your craft.",
+  "neighborhood_description": "Set in the low-urban enclave of Polnocne, Suwa\u0142ki, the neighborhood is popular among naturalists and creatives alike for its quiet, bike-friendly streets and the tranquil, landscaped lawns that stretch around the building. Artists admire the peaceful suburban vibe, with rolling meadows yet quick access via highway prized for trips away or sourcing fresh supplies in town. The surroundings are perfect for morning walks and inspirational musings outside of city chaos.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 35,
+  "property_type": "studio",
+  "city": "Suwa\u0142ki",
+  "neighborhood": "Polnocne",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
     "highway"
   ],
-  "price": 1750000,
+  "price": 345000,
   "key_features": [
-    "soundproof walls",
-    "reception desk",
-    "heated driveway",
-    "hardwood floors",
-    "original historic detailing",
-    "spacious living areas",
-    "fully equipped modern kitchen"
+    "underfloor heating",
+    "patio doors opening to garden",
+    "private terrace",
+    "landscaped surroundings",
+    "built-in wardrobes"
   ],
   "lifestyle_benefits": [
-    "tranquil setting for focused remote work",
-    "quick escapes to waterfront green spaces",
-    "ideal for digital nomads choosing a historic yet modern base",
-    "easy access to co-working and digital infrastructure nearby"
+    "serene and peaceful environment",
+    "ideal for creatives and artists",
+    "ample space for small workshops or writing nooks",
+    "quick escape to nature trails",
+    "private garden views"
   ],
-  "target_buyer": "Remote-working digital nomads and professionals seeking a prestigious, inspiring home where tradition meets modern connectivity; also ideal for large families desiring ample private space and charm.",
-  "market_positioning": "A rare integration of Leszno\u2019s historic architectural heritage and tailored conveniences for remote workers, this singular villa appeals to discerning buyers valuing character, comfort, and an inspiring ambiance above mere new-build basics."
+  "target_buyer": "This property is tailored for independent creatives or artistic couples seeking a haven away from city bustle, where they can pursue their craft surrounded by landscaping and quiet sunlight.",
+  "market_positioning": "Exceptionally positioned for those who appreciate both style and solitude, this studio separates itself from city-standard offers, combining cottage-like tranquility with historic allure in a peaceful suburban setting."
 }

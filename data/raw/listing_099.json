@@ -1,33 +1,33 @@
 {
-  "title": "Serene Scandinavian Sanctuary in Swidnica\u2019s Historic Center",
-  "description": "This refined, sun-filled 3-bedroom, 2-bathroom apartment infuses minimalist Scandinavian design with everyday comfort. Its airy 108 sqm interior brilliantly balances calm, neutral aesthetics and functionality. Lounge in the open-plan living area accentuated by oak floors and a modern lighting system, or step into compact bedrooms designed for tranquil rest. An energizing shared sauna and easy main-floor bike storage bring simple pleasures and active living within reach.",
-  "neighborhood_description": "The Historic Center of Swidnica is enriched by vibrant local life and a gentle, neighborly pace. Enjoy morning walks to nearby parks, easy access to cafes, and vibrant markets just around the corner. The neighborhood's picturesque avenues provide excellent public transport connections and swift highway access, ensuring convenience at your doorstep.",
-  "bedrooms": 3,
+  "title": "Polished Mountain Loft with Panoramic Deck \u2013 WiFi-Ready Alpine Living in Koscielisko",
+  "description": "Awash in natural light, this mountain loft harmonizes artistic design with tech-savvy sophistication. Spanning 85 sqm, the two-bedroom, two-bath haven unfolds beneath striking exposed beams and wood finishes, seamlessly integrating modern comfort. Decked out with a smart home system and ensconced within an energy-efficient structure, this airy top-floor gem blurs the line between indoor warmth and alpine adventure. Downstairs, a private underground garage meets daily needs, while an expansive rooftop deck invites stargazers and sunrise dreamers alike.",
+  "neighborhood_description": "Nestled in the panoramic tranquility of Koscielisko, Zakopane\u2019s gentle mountain cradle, life here flourishes at a relaxed pace among tall pines and sweeping vistas. Feel miles away from city turmoil\u2014the area\u2019s low urban density fosters a close-knit, pet-friendly community ideal for artist souls and outdoor enthusiasts. Quick highway access puts Tatra\u2019s best slopes and charming Zakopane caf\u00e9s within easy reach, without disrupting your sanctuary\u2019s peace.",
+  "bedrooms": 2,
   "bathrooms": 2,
-  "size_sqm": 108,
-  "property_type": "apartment",
-  "city": "Swidnica",
-  "neighborhood": "Historic Center",
-  "urban_level": "medium",
+  "size_sqm": 85,
+  "property_type": "loft",
+  "city": "Zakopane",
+  "neighborhood": "Koscielisko",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
     "highway"
   ],
-  "price": 895000,
+  "price": 1280000,
   "key_features": [
-    "bicycle storage",
-    "shared courtyard",
-    "close to public transport",
-    "modern lighting system",
-    "shared sauna"
+    "rooftop deck",
+    "underground garage",
+    "smart home system",
+    "energy-efficient building",
+    "panoramic mountain views",
+    "open-concept kitchen"
   ],
   "lifestyle_benefits": [
-    "ground-floor access and elevator for mobility support",
-    "connection to green areas and parks",
-    "ample space for visiting family",
-    "enjoyment of vibrant local cafe culture",
-    "peace and security in a restored historic block"
+    "High-speed internet for remote work",
+    "Proximity to hiking and skiing trails",
+    "Pet-friendly surroundings",
+    "Rooftop sunrises and stargazing",
+    "Quiet escape with creative inspiration"
   ],
-  "target_buyer": "Quiet-seeking retirees bent on enjoying walkable local gems, urban amenities, and easy mobility around Swidnica.",
-  "market_positioning": "Rare in this sought-after historic location, this property offers both timeless Scandinavian oasis calm and step-out access to Swidnica\u2019s vibrant center, perfectly positioned for downsizers or retirees seeking maintenance-free urban living."
+  "target_buyer": "Modern digital nomads and creative professionals seeking a technological edge blended with alpine tranquility\u2014those who value both focus and nature-enabled downtime, pet lovers, and international remote workers.",
+  "market_positioning": "A rare fusion of alpine peace and smart-city capability, this loft is distinguished among local offerings for its energy consciousness, rooftop leisure, and digital readiness\u2014an oasis tailored for Zakopane\u2019s new breed of remote-working aesthetes."
 }

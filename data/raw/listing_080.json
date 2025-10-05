@@ -1,35 +1,35 @@
 {
-  "title": "Serene Scandinavian Loft Overlooking the Lake District",
-  "description": "Nestled in the tranquil Lake District of Elk, this beautiful minimalist Scandinavian-inspired loft offers 3 spacious bedrooms and 2 modern bathrooms across 116sqm. Natural light spills through grand windows, illuminating a calming interior enhanced by pale wood finishes and soft furnishings. Step onto the private balcony to enjoy views of artfully landscaped communal grounds, or relax in the building's shared courtyard and sauna.",
-  "neighborhood_description": "Set within an idyllic lakeside community known for its artistic spirit, residents experience a unique blend of creativity and serenity. Quiet, pet-friendly streets and meticulously maintained surroundings evoke a safe atmosphere, far removed from urban rush. Easy access via nearby highways keeps greater Elk within convenient reach, while still preserving the peace of rural living.",
+  "title": "Spacious Radziwie Apartment with Fitness Center and Pet-Friendly Courtyard",
+  "description": "Step into this bright, modern 3-bedroom, 2-bathroom apartment boasting 87 sqm of thoughtfully designed living space. The open-concept kitchen and living area leads directly to a private balcony, perfect for morning coffee or evening relaxation. Smart layout, ample storage, and contemporary finishes offer a hassle-free city living experience tailored for comfort.",
+  "neighborhood_description": "Located in Plock\u2019s rapidly evolving Radziwie neighborhood, this apartment strikes the perfect balance between city life and peaceful retreat. Residents enjoy a pet-friendly atmosphere, green spaces, and quick access to a well-connected public transport network and major highways\u2014ideal for an active urban lifestyle. Every amenity for daily convenience is just within reach, offering a serene oasis minutes from the city center.",
   "bedrooms": 3,
   "bathrooms": 2,
-  "size_sqm": 116,
-  "property_type": "loft",
-  "city": "Elk",
-  "neighborhood": "Lake District",
-  "urban_level": "low",
+  "size_sqm": 87,
+  "property_type": "apartment",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
   "transport_options": [
+    "public transport",
     "highway"
   ],
-  "price": 1290000,
+  "price": 796000,
   "key_features": [
-    "3 bedrooms",
-    "2 bathrooms",
-    "private balcony",
+    "fitness center",
+    "motion-sensor exterior lights",
     "shared courtyard",
-    "shared sauna",
-    "landscaped gardens",
-    "large windows",
-    "minimalist Scandinavian interiors"
+    "balcony",
+    "open-plan kitchen",
+    "secure entryway",
+    "in-building storage lockers"
   ],
   "lifestyle_benefits": [
-    "ample green space for pet walking",
-    "peaceful lakeside walks",
-    "artistic community events",
-    "secure and safe neighborhood ambiance",
-    "space for home office or studio"
+    "dog-walking areas nearby",
+    "peaceful street with minimal traffic",
+    "walkable to shops and parks",
+    "easy highway commute",
+    "active, pet-friendly residents"
   ],
-  "target_buyer": "Ideal for pet owners and creative individuals or families seeking a peaceful lifestyle immersed in nature, with community arts culture and amenities that welcome companion animals.",
-  "market_positioning": "Distinctly positioned for discerning buyers looking for spacious, high-quality loft living outside the urban core, offering privacy, design, and direct participation in a vibrant local creative scene."
+  "target_buyer": "Ideal for young professionals or small families with pets seeking a modern home with access to amenities, comfort, and community in a balanced suburban/urban environment.",
+  "market_positioning": "Represents excellent value for buyers who want more space, amenities, and a lifestyle-forward location rivaling central Plock, yet at a more accessible price than city-core alternatives."
 }

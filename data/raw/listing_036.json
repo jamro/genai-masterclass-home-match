@@ -1,34 +1,33 @@
 {
-  "title": "Sunny Eco-Friendly Family Retreat in Heart of \u017boliborz",
-  "description": "This inviting, sun-filled four-bedroom apartment offers spacious living designed with both comfort and sustainability in mind. The practical layout connects a bright living area with generous patio doors, offering seamless access to a verdant communal garden for memorable gatherings or kids\u2019 play. The modern kitchen overlooks the outdoor dining area, while the bedrooms are sized to provide ample privacy and storage. With family features throughout, this home is ideal for those seeking both harmony and practicality.",
-  "neighborhood_description": "Nestled in Warsaw\u2019s lush, bike-friendly \u017boliborz district, you\u2019ll enjoy a calm, green ambiance paired with excellent city amenities. Public transport is just a short stroll away, ensuring easy connections while bike lines encourage sustainable travel. With fast access to highways, local parks, charming cafes, and top-rated schools surrounding you, \u017boliborz combines urban bustle with an eco-conscious community spirit.",
-  "bedrooms": 4,
-  "bathrooms": 1,
-  "size_sqm": 102,
+  "title": "Historic Ochota Apartment Blends Classic Charm with Modern Living",
+  "description": "This exquisite apartment in historic Ochota offers 2 spacious bedrooms and 2 modern bathrooms in a thoughtfully designed 72 sqm layout. Original hardwood floors run throughout, perfectly complemented by the abundance of natural light from large windows and a private balcony overlooking leafy city streets. Located in a well-maintained, energy-efficient building, this home delivers classic Warsaw elegance paired with contemporary comfort.",
+  "neighborhood_description": "Ochota's vibrant urban landscape promises effortless access to essentials and leisure thanks to bustling coffee shops, renowned restaurants, and peaceful neighboring parks such as Park Szcz\u0119\u015bliwicki\u2014ideal for relaxation or recreation. The district\u2019s renowned urban vitality, pet-friendly spaces, and proximity to the city center make it a coveted destination for discerning residents. Efficient city infrastructure, including nearby public transport links and dedicated bike lines, ensures seamless connections across Warsaw and quick trips to the airport.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 72,
   "property_type": "apartment",
   "city": "Warsaw",
-  "neighborhood": "\u017boliborz",
+  "neighborhood": "Ochota",
   "urban_level": "high",
   "transport_options": [
     "public transport",
     "bike lines",
-    "highway"
+    "airport"
   ],
-  "price": 1170000,
+  "price": 1190000,
   "key_features": [
-    "24/7 security",
-    "outdoor dining area",
-    "patio doors opening to garden",
-    "rainwater collection system",
-    "children's playground area"
+    "original hardwood floors",
+    "energy-efficient building",
+    "private balcony",
+    "modern kitchens and bathrooms",
+    "ample closet space"
   ],
   "lifestyle_benefits": [
-    "walkable, bike-friendly neighborhood",
-    "easy public transport access",
-    "proximity to parks",
-    "space for family gatherings and play",
-    "eco-friendly water conservation"
+    "historic ambiance thriving with urban life",
+    "easy access to green spaces and playgrounds",
+    "walking distance to city center and business districts",
+    "pet-friendly area for animal lovers"
   ],
-  "target_buyer": "Eco-minded families looking for a safely integrated, sustainable home environment in the city with abundant greenery and room to grow.",
-  "market_positioning": "This apartment provides rare synergy between green, sustainable living and urban convenience in \u017boliborz\u2019s premium property segment, standing out with its eco-friendly amenities, family-focused warmth, and unmatched location."
+  "target_buyer": "Ideal for professionals relocating for work who desire a blend of tradition and convenience close to Warsaw\u2019s commercial hubs, or young families seeking city vibrancy in a historic yet comfortable home.",
+  "market_positioning": "Stands out in Ochota\u2019s competitive real estate market for its fusion of historic allure and contemporary comfort; perfect for buyers who value classic apartments yet prioritize modern amenities and an exceptional location close to Warsaw\u2019s transport and lifestyle offerings."
 }

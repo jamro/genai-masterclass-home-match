@@ -1,32 +1,36 @@
 {
-  "title": "Sun-Kissed Duplex with a Historic Soul in Swidnica's Charming Center",
-  "description": "Step into timeless elegance with this distinctive four-bedroom duplex nestled within the heartbeat of Swidnica\u2019s Historic Center. Blending contemporary comforts with preserved architectural details, this spacious 148 sqm residence outshines with generous natural light, modern lighting installations, and an inviting atmosphere. Crafted for both privacy and togetherness, the two serene bathrooms include a beautifully appointed ensuite for true restful retreat. Evening strolls through lush, landscaped courtyards are illuminated by subtle, motion-sensor exterior lighting, epitomizing use and safety.",
-  "neighborhood_description": "The Historic Center offers a storybook backdrop for everyday life. Many peaceful green avenues, sprinkled with artisan caf\u00e9s and local boutiques, give the area a harmonious yet vibrant character. Enjoy swift local public transport and easy highway access as well as close proximity to riverside walking paths, bringing a gentle waterfront tranquility to your doorstep.",
-  "bedrooms": 4,
+  "title": "Prestigious Residence in Historic Zamosc \u2013 Elegant Living on Stare Miasto",
+  "description": "Step into effortless luxury with this exceptional 6-bedroom house located in the distinguished Stare Miasto district of Zamosc. Elegantly appointed across a spacious 270 sqm interior, the home offers the perfect blend of classic charm and eco-friendly modern comforts, such as new-generation solar panels. The airy floor plan includes a majestic living area ideal for entertaining, as well as serene private bedrooms and two exquisite bathrooms for added convenience. Outside, an enchanting garden provides a private oasis, complemented by an alfresco dining patio.",
+  "neighborhood_description": "Stare Miasto casts you amidst history and greenery, surrounded by iconic architecture and lush spaces ideal for leisure or morning strolls. Enjoy proximity to beautiful parks and playgrounds, all while benefitting from nearby public transport links and quick highway access, set within a peaceful medium-urban landscape. Local cafes, boutique shops, and cultural attractions make this neighborhood truly desirable for investors focused on prestige and growth.",
+  "bedrooms": 6,
   "bathrooms": 2,
-  "size_sqm": 148,
-  "property_type": "duplex",
-  "city": "Swidnica",
-  "neighborhood": "Historic Center",
+  "size_sqm": 270,
+  "property_type": "house",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
   "urban_level": "medium",
   "transport_options": [
     "public transport",
     "highway"
   ],
-  "price": 1570000,
+  "price": 1870000,
   "key_features": [
-    "modern lighting system",
-    "residents' lounge",
-    "rainwater collection system",
-    "ensuite bathroom",
-    "motion-sensor exterior lights"
+    "solar panels",
+    "outdoor dining area",
+    "private parking space",
+    "spacious garden",
+    "contemporary fitted kitchen",
+    "ample storage",
+    "prestigious address"
   ],
   "lifestyle_benefits": [
-    "wonderful walkable community and culture",
-    "quiet corners for reading and reflection",
-    "resident-organized cultural activities",
-    "easy access to scenic river walks"
+    "strong investment potential",
+    "peaceful yet central location",
+    "historic ambiance",
+    "sustainable living features",
+    "room to entertain guests",
+    "access to parks and playgrounds"
   ],
-  "target_buyer": "Refined retirees seeking beauty, connection, and convenience at the heart of cultural Swidnica\u2014a tranquil yet dynamic place to pursue passions in art, culture, and community with space for visits from family or friends.",
-  "market_positioning": "This rare duplex harmoniously merges modern amenities with the graceful ambiance of the Historic Center. Well-suited to discerning buyers seeking longstanding value and relaxed community life, it offers premium features at an exemplary price within Swidnica's flourishing residential market."
+  "target_buyer": "Astute property investors seeking a prestigious asset in a UNESCO heritage site, with long-term rental appeal or appreciation value, desiring a sizeable and sustainable residence poised for luxury city or family living.",
+  "market_positioning": "Positioned as a rare opportunity in central Zamosc, this property stands out for its blend of timeless elegance, energy efficiency, and future investment security in an exclusive and heritage-rich address."
 }

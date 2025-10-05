@@ -1,31 +1,32 @@
 {
-  "title": "Minimalist Scandinavian Loft in the Heart of Krosno Old Town",
-  "description": "Step into Nordic-inspired tranquility with this unique 89 sqm loft in Krosno's atmospheric Old Town. The open floor plan floods the space with light, blending living, dining, and kitchen for effortless comfort and entertaining. Two tranquil bedrooms plus a spa-like bathroom define serene living, enhanced by natural finishes and simple, elegant design.",
-  "neighborhood_description": "Old Town Krosno is a mosaic of historical charm and cultural pulse, featuring cobblestone streets lined with art venues, galleries, and cozy cafes. With immediate access to highways, the district is ideal for active lifestyles, and the bike-friendly setting invites regular exploration of both countryside and culture.",
-  "bedrooms": 2,
+  "title": "Elegance in the Foothills: Contemporary Studio Retreat",
+  "description": "Step inside this luminous studio apartment in Pila\u2019s tranquil Suburb neighborhood, where clever design makes everyday life a breeze. Sun-drenched vistas frame a generous open-concept space (39 sqm), blending the bedroom with lounging and work areas. The floorplan is enriched with a dazzlingly smart home system and punctuated by a spa-inspired bathroom. Enjoy home comforts enhanced by a video intercom and energy-efficient motion-sensor exterior lighting, creating both ease and security.",
+  "neighborhood_description": "Life slows down in Suburb, an enclave celebrated for its balanced lifestyle and sweeping mountain views. Residents enjoy meticulously landscaped surroundings and the calming proximity of a pristine waterfront, all while remaining effortlessly connected to the region via efficient highway access. Morning jogs happen along lakeside paths, while evenings wind down in neighborhood greenspaces breathing cool mountain air.",
+  "bedrooms": 1,
   "bathrooms": 1,
-  "size_sqm": 89,
-  "property_type": "loft",
-  "city": "Krosno",
-  "neighborhood": "Old Town",
+  "size_sqm": 39,
+  "property_type": "studio apartment",
+  "city": "Pila",
+  "neighborhood": "Suburb",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 1125000,
+  "price": 428000,
   "key_features": [
-    "open floor plan",
-    "co-working space",
-    "automatic gate",
-    "in-building fitness center",
-    "natural wood floors"
+    "landscaped surroundings",
+    "smart home system",
+    "fitness center",
+    "video intercom",
+    "motion-sensor exterior lights"
   ],
   "lifestyle_benefits": [
-    "seamless indoor-outdoor living",
-    "convenient highway access",
-    "close to art and culture",
-    "active, bike-friendly vibe"
+    "balcony with mountain view",
+    "access to walking/biking trails",
+    "stress-free parking",
+    "peaceful natural setting",
+    "modern amenities for remote work"
   ],
-  "target_buyer": "Ideal for young couples seeking a contemporary yet peaceful home base with urban-inspired amenities amidst historic ambiance.",
-  "market_positioning": "A rare loft offering in Krosno\u2014perfectly positioned for those desiring design-forward living and useful amenities within a charming, low-density neighborhood with easy regional access."
+  "target_buyer": "The ideal home for a solo professional or couple relocating to Pila for new career opportunities, seeking harmony between advanced conveniences and restorative natural scenery.",
+  "market_positioning": "This unique studio stands out in the regional market for its blend of cutting-edge smart features, tranquil location, and breezy access to both city hubs and nature\u2014perfectly suited for new professionals looking to maximize lifestyle and value in one minimalist, inspiring package."
 }

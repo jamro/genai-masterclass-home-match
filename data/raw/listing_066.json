@@ -1,38 +1,31 @@
 {
-  "title": "Sunny Family Home with Home Office & EV Charging in Historic Mokot\u00f3w",
-  "description": "Step into this spacious 4-bedroom, 2-bathroom home tucked away in one of Mokot\u00f3w\u2019s most sought-after and family-friendly streets. With approximately 180 sqm of comfortable, flexible living space, this house offers bright, open-plan common areas and generously sized bedrooms ideal for growing families or homeowners seeking work-life balance. Enjoy the advantages of a newly renovated home office, a sizeable fenced yard perfect for children and pets, plus your own EV charging station, designed to make future-focused living easy and efficient.",
-  "neighborhood_description": "Located in historic Mokot\u00f3w, you\u2019ll find yourself in the heart of Warsaw\u2019s charm\u2014an area renowned for its tree-lined boulevards, beautiful parks, and excellent schools. All daily conveniences are close at hand: trendy caf\u00e9s, delicious bakeries, shopping malls, and artisan shops are an easy stroll or ride away. The neighborhood is considered extremely safe, boasts rich architectural heritage, and offers seamless connections to the city center via public transport, highways, or even quick trips to Chopin Airport.",
-  "bedrooms": 4,
-  "bathrooms": 2,
-  "size_sqm": 180,
-  "property_type": "house",
-  "city": "Warsaw",
-  "neighborhood": "Mokotow",
-  "urban_level": "high",
+  "title": "Sophisticated Studio Retreat in Historic Rynek",
+  "description": "Step into a sanctuary of luxury in the heart of Kazimierz Dolny\u2019s Rynek neighborhood. This elegantly designed studio offers 1 spacious bedroom and a modern bathroom within a generous 38 sqm layout\u2014perfectly curated for comfort and style. Newly renovated with attention to detail, this sumptuous residence boasts built-in wardrobes and air conditioning, elevating your daily living. The layout includes a walk-in closet and ample natural light, creating a truly elevated living experience.",
+  "neighborhood_description": "Situated in Rynek, known for its captivating historic charm and picturesque architecture, residents enjoy the tranquil pace of small-town living. The surrounding area creates a vibrant yet relaxed vibe with cobbled streets, artisan shops, and direct access to scenic walks along the river and neighboring hills. Ease of travel is assured thanks to direct highway connections, putting Lublin and Warsaw within convenient reach.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 38,
+  "property_type": "studio",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
-    "highway",
-    "airport"
+    "highway"
   ],
-  "price": 1940000,
+  "price": 472000,
   "key_features": [
-    "4 spacious bedrooms",
-    "2 modern bathrooms",
-    "dedicated home office space",
-    "fenced yard with garden area",
-    "EV charging station",
-    "newly updated kitchen",
-    "attached garage",
-    "shopping and dining within walking distance"
+    "walk-in closet",
+    "newly renovated interior",
+    "built-in wardrobes",
+    "air conditioning",
+    "well-maintained common areas"
   ],
   "lifestyle_benefits": [
-    "family-friendly layout with secure outdoor space",
-    "hassle-free EV car charging",
-    "flexible home office\u2014ideal for entrepreneurs or remote work",
-    "vibrant local caf\u00e9 and dining scene",
-    "historic yet modern and technology-ready neighborhood"
+    "proximity to nature and outdoor activities",
+    "immersion in local history and culture",
+    "serene and safe environment for family life",
+    "art galleries and boutique cafes steps away"
   ],
-  "target_buyer": "Perfect for entrepreneurial families, remote-working professionals, or executives seeking a luxurious, quiet home with business-ready amenities, high walkability, and quick commuting options.",
-  "market_positioning": "This property stands out as a modern family retreat in one of Warsaw\u2019s most desirable districts, merging classic district charm with the convenience of next-generation smart home additions. It offers excellent long-term value amidst a competitive Mokot\u00f3w market."
+  "target_buyer": "Ideal for a young family or professional couple attracted to history and tranquil luxury, seeking an escape from city noise without sacrificing comfort.",
+  "market_positioning": "A rarely available, premium studio in Kazimierz Dolny\u2019s most iconic neighborhood, offering boutique luxury and historic ambience\u2014competing at the very top of the local rental and purchase market."
 }

@@ -1,32 +1,36 @@
 {
-  "title": "Timeless Tranquility: Artistic Family House Amid Chelm's Historic Heart",
-  "description": "Elegant lines meet comforting spaces within this four-bedroom house, radiating warmth and life with every carefully crafted detail. Expansive living areas are kissed by sunlight streaming through patio doors, seamlessly leading out to a lush garden and outdoor dining terrace primed for summer evenings. Energy efficiency echoes through thoughtfully insulated walls and crisp air conditioning, while the heart of the home\u2014the residents' lounge\u2014offers a curated space for solace and connection. Each of the two bathrooms is tastefully modern, harmonizing functionality with pure comfort.",
-  "neighborhood_description": "Located in the enchanting Dyrekcja, a neighborhood perfect for those who savor nuanced beauty and days unhurried by city bustle. Dyrekcja celebrates the pride of Chelm\u2019s historic charm with tree-lined streets and a thriving, quietly impactful artistic community. Though tucked away from the city's center, near access to the major highway ensures the world remains at your doorstep, while you savor peaceful days inspired by creativity and heritage.",
-  "bedrooms": 4,
-  "bathrooms": 2,
-  "size_sqm": 183,
+  "title": "Imposing Family Villa Amidst Krosno\u2019s Old Town Charm",
+  "description": "Discover a stately 6-bedroom house nestled among the storied cobblestones of Old Town Krosno. Spanning a generous 320 sqm, this energy-efficient home combines contemporary comforts with classic Polish style. Expansive living spaces flow seamlessly into a sun-washed terrace overlooking professionally landscaped gardens\u2014pure delight for every family gathering. Enjoy vistas both indoor and outdoor, complemented by a private home gym and inviting interiors made for lifelong memories.",
+  "neighborhood_description": "Old Town Krosno embodies a charming mix of past and present, freshly invigorated with modern developments while peacefully preserving its tranquil, pet-friendly ambiance. The area boasts effortless highway access and is renowned for its delightful cafes, cultural venues, and relaxed environment\u2014ideal for daily rambles with children or pets. Creative spirit weaves through the cultural district, ensuring every day brims with inspiration and joy.",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "size_sqm": 320,
   "property_type": "house",
-  "city": "Chelm",
-  "neighborhood": "Dyrekcja",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 1390000,
+  "price": 1440000,
   "key_features": [
     "energy-efficient building",
-    "air conditioning",
-    "outdoor dining area",
-    "patio doors opening to garden",
-    "residents' lounge",
-    "private garden"
+    "home fitness center",
+    "spacious terrace",
+    "landscaped surroundings",
+    "large family kitchen",
+    "ample storage",
+    "private garage",
+    "high-end fixtures"
   ],
   "lifestyle_benefits": [
-    "quiet and stability for long-term living",
-    "bask in a creative, artistic local community",
-    "surrounded by historical architecture",
-    "serene setting ideal for families and inspired minds"
+    "Room to play for children and pets",
+    "Smooth commutes via highway",
+    "Tranquility in a modern yet historic district",
+    "Opportunities for family fitness",
+    "Outdoor entertaining possibilities",
+    "Immersed in cultural heritage"
   ],
-  "target_buyer": "Ideal for long-term renters or families seeking lasting stability but who yearn for artistic inspiration and natural peace. Perfect for those ready to craft new memories in a lovingly maintained sanctuary, away from urban chaos.",
-  "market_positioning": "Positioned as a rare treasure in Chelm for discerning renters who cherish both the romance of historical districts and the conveniences of a thoughtfully modernized home. Designed for well-rooted households tempted by Chelm's tranquil rhythm and culture."
+  "target_buyer": "Ideal for bustling families seeking plentiful space, convenience, and a healthy, active lifestyle in a picturesque, charming environment close to cultural venues.",
+  "market_positioning": "Positioned as a premier family residence in Krosno\u2019s desirable Old Town, combining substantial modern amenities with classic district charm and offering unmatched size and features within its market bracket."
 }

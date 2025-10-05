@@ -1,31 +1,36 @@
 {
-  "title": "Scandinavian Minimalist House with Rooftop Deck Near Suwa\u0142ki Waterfront",
-  "description": "This newly renovated three-bedroom, three-bathroom house embodies minimalist Scandinavian design with clean interiors and abundant natural light. The spacious living area flows seamlessly into a sleek, contemporary kitchen, while upstairs, each bedroom features soothing tones and bespoke carpentry. A private walk-in closet in the master suite and access to a generous rooftop deck provide refined touches for those who value creativity and tranquility. Every element has been thoughtfully curated for harmonious, functional living.",
-  "neighborhood_description": "Located in Polnocne, the house sits in a low-density, historic neighborhood. Residents enjoy the safe atmosphere, serene streets, and proximity to Suwa\u0142ki\u2019s picturesque waterfront. Essential highways are easily accessible, making incoming and outgoing travel efficient while you bask in tranquility inspired by the area\u2019s charming heritage.",
-  "bedrooms": 3,
+  "title": "Whispering Pines House: A Modern Family Retreat in Eco-Minded Pr\u0105dnik Bia\u0142y",
+  "description": "Unlock days filled with sunlight and laughter in this newly built 5-bedroom, 3-bathroom house bursting with modern artistry. Designed for airy comfort, its 224 square meters seamlessly blend light-filled living spaces with sleek finishes, like a sculptural modern lighting system and bright, jovial colors. Children will delight in the secure playground area out back, while everyone enjoys peace of mind with wheelchair accessibility throughout the home. Serene panoramic windows offer sparkling glimpses of the nearby hills, framing moments both tranquil and inspiring.",
+  "neighborhood_description": "Nestled in the verdant embrace of Pr\u0105dnik Bia\u0142y, this pet-friendly enclave blends the camaraderie of an eco-conscious community with the ease of city access. Bicycle paths weave through green parks frequented by young families and four-legged companions, while down the street, farm-to-table caf\u00e9s and lively restaurants ring with laughter. Quick public transport and highway routes simplify any commute, letting adventure and convenience meet beneath spacious skies backed by mountain silhouettes.",
+  "bedrooms": 5,
   "bathrooms": 3,
-  "size_sqm": 165,
+  "size_sqm": 224,
   "property_type": "house",
-  "city": "Suwa\u0142ki",
-  "neighborhood": "Polnocne",
-  "urban_level": "low",
+  "city": "Krakow",
+  "neighborhood": "Pradnik Bialy",
+  "urban_level": "medium",
   "transport_options": [
+    "public transport",
     "highway"
   ],
-  "price": 1190000,
+  "price": 1680000,
   "key_features": [
-    "spacious rooftop deck",
-    "newly renovated minimalist interior",
-    "walk-in closet",
-    "open plan living and kitchen space",
-    "private garden"
+    "children's playground area",
+    "wheelchair accessibility",
+    "modern lighting system",
+    "shopping and dining nearby",
+    "air conditioning",
+    "bicycle storage",
+    "panoramic windows",
+    "green-touched landscaped garden"
   ],
   "lifestyle_benefits": [
-    "natural light-filled workspaces",
-    "peaceful atmosphere ideal for creativity",
-    "inspiring historic setting close to nature",
-    "safe community for families and professionals"
+    "pet-friendly green parks",
+    "eco-conscious local initiatives",
+    "mountain-view walking routes",
+    "engaged young community",
+    "easy commuting for dual-career couples"
   ],
-  "target_buyer": "Perfect for artists, designers, or creative professionals who value a calm and visually inspiring environment to live and work. Suitable for a small family or dynamic couple seeking spacel conveniently connected by highway.",
-  "market_positioning": "This distinguished property offers a rare balance of modern comfort and historic neighborhood charm. It stands apart as an ideal home for creatives drawn to Suwa\u0142ki\u2019s peaceful riverside ambiance, with open spaces both inside and out\u2014exceptionally positioned within the local market for those who appreciate minimalist architecture in a quiet yet connected locale."
+  "target_buyer": "Ideal for dynamic young couples seeking space to grow, raise a family, and intertwine modern comfort with nature connection\u2014without sacrificing swift city access and social buzz.",
+  "market_positioning": "This home vividly stands out in Krakow\u2019s mid-price segment, offering cutting-edge amenities, robust green surroundings, and community-centered living\u2014uniquely equipped for up-and-coming families wanting both vitality and tranquility."
 }

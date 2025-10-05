@@ -1,34 +1,33 @@
 {
-  "title": "Elegant Five-Bedroom Residence in Tranquil O\u0014cltaszyn",
-  "description": "Experience refined living in this exquisite five-bedroom, two-bathroom detached house, designed with comfort and sophistication in mind. The generous open floor plan boasts modern lighting throughout, seamlessly connecting the spacious living area with a contemporary kitchen. Large patio doors lead to a manicured garden, perfect for afternoons in the sun or intimate gatherings. An ensuite master bathroom and dedicated guest bathroom elevate everyday convenience.",
-  "neighborhood_description": "Nestled in the serene and sought-after O\u0014cltaszyn district of Wroclaw, this well-established neighborhood appeals to discerning residents who appreciate both community spirit and privacy. The surroundings offer a wonderful array of shopping and dining options nearby, while the area's reputation for safety creates a welcoming, secure atmosphere.",
-  "bedrooms": 5,
-  "bathrooms": 2,
-  "size_sqm": 255,
+  "title": "Charming Renovated Family House in Krosno's Old Town \u2013 Perfect for Students!",
+  "description": "This welcoming, recently renovated family house offers three spacious bedrooms and three modern bathrooms, providing comfortable living for families or student groups alike. The sunlit interior pairs classic touches with contemporary updates, creating a warm, inviting atmosphere throughout. Enjoy the large terrace for gatherings, a balcony overlooking the lush yard, and a dedicated barbecue zone for relaxing evenings. The home measures a generous 165 m\u00178, providing plenty of room for study, play, and rest.",
+  "neighborhood_description": "Nestled in the heart of Krosno's picturesque Old Town, this property is set in a peaceful, safe, community-oriented area beloved for its historic charm. The neighborhood is ideal for outdoor activities, being close to beautiful parks and modern playgrounds. All essential amenities, from local shops to cozy cafes, are just a short stroll away.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 165,
   "property_type": "house",
-  "city": "Wroclaw",
-  "neighborhood": "Oltaszyn",
-  "urban_level": "medium",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 1960000,
+  "price": 1290000,
   "key_features": [
-    "open floor plan",
-    "modular lighting system",
-    "patio doors opening to garden",
-    "ensuite bathroom",
-    "guest bathroom",
+    "balcony",
+    "newly renovated interior",
+    "barbecue zone",
+    "terrace",
+    "spacious rooms",
     "modern kitchen",
-    "private garden"
+    "energy-efficient windows"
   ],
   "lifestyle_benefits": [
-    "peaceful neighborhood living",
-    "walkability to shops and restaurants",
-    "safety and privacy for quiet retirement",
-    "outdoor entertaining space",
-    "easy roadside connectivity"
+    "minutes to green parks and playgrounds",
+    "quiet streets ideal for studying",
+    "vibrant neighborhood community",
+    "all essentials within easy walking distance"
   ],
-  "target_buyer": "Ideal for retirees seeking elegant, low-maintenance living, with space for guests or multigenerational family in a quiet, secure residential area.",
-  "market_positioning": "A premium offering within Oltaszyn, this home stands out for its balance of indoor luxury and outdoor calm, primed for buyers prioritizing comfort and sophistication close to essential amenities."
+  "target_buyer": "Perfect for students attending local schools or universities who value space, comfort, and a community-driven environment. Families looking for a safe, well-connected location near parks and amenities will also find this home ideal.",
+  "market_positioning": "Well-positioned within Krosno's scenic Old Town, this home offers above-average space and renovation quality at a competitive price point, making it an excellent choice for students or families seeking outstanding value and lifestyle advantages in a historic setting."
 }

@@ -1,35 +1,33 @@
 {
-  "title": "Exclusive Designer Duplex for Remote Work in Suwa\u0142ki\u2019s Most Tranquil District",
-  "description": "Experience sophisticated countryside living in this newly constructed luxury duplex featuring 4 elegant bedrooms and 3 modern bathrooms across 206 sqm. The heart of the home is its airy, sunlit open floor plan, with premium finishes and seamless accessibility throughout\u2014absolutely wheelchair-friendly from entry to garden patio. Eco-conscious touches such as advanced recycling facilities create responsible comfort for today\u2019s discerning resident.",
-  "neighborhood_description": "Located in the peaceful P\u00f3\u0142nocne neighborhood of Suwa\u0142ki, enjoy the best of safe, family-oriented surroundings amidst an artistic community. Spacious parks, vibrant playgrounds, and creative spaces are merely a stroll away, setting a new gold standard in quality of life without urban pressures. Rapid highway access makes regional connections effortless while preserving countryside serenity.",
-  "bedrooms": 4,
+  "title": "Expansive Retreat with Modern Touches in Suburb, Nowy Sacz",
+  "description": "Welcome to an artistically reimagined 6-bedroom house that bridges tradition and innovation on the charming outskirts of Nowy Sacz. Spanning a generous 280 sqm, this residence boasts three bright bathrooms, spacious social zones, and private nooks perfect for focus or unwinding. Inspired by the cadence of nature, enjoy low energy living through the integrated rainwater collection system, sauna sanctuary, and smart technology throughout the home.",
+  "neighborhood_description": "Wrapped in the gentle folds of historic Suburb, you\u2019ll experience serenity beneath tree-lined patinas, birdsong, and nods to Poland\u2019s past. The neighborhood blossoms with family-friendly parks and locally-run markets where stories are exchanged alongside groceries. Immediate highway access brings urban excitement within reach while preserving your storied quietude.",
+  "bedrooms": 6,
   "bathrooms": 3,
-  "size_sqm": 206,
-  "property_type": "duplex",
-  "city": "Suwa\u0142ki",
-  "neighborhood": "P\u00f3\u0142nocne",
+  "size_sqm": 280,
+  "property_type": "house",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
   "urban_level": "low",
   "transport_options": [
     "highway"
   ],
-  "price": 1750000,
+  "price": 1320000,
   "key_features": [
-    "wheelchair accessibility throughout",
-    "spacious open floor concept",
-    "designer kitchen with top-tier appliances",
-    "advanced recycling facilities with sorting",
-    "private landscaped garden",
-    "energy-efficient windows and insulation",
-    "garage and off-street parking",
-    "smart home elements for security and comfort"
+    "rainwater collection system",
+    "home co-working space",
+    "shared sauna",
+    "EV charging station",
+    "smart home system",
+    "outdoor terrace",
+    "fireplace"
   ],
   "lifestyle_benefits": [
-    "true privacy ideal for remote work balance",
-    "secure, child-friendly outdoor environment",
-    "peaceful artistic community spirit",
-    "immediate access to outdoor recreation",
-    "stress-free commute via nearby highway"
+    "Nature-soaked living with historic flair",
+    "Flexible areas for remote work or international calls",
+    "Organic local food markets & heritage explorations",
+    "Easy conviviality and privacy in equal measure"
   ],
-  "target_buyer": "Successful professionals, remote workers, or families seeking quiet luxury, generous space, and seamless access to nature\u2014those who value ease, creativity, and modern amenities in a safe, upscale environment.",
-  "market_positioning": "Positioned at the pinnacle of Suwa\u0142ki\u2019s premium segment, this rare duplex offers a distinctive blend of contemporary design, accessible luxury, and countryside exclusivity, unmatched for remote professionals and modern family living."
+  "target_buyer": "Ideal for expats and multi-generational families accustomed to global comfort but craving the poetic beauty of a gentle home, fusing tradition with sustainable living in heartful surroundings.",
+  "market_positioning": "Offering a rare blend of characteristic village warmth and contemporary amenities tailored for international creatives and thinkers\u2014this property is poised as an exceptional alternative to city sprawl for buyers who value seclusion and eco-green luxury in Nowy Sacz."
 }

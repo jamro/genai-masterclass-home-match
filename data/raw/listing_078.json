@@ -1,34 +1,34 @@
 {
-  "title": "Charming Polesie Loft with a Warm, Welcoming Atmosphere",
-  "description": "Discover the perfect retreat in this spacious, one-bedroom loft exquisitely designed with comfort in mind. Boasting 90 square meters of open, sunlit living space, the property includes two stylish bathrooms and a walk-in closet. Residents enjoy contemporary interiors and exclusive shared amenities such as a rooftop deck and a residents' lounge. With large windows, high ceilings, and modern fixtures, this loft promotes both relaxation and active living.",
-  "neighborhood_description": "Located in Polesie\u2014one of Lodz\u2019s most peaceful and green neighborhoods\u2014this loft sits amidst tree-lined streets, local parks, and pet-friendly walking paths. Daily errands are a breeze with shopping and dining within easy reach, while dedicated bike lines and reliable public transport offer seamless connections across the city. The welcoming community invites both serenity and social engagement, promoting a health-conscious, yet relaxed lifestyle.",
-  "bedrooms": 1,
+  "title": "Spacious 4-Bed Family Retreat with Garden in Ustka\u2019s Port District",
+  "description": "Welcome to a bright and spacious apartment nestled in Ustka\u2019s Port District. With four comfortable bedrooms and two modern bathrooms, this residence offers plenty of space for the whole family\u2014as well as visiting guests. Wide patio doors flow effortlessly to the private garden, complemented by a sunny balcony, perfect for outdoor enjoyment. The open-plan living area is designed for convenience and togetherness, and the additional guest bathroom provides excellent flexibility for your household.",
+  "neighborhood_description": "The Port District blends lively urban energy with the tranquility of a quieter neighborhood, ideal for family living. With bike lines weaving through the area and convenient highway access, getting in and out of Ustka is a breeze. The proximity to schools and everyday services ensures everything you need is only a short walk or ride away.",
+  "bedrooms": 4,
   "bathrooms": 2,
-  "size_sqm": 90,
-  "property_type": "loft",
-  "city": "Lodz",
-  "neighborhood": "Polesie",
-  "urban_level": "medium",
+  "size_sqm": 105,
+  "property_type": "apartment",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
   "transport_options": [
-    "public transport",
-    "bike lines",
-    "highway"
+    "highway",
+    "bike lines"
   ],
-  "price": 980000,
+  "price": 1100000,
   "key_features": [
-    "residents' lounge",
-    "fitness center",
-    "walk-in closet",
-    "close to public transport",
-    "rooftop deck",
-    "children's playground area"
+    "four bedrooms",
+    "two bathrooms",
+    "guest bathroom",
+    "patio doors opening to garden",
+    "balcony",
+    "fenced yard",
+    "bright open-plan living area"
   ],
   "lifestyle_benefits": [
-    "perfect for active retirees",
-    "low-maintenance lock-up-and-go living",
-    "easy access to green parks",
-    "welcoming neighborhood community"
+    "garden access for relaxation or remote work",
+    "balcony for fresh air and coffee breaks",
+    "family-friendly with secured outdoor space",
+    "close to schools for easy family routines"
   ],
-  "target_buyer": "Ideal for retirees or downsizers seeking a friendly community along with modern comforts and excellent city connectivity. Residences cater to those who value both independence and accessible amenities.",
-  "market_positioning": "Positioned as a premium mid-size loft in the Polesie district, this property stands out for its upscale communal facilities, family-friendly setting, and superb transport connections\u2014appealing to lifestyle-first buyers and those seeking quality living within Lodz."
+  "target_buyer": "Ideal for remote-working families seeking a spacious, safe, and serene environment to grow and thrive, with easy access to both nature and town services.",
+  "market_positioning": "A rare opportunity for families or professionals working remotely, this larger-than-average apartment offers flexible space and unique outdoor areas not often found in low-density Ustka neighborhoods, combining peaceful living with accessible city adventure."
 }

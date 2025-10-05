@@ -1,12 +1,12 @@
 {
   "title": "Minimalist Loft Retreat with Panoramic Views in Polnocne",
   "description": "Nestled beneath dramatic sloped ceilings, this airy one-bedroom loft embraces modern Scandinavian aesthetics with its clean lines and light-filled living spaces. The 51 sqm home is thoughtfully designed for comfortable living and studying, featuring a seamless open-plan plan accentuated by panoramic windows that highlight tranquil skies and natural landscapes. Built-in wardrobes offer generous, streamlined storage, while air conditioning ensures year-round comfort.",
-  "neighborhood_description": "Set in the quiet Polnocne neighborhood on Suwa\u0142ki\u2019s northern edge, this loft offers a balance of peaceful retreat and city connection. Local amenities include groceries, green walks, and easy access to main transit routes. With a low urban density, residents enjoy a calm atmosphere\u2014perfect for focused study or relaxation after class.",
+  "neighborhood_description": "Set in the quiet Polnocne neighborhood on Suwalki\u2019s northern edge, this loft offers a balance of peaceful retreat and city connection. Local amenities include groceries, green walks, and easy access to main transit routes. With a low urban density, residents enjoy a calm atmosphere\u2014perfect for focused study or relaxation after class.",
   "bedrooms": 1,
   "bathrooms": 1,
   "size_sqm": 51,
   "property_type": "loft",
-  "city": "Suwa\u0142ki",
+  "city": "Suwalki",
   "neighborhood": "Polnocne",
   "urban_level": "low",
   "transport_options": [
@@ -29,5 +29,5 @@
     "modern wellness amenities on-site"
   ],
   "target_buyer": "Perfect for students or young professionals desiring a stylish, hassle-free residence set apart from the city bustle but conveniently close to educational centers and commuting routes.",
-  "market_positioning": "Suited for discerning buyers seeking modern comfort, low-maintenance living, and wellness amenities in an emerging neighborhood, this loft stands out in Suwa\u0142ki for its distinctive design and tranquil location."
+  "market_positioning": "Suited for discerning buyers seeking modern comfort, low-maintenance living, and wellness amenities in an emerging neighborhood, this loft stands out in Suwalki for its distinctive design and tranquil location."
 }

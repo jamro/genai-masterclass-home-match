@@ -1,12 +1,12 @@
 {
-  "title": "Chic Loft Living for Families and Pets in Pozna\u0144's Vibrant Stare Miasto",
+  "title": "Chic Loft Living for Families and Pets in Poznan's Vibrant Stare Miasto",
   "description": "Welcome to your new loft home in the heart of Stare Miasto! This spacious, energy-efficient loft features 2 sun-filled bedrooms and 2 modern bathrooms, perfectly spread over 87 square meters. The open-concept living area boasts soaring ceilings and flows onto a cozy balcony, ideal for morning coffee or relaxing with loved ones. Families and their pets will appreciate the building's pet-friendly policies and the on-site children's playground area for safe, active fun.",
-  "neighborhood_description": "Stare Miasto is Pozna\u0144\u2019s historic yet booming district, known for its tech-forward community and lush green spaces. Just steps from waterfront paths and several parks, the neighborhood also has vibrant playgrounds and modern amenities perfectly suited for active young families and professionals. Quick access to public transportation and bike lanes makes commuting and weekend adventures a breeze.",
+  "neighborhood_description": "Stare Miasto is Poznan\u2019s historic yet booming district, known for its tech-forward community and lush green spaces. Just steps from waterfront paths and several parks, the neighborhood also has vibrant playgrounds and modern amenities perfectly suited for active young families and professionals. Quick access to public transportation and bike lanes makes commuting and weekend adventures a breeze.",
   "bedrooms": 2,
   "bathrooms": 2,
   "size_sqm": 87,
   "property_type": "loft",
-  "city": "Pozna\u0144",
+  "city": "Poznan",
   "neighborhood": "Stare Miasto",
   "urban_level": "high",
   "transport_options": [

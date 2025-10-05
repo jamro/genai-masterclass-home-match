@@ -1,12 +1,12 @@
 {
   "title": "Exquisite 4-Bedroom Apartment in Stare Miasto \u2013 Luxury Living Redefined",
-  "description": "Step into this spacious and meticulously renovated apartment in the heart of Pozna\u0144\u2019s Stare Miasto. Featuring four beautifully proportioned bedrooms, a refined bathroom, and an open-plan design, the home is perfect for those who prize modern comfort. The modern kitchen comes fully equipped, finished with high-end appliances and smart storage, while custom built-in wardrobes grace each bedroom. Elevated fixtures and carefully preserved details speak to premium craftsmanship throughout the residence, with immaculate, well-maintained common areas completing the offering.",
-  "neighborhood_description": "Located in the vibrant Stare Miasto district, this property puts every cultural, artistic, and recreational delight of central Pozna\u0144 within easy reach. Families and young professionals will thrive amid a peaceful, community-oriented vibe while enjoying excellent transport links, serene green corners, and a host of artisan caf\u00e9s. The local area balances bustling urban energy with a warm, artistic spirit\u2014an inspired place for your next chapter.",
+  "description": "Step into this spacious and meticulously renovated apartment in the heart of Poznan\u2019s Stare Miasto. Featuring four beautifully proportioned bedrooms, a refined bathroom, and an open-plan design, the home is perfect for those who prize modern comfort. The modern kitchen comes fully equipped, finished with high-end appliances and smart storage, while custom built-in wardrobes grace each bedroom. Elevated fixtures and carefully preserved details speak to premium craftsmanship throughout the residence, with immaculate, well-maintained common areas completing the offering.",
+  "neighborhood_description": "Located in the vibrant Stare Miasto district, this property puts every cultural, artistic, and recreational delight of central Poznan within easy reach. Families and young professionals will thrive amid a peaceful, community-oriented vibe while enjoying excellent transport links, serene green corners, and a host of artisan caf\u00e9s. The local area balances bustling urban energy with a warm, artistic spirit\u2014an inspired place for your next chapter.",
   "bedrooms": 4,
   "bathrooms": 1,
   "size_sqm": 108,
   "property_type": "apartment",
-  "city": "Pozna\u0144",
+  "city": "Poznan",
   "neighborhood": "Stare Miasto",
   "urban_level": "high",
   "transport_options": [
@@ -31,5 +31,5 @@
     "urban amenities easily accessible"
   ],
   "target_buyer": "Ideal for first-time buyers seeking a luxurious urban lifestyle, particularly young families or professionals desiring a spacious, modern apartment in a prime city-center location.",
-  "market_positioning": "Positioned at the high end of the local market, this apartment blends smart contemporary upgrades with signature Pozna\u0144 charm. It offers rare four-bedroom luxury in a sought-after area, a distinctive choice for discerning first-time buyers looking to invest in prestige and enduring value."
+  "market_positioning": "Positioned at the high end of the local market, this apartment blends smart contemporary upgrades with signature Poznan charm. It offers rare four-bedroom luxury in a sought-after area, a distinctive choice for discerning first-time buyers looking to invest in prestige and enduring value."
 }

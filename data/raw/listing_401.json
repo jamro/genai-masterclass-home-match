@@ -1,12 +1,12 @@
 {
-  "title": "Minimalist Baltic-Inspired Apartment in the Heart of Gda\u0144sk",
+  "title": "Minimalist Baltic-Inspired Apartment in the Heart of Gdansk",
   "description": "Discover understated modern living in this bright, meticulously designed one-bedroom apartment. The interior features crisp lines and soft neutral colors, enhanced by panoramic windows that bring in the vibrant city views. An open living area blends seamlessly into a Scandinavian-style kitchenette with premium finishes. The bathroom reflects a spa-like calm, ideal for unwinding after a productive day.",
-  "neighborhood_description": "Located in the vibrant neighborhood of Srodmiescie, this address places you steps from Gda\u0144sk\u2019s top business, cultural, and culinary spots. Daily life is made effortless, thanks to fast public transport connections, bike-friendly streets, nearby schools, and quick access to main highways connecting you to the greater Tricity area.",
+  "neighborhood_description": "Located in the vibrant neighborhood of Srodmiescie, this address places you steps from Gdansk\u2019s top business, cultural, and culinary spots. Daily life is made effortless, thanks to fast public transport connections, bike-friendly streets, nearby schools, and quick access to main highways connecting you to the greater Tricity area.",
   "bedrooms": 1,
   "bathrooms": 1,
   "size_sqm": 41,
   "property_type": "apartment",
-  "city": "Gda\u0144sk",
+  "city": "Gdansk",
   "neighborhood": "Srodmiescie",
   "urban_level": "high",
   "transport_options": [
@@ -27,6 +27,6 @@
     "appealing to professionals and short-term tenants",
     "excellent urban amenities"
   ],
-  "target_buyer": "Ideal for property investors seeking strong rental yields or long-term value in Gda\u0144sk\u2019s urban core.",
-  "market_positioning": "This apartment occupies a distinctive niche for those focusing on well-designed, highly functional investment spaces with high demand in central Gda\u0144sk."
+  "target_buyer": "Ideal for property investors seeking strong rental yields or long-term value in Gdansk\u2019s urban core.",
+  "market_positioning": "This apartment occupies a distinctive niche for those focusing on well-designed, highly functional investment spaces with high demand in central Gdansk."
 }

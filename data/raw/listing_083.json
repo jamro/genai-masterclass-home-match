@@ -1,0 +1,32 @@
+{
+  "title": "Eco-Modern Studio Retreat in Peaceful Pardalowka",
+  "description": "This contemporary studio apartment pairs modern living with eco-conscious design. Thoughtfully arranged within its 32 square meters, the space features a well-lit living and bedroom zone, a sleek bathroom, and efficient built-in storage. The kitchen area is fitted with energy-saving appliances, while floor-to-ceiling windows bring in ample natural light. Residents also enjoy access to a shared sauna for relaxation after mountain adventures.",
+  "neighborhood_description": "Set in Pardalowka, a tranquil Zakopane neighborhood known for its community focus and green ethos, this studio encourages a healthy, sustainable lifestyle. The area is surrounded by pristine natural scenery and fosters strong neighborhood connections, perfect for those who enjoy living in harmony with nature.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 32,
+  "property_type": "studio apartment",
+  "city": "Zakopane",
+  "neighborhood": "Pardalowka",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 449000,
+  "key_features": [
+    "bicycle storage",
+    "laundry room",
+    "modern lighting system",
+    "shared sauna",
+    "floor-to-ceiling windows",
+    "built-in storage"
+  ],
+  "lifestyle_benefits": [
+    "join an eco-conscious community",
+    "mountain air and tranquil vistas",
+    "space-efficient modern design",
+    "proximity to Main Highway for commuting"
+  ],
+  "target_buyer": "Ideal for eco-minded professionals relocating for work who value convenient access combined with a peaceful and community-focused home base.",
+  "market_positioning": "This property stands out as an affordable and sustainable option for professionals seeking a balance of modern convenience, wellness amenities, and tranquil natural surroundings, redefining work\u2013life harmony in Zakopane."
+}

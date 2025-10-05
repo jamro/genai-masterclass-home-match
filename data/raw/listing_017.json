@@ -1,0 +1,35 @@
+{
+  "title": "Eco-Modern Duplex with Garden Oasis in Peaceful Ligota",
+  "description": "Discover stylish minimalism and peaceful comfort in this airy duplex spanning a generous 165 sqm. Newly renovated from top to bottom, the home features three sunlit bedrooms and three bathrooms, with open-plan space flowing elegantly towards the private garden through energy-saving patio doors. Enjoy cozy evenings by a contemporary fireplace, and indulge in summer living with tranquil views and seamless garden access. As a resident, you benefit from shared swimming pool access in a friendly, secure community.",
+  "neighborhood_description": "Set in the tranquil district of Ligota, you\u2019ll appreciate leafy avenues, calm pathways, and abundant green spaces perfect for relaxing strolls. The neighborhood combines peaceful suburban charm with great urban links: public transport connects you swiftly with historic Katowice and shopping or dining spots nearby. With the highway a short drive away, city trips and countryside escapes are equally convenient.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 165,
+  "property_type": "duplex",
+  "city": "Katowice",
+  "neighborhood": "Ligota",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1490000,
+  "key_features": [
+    "newly renovated interior",
+    "energy-efficient windows",
+    "contemporary fireplace",
+    "patio doors opening to private garden",
+    "shared swimming pool access",
+    "three full bathrooms",
+    "landscaped green space",
+    "dedicated parking"
+  ],
+  "lifestyle_benefits": [
+    "low-maintenance eco-modern living",
+    "safe and calm community",
+    "easy access to greenery and walking paths",
+    "proximity to shops and essential services"
+  ],
+  "target_buyer": "Ideal for retirees seeking modern comfort, energy efficiency, and a peaceful suburban lifestyle while being near health centers, local amenities, and transport links for family visits and leisure.",
+  "market_positioning": "A standout option in the mid-upper segment, this property caters to buyers valuing sustainable features, up-to-date renovations, and easy but upscale living in a green, relaxed setting close to the heart of Katowice."
+}

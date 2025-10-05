@@ -1,0 +1,33 @@
+{
+  "title": "Contemporary Duplex Haven in Zatorze",
+  "description": "Step into this stylish and modern duplex boasting 4 spacious bedrooms and 2 well-appointed bathrooms, offering 145 sqm of thoughtfully designed living space. Expansive balconies draw in natural light, while the private fenced yard and automatic gate ensure peace of mind. The open-concept kitchen and living area create a perfect space for work and relaxation, blending comfort with practicality for today's dynamic lifestyles.",
+  "neighborhood_description": "Zatorze is renowned for its blend of green surroundings and family-friendly atmosphere, offering a balance of quiet living and community activity. Spend weekends exploring local parks, caf\u00e9s, or the nearby bike trails. Public transport and easy access to the highway make commuting a breeze whether you head into the city or out for weekend adventures.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 145,
+  "property_type": "duplex",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1540000,
+  "key_features": [
+    "bicycle storage",
+    "balcony",
+    "security system",
+    "automatic gate",
+    "shared sauna",
+    "fenced yard"
+  ],
+  "lifestyle_benefits": [
+    "fast internet-ready for remote work",
+    "high walkability to caf\u00e9s and parks",
+    "lively yet peaceful environment",
+    "flexible work-live layout"
+  ],
+  "target_buyer": "Perfect for young professionals, remote-working couples, or digital nomads seeking more space and a vibrant local community within easy reach of major transport links.",
+  "market_positioning": "Rarely does a duplex of this scale, polish, and price emerge in Zatorze. With designer finishes, smart security, wellness amenities, and a premium neighborhood vibe, it stands apart as the go-to choice for tech-savvy urban movers and creative lifestyle seekers in Leszno.\u201d"
+}

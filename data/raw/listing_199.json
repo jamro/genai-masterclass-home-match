@@ -1,0 +1,32 @@
+{
+  "title": "Modern Duplex Gem in the Heart of Zakopane Centrum",
+  "description": "Welcome home to a comfortable and stylish 3-bedroom duplex designed with families in mind. This 132 sqm property features spacious living and dining areas, three bright bathrooms, and a peaceful outdoor terrace perfect for morning coffees or evening relaxation. Offering a contemporary layout, it combines functionality and warmth \u2013 ideal for first steps into homeownership. The entire duplex is secured by 24/7 monitoring and features an efficient rainwater collection system for eco-friendly living.",
+  "neighborhood_description": "Nestled in Zakopane's vibrant Centrum, this property gives you a walkable lifestyle with top-rated schools, tech workspaces, and a friendly, bike-ready community vibe. Nearby shopping and dining hotspots make everyday errands easy and enjoyable. Quick connections to highways and excellent public transport keep all corners of the Tatra region within easy reach.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 132,
+  "property_type": "duplex",
+  "city": "Zakopane",
+  "neighborhood": "Centrum",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1570000,
+  "key_features": [
+    "terrace",
+    "shopping and dining nearby",
+    "24/7 security",
+    "rainwater collection system"
+  ],
+  "lifestyle_benefits": [
+    "perfect for young families",
+    "easy access to schools and tech spaces",
+    "sustainable, eco-conscious features",
+    "convenient commute by highway or bus",
+    "safe and bike-friendly neighborhood"
+  ],
+  "target_buyer": "Ideal for first-time buyers seeking a move-in ready family home in the heart of Zakopane, with modern amenities and secure surroundings.",
+  "market_positioning": "This duplex offers excellent value within Centrum, Zakopane's thriving middle-urban area, combining security, modern sustainability, and a community-oriented setting at a competitive price for families taking their first step into homeownership."
+}

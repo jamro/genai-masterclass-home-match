@@ -1,0 +1,35 @@
+{
+  "title": "Light-Filled Nordic Home with Eco Touch Evenings",
+  "description": "This serene Scandinavian-inspired house features clean architectural lines, natural wood finishes, and an intentional layout designed for mindful living. With five bright bedrooms, three bathrooms, and a dedicated home office, every room balances privacy and openness. Large energy-efficient windows and a spacious terrace invite natural light, seamlessly connecting indoor spaces to the tranquil, fenced yard nestled in greenery. Purposeful sustainability touches such as integrated recycling facilities resonate through this home, tailoring it for those who value environment and design equally.",
+  "neighborhood_description": "Suburb is where the calm embraces you\u2014offering a peaceful suburban vibe steeped in quiet historic charm. Families and newcomers enjoy safe streets, a growing local community, and ample green spaces. Access to the nearby highway ensures swift getaways into urban centers while allowing you to return home to tranquility.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 218,
+  "property_type": "house",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1550000,
+  "key_features": [
+    "spacious terrace",
+    "fenced yard",
+    "recycling facilities",
+    "energy-efficient windows",
+    "dedicated home office",
+    "minimalist Scandinavian finishes",
+    "open-plan living/dining",
+    "smart heating system"
+  ],
+  "lifestyle_benefits": [
+    "enable conscious and sustainable living",
+    "light-filled creative workspace at home",
+    "peaceful garden relaxation space",
+    "space to grow a family or cultivate hobbies",
+    "fast connection to the city via highway"
+  ],
+  "target_buyer": "Ideal for eco-conscious families or professionals seeking an elegant, sustainable home base; perfect for buyers transitioning from city living who desire comfort, environmental design, and a serene neighborhood.",
+  "market_positioning": "Positioned as a distinctive find for modern buyers: this home effortlessly combines minimal Scandinavian style and eco-minded amenities, offering more space and tranquility than a city home and standing out for its conscious-centric design choices in the Suburb district."
+}

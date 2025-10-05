@@ -1,0 +1,31 @@
+{
+  "title": "Tranquil Portside Retreat with Open Flow Living in Ustka",
+  "description": "Awaken each morning to Baltic breezes in this distinctive studio nestled in Ustka\u2019s charming Port District. Perfectly proportioned at 34 sqm, the home offers a seamless open floor plan merging living, dining, and rest without compromise. Large windows fill this one-bedroom, one-bath space with soothing natural light, while thoughtful touches like a heated driveway promise comfort even in coastal winters. A separate laundry nook adds everyday utility and convenience.",
+  "neighborhood_description": "Set in the historic Port District, your doorstep opens onto scenic bike lines tracing the seashore and woodland. The neighborhood hums with promise for those who love the outdoors, with robust paths and walkability connecting to Ustka\u2019s cultural core, bustling cafes, and daily amenities only a few pleasant minutes away. Despite its peaceful air, fast highway access whisks you easily to everywhere else.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 34,
+  "property_type": "studio",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 369000,
+  "key_features": [
+    "laundry room",
+    "open floor plan",
+    "heated driveway",
+    "sunny west-facing windows",
+    "compact modern kitchen"
+  ],
+  "lifestyle_benefits": [
+    "carefree maintenance for easy travel or long stays",
+    "walkable to waterfront, parks, and town sights",
+    "ideal for cycling or active exploration"
+  ],
+  "target_buyer": "Ideal for retirees seeking peaceful coastal living with convenience and soothing amenities, or solo adventurers relishing sea air and simplicity.",
+  "market_positioning": "Uniquely positioned as an accessible, thoughtfully modern studio near Old Town and the waterfront, offering value and lifestyle perks few others in the Port District can match."
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Elegant Five-Bedroom Residence in Tranquil O\u0014cltaszyn",
+  "description": "Experience refined living in this exquisite five-bedroom, two-bathroom detached house, designed with comfort and sophistication in mind. The generous open floor plan boasts modern lighting throughout, seamlessly connecting the spacious living area with a contemporary kitchen. Large patio doors lead to a manicured garden, perfect for afternoons in the sun or intimate gatherings. An ensuite master bathroom and dedicated guest bathroom elevate everyday convenience.",
+  "neighborhood_description": "Nestled in the serene and sought-after O\u0014cltaszyn district of Wroclaw, this well-established neighborhood appeals to discerning residents who appreciate both community spirit and privacy. The surroundings offer a wonderful array of shopping and dining options nearby, while the area's reputation for safety creates a welcoming, secure atmosphere.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 255,
+  "property_type": "house",
+  "city": "Wroclaw",
+  "neighborhood": "Oltaszyn",
+  "urban_level": "medium",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1960000,
+  "key_features": [
+    "open floor plan",
+    "modular lighting system",
+    "patio doors opening to garden",
+    "ensuite bathroom",
+    "guest bathroom",
+    "modern kitchen",
+    "private garden"
+  ],
+  "lifestyle_benefits": [
+    "peaceful neighborhood living",
+    "walkability to shops and restaurants",
+    "safety and privacy for quiet retirement",
+    "outdoor entertaining space",
+    "easy roadside connectivity"
+  ],
+  "target_buyer": "Ideal for retirees seeking elegant, low-maintenance living, with space for guests or multigenerational family in a quiet, secure residential area.",
+  "market_positioning": "A premium offering within Oltaszyn, this home stands out for its balance of indoor luxury and outdoor calm, primed for buyers prioritizing comfort and sophistication close to essential amenities."
+}

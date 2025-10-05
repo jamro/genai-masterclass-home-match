@@ -1,0 +1,31 @@
+{
+  "title": "Eco Studio Retreat in Leafy Koscielisko",
+  "description": "Discover this stylish and compact studio in the tranquil neighborhood of Koscielisko. With a thoughtfully designed 28 sqm layout, this apartment combines functional elegance with sustainable living. Hardwood floors and energy-efficient windows shape a modern yet cozy atmosphere, while the ground-floor entrance provides wheelchair accessibility. Enjoy the luxury of a heated driveway and tot up in the cozy residents' lounge after a day in the Tatra Mountains.",
+  "neighborhood_description": "Koscielisko is a growing neighborhood proud of its lush, green surroundings and mountain air, yet conveniently close to Zakopane\u2019s vibrant center. Residents enjoy a peaceful, community-oriented lifestyle with easy reach to hiking trails and local artisan shops. Excellent highway access makes both commuting and weekend getaways simple and stress-free.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 28,
+  "property_type": "studio apartment",
+  "city": "Zakopane",
+  "neighborhood": "Koscielisko",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 430000,
+  "key_features": [
+    "hardwood floors",
+    "energy-efficient windows",
+    "wheelchair accessibility",
+    "heated driveway",
+    "residents' lounge"
+  ],
+  "lifestyle_benefits": [
+    "eco-friendly design reduces utility cost and carbon footprint",
+    "quiet and scenic surroundings ideal for remote work or creative pursuits",
+    "access to nature trails and outdoor activities",
+    "strong sense of community in an up-and-coming neighborhood"
+  ],
+  "target_buyer": "Ideal for young professionals or eco-conscious urbanites searching for a convenient year-round escape or starter home near nature.",
+  "market_positioning": "A rare opportunity in Zakopane\u2019s property market\u2014perfect for sustainability-minded buyers seeking affordability, modern amenities, and exceptional access to outdoor beauty."
+}

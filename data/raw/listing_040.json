@@ -1,0 +1,33 @@
+{
+  "title": "Chic Studio Haven in Artful Brynow",
+  "description": "Step into this luminous studio nestled in the creative quarter of Brynow, Katowice. Bathed in natural light, the apartment ingeniously maximizes space with an open living area, stylish kitchenette, and dedicated sleeping alcove. The modern ensuite bathroom features elegant fixtures and refined finishes, complete with a rain shower. Smart home features allow you to set the ambiance for inspiration\u2014or deep focus\u2014with a touch of your smartphone.",
+  "neighborhood_description": "Brynow beckons with its blend of historic charm and spirited modernity, excellent caf\u00e9s, and welcoming spaces for you and your companions\u2014four-legged ones included. Enjoy the relaxed rhythms of local life, vibrant green parks, and the buzz of cultural happenings just moments from your door. Well-developed bike lines and public transport cater to every pace of exploration and commute.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 33,
+  "property_type": "studio apartment",
+  "city": "Katowice",
+  "neighborhood": "Brynow",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 419000,
+  "key_features": [
+    "ensuite bathroom",
+    "smart home system",
+    "access to fitness center",
+    "built-in storage",
+    "open living design"
+  ],
+  "lifestyle_benefits": [
+    "ideal for remote work and freelancers",
+    "steps from local caf\u00e9s and galleries",
+    "community green spaces nearby",
+    "pet-friendly environment",
+    "secure Bike storage"
+  ],
+  "target_buyer": "Remote professionals or creatives seeking a stylish, flexible home base in a charismatic neighborhood, perfect for mixing work and lifestyle.",
+  "market_positioning": "Tailored for modern urban dwellers, this thoughtfully efficient studio competes at the premium end of Katowice\u2019s single-bedroom market due to its combination of contemporary features, community vibes, and coveted Brynow address."
+}

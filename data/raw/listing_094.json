@@ -1,0 +1,33 @@
+{
+  "title": "Modern Studio Sanctuary in Vibrant Srodmiescie with Solar Savvy Features",
+  "description": "Step into urban comfort with this chic studio apartment designed for the modern entrepreneur. The 35 sqm open-plan space is adorned with minimalist architecture, smart finishes, and abundant natural light. Experience undisturbed focus with soundproof walls, and fuel your sustainable lifestyle with integrated solar panels. Enjoy a peaceful night's sleep separated from the hustle while relishing city living.",
+  "neighborhood_description": "Located in the heart of Srodmiescie, this property is surrounded by lush green courtyards and parks amid dynamic city life. A few steps away, you'll find the best shopping, dining, and recreation spots in Lodz, along with excellent public transport links and extensive bike lanes that make getting around efficient and eco-friendly.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 35,
+  "property_type": "studio apartment",
+  "city": "Lodz",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 417000,
+  "key_features": [
+    "solar panels",
+    "soundproof walls",
+    "shopping and dining nearby",
+    "fenced yard access",
+    "modern, energy-efficient appliances"
+  ],
+  "lifestyle_benefits": [
+    "vibrant entrepreneurial atmosphere",
+    "walk-to-everything convenience",
+    "eco-friendly lifestyle support",
+    "green outdoor spaces nearby",
+    "excellent city connectivity"
+  ],
+  "target_buyer": "Designed for ambitious young professionals, digital nomads or urban entrepreneurs seeking a smart, sustainable home-base in Lodz.",
+  "market_positioning": "A perfect entry-level investment or home for up-and-comers, putting refined technology and city-centre vibrancy within reach for the modern mover."
+}

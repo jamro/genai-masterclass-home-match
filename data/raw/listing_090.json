@@ -1,0 +1,33 @@
+{
+  "title": "Chic Studio Haven in Swidnica\u2019s Storied Center",
+  "description": "Step into bohemian living in this sunlit studio apartment nestled in Swidnica's treasured Historic Center. Thoughtfully designed, this 36 sqm retreat features an inviting open layout, a modern kitchen corner, ample built-in wardrobes, and a stylish bathroom bathed in soft natural light. Elegant touches combine with sustainability thanks to on-site solar panels and access to an enchanting, shared courtyard\u2014the perfect canvas for work and relaxation.",
+  "neighborhood_description": "Experience the unique blend of centuries-old architecture and modern flair in the heart of Swidnica. The Historic Center hums with artisanal coffee shops, co-working hubs, and pet-friendly parks. Transport connections\u2014including efficient public transport and easy highway access\u2014place Lower Silesia\u2019s jewels within easy reach.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 434000,
+  "key_features": [
+    "built-in wardrobes",
+    "shared courtyard",
+    "solar panels",
+    "residents' lounge",
+    "elevator"
+  ],
+  "lifestyle_benefits": [
+    "flexible work-from-home environments",
+    "supportive digital nomad community",
+    "eco-conscious features",
+    "vibrant cultural scene",
+    "pet-friendly district"
+  ],
+  "target_buyer": "Perfect for digital nomads and creatives seeking inspiration and community, plus effortless access to Swidnica\u2019s growing cultural hub.",
+  "market_positioning": "An exclusive, eco-smart studio situated at the crossroads of history and innovation\u2014ideal for young professionals or nomads seeking move-in ready security and urban-cool ambiance."
+}

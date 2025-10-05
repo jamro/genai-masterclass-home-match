@@ -1,0 +1,33 @@
+{
+  "title": "Stylish Duplex with Amenities in Historic Swidnica Center",
+  "description": "Step into this contemporary duplex located in the heart of Swidnica's charming Historic Center. Boasting four spacious bedrooms and three modern bathrooms, this 178 sqm duplex delivers an optimal blend of privacy and urban comfort. Insightful floor-plan design highlights an open-concept living area, while high-grade soundproof walls ensure a peaceful environment. Private parking, secure entry, and access to a well-maintained on-site swimming pool elevate everyday living.",
+  "neighborhood_description": "Historic Center is the place where Old World charm meets modern lifestyle\u2014a district prized for its iconic architecture, cobbled streets, and lively caf\u00e9 culture. Eco-conscious and community-focused, the neighborhood is ideal for professionals who appreciate green spaces yet value quick access to the business district and excellent public connectivity. Effortless commutes are a given with proximity to both public transport links and key highways.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 178,
+  "property_type": "duplex",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1430000,
+  "key_features": [
+    "motion-sensor exterior lights",
+    "soundproof walls",
+    "private parking space",
+    "shared sauna",
+    "swimming pool access"
+  ],
+  "lifestyle_benefits": [
+    "walkable historic surroundings",
+    "balanced live-work atmosphere",
+    "convenient commute options",
+    "secure, energy-efficient home",
+    "easy access to local amenities"
+  ],
+  "target_buyer": "Perfect for upwardly-mobile young professionals and relocating executives seeking a sophisticated home base with modern comforts, step-outside culture, and stellar commutes.",
+  "market_positioning": "Uniquely positioned for dynamic urbanites, this property stands out in Swidnica's market: it's one of the few rental-ready duplexes with dedicated parking and luxury wellness perks, all just steps away from historic Central Square and major transit links."
+}

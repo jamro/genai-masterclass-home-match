@@ -1,0 +1,31 @@
+{
+  "title": "Minimalist Scandinavian Loft Surrounded by Greenery",
+  "description": "Discover an inviting loft that artfully combines open space living and minimalist Scandinavian design. This thoughtfully designed home boasts 1 airy bedroom and 2 sleek, modern bathrooms across 72 sqm. Large windows embrace natural light and woodland views, creating a tranquil retreat with warm oak floors and a cozy fireplace at its heart. Flexible zones include space for living, work, and dining where simplicity meets function.",
+  "neighborhood_description": "Located in the tranquil Suburb district of Nowy Sacz, this area features low-density living with sprawling green scenery, mature trees, and winding paths. Despite its peaceful ambiance, excellent highway connections offer quick access into the city and out to surrounding areas. Suburb is cherished for its quiet, close-to-nature setting complemented by the town\u2019s timeless, historic ambience.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 72,
+  "property_type": "loft",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 990000,
+  "key_features": [
+    "flexible open layout",
+    "private parking space",
+    "modern fireplace",
+    "dedicated co-working area",
+    "large floor-to-ceiling windows"
+  ],
+  "lifestyle_benefits": [
+    "stress-free natural setting",
+    "ideal for working from home",
+    "low maintenance living",
+    "easy access to nature trails"
+  ],
+  "target_buyer": "Perfect for first-time buyers seeking quiet, stylish living with easy commuting by car and the comfort of a blended work-life space integrated into the home.",
+  "market_positioning": "This loft presents a rare opportunity in the local market: modern styling in a well-priced package, ideal for buyers drawn to both substance and serenity, making it unique among Nowy Sacz starter homes."
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Friendly 1-Bedroom Apartment with Balcony in Heart of Karlikowo",
+  "description": "Awaken each morning in this bright and eco-conscious 1-bedroom apartment nestled on a tranquil street in Sopot's popular Karlikowo. Offering a thoughtfully designed open layout over 49 sqm, the property features an inviting living room with soundproof walls and underfloor heating. The spacious bedroom boasts a private ensuite bathroom, while large windows and a cozy balcony adapt seamlessly for relaxed mornings.",
+  "neighborhood_description": "Situated in the friendly Karlikowo district, the apartment is surrounded by leafy parks, playgrounds, and tree-lined pedestrian paths, perfect for outdoor enthusiasts and pet owners. With fast access to public transport and extensive bike lanes, daily commuting is effortless, and Sopot's city center plus the beachfront promenades are within easy reach.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 49,
+  "property_type": "apartment",
+  "city": "Sopot",
+  "neighborhood": "Karlikowo",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 899000,
+  "key_features": [
+    "underfloor heating",
+    "ensuite bathroom",
+    "soundproof walls",
+    "balcony",
+    "fenced shared yard"
+  ],
+  "lifestyle_benefits": [
+    "close to parks and playgrounds",
+    "well-served by public transport and bike lanes",
+    "pet-friendly atmosphere",
+    "energy-efficient design",
+    "safe, family-friendly surroundings"
+  ],
+  "target_buyer": "Ideal for young eco-conscious couples or professionals seeking sustainable urban living and close ties to nature.",
+  "market_positioning": "Stands out for its outstanding sustainability features and modern conveniences at an approachable price point, outperforming basic starter flats in Sopot while still affordable to first-time buyers."
+}

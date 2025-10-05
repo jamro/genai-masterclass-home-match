@@ -1,0 +1,33 @@
+{
+  "title": "Artistic Haven: Family Duplex Retreat in Ustka's Port District",
+  "description": "Step into a charming, sun-drenched duplex in Ustka's evocative Port District. Offering 5 spacious bedrooms and 2 full bathrooms across a thoughtfully designed 165 sqm, this welcoming home masterfully blends privacy and community. Soaring ceilings and creative touches throughout inspire the imagination, while the open living areas are perfect for family moments and festive gatherings. A functional laundry room keeps daily life easy and organized, and the cozier corners invite peaceful rest after seaside adventures.",
+  "neighborhood_description": "Nestled in the Port District, this residence flourishes alongside Ustka\u2019s cultural heartbeat. Enjoy strolling beside vibrant murals, artisanal caf\u00e9s, and secret corners where the spirit of Ustka\u2019s petrified forests meets unfurling tides. Families will delight in nearby parks and playgrounds, while four-legged friends revel in a truly pet-friendly environment. With shopping and delectable dining mere moments away, all the essentials and hidden gems are within your grasp.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 165,
+  "property_type": "duplex",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1570000,
+  "key_features": [
+    "shopping and dining nearby",
+    "reception desk",
+    "laundry room",
+    "private garden square",
+    "space for home office"
+  ],
+  "lifestyle_benefits": [
+    "proximity to parks and playgrounds",
+    "pet-friendly community",
+    "cultural energy all around",
+    "quiet evenings with harbor breezes",
+    "opportunities for creative living"
+  ],
+  "target_buyer": "Ideal for established or growing families who cherish both artistic urban touches and laidback seaside rhythms, especially those with children and pets eager for outdoor adventure.",
+  "market_positioning": "Uniquely positioned as a rare family-sized artist\u2019s haven in Ustka\u2019s low-urban Port District, the property perfectly balances tranquility, culture, and connectivity. An inspired retreat poised to grow in value with the neighborhood\u2019s creative renaissance."
+}

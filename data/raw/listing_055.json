@@ -1,0 +1,30 @@
+{
+  "title": "Chic Modern Duplex with Rooftop Oasis in Quiet Nowy S\u0105cz Suburb",
+  "description": "Wake up to sunlit mornings and unwind under the open sky on your private rooftop deck\u2014this modern duplex infuses contemporary comfort with natural tranquility. Spread across 138 sqm, three generous bedrooms offer restful retreats while two elegantly appointed bathrooms reflect a touch of luxury. With an underground garage, private parking, and charming well-maintained common spaces, every detail celebrates urban convenience within a serene, green setting.",
+  "neighborhood_description": "Suburb enchants with its peaceful ambiance, defined by leafy avenues, pocket parks, and vibrant playgrounds for the little ones. Just beyond your door, discover friendly local cafes, cozy eateries, and handy shops, all supporting the tight-knit, eco-conscious spirit echoing throughout the community.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 138,
+  "property_type": "duplex",
+  "city": "Nowy S\u0105cz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1165000,
+  "key_features": [
+    "private rooftop deck",
+    "underground garage",
+    "designated private parking space",
+    "well-maintained landscaped areas"
+  ],
+  "lifestyle_benefits": [
+    "easy access to parks and playgrounds",
+    "close to shopping and dining",
+    "quiet family-friendly atmosphere",
+    "great setting for first-time home ownership"
+  ],
+  "target_buyer": "Ideal for first-time buyers pursuing a fresh start with plenty of space, privacy, and safe surroundings.",
+  "market_positioning": "Offers a rare blend of stylish extras and nature-close living at a remarkable value\u2014for families and individuals eager to settle into tranquil community life just a short drive from city amenities."
+}

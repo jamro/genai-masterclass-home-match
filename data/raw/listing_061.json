@@ -1,0 +1,35 @@
+{
+  "title": "Eco-Luxury Haven in Prestigious Brynow\u2014Contemporary 5-Bed Family Home",
+  "description": "Step into the lap of eco-luxury with this newly renovated 5-bedroom house in sought-after Brynow, Katowice. This spacious 235 sqm residence has been crafted for refined living, showcasing a seamless blend of modern interiors, sustainable finishes, and natural light throughout. The main level features an expansive sleek kitchen, airy living spaces, and an ensuite master retreat, while upstairs spills into restful bedrooms\u2014perfect for work-life balance or hosting. High-end amenities such as a private fitness center command a superior lifestyle for discerning families.",
+  "neighborhood_description": "Set in Brynow\u2014a flourishing Katowice neighborhood known for its eco-conscious community ethos and verdant parks\u2014this home gives you daily access to green playgrounds, jogging trails, and leafy walkways. Enjoy seamless connections to cycle paths and excellent public transport for relaxed city commutes, while savoring the area\u2019s excellent schools, caf\u00e9s, and boutique conveniences.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 235,
+  "property_type": "house",
+  "city": "Katowice",
+  "neighborhood": "Brynow",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1890000,
+  "key_features": [
+    "newly renovated interior",
+    "ensuite bathroom",
+    "modern kitchen",
+    "private fitness center",
+    "spacious open-plan living",
+    "energy-efficient installations",
+    "smart home system"
+  ],
+  "lifestyle_benefits": [
+    "walkable access to parks and nature",
+    "ideal for eco-conscious families",
+    "step to schools and playgrounds",
+    "urban luxury with tranquil privacy",
+    "proximity to public transport & cycle paths"
+  ],
+  "target_buyer": "Eco-minded families or professionals seeking a luxurious, environmentally-aware residence in a vibrant, growing community.",
+  "market_positioning": "Combining refined living standards with a responsible urban lifestyle, this high-spec family home sits amongst the most desirable and greenest addresses in Katowice. It appeals to buyers prioritizing luxury, family comfort, and environmental credentials in a secure, upmarket neighborhood."
+}

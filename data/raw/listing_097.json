@@ -1,0 +1,33 @@
+{
+  "title": "Sustainable Luxury Apartment with Panoramic Windows in Karlikowo, Sopot",
+  "description": "Experience refined living in this stunning, energy-efficient apartment nestled in the signature seaside neighborhood of Karlikowo. Boasting bright, open living spaces enhanced by panoramic windows, the 72 sqm home features two tranquil bedrooms and a spacious modern bathroom. Residents benefit from both a shared sauna for year-round relaxation and an inviting rooftop deck perfect for sunset views. This home blends cutting-edge eco-conscious solutions with elevated comfort, ensuring an effortless and premium experience.",
+  "neighborhood_description": "Karlikowo offers an ideal balance between a vibrant local atmosphere and peaceful pockets of green, with easy access to scenic biking routes and Sopot\u2019s famous expansive beaches. Discover nearby eco-friendly caf\u00e9s, charming boutiques, and healthy dining options. Convenient public transport and an extensive network of bike lanes invite you to embrace a balanced, active coastal lifestyle.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 72,
+  "property_type": "apartment",
+  "city": "Sopot",
+  "neighborhood": "Karlikowo",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1360000,
+  "key_features": [
+    "Panoramic windows",
+    "Energy-efficient building",
+    "Shared sauna",
+    "Rooftop deck",
+    "Shopping and dining nearby"
+  ],
+  "lifestyle_benefits": [
+    "Eco-conscious modern living",
+    "Access to wellness amenities",
+    "Stunning views",
+    "Excellent urban and nature balance",
+    "Vibrant seaside local life"
+  ],
+  "target_buyer": "Ideal for luxury seekers and eco-conscious professionals or couples desiring a refined home in a vibrant, sustainable neighborhood with ample wellness and leisure options.",
+  "market_positioning": "Positioned in the upper segment of Sopot's modern apartments, this residence caters to discerning buyers seeking luxury and sustainable design in a lively coastal setting with quick access to amenities."
+}

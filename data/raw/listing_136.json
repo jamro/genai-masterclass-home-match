@@ -1,0 +1,33 @@
+{
+  "title": "Polesie Panorama: Four-Bedroom Urban Retreat for Modern Living",
+  "description": "Nestled on a tranquil street in the dynamic Polesie neighborhood, this beautifully appointed 4-bedroom apartment spans an impressive 128 sqm. Designed for spacious living, it features bright interiors, a dedicated home office, and expansive windows ensuring every corner is bathed in natural light. Soundproof walls create a sanctuary, making this an oasis of calm amidst city life, while underfloor heating adds a touch of everyday luxury. With practical additions like a co-working space and a sunlit balcony set up for barbecue evenings, comfort and creativity go hand-in-hand here.",
+  "neighborhood_description": "The heart of Polesie pulses with modern energy, yet a surprising peacefulness embraces its side streets. Caf\u00e9s, green spaces and artisan bakeries dot the landscape. Efficient public transport, convenient bike lanes, and fast access to the city\u2019s major highways keep you effortlessly connected while nurturing a suburban peace often elusive in urban settings.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 128,
+  "property_type": "apartment",
+  "city": "Lodz",
+  "neighborhood": "Polesie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 960000,
+  "key_features": [
+    "underfloor heating",
+    "dedicated home office space",
+    "shared co-working area",
+    "modern soundproof walls",
+    "private balcony with barbecue zone"
+  ],
+  "lifestyle_benefits": [
+    "stable long-term rental environment",
+    "creative and professional home spaces",
+    "proximity to trendy caf\u00e9s and green parks",
+    "balance of urban convenience and peaceful retreat"
+  ],
+  "target_buyer": "Ideal for stable, long-term renting families or remote professionals desiring comfort, a sense of community, and quiet productivity.",
+  "market_positioning": "A standout offer for those seeking a premium blend of tranquility and connectedness, uniquely suiting professionals\u2014or families\u2014in search of space, flexible work options, and access to both city life and suburban charms. Priced below many city center alternatives, it offers tremendous lifestyle value in one of Lodz\u2019s most sought-after districts."
+}

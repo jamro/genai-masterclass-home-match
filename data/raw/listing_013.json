@@ -1,0 +1,31 @@
+{
+  "title": "Urban Studio Jewel in Vibrant Wilda",
+  "description": "Step into a sunlit studio harmonizing modern design with everyday comfort. This crisp, thoughtfully laid-out retreat measures 32 sqm, featuring a flexible open-plan living area, cozy sleeping corner, and sleek bathroom. Underfloor heating and eco-friendly touches like a rainwater collection system seamlessly blend innovation and comfort.",
+  "neighborhood_description": "Set in energetic Wilda, the studio sits amongst artful caf\u00e9s, boutique shops, and inviting parks, brilliantly marrying city pulse with a sense of safety. Bike paths thread through the district and excellent public transport puts Poznan at your doorstep.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 32,
+  "property_type": "studio",
+  "city": "Poznan",
+  "neighborhood": "Wilda",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 445000,
+  "key_features": [
+    "underfloor heating",
+    "rainwater collection system",
+    "modern fa\u00e7ade design",
+    "expansive windows",
+    "efficient layout"
+  ],
+  "lifestyle_benefits": [
+    "enlivening local culture",
+    "walk-to-everything convenience",
+    "responsible urban living"
+  ],
+  "target_buyer": "Ideal for young couples seeking an inspiring urban starting point with both style and eco-conscious conveniences.",
+  "market_positioning": "This competitively priced studio offers next-level living in Wilda\u2019s thriving milieu, blending sustainable amenities with chic comfort at the heart of Poznan\u2019s renaissance district."
+}

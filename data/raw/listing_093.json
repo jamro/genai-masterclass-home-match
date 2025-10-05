@@ -1,0 +1,36 @@
+{
+  "title": "Modern Eco-Conscious Duplex with Spacious Garden in Lively Ligota",
+  "description": "Discover this expansive, eco-designed duplex featuring five generous bedrooms and three modern bathrooms, set across 198 square meters. Inside, natural finishes blend with contemporary functionalities such as a security system, built-in wardrobes, and energy-efficient lighting. An open-plan living area extends to an inviting terrace and private garden\u2014ideal for entertaining or unwinding amid lush landscaping. Thoughtful storage solutions, including a dedicated storage locker, ground this beautifully presented family home in both comfort and order.",
+  "neighborhood_description": "Located in Katowice's sought-after Ligota, a vibrant, community-focused area known for its mix of family-friendly convenience, local cafes, and innovative tech scenes. Lush parks, top schools, and local markets are just a stroll away, supporting a dynamic lifestyle for families and professional long-term renters alike. Strong public transport links and quick highway access ensure effortless connectivity throughout the region while retaining an appealing neighborhood feel.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 198,
+  "property_type": "duplex",
+  "city": "Katowice",
+  "neighborhood": "Ligota",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1470000,
+  "key_features": [
+    "security system",
+    "storage locker",
+    "landscaped surroundings",
+    "terrace",
+    "private garden",
+    "built-in wardrobes",
+    "eco-friendly design",
+    "energy-efficient installations"
+  ],
+  "lifestyle_benefits": [
+    "low-maintenance eco-living",
+    "vibrant local community",
+    "outdoor entertaining spaces",
+    "proximity to schools and tech amenities",
+    "ample storage"
+  ],
+  "target_buyer": "Ideal for long-term renters, particularly families and professionals seeking a sustainable, secure environment with modern amenities, abundant green space, and a supportive local community.",
+  "market_positioning": "This property distinguishes itself as a rare eco-conscious duplex option in Ligota\u2014a family-friendly, well-connected neighborhood. Its spaciousness, modern essentials, and secure surroundings offer premium comfort in a desirably stable rental segment for Katowice."
+}

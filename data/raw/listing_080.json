@@ -1,0 +1,35 @@
+{
+  "title": "Serene Scandinavian Loft Overlooking the Lake District",
+  "description": "Nestled in the tranquil Lake District of Elk, this beautiful minimalist Scandinavian-inspired loft offers 3 spacious bedrooms and 2 modern bathrooms across 116sqm. Natural light spills through grand windows, illuminating a calming interior enhanced by pale wood finishes and soft furnishings. Step onto the private balcony to enjoy views of artfully landscaped communal grounds, or relax in the building's shared courtyard and sauna.",
+  "neighborhood_description": "Set within an idyllic lakeside community known for its artistic spirit, residents experience a unique blend of creativity and serenity. Quiet, pet-friendly streets and meticulously maintained surroundings evoke a safe atmosphere, far removed from urban rush. Easy access via nearby highways keeps greater Elk within convenient reach, while still preserving the peace of rural living.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 116,
+  "property_type": "loft",
+  "city": "Elk",
+  "neighborhood": "Lake District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1290000,
+  "key_features": [
+    "3 bedrooms",
+    "2 bathrooms",
+    "private balcony",
+    "shared courtyard",
+    "shared sauna",
+    "landscaped gardens",
+    "large windows",
+    "minimalist Scandinavian interiors"
+  ],
+  "lifestyle_benefits": [
+    "ample green space for pet walking",
+    "peaceful lakeside walks",
+    "artistic community events",
+    "secure and safe neighborhood ambiance",
+    "space for home office or studio"
+  ],
+  "target_buyer": "Ideal for pet owners and creative individuals or families seeking a peaceful lifestyle immersed in nature, with community arts culture and amenities that welcome companion animals.",
+  "market_positioning": "Distinctly positioned for discerning buyers looking for spacious, high-quality loft living outside the urban core, offering privacy, design, and direct participation in a vibrant local creative scene."
+}

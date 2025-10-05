@@ -1,0 +1,32 @@
+{
+  "title": "Charming Family House with Modern Amenities in Quiet Dyrekcja",
+  "description": "Welcome to your dream family haven! This beautifully presented detached house boasts three spacious bedrooms and two contemporary bathrooms, making it perfect for comfortable, relaxed family life. At 150 sqm, the property features an energy-efficient design to ensure year-round comfort and lower utility bills. You\u2019ll love the sun-filled living spaces, ideal for gatherings, and a dedicated home office space that makes working from home a breeze. The built-in wardrobes and generous storage ensure organizational bliss, while the effortless connection to the outdoor dining area makes entertaining enjoyable in every season.",
+  "neighborhood_description": "Located in the peaceful Dyrekcja district, you\u2019ll enjoy a sense of community and enhanced safety embraced by families and professionals alike. Dyrekcja\u2019s blend of serene setting with convenient proximity to Chelm\u2019s city center allows you to savor quiet evenings at home without missing out on urban benefits. Quick highway access makes commutes simple, and all daily necessities are just a short drive away.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 150,
+  "property_type": "house",
+  "city": "Chelm",
+  "neighborhood": "Dyrekcja",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1350000,
+  "key_features": [
+    "energy-efficient windows",
+    "home office space",
+    "built-in wardrobes",
+    "outdoor dining area",
+    "private garden"
+  ],
+  "lifestyle_benefits": [
+    "peaceful family life",
+    "safe neighborhood",
+    "easy city center access",
+    "generous private space",
+    "opportunity for luxury living in calm surroundings"
+  ],
+  "target_buyer": "Ideal for families or couples seeking an upscale lifestyle with room to grow in a safe, community-oriented area close to the conveniences of Chelm.",
+  "market_positioning": "Positioned as an upscale, move-in ready home for discerning buyers who desire modern amenities in a tranquil neighborhood while maintaining easy access to city conveniences and commuter routes."
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Exquisite Eco-Chic Loft Near the Heart of Zakopane Centrum",
+  "description": "This elegant two-level loft seamlessly blends modern luxury with sustainable living. Featuring two spacious bedrooms and two stylish bathrooms, this 110 sqm property showcases large patio doors that let in abundant natural light and open directly onto a beautifully landscaped private garden. The interiors are adorned with rich hardwood floors, and a cutting-edge security system offers peace of mind. Enjoy convenience and lower bills thanks to integrated solar panels and an EV charging station.",
+  "neighborhood_description": "Located in the sought-after Centrum neighborhood of Zakopane, you'll enjoy living in a safe, eco-conscious, and pet-friendly environment. The area is renowned for its excellent access to main highways and public transport lines, making commutes easy. Step outside to discover nearby parks, trendy caf\u00e9s, boutique shopping, and quick links to the Mountan capital\u2019s vibrant business district.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 110,
+  "property_type": "loft",
+  "city": "Zakopane",
+  "neighborhood": "Centrum",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1390000,
+  "key_features": [
+    "solar panels",
+    "patio doors opening to garden",
+    "hardwood floors",
+    "EV charging station",
+    "security system"
+  ],
+  "lifestyle_benefits": [
+    "child-friendly safe environment",
+    "eco-friendly community spirit",
+    "lock-up-and-leave security for travels",
+    "energy and operational cost savings",
+    "pet-friendly atmosphere"
+  ],
+  "target_buyer": "Ideal for families with children seeking stylish contemporary living in the very heart of the mountains, who value green technologies and well-balanced urban amenities.",
+  "market_positioning": "This is a rare premium loft retreat, providing outstanding family comfort and future-thinking eco-features at a highly attractive Zakopane Centrum address. Uniting convenience, sustainability, and luxury, this property stands out among the very best offerings for discerning families seeking an exclusive South Poland base."
+}

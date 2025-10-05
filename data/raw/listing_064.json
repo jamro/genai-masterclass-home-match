@@ -1,0 +1,33 @@
+{
+  "title": "Cozy One-Bedroom With Terrace in Historic Stare Miasto",
+  "description": "Welcome to this charming 1-bedroom apartment in the heart of Stare Miasto, Zamosc. The spacious 45 sqm layout features an open-plan living area and a modern kitchen, designed to maximize comfort and efficiency. Bright and energy-efficient windows let in ample natural light and offer pleasant views, while the private terrace creates the perfect retreat for a morning coffee or evening relaxation.",
+  "neighborhood_description": "Stare Miasto, nestled in downtown Zamosc, boasts trendy cafes, lively local markets, and beautifully preserved architecture, offering the appeal of both tradition and a growing culture. This rapidly evolving neighborhood is known for its dynamic vibe and a welcoming, family-friendly community atmosphere, set against scenic mountain views in the distance. Residents enjoy easy access to local shops, green spaces, and efficient public transport connections.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 45,
+  "property_type": "apartment",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 680000,
+  "key_features": [
+    "energy-efficient windows",
+    "private terrace",
+    "secure entry system",
+    "modern kitchen",
+    "fenced yard functionality (shared outdoor space)"
+  ],
+  "lifestyle_benefits": [
+    "Ideal for long-term renters looking for stability",
+    "Safe environment with neighborhood vitality",
+    "Walking distance to amenities and urban conveniences",
+    "Scenic mountain views from the vicinity",
+    "Low-maintenance living with outdoor relaxation space"
+  ],
+  "target_buyer": "Perfect for individuals or couples seeking a stylish, low-maintenance home in a vibrant yet peaceful district\u2014particularly long-term renters or first-time property owners wishing to settle in an authentic community.",
+  "market_positioning": "Positioned as an excellent value in central Zamosc, this apartment sits at the sweet spot for those wanting heritage charm without sacrificing modern amenities. It stands out for long-term renters who seek stability, urban connection, and community-centric living within a trendy and up-and-coming neighborhood."
+}

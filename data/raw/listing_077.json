@@ -1,0 +1,34 @@
+{
+  "title": "Charming Family Home with Modern Comfort in Kazimierz Dolny's Rynek",
+  "description": "Welcome to this delightful detached house situated in the heart of Kazimierz Dolny's picturesque Rynek neighborhood. Boasting three generous bedrooms and two stylish bathrooms, this 135 sqm home offers both space and functionality for your family's needs. The open dining area is bathed in natural light, while quality hardwood floors provide warmth throughout. Eco-conscious buyers will appreciate the practical rainwater collection system, and a fully appointed laundry room adds everyday convenience.",
+  "neighborhood_description": "Rynek is one of Kazimierz Dolny's most historic spots, renowned for its tranquil small-town charm, low-density housing, and a friendly local atmosphere. Families and pet owners enjoy strolls along quiet lanes, all while being a short drive from express highways for easy commuting. You'll find this safe, peaceful neighborhood ideal for those seeking productivity away from city bustle without sacrificing accessibility.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 135,
+  "property_type": "house",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1480000,
+  "key_features": [
+    "rainwater collection system",
+    "dedicated laundry room",
+    "dining area with natural light",
+    "hardwood floors",
+    "private garden",
+    "modern kitchen",
+    "energy-efficient heating"
+  ],
+  "lifestyle_benefits": [
+    "perfect for remote work and relaxation",
+    "quiet surroundings ideal for productivity",
+    "safe and pet-friendly community",
+    "quick highway access for business or leisure",
+    "plenty of space for family comfort and creativity"
+  ],
+  "target_buyer": "Ideal for remote-working families or professionals who want a harmonious blend of countryside serenity and modern luxury. Pet lovers and nature enthusiasts seeking a comfy, stylish base close to Quicker road connections will find this home perfect.",
+  "market_positioning": "Positioned attractively in the Kazimierz Dolny market, this property offers a rare combination of updated amenities, eco-minded features, generous living space, and access to main transport routes\u2014standing out as a premium family home for those seeking comfort and ease outside of high-urban areas."
+}

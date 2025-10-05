@@ -1,0 +1,32 @@
+{
+  "title": "Modern Duplex Retreat with Terrace & Rooftop in Kazimierz Dolny",
+  "description": "Experience contemporary comfort and creative design in this stylish 3-bedroom, 3-bathroom duplex just steps from the quaint Rynek square. Spanning 138 sqm, this luminous home features inviting open spaces, a spacious balcony off the living area, a sun-soaked terrace, and exclusive access to your own rooftop deck. Smartly laid-out for both entertaining and privacy, the residence offers flexible indoor/outdoor living, abundant natural light, and top-floor panoramic mountain views.",
+  "neighborhood_description": "Rynek merges vibrant local life with the rustic charm of low-density living. Outdoor caf\u00e9s, boutiques, and eclectic dining spots cluster around the market square, while panoramic countryside and mountain vistas offer relaxing weekends. With direct highway connections, weekend city escapes and easy journeys across Poland are conveniently close.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 138,
+  "property_type": "duplex",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1490000,
+  "key_features": [
+    "balcony",
+    "terrace",
+    "rooftop deck",
+    "outdoor dining area",
+    "EV charging station"
+  ],
+  "lifestyle_benefits": [
+    "stunning mountain views",
+    "leisure groceries and bakeries nearby",
+    "quick access to highway",
+    "ideal base for remote work",
+    "vibrant outdoor culture"
+  ],
+  "target_buyer": "Ideal for internationally minded professionals and expat families desiring a base that blends tranquillity with creativity in a dynamic arts town.",
+  "market_positioning": "A rare opportunity in the local market\u2014this high-spec duplex delivers lifestyle features uncommon in the region, perfect for urbane buyers seeking nature and culture in an exclusive residential setting."
+}

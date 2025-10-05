@@ -1,0 +1,33 @@
+{
+  "title": "Timeless Elegance Meets Modern Living on Stare Miasto",
+  "description": "Step into a slice of Wroclaw\u2019s storied past with this beautifully updated 3-bedroom, 3-bathroom house, set over 148 square meters in the heart of Stare Miasto. Combining classic architectural charm with sophisticated, energy-efficient upgrades, this residence offers a spacious living area, contemporary kitchen, and inviting bedrooms. Expansive double-glazed windows allow for plenty of natural light while providing excellent energy efficiency. Modern comforts, including a dedicated fitness space, solar panels, and private storage room, complete a perfect blend of history and innovation.",
+  "neighborhood_description": "Nestled among cobblestone lanes and vibrant, newly developed public spaces, Stare Miasto is a rapidly growing district that brims with a relaxed yet lively charm. Residents enjoy a blend of peaceful, quiet streets and easy access to Wroclaw\u2019s rich cultural life, local boutiques, and diverse eateries. Thanks to efficient public transport and a comprehensive network of bike lines, getting around the city is effortless for commuters and leisure-seekers alike.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 148,
+  "property_type": "house",
+  "city": "Wroclaw",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1975000,
+  "key_features": [
+    "solar panels",
+    "fitness center",
+    "storage room",
+    "energy-efficient windows",
+    "reception desk",
+    "video intercom"
+  ],
+  "lifestyle_benefits": [
+    "Walk to premium cafes, shops, and museums",
+    "Stay fit in your own exercise area",
+    "Enjoy savings with energy-efficient solutions",
+    "Secure environment with on-site concierge and video entry"
+  ],
+  "target_buyer": "Ideal for vibrant young couples seeking a stylish, low-maintenance historic home in the trending heart of the city, wanting modern efficiencies without losing character.",
+  "market_positioning": "A rare opportunity\u2014this property uniquely offers period ambiance with state-of-the-art comforts. Suited for discerning buyers who appreciate both classic Wroclaw heritage and thoroughly modern amenities, all at an attractive price point for the area."
+}

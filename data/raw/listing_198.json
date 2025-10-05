@@ -1,0 +1,33 @@
+{
+  "title": "Chic Urban Studio in Swidnica's Historic Center",
+  "description": "Discover the perfect starter home or pied-\u00e0-terre in the heart of Swidnica's Historic Center! This efficiently designed studio offers 32 sqm of bright, modern living space with a clever open-plan layout sculpted for urban lifestyles. The well-appointed kitchen and contemporary bathroom bring comfort and function together, while large windows keep the flat airy and inviting. Enjoy stylish compact city living in a prestigious, well-maintained apartment block.",
+  "neighborhood_description": "Immerse yourself in Swidnica\u2019s charming Historic Center, where history blends with greenery and a laidback ambiance. You\u2019ll find picturesque streets, proximity to parks, modern new developments, as well as sought-after local caf\u00e9s\u2014and top-rated schools are just a stroll away. Benefit from seamless access to public transit and swift connectivity to highways for whenever wanderlust or business takes you farther afield.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 32,
+  "property_type": "studio",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 367000,
+  "key_features": [
+    "modern open-plan studio layout",
+    "large windows with city views",
+    "secure entry system",
+    "access to in-building fitness center",
+    "underground parking with heated driveway"
+  ],
+  "lifestyle_benefits": [
+    "vibrant historic neighborhood",
+    "perfect for expats seeking local community",
+    "grown-up urban lifestyle with relaxed green zones",
+    "quick access to public transport and major roads",
+    "healthy, balanced living with amenities at your doorstep"
+  ],
+  "target_buyer": "Ideal for young professionals or expats seeking a move-in-ready base close to international business hubs, cafes, and modern conveniences.",
+  "market_positioning": "This sleek, amenity-rich studio fills an in-demand niche for affordable, centrally located apartments, making it a compelling option among upscale, modern residences in Swidnica\u2019s most desirable address."
+}

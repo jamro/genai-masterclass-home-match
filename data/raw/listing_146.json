@@ -1,0 +1,34 @@
+{
+  "title": "Modern Digital Retreat House in Artistic Brynow",
+  "description": "This exquisite, newly renovated house in Katowice's sought-after Brynow boasts six spacious bedrooms and two pristine bathrooms spread across 275 square meters of harmonious living. With a luminous open-concept design, the space melds contemporary comforts with thoughtfully wheelchair-accessible layouts, ensuring ease for all. Signature indulgences include a serene shared sauna for therapeutic pauses, and exclusive access to a dazzling community swimming pool just steps from your door.",
+  "neighborhood_description": "Brynow pulses with the vibrant beat of Katowice's local life\u2014trendy cafes, artisan shops, and easy connections pulse through the district. Enjoy seamless public transport connections and a well-developed network of bike lines, making daily commutes and urban exploration both sustainable and breezy. Access to main highways keeps the world at your fingertips, while the neighborhood holds an inviting, community-focused charm.",
+  "bedrooms": 6,
+  "bathrooms": 2,
+  "size_sqm": 275,
+  "property_type": "house",
+  "city": "Katowice",
+  "neighborhood": "Brynow",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1680000,
+  "key_features": [
+    "wheelchair accessible entryways and hallways",
+    "shared Finnish sauna in complex",
+    "access to large, private swimming pool for residents",
+    "stylishly renovated interior",
+    "open-concept kitchen and living area",
+    "secure off-street parking spaces"
+  ],
+  "lifestyle_benefits": [
+    "fiber-optic high-speed internet for seamless remote work",
+    "varied work or chill spaces indoors and outdoors",
+    "proximity to vibrant cultural events and creative cafes",
+    "green areas perfect for casual outdoor meetings",
+    "secure storage for bicycles and sports gear"
+  ],
+  "target_buyer": "Perfect for digital nomads and creative professionals seeking a charismatic, well-connected base in Southern Poland\u2014which welcomes both work and play. Equally ideal for distributed teams or families who desire space to grow, collaborate, or innovate.",
+  "market_positioning": "A rare blend of modern features and community lifestyle in moderate-priced Brynow, this property appeals to those wishing for space, working comfort, and urban energy but without quirk or city crowd bustle. Its accessible design and lifestyle amenities make it stand out against traditional homes, in sync with the dynamic way modern dwellers live in Katowice."
+}

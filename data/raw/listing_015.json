@@ -1,0 +1,35 @@
+{
+  "title": "Eco-Modern House with Garage in Central Gdansk",
+  "description": "Step into this spacious, eco-conscious family house nestled within Gdansk\u2019s vibrant Srodmiescie district. Boasting six fully soundproofed bedrooms and two modern bathrooms, this 254 sqm energy-efficient home harmoniously blends comfort with sustainability. Ample dining area with natural light, innovative heated driveway, and an underground garage set the contemporary tone for high-urban life. The property\u2019s smart layout offers dedicated workspaces perfect for home offices or creative pursuits.",
+  "neighborhood_description": "Live just steps from charming parks, leafy playgrounds, and essential city amenities. Srodmiescie\u2019s well-connected public transport network and extensive bike lanes make getting around effortless for professionals and families alike. Enjoy close proximity to reputable schools, diverse caf\u00e9s, and cultural attractions at the city center\u2019s pulse.",
+  "bedrooms": 6,
+  "bathrooms": 2,
+  "size_sqm": 254,
+  "property_type": "house",
+  "city": "Gdansk",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1995000,
+  "key_features": [
+    "underground garage",
+    "energy-efficient building",
+    "heated driveway",
+    "soundproof walls",
+    "spacious dining area with natural light",
+    "multiple home office possibilities",
+    "modern fully equipped kitchen"
+  ],
+  "lifestyle_benefits": [
+    "prime central location for easy commutes",
+    "close to urban parks for relaxation",
+    "spaces tailored for remote work and digital relaxation",
+    "eco-friendly construction lowers running costs",
+    "walk or cycle everywhere \u2013 freedom from daily driving"
+  ],
+  "target_buyer": "Ideal for remote-working families or digital nomads seeking sustainable city living with room for both family and entrepreneurship.",
+  "market_positioning": "A rare offering in Gdansk\u2019s booming premium urban segment, this house outshines typical flats with unrivaled eco-design, flexible space, and luxe family- or co-living options at a highly competitive-city price."
+}

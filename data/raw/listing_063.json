@@ -1,0 +1,36 @@
+{
+  "title": "Eco-Chic Duplex Retreat in the Heart of Zakopane Centrum",
+  "description": "This newly renovated duplex offers an inviting blend of sustainable design and contemporary lifestyle. With three spacious bedrooms and three elegant bathrooms, this 150 sqm residence boasts a fresh, modern interior that radiates light and comfort. A generous balcony brings the outdoors in, offering spectacular mountain views and the perfect spot for morning coffee or hosting friends. A dedicated storage locker adds convenience and enhances your organizational potential.",
+  "neighborhood_description": "Nestled in Zakopane's pulsing Centrum district, this address lets you experience vibrant local life amid cozy caf\u00e9s, artisanal shops, and lush parks. Children and adults alike will love the proximity to playgrounds and green spaces, while public transport and quick highway access make commuting and business travel seamless.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 150,
+  "property_type": "duplex",
+  "city": "Zakopane",
+  "neighborhood": "Centrum",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1580000,
+  "key_features": [
+    "newly renovated interior",
+    "large balcony with mountain views",
+    "private storage locker",
+    "dedicated parking space",
+    "high-end eco-friendly appliances",
+    "triple-glazed windows",
+    "in-floor heating",
+    "energy-efficient lighting"
+  ],
+  "lifestyle_benefits": [
+    "smart layouts ideal for hybrid work",
+    "vibrant social atmosphere",
+    "direct access to business hubs",
+    "immersive outdoor activities in nature",
+    "walking distance to caf\u00e9s & coworking spaces"
+  ],
+  "target_buyer": "Perfect for eco-minded entrepreneurs and remote professionals seeking a modern home-base in Zakopane\u2019s central, well-connected district.",
+  "market_positioning": "Positioned above standard offerings in Centrum, this property\u2019s modern eco-upgrades and design-forward renovation make it a top choice for buyers seeking comfort, sustainability, and business-minded amenities."
+}

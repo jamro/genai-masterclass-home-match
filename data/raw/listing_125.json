@@ -1,0 +1,33 @@
+{
+  "title": "Elegant 3-Bedroom Apartment with Historic Flair in Kamienny Potok",
+  "description": "Nestled within a beautifully maintained historic building, this 3-bedroom apartment in Kamienny Potok marries timeless architecture with modern comforts. The spacious interior covers 85 sqm, carefully laid out for both aesthetics and functionality, and is accentuated by charming original features such as detailed moldings and generously high ceilings. Enhancements like underfloor heating give a nod to contemporary living, while the airy living room opens out to sunlight throughout the day. Residents also enjoy direct access to a secure, shared courtyard\u2014the perfect spot to relax or connect with neighbors.",
+  "neighborhood_description": "Kamienny Potok pulsates with lively urban energy and a welcoming community spirit. Essential shopping and a variety of dining options are within walking distance, creating unmatched convenience for daily life or visiting tenants. The area benefits from excellent public transport links and established bike paths, offering seamless access to central Sopot, the beachfront, and major thoroughfares.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 85,
+  "property_type": "apartment",
+  "city": "Sopot",
+  "neighborhood": "Kamienny Potok",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1275000,
+  "key_features": [
+    "underfloor heating",
+    "automatic gate",
+    "EV charging station",
+    "recycling facilities",
+    "shared courtyard",
+    "shopping and dining nearby"
+  ],
+  "lifestyle_benefits": [
+    "attracts quality tenants",
+    "walkable amenities",
+    "green commute options",
+    "potential for value appreciation"
+  ],
+  "target_buyer": "Ideal for property investors seeking a blend of historic appeal and strong rental prospects in one of Sopot's most dynamic precincts.",
+  "market_positioning": "This rare offering situates investors at the intersection of historic charm and urban growth, granting above-average returns amid Sopot's popular real estate sector. Few properties can match its blend of period ambiance, contemporary features, and lifestyle convenience\u2014all in a coveted, rentable location."
+}

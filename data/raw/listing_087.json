@@ -1,0 +1,31 @@
+{
+  "title": "Modern Eco Apartment with Balcony and Green Outlook in Suburb, Nowy Sacz",
+  "description": "Experience eco-conscious living in this contemporary 2-bedroom apartment thoughtfully designed for comfort and sustainability. The home features an open-plan living space that flows onto a generous balcony, perfect for outdoor dining or relaxing after a long day. Add in motion-sensor exterior lights, private parking, and well-appointed interiors to blend modern living with practical amenities. This first-floor apartment spans 65 sqm, offering ample room for couples or small families.",
+  "neighborhood_description": "Suburb in Nowy Sacz is a welcoming, low-density neighborhood known for its pet-friendly atmosphere and local schools nearby, perfect for growing families or long-term renters seeking tranquility. Residents appreciate easy highway access for commutes or getaways, plus green public spaces for recreation. The local vibe is warm and established\u2014a safe space where children play and neighbors know one another.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 65,
+  "property_type": "apartment",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 670000,
+  "key_features": [
+    "outdoor dining area",
+    "motion-sensor exterior lights",
+    "balcony",
+    "private parking space",
+    "children's playground area"
+  ],
+  "lifestyle_benefits": [
+    "peaceful, pet-friendly community",
+    "outdoor space for relaxation and play",
+    "proximity to schools for young families",
+    "safe and secure environment"
+  ],
+  "target_buyer": "Ideal for long-term renters, small families, or professional couples who prioritize eco-friendly features, security, and access to child-friendly amenities while seeking value in a stable, community-oriented neighborhood.",
+  "market_positioning": "This apartment attracts value-conscious buyers who appreciate modern finishing in a tranquil suburb, offering mid-market pricing and sought-after features ideal for growing families, professionals, and pet owners."
+}

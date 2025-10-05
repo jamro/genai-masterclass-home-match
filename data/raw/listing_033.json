@@ -1,0 +1,31 @@
+{
+  "title": "Comfortable Four-Bedroom Apartment Ideal for Students in Leszno's Lively Zatorze",
+  "description": "This bright and inviting 4-bedroom apartment offers a perfect blend of space and comfort. With spacious rooms, an ensuite bathroom, and a well-equipped kitchen, this apartment makes for an ideal home for a student group or a family seeking plenty of flexibility. Modern interiors pair nicely with useful amenities like ample bicycle storage and built-in recycling facilities. Featuring high ceilings and plenty of natural light, this apartment creates a welcoming atmosphere day and night.",
+  "neighborhood_description": "Located in the heart of Zatorze, this apartment benefits from reliable public transport connections and easy highway access, making daily commutes simple and swift. The neighborhood is known for its vibrant cultural vibe, dotted with theatres, cafes, and art spaces, and is within close proximity to Leszno\u2019s scenic waterfront for relaxing after classes or on weekends.",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "size_sqm": 96,
+  "property_type": "apartment",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 750000,
+  "key_features": [
+    "ensuite bathroom",
+    "bicycle storage",
+    "recycling facilities",
+    "fitted kitchen",
+    "spacious bedrooms"
+  ],
+  "lifestyle_benefits": [
+    "walkable to cultural hotspots",
+    "fast commutes for students",
+    "green spaces and walkways surviving city bustle"
+  ],
+  "target_buyer": "University students sharing rental, or families with teenagers who appreciate good transport, proximity to campus, and vibrant local amenities.",
+  "market_positioning": "This apartment delivers sought-after size and city connectivity in Leszno, making it especially attractive for students who prioritize communal living, ease of transit, and access to cultural life at a competitive price."
+}

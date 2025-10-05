@@ -1,0 +1,31 @@
+{
+  "title": "Sleek Premium One-Bedroom Apartment with Private Garden Retreat",
+  "description": "Step inside this exquisitely designed one-bedroom apartment, where comfort meets refined luxury across a bright, 46 sqm living space. Premium finishes, smart layout and expansive windows ensure the perfect ambiance for work and leisure. Enjoy access to your own private garden oasis while staying fully connected and secure via modern video intercom system. Perfect for those who desire tranquility without compromising on style or convenience.",
+  "neighborhood_description": "Set within the artistic-yet-relaxed charm of Suburb, the apartment blends privacy with a lively creative atmosphere. Locals are drawn by artisan caf\u00e9s, boutique design shops and community galleries, all complemented by ready highway access for easy connections. Essential shops, quality dining options and green spaces are always nearby.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 46,
+  "property_type": "apartment",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 845000,
+  "key_features": [
+    "video intercom",
+    "bicycle storage",
+    "fitness center",
+    "shopping and dining nearby",
+    "private garden"
+  ],
+  "lifestyle_benefits": [
+    "quiet creative workspace",
+    "move-in ready premium finish",
+    "easy highway commute",
+    "vibrant community feel with artistic neighbor vibe"
+  ],
+  "target_buyer": "Ideal for digital nomads, professional singles and creative entrepreneurs seeking a peaceful residential address while staying close to a connected urban network and lifestyle amenities.",
+  "market_positioning": "Stands above comparable offerings with its private outdoor space, luxury fixtures and active creative community, delivering an aspirational live-and-work residence at the heart of rising Nowy Sacz quarters."
+}

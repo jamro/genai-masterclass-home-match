@@ -1,0 +1,34 @@
+{
+  "title": "Charming Family Apartment with Private Garden in Stare Miasto",
+  "description": "Discover a spacious and beautifully presented three-bedroom apartment in the heart of Poznan's Stare Miasto. Thoughtfully designed for family living, this apartment boasts two modern bathrooms, an inviting living area ideal for spending time together, and a versatile space for your home office needs. Large windows fill each room with natural light, while direct access to a private garden provides your own green escape within the city.",
+  "neighborhood_description": "Stare Miasto is a vibrant and growing neighborhood, loved by families for its tree-lined streets and nearby parks. Here, you\u2019ll enjoy a truly bike-friendly lifestyle, with dedicated lanes making it easy and safe for both commuting and weekend outings. Excellent public transport connects you swiftly to every part of Poznan, all while you enjoy green surroundings and beautiful views.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 90,
+  "property_type": "apartment",
+  "city": "Poznan",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1050000,
+  "key_features": [
+    "private garden",
+    "home office space",
+    "two contemporary bathrooms",
+    "landscaped surroundings",
+    "allocated parking spot",
+    "modern kitchen"
+  ],
+  "lifestyle_benefits": [
+    "safe walkable streets",
+    "ample room for a growing family",
+    "space for remote work or study",
+    "easy public transit",
+    "outdoor relaxation and play area"
+  ],
+  "target_buyer": "Perfect for first-time buyers and young families seeking comfort, convenience, and space to grow in a prime urban setting.",
+  "market_positioning": "This apartment stands out for its rare combination of spacious design, private green space, and sought-after location in Stare Miasto\u2014the perfect choice for those who desire modern family living at excellent value in Poznan\u2019s thriving city center."
+}

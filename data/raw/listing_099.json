@@ -1,0 +1,33 @@
+{
+  "title": "Serene Scandinavian Sanctuary in Swidnica\u2019s Historic Center",
+  "description": "This refined, sun-filled 3-bedroom, 2-bathroom apartment infuses minimalist Scandinavian design with everyday comfort. Its airy 108 sqm interior brilliantly balances calm, neutral aesthetics and functionality. Lounge in the open-plan living area accentuated by oak floors and a modern lighting system, or step into compact bedrooms designed for tranquil rest. An energizing shared sauna and easy main-floor bike storage bring simple pleasures and active living within reach.",
+  "neighborhood_description": "The Historic Center of Swidnica is enriched by vibrant local life and a gentle, neighborly pace. Enjoy morning walks to nearby parks, easy access to cafes, and vibrant markets just around the corner. The neighborhood's picturesque avenues provide excellent public transport connections and swift highway access, ensuring convenience at your doorstep.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 108,
+  "property_type": "apartment",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 895000,
+  "key_features": [
+    "bicycle storage",
+    "shared courtyard",
+    "close to public transport",
+    "modern lighting system",
+    "shared sauna"
+  ],
+  "lifestyle_benefits": [
+    "ground-floor access and elevator for mobility support",
+    "connection to green areas and parks",
+    "ample space for visiting family",
+    "enjoyment of vibrant local cafe culture",
+    "peace and security in a restored historic block"
+  ],
+  "target_buyer": "Quiet-seeking retirees bent on enjoying walkable local gems, urban amenities, and easy mobility around Swidnica.",
+  "market_positioning": "Rare in this sought-after historic location, this property offers both timeless Scandinavian oasis calm and step-out access to Swidnica\u2019s vibrant center, perfectly positioned for downsizers or retirees seeking maintenance-free urban living."
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Spacious Duplex with Terrace in Swidnica\u2019s Historic Center \u2013 Perfect for Modern Family Life",
+  "description": "Discover this welcoming duplex situated in Swidnica\u2019s picturesque Historic Center. Boasting 5 versatile bedrooms and 3 modern bathrooms, this generously proportioned home spans 186 sqm, perfect for a contemporary family or those desiring ample space to live and work comfortably. Enjoy natural light-filled interiors with an open floor plan, a private terrace overlooking landscaped surroundings, and enhanced peace of mind with 24/7 security and a high-end security system. The residence offers a harmonious mix of classic charm with up-to-date conveniences, making it ideal for digital professionals and families seeking both style and practicality.",
+  "neighborhood_description": "Located footsteps from Swidnica\u2019s vibrant city center, the Historic Center neighborhood enjoys medium urban buzz with easy access to restaurants, local shops, parks, and landmarks. Efficient public transport links and nearby highway access ensure you're well-connected both in and out of the city while enjoying a charming, pet-friendly urban environment. The neighborhood buzzes with historic charm, giving you the best of city living without compromising on comfort.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 186,
+  "property_type": "duplex",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1450000,
+  "key_features": [
+    "Landscaped surroundings",
+    "Terrace",
+    "Open floor plan",
+    "24/7 security",
+    "Reception desk",
+    "Security system"
+  ],
+  "lifestyle_benefits": [
+    "Ample private workspace for remote working",
+    "Family-friendly and pet-friendly environment",
+    "Easy access to urban amenities and historic sites",
+    "Excellent public transport links",
+    "Proximity to vibrant city life with calming green spaces for relaxation"
+  ],
+  "target_buyer": "Ideal for digital nomads and progressive families looking to blend work and family life in a well-connected, culturally enriched environment.",
+  "market_positioning": "This well-appointed duplex stands out in the local market for its sizable layout, central yet tranquil location, family-oriented design, and premium amenities perfectly tailored for remote work lifestyles."
+}

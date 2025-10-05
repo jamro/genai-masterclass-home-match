@@ -1,0 +1,34 @@
+{
+  "title": "Sunny Eco-Friendly Family Retreat in Heart of \u017boliborz",
+  "description": "This inviting, sun-filled four-bedroom apartment offers spacious living designed with both comfort and sustainability in mind. The practical layout connects a bright living area with generous patio doors, offering seamless access to a verdant communal garden for memorable gatherings or kids\u2019 play. The modern kitchen overlooks the outdoor dining area, while the bedrooms are sized to provide ample privacy and storage. With family features throughout, this home is ideal for those seeking both harmony and practicality.",
+  "neighborhood_description": "Nestled in Warsaw\u2019s lush, bike-friendly \u017boliborz district, you\u2019ll enjoy a calm, green ambiance paired with excellent city amenities. Public transport is just a short stroll away, ensuring easy connections while bike lines encourage sustainable travel. With fast access to highways, local parks, charming cafes, and top-rated schools surrounding you, \u017boliborz combines urban bustle with an eco-conscious community spirit.",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "size_sqm": 102,
+  "property_type": "apartment",
+  "city": "Warsaw",
+  "neighborhood": "\u017boliborz",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1170000,
+  "key_features": [
+    "24/7 security",
+    "outdoor dining area",
+    "patio doors opening to garden",
+    "rainwater collection system",
+    "children's playground area"
+  ],
+  "lifestyle_benefits": [
+    "walkable, bike-friendly neighborhood",
+    "easy public transport access",
+    "proximity to parks",
+    "space for family gatherings and play",
+    "eco-friendly water conservation"
+  ],
+  "target_buyer": "Eco-minded families looking for a safely integrated, sustainable home environment in the city with abundant greenery and room to grow.",
+  "market_positioning": "This apartment provides rare synergy between green, sustainable living and urban convenience in \u017boliborz\u2019s premium property segment, standing out with its eco-friendly amenities, family-focused warmth, and unmatched location."
+}

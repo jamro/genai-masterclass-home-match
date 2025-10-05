@@ -1,0 +1,36 @@
+{
+  "title": "Stylish 4-Bedroom Duplex with Rooftop Deck in Artistic Karlikowo",
+  "description": "Step into urban convenience and modern design with this newly renovated 4-bedroom duplex located in the sought-after Karlikowo neighborhood of Sopot. This spacious property features 120 sqm of versatile living space, complete with 2 contemporary bathrooms, a dedicated laundry room, and secure storage locker. Natural light pours into every room, while smart, motion-sensor exterior lighting ensures comfort and peace of mind. The show-stopping rooftop deck is perfect for relaxed evenings or entertaining friends.",
+  "neighborhood_description": "Karlikowo exudes creative flair and a welcoming energy, with green spaces beautifully woven into the urban tapestry. The neighborhood offers an artistic community vibe and conveniently sits close to Sopot\u2019s vibrant city center. Enjoy easy access to public transport, well-maintained bike lines, cafes, and plenty of local shops\u2014all in a tranquil, leafy setting.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 120,
+  "property_type": "duplex",
+  "city": "Sopot",
+  "neighborhood": "Karlikowo",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1560000,
+  "key_features": [
+    "4 spacious bedrooms",
+    "2 modern bathrooms",
+    "dedicated laundry room",
+    "secure storage locker",
+    "motion-sensor exterior lights",
+    "impressive rooftop deck",
+    "newly renovated interior",
+    "abundant natural light"
+  ],
+  "lifestyle_benefits": [
+    "long-term rental stability",
+    "peaceful green surroundings",
+    "walk and bike everywhere",
+    "active, artistic neighborhood",
+    "quick city center access"
+  ],
+  "target_buyer": "Ideal for young professionals or urban families looking for a stylish, comfortable, and secure base in Sopot with long-term renting potential in a creative neighborhood.",
+  "market_positioning": "This duplex stands out in Sopot's rental market, offering premium finishes, extra amenities, and a prime location in Karlikowo\u2014making it highly desirable for discerning renters seeking space, style, and convenience close to the city center."
+}

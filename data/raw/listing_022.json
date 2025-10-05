@@ -1,0 +1,34 @@
+{
+  "title": "Minimalist Scandinavian Loft with Modern Tech in Bronowice",
+  "description": "Experience tranquil minimalism in this stylish two-level loft designed in the Scandinavian tradition. The 2-bedroom, 2-bathroom layout flows through 89 sqm of open, sunlight-filled space accented by clean lines, neutral tones, and sustainable features. Integrated solar panels capture natural energy, while a versatile open floor plan blends kitchen, living, and work-from-home areas effortlessly. Subtle motion-sensor exterior lighting and a contemporary security system provide comfort and peace of mind. Perfect for those who value simplicity and efficiency without compromise.",
+  "neighborhood_description": "Located in Bronowice, this modern building stands within a lively district known for its proximity to universities and tech hubs. A range of cafes, shopping outlets, and dining spots cater to every taste\u2014all conveniently nearby. Bronowice's forward-thinking spirit makes this loft ideal for students seeking balance between urban life and study.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 89,
+  "property_type": "loft",
+  "city": "Krakow",
+  "neighborhood": "Bronowice",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway",
+    "airport"
+  ],
+  "price": 1380000,
+  "key_features": [
+    "solar panels",
+    "open floor plan",
+    "motion-sensor exterior lights",
+    "guest bathroom",
+    "security system"
+  ],
+  "lifestyle_benefits": [
+    "quiet workspace for studying",
+    "energy-efficient living",
+    "walkable access to campuses and services",
+    "modern tech-oriented surroundings"
+  ],
+  "target_buyer": "Students or young professionals in search of a stylish yet practical home base within reach of universities, coworking spaces, and city amenities.",
+  "market_positioning": "This property is a rare offering: an energy-efficient loft in a medium-density, tech-driven neighborhood, positioned for students and starters seeking above-average standards in finish and comfort without leaving Krakow's social and academic pulse."
+}

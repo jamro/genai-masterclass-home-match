@@ -1,0 +1,31 @@
+{
+  "title": "Minimalist Studio Retreat in Artistic Dyrekcja",
+  "description": "Experience Scandinavian simplicity in this bright and thoughtfully designed studio apartment. Boasting clean lines and large windows, the space feels open and inviting, making the most of its 32 sqm footprint. The apartment includes one sleeping zone, a pristine modern bathroom, and private direct access to a meticulously kept garden. Ideal for those seeking efficiency without sacrificing comfort.",
+  "neighborhood_description": "Nestled within the safe and increasingly trendy Dyrekcja neighborhood of Chelm, this home is part of a community renowned for its artistic energy and creative initiatives. With easy access to the major highway, journeys across the city or beyond are both fast and convenient. Residents can enjoy emerging galleries and eclectic cafes in a welcoming, open-spirited locale.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 32,
+  "property_type": "studio",
+  "city": "Chelm",
+  "neighborhood": "Dyrekcja",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 375000,
+  "key_features": [
+    "energy-efficient building",
+    "fenced yard",
+    "fitness center",
+    "private garden",
+    "security system"
+  ],
+  "lifestyle_benefits": [
+    "cost-effective living",
+    "creative atmosphere",
+    "privacy and garden access",
+    "on-site amenities perfect for active lifestyles"
+  ],
+  "target_buyer": "Perfect for students, young professionals, or anyone seeking a modern starter retreat close to commuter links.",
+  "market_positioning": "Unique among local options for its blend of minimalist comfort, private garden access, and secure community\u2014all positioned for entry-level buyers and students pursuing an on-trend, peaceful Chelm lifestyle at an attractive price."
+}

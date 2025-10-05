@@ -1,0 +1,36 @@
+{
+  "title": "Stylish Duplex Retreat in Vibrant Wola \u2013 Urban Chic for Digital Nomads",
+  "description": "Experience dynamic city living in this contemporary duplex, designed to suit the energy of modern professionals. Spanning 146 sqm, this five-bedroom, three-bathroom residence features an airy open-concept living area, a designer fireplace for cozy evenings, and underfloor heating throughout. Full-height windows flood the home with natural light, complemented by a cutting-edge lighting system for versatile ambiance. Plenty of storage and a private video intercom system boost convenience and security.",
+  "neighborhood_description": "Nestled in Warsaw\u2019s ultra-urban Wola district, you're in the heart of an artistic and entrepreneurial hub with a buzz for creative communities. Trendy cafes, independent galleries, and essential amenities are all within minutes, plus excellent connections to highways and public transit. Bike-friendly streets and vibrant streetscapes offer endless opportunities to explore the city\u2019s best.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 146,
+  "property_type": "duplex",
+  "city": "Warsaw",
+  "neighborhood": "Wola",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1780000,
+  "key_features": [
+    "video intercom",
+    "modern lighting system",
+    "fireplace",
+    "underfloor heating",
+    "storage room",
+    "full-height windows",
+    "designer kitchen"
+  ],
+  "lifestyle_benefits": [
+    "Remote work ready",
+    "Steps to coworking spaces and cafes",
+    "Latchkey convenience for city explorers",
+    "Artistic vibes for inspired living",
+    "Excellent transit options for urban mobility"
+  ],
+  "target_buyer": "Ambitious digital nomads, creative entrepreneurs, or young professionals who desire a spacious urban base with character and modern comforts.",
+  "market_positioning": "A rare and competitive duplex tailored for cosmopolitan buyers seeking elevated urban living within easy reach of Warsaw\u2019s vibrant city core and rich cultural pulse."
+}

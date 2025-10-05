@@ -1,0 +1,34 @@
+{
+  "title": "Historic Duplex Residence with Elegant Workspace in Srodmiescie",
+  "description": "Step inside this enchanting duplex where pre-war architectural charm meets modern convenience. Spanning a generous 148 sqm, the home features four spacious bedrooms, original parquet flooring, tall ceilings, and meticulously preserved molding details. Natural light saturates every corner, offering the perfect balance for living and working in comfort. Two refined bathrooms and a modernized kitchen provide everyday luxury, while dedicated home office quarters inspire both creativity and productivity.",
+  "neighborhood_description": "Nestled in the heart of Katowice\u2019s Srodmiescie, this vibrant urban neighborhood blends family-friendly atmosphere with an artistic, entrepreneurial edge. Discover eclectic caf\u00e9s, acclaimed galleries, and the warmth of a tight-knit creative community\u2014all within walking distance. With extensive public transport options and scenic bike lanes, the best of city life is always at your doorstep.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 148,
+  "property_type": "duplex",
+  "city": "Katowice",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1495000,
+  "key_features": [
+    "home office space",
+    "energy-efficient building",
+    "residents' lounge",
+    "historic architectural details",
+    "modernized kitchen",
+    "original parquet flooring",
+    "tall ceilings"
+  ],
+  "lifestyle_benefits": [
+    "walkable access to business and culture",
+    "balanced living for work and leisure",
+    "surrounded by creative communities",
+    "proximity to urban parks and schools"
+  ],
+  "target_buyer": "Ideal for innovative entrepreneurs, families seeking generous space with entrepreneurial flair, and anyone valuing both classic style and workplace flexibility.",
+  "market_positioning": "A rarity for Srodmiescie, this duplex offers historic character harmonized with contemporary amenities\u2014positioned as a prestigious address for discerning professionals amid Katowice\u2019s dynamic city center."
+}

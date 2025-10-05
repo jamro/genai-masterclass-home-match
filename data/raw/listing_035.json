@@ -1,0 +1,36 @@
+{
+  "title": "Modern Duplex Haven in Lively Wola with Superb Connectivity",
+  "description": "Experience the vibrant city life in this stylish 5-bedroom, 3-bathroom duplex, spanning a spacious 165 sqm. Impeccably finished, the property features expansive living areas with an open-plan design, natural light, and reversed-cycle underfloor heating for year-round comfort. The main suite comes complete with an ensuite bathroom, while guest rooms are perfectly sized for creative workspaces or guest stays. Private elevator access directly to the apartment and heated driveway add luxe, city-friendly touches.",
+  "neighborhood_description": "Located in Wola\u2014one of Warsaw\u2019s fastest-growing, highly urban neighborhoods\u2014this home sits amidst bike-friendly streets, community pockets, and hip urban caf\u00e9s. Enjoy unrivaled connectivity with proximity to public transport hubs, international business centers, and direct highway access, ideal for exploring both downtown Warsaw and beyond. Spending time outdoors is easy with green spaces just a jog or bike ride away.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 165,
+  "property_type": "duplex",
+  "city": "Warsaw",
+  "neighborhood": "Wola",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1680000,
+  "key_features": [
+    "private elevator access",
+    "ensuite bathroom in main suite",
+    "bicycle storage area",
+    "underfloor heating",
+    "heated driveway",
+    "dedicated workspace areas"
+  ],
+  "lifestyle_benefits": [
+    "set in a buzzing expat hotspot",
+    "bike-commute friendly streets",
+    "element of community living in central Warsaw",
+    "excellent work-life balance opportunities",
+    "strong transport infrastructure",
+    "quiet residential surroundings despite city buzz"
+  ],
+  "target_buyer": "Ideal for young international professionals or families seeking sleek city living in a community-driven neighborhood, looking to blend home comfort with immediate access to Warsaw\u2019s business and leisure scene.",
+  "market_positioning": "Positioned as a premium yet practical choice for expats and professionals in the Warsaw market, offering a rare mix of large-format modern living within close reach of the city\u2019s cultural and corporate amenities."
+}

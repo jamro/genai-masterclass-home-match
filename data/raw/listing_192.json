@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Sleek Urban Loft with Panoramic Windows in Vibrant Kazimierz",
+  "description": "Experience modern, eco-friendly living in this newly renovated 3-bedroom loft located in the heart of historic Kazimierz. This spacious, sun-drenched loft boasts 125 sqm, featuring panoramic windows that fill the open-plan living area with natural light. The kitchen opens to a private outdoor dining area\u2014perfect for dinner parties or studying under the stars. Energy-efficient solar panels and sustainable finishes underline the commitment to a greener lifestyle.",
+  "neighborhood_description": "Kazimierz remains Krakow\u2019s urban gem, beloved for its trendy caf\u00e9s, culture, and creative energy, all woven through tranquil, wonderfully preserved streets. Enjoy effortless public transport, direct cycle routes and city-center proximity\u2014making campus commutes and weekend outings stress-free. Despite its central location, the area maintains a calm, neighborly feel, with tucked-away bookstores and local eateries.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 125,
+  "property_type": "loft",
+  "city": "Krakow",
+  "neighborhood": "Kazimierz",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1450000,
+  "key_features": [
+    "panoramic windows",
+    "outdoor dining area",
+    "solar panels",
+    "newly renovated interior",
+    "energy-efficient appliances",
+    "secure building entry"
+  ],
+  "lifestyle_benefits": [
+    "reduced utilities and low ecological footprint",
+    "quick walk or bike ride to universities and nightlife",
+    "opportunity for indoor-outdoor entertaining",
+    "unique living spaces designed for social living and study"
+  ],
+  "target_buyer": "Ideal for eco-conscious students or young professionals seeking a contemporary residence with sustainable features, close to city action and university life.",
+  "market_positioning": "This modern loft appeals to buyers prioritizing green technology and urban vibrancy, standing out in the Krakow market thanks to its style, eco-features, and prime location in trendy Kazimierz."
+}

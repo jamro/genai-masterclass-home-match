@@ -1,0 +1,35 @@
+{
+  "title": "Minimalist One-Bedroom Eco Apartment in Zamosc Old Town",
+  "description": "Embrace uncluttered Nordic design in this bright, one-bedroom apartment located in a restored, energy-efficient building. With 58 square meters of open, functional space, this home features a thoughtfully separate guest bathroom and full bathroom, embracing comfort for both residents and visitors. Expansive windows overlook the historic cityscape and distant mountain ridges, flooding the interiors with natural light. Integrated solar panels exemplify modern, sustainable living at its best.",
+  "neighborhood_description": "Residing in the heart of Stare Miasto, an artistic enclave renowned for its blend of heritage and innovation, this apartment situates you steps from creative studios, tech start-ups, and vibrant community spaces. Zamosc's well-connected public transport system and highway access simplify travel throughout the region. Enjoy direct proximity to galleries, co-working spaces, cozy caf\u00e9s, and refreshing urban green areas, all framed by local mountain views.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 58,
+  "property_type": "apartment",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 779000,
+  "key_features": [
+    "energy-efficient building",
+    "solar panels",
+    "guest bathroom",
+    "panoramic windows",
+    "open concept living",
+    "modern kitchen",
+    "LED ambient lighting"
+  ],
+  "lifestyle_benefits": [
+    "lower bills from solar energy",
+    "artistic surroundings",
+    "long-term rental security",
+    "easy connections to all Zamosc",
+    "scenic mountain outlook"
+  ],
+  "target_buyer": "Ideal for long-term renters or single professionals seeking stability, sustainability, and creative inspiration within a tech-oriented artistic community.",
+  "market_positioning": "Uniquely situated in Zamosc\u2019s characterful Old Town, this eco-conscious home offers contemporary northern style that appeals to those valuing privacy, green living, and the ease of instant connectivity\u2014distinguishing it from classic city-center rentals."
+}

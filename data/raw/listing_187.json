@@ -1,0 +1,33 @@
+{
+  "title": "Sunlit Scandinavian Home in Ustka's Port District",
+  "description": "Embrace minimalism and serene living in this Scandi-inspired house featuring three spacious bedrooms and two sleek bathrooms. The home is thoughtfully designed with clean lines, pale woods, and large windows flooding spaces with natural light. An open-concept living and dining area fosters both connection and calm, while a smart home system seamlessly blends innovation with comfort. Highlights include an ensuite master bathroom, a welcoming guest bath, and a versatile co-working nook for flexibility.",
+  "neighborhood_description": "Set in the Port District of Ustka, this house benefits from the area's unique blend of coastal spirit and access to lively urban amenities near the city center. Despite the area's low urban density, key perks like set bike lines and quick highway connections make commuting effortless. This is an address for those who relish both active living and tranquil home retreats close to city vibrancy.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 115,
+  "property_type": "house",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "bike lines",
+    "highway"
+  ],
+  "price": 1195000,
+  "key_features": [
+    "ensuite bathroom",
+    "guest bathroom",
+    "co-working space",
+    "smart home system",
+    "open-plan living area",
+    "large double-glazed windows"
+  ],
+  "lifestyle_benefits": [
+    "perfect for modern first-time buyers",
+    "peaceful suburban feel with urban energy nearby",
+    "spaces built for working from home",
+    "sustainable materials for low-maintenance living"
+  ],
+  "target_buyer": "Ideal for first-time buyers or young professionals seeking a functional yet elegant home close to both nature and city amenities.",
+  "market_positioning": "Rare on the market, this minimalist yet highly functional house distinguishes itself with Scandinavian design, thoughtful home tech, and easy access to Ustka's vibrant heart\u2014a unique find combining tranquil living with city connectivity."
+}

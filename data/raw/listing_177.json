@@ -1,0 +1,33 @@
+{
+  "title": "Modern Apartment with Private Garden & Terrace in Vibrant Radziwie",
+  "description": "Step into comfortable luxury with this beautiful 2-bedroom, 2-bathroom apartment located on a quiet, leafy street in Radziwie. The stylish open-plan living and dining area lead out to a private garden and spacious terrace, perfect for lounging or family gatherings. Both bedrooms are generously sized, with the master suite featuring a walk-in closet for exceptional convenience.\n\nEnjoy top-quality finishes throughout and cleverly designed living spaces ideal for modern family life.",
+  "neighborhood_description": "Radziwie is known for its vibrant local atmosphere, offering a great blend of convenient urban living and neighborhood charm. You'll find shopping and dining options within walking distance, and the nearby waterfront promenade is perfect for weekend strolls or bike rides. The area enjoys easy transit connections and quick access to the main highway, making commuting a breeze.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 82,
+  "property_type": "apartment",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 849000,
+  "key_features": [
+    "private garden",
+    "spacious terrace",
+    "open-plan living and dining",
+    "walk-in closet in master bedroom",
+    "modern appliances",
+    "large storage room"
+  ],
+  "lifestyle_benefits": [
+    "Ideal for luxury seekers who value privacy and comfort",
+    "Outdoor entertaining spaces",
+    "Proximity to waterfront and urban amenities",
+    "Secure and family-friendly"
+  ],
+  "target_buyer": "Families and professionals seeking modern, upscale living in a welcoming neighborhood with easy access to city amenities and green spaces.",
+  "market_positioning": "This apartment positions itself at the upper end of Plock's residential market, offering exceptional features rarely found in the area\u2014such as a private garden and spacious terrace\u2014making it a standout choice for buyers looking for exclusive, comfortable urban living."
+}

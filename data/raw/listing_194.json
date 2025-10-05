@@ -1,0 +1,40 @@
+{
+  "title": "Artistic Sanctuary in Trendy Grunwald \u2013 Luxury 2 Bedroom Open-Concept Apartment",
+  "description": "This sophisticated, newly-built apartment boasts an expansive 74 sqm of luminous, thoughtfully designed living space. The open floor plan offers flexibility perfect for artists, featuring sun-kissed interiors, Oak parquet floors, and curated lighting. Two capacious bedrooms flank a stylish luxury bathroom, while full accessibility guarantees effortless movement for all residents. Secure EV charging, a welcoming shared sauna, and tranquil fenced gardens complete this premier residence.",
+  "neighborhood_description": "Set within the dynamic Grunwald district of Pozna\u0144, this property enjoys proximity to modern urban living at its finest: designer boutiques, creative studios, lively caf\u00e9s, and top local dining punctuate the area. Well-connected by extensive public transport and cycle routes, moments away from green parks and reputable schools. Grunwald\u2019s chic, modern development draws a community of professionals and creatives alike.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 74,
+  "property_type": "apartment",
+  "city": "Poznan",
+  "neighborhood": "Grunwald",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 929000,
+  "key_features": [
+    "open floor plan",
+    "shared sauna",
+    "EV charging station",
+    "wheelchair accessible",
+    "fenced yard",
+    "designer interiors",
+    "secure entry system",
+    "in-building elevator",
+    "floor-to-ceiling windows",
+    "luxurious bathroom"
+  ],
+  "lifestyle_benefits": [
+    "Ideal for artists and creatives seeking inspiration",
+    "Access to community sauna for unwinding",
+    "Excellent shopping and dining steps away",
+    "Bike-friendly neighborhood",
+    "Bright and peaceful urban oasis",
+    "Welcoming creative community"
+  ],
+  "target_buyer": "Perfect for artists, designers, remote professionals, and urban tastemakers looking for a stylish, functional living space amidst Poznan\u2019s creative pulse.",
+  "market_positioning": "Positioned as a premium, luxe offering in Grunwald\u2019s new housing stock, attracting discerning buyers. Its blend of top-tier artistry-focused amenities and connectivity places it above standard market options in Pozna\u0144\u2019s western districts."
+}

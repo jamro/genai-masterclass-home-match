@@ -1,0 +1,33 @@
+{
+  "title": "Charming Family Duplex with Green Surroundings in Pila Suburbs",
+  "description": "Welcome to your dream duplex! This spacious 162 sqm family home features 3 cozy bedrooms and 3 modern bathrooms, offering the perfect blend of comfort and privacy. The open-plan living space is flooded with natural light and direct access to a shared courtyard, ideal for gatherings or quiet moments. Recently fitted with air conditioning, this home ensures year-round comfort, while residents enjoy access to an on-site fitness center.",
+  "neighborhood_description": "Located in Pila\u2019s tranquil 'Suburb' neighborhood, this property is nestled in a serene area renowned for its lush greenery and a welcoming, community-focused atmosphere. Ideal for those who appreciate the outdoors and relaxed suburban living, the area also offers convenient highway connections for easy trips to the city or surrounding countryside.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 162,
+  "property_type": "duplex",
+  "city": "Pila",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1380000,
+  "key_features": [
+    "air conditioning",
+    "shared courtyard",
+    "modern kitchen",
+    "dedicated laundry area",
+    "fitness center",
+    "private parking"
+  ],
+  "lifestyle_benefits": [
+    "peaceful lifestyle",
+    "close to nature",
+    "community-oriented setting",
+    "great for gardening or walking",
+    "easy highway access"
+  ],
+  "target_buyer": "Perfect for retired couples or multi-generational families seeking a peaceful, sociable environment with modern amenities and easy access to countryside leisure and travel options.",
+  "market_positioning": "This duplex uniquely combines accessible suburban pricing, upgraded amenities ideal for retirees, and a harmonious neighborhood\u2014positioned as a rare opportunity in Pila\u2019s family-friendly suburbs for buyers seeking low-density living without sacrificing comfort or activity options."
+}

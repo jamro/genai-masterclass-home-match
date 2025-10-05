@@ -7,12 +7,20 @@
 **Criteria:** The submission must demonstrate using a Large Language Model (LLM) to generate at least 10 diverse and realistic real estate listings containing facts about the real estate.
 
 **Requirements:**
-- [ ] Demonstrate using a Large Language Model (LLM) to generate real estate listings
-- [ ] Generate at least 10 diverse and realistic real estate listings
-- [ ] Ensure listings contain facts about the real estate
+- [x] Demonstrate using a Large Language Model (LLM) to generate real estate listings
+- [x] Generate at least 10 diverse and realistic real estate listings
+- [x] Ensure listings contain facts about the real estate
 
 **Implementation Details:**
-*[Describe how this was accomplished - include technical details, LLM used, prompt engineering, data variety, etc.]*
+Uses OpenAI GPT-4.1 with structured output via LangChain and Pydantic models to generate realistic Polish real estate listings. The system in [`notebooks/generate_listings.ipynb`](notebooks/generate_listings.ipynb) creates 200 diverse listings across 20+ cities with authentic property details, pricing (300K-2.5M PLN), features, and market positioning. Each listing contains 15+ structured fields including specific facts about bedrooms, bathrooms, size, location, and transportation options.
+
+**Sample Listings:**
+- [`listing_001.json`](data/raw/listing_001.json) - House in Ustka Port District (1.39M PLN)
+- [`listing_010.json`](data/raw/listing_010.json) - Studio in Chelm (375K PLN) 
+- [`listing_020.json`](data/raw/listing_020.json) - House in Sopot Karlikowo (1.88M PLN)
+- [`listing_030.json`](data/raw/listing_030.json) - Studio in Krakow Bronowice (415K PLN)
+- [`listing_040.json`](data/raw/listing_040.json) - Studio in Katowice Brynow (419K PLN)
+- [`listing_050.json`](data/raw/listing_050.json) - House in Warsaw Ursynow (1.90M PLN)
 
 ---
 

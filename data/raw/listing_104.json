@@ -1,0 +1,33 @@
+{
+  "title": "Elegant Historic Duplex Retreat with Entrepreneurial Appeal in Dyrekcja, Chelm",
+  "description": "Steeped in local history yet upgraded for modern living, this classic duplex offers four spacious bedrooms and three refined bathrooms, perfect for blending work with relaxation. Spread across a generous 210 sqm, the residence features inviting living areas accentuated with heritage details. High ceilings and large windows flood the interiors with natural light, while the sleek, fully-equipped kitchen exemplifies successful 21st-century renovations within a stately dwelling.",
+  "neighborhood_description": "Nestled in Chelm\u2019s tranquil Dyrekcja neighborhood, this address honors tradition while embracing the future. Residents enjoy family-friendly surroundings, a peaceful community atmosphere, and convenient highway access for quick travel. Dyrekcja\u2019s low-density charm is remarkably preserved among the area\u2019s modern duplex developments, making it ideal for those valuing both connection and privacy.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 210,
+  "property_type": "duplex",
+  "city": "Chelm",
+  "neighborhood": "Dyrekcja",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1450000,
+  "key_features": [
+    "historic architecture",
+    "4 bedrooms",
+    "3 bathrooms including guest bath",
+    "modern kitchen",
+    "air conditioning",
+    "motion-sensor exterior lights",
+    "elevator access"
+  ],
+  "lifestyle_benefits": [
+    "Perfect home offices and client meeting areas",
+    "Spacious environment for kindred entrepreneurs or growing families",
+    "A tranquil base with efficient highway connections to broader business hubs",
+    "Ample natural light for productivity"
+  ],
+  "target_buyer": "Ideal for entrepreneurs and business professionals seeking a distinguished address that balances privacy, workspace, and ease of access for frequent travel or client visits.",
+  "market_positioning": "This duplex stands out as a rare offering\u2014merging heritage aesthetics with thoroughly updated amenities and generous square footage. It is competitively priced for professional buyers prioritizing comfortable work-from-home potential in Chelm\u2019s heritage-rich yet quietly developing neighborhoods."
+}

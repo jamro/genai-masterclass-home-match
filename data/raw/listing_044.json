@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Chic 3-Bed Apartment with Rooftop Deck in Trendy Orunia, Gdansk",
+  "description": "This light-filled modern apartment offers three spacious bedrooms, a contemporary bathroom, and a thoughtfully designed open plan layout. Measuring approximately 72 sqm, the property seamlessly combines comfort and energy efficiency. Residents enjoy access to a stunning rooftop deck, lush landscaped surroundings, and secure building facilities with an integrated recycling zone. Eco-conscious materials throughout give this apartment a unique, sustainable appeal perfect for today's modern lifestyle.",
+  "neighborhood_description": "Situated in Orunia, one of Gdansk's most up-and-coming and dynamic neighborhoods, this property is surrounded by greenery and stylish new developments. The area offers convenient access to public transport and highways, making commuting or exploring the city effortless and sustainable. Enjoy a vibrant local vibe, where modern urban growth meets natural beauty.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 72,
+  "property_type": "apartment",
+  "city": "Gdansk",
+  "neighborhood": "Orunia",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 899000,
+  "key_features": [
+    "rooftop deck",
+    "shared landscaped courtyard",
+    "recycling facilities",
+    "modern security system",
+    "open plan living area"
+  ],
+  "lifestyle_benefits": [
+    "quiet, green surroundings perfect for focused remote work",
+    "fast WiFi ready infrastructure",
+    "access to shared community amenities",
+    "quick and eco-friendly city commute",
+    "close to QSR and grocers"
+  ],
+  "target_buyer": "Digital nomads or young professionals seeking an eco-conscious lifestyle, modern amenities, and quick city access in a growing neighborhood.",
+  "market_positioning": "This property stands out in Orunia's market for its fresh, sustainable edge in a fast-developing area. Its blend of community amenities and green innovation targets the new wave of urban dwellers seeking both connectivity and tranquility."
+}

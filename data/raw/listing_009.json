@@ -1,0 +1,33 @@
+{
+  "title": "Serene Scandinavian Apartment for Modern Living in Leszno's Zatorze",
+  "description": "This minimalist one-bedroom apartment embodies Scandinavian charm with clean-lined interiors and an efficient open-plan design. Spacious at 49 sqm, it features one bathroom, a bright living space flowing seamlessly into a sleek kitchen, and thoughtful modern finishes throughout. Underfloor heating ensures year-round comfort, while the walk-in closet provides practical storage to keep life clutter-free. Smart home integrations bring ease, adapting lighting, heating, and security straight from your device.",
+  "neighborhood_description": "Located in Zatorze, one of Leszno\u2019s most up-and-coming neighborhoods, residents enjoy modern developments set in a community-driven, tech-oriented area with convenient access to highways and public transport. With communal amenities like a children's playground and landscaped paths, plus bike-friendly streets, Zatorze strikes a harmonious balance between modern living and wellness.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 49,
+  "property_type": "apartment",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 713000,
+  "key_features": [
+    "underfloor heating",
+    "walk-in closet",
+    "smart home system",
+    "storage room",
+    "children's playground area",
+    "wheelchair accessibility"
+  ],
+  "lifestyle_benefits": [
+    "seamless remote work environment",
+    "tech-enabled and secure building",
+    "close-knit, community-oriented surroundings",
+    "ideal for those valuing comfort and functionality"
+  ],
+  "target_buyer": "Ideal for single professionals or couples embracing remote work, who value intelligent design, accessibility, and a connected, community-forward lifestyle in a vibrant yet peaceful area.",
+  "market_positioning": "Positioned as a modern, premium choice in Leszno\u2019s residential market, ideal for discerning buyers craving minimalist elegance integrated with innovative smart amenities in a sought-after neighborhood."
+}

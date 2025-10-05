@@ -1,0 +1,34 @@
+{
+  "title": "Historic Four-Bedroom Gem in Ustka's Charming Port District",
+  "description": "Step into historic charm with this beautifully preserved four-bedroom house in Ustka's storied Port District. Spread over 186 sqm, the home features classic architecture blended with modern comforts, including three elegant bathrooms, a spacious dining area with original wood accents, and abundant natural light from generous windows and a private balcony. Thoughtful updates include a contemporary laundry room and efficient rainwater collection system, blending sustainability with tradition. Enjoy warm summer days at the outdoor barbecue zone or relax by the communal swimming pool available to residents.",
+  "neighborhood_description": "The Port District offers quiet cobblestone streets and open green spaces perfect for biking and outdoor activities, lending a vibrant touch to daily living. With close proximity to local schools and lively neighborhood markets, this area suits those seeking balance between tranquil studies and active local engagement. Reach coastal trails and the highway within minutes, connecting you quickly to the rest of the region.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 186,
+  "property_type": "house",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1560000,
+  "key_features": [
+    "balcony",
+    "24/7 security",
+    "swimming pool access",
+    "rainwater collection system",
+    "barbecue zone",
+    "laundry room"
+  ],
+  "lifestyle_benefits": [
+    "ideal for students with easy school access",
+    "active outdoor lifestyle opportunities",
+    "vibrant local shops and cafes",
+    "safe, community-oriented neighborhood",
+    "sustainable living with modern eco features"
+  ],
+  "target_buyer": "Perfect for students or young professionals seeking shared yet private living space in a relaxed, historically rich district. Equally suitable for investment as well as group student housing or co-living direction.",
+  "market_positioning": "Unique offering in Ustka: a spacious, historic house furnished with features attractive to younger buyers in a low-urban, outdoor-friendly zone\u2014excellent value for students, group renters, or family investors."
+}

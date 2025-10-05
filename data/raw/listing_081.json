@@ -1,0 +1,33 @@
+{
+  "title": "Charming Studio Retreat in Historic Debniki",
+  "description": "Discover authentic Krakow living in this thoughtfully designed studio nestled within the charismatic streets of Debniki. With 32 sqm of practical living space, the residence boasts a modern kitchen with contemporary finishes, charming original details, and abundant natural light. Enjoy the security of a well-managed building, where residents have access to a comfortable lounge and environmentally friendly solar-powered common areas.",
+  "neighborhood_description": "Debniki enchants with its peaceful suburban vibe and lush green surroundings, yet remains well-connected to the city center. Stroll along tranquil riverside paths or enjoy leisure moments in the parks that dot this historic district. Essential amenities, boutique shops, and celebrated cafes line nearby avenues in a blend of old-world atmosphere and contemporary convenience.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 32,
+  "property_type": "studio apartment",
+  "city": "Krakow",
+  "neighborhood": "Debniki",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 489000,
+  "key_features": [
+    "modern kitchen",
+    "proximity to public transport",
+    "24/7 security",
+    "residents' lounge",
+    "solar panels"
+  ],
+  "lifestyle_benefits": [
+    "commute ease for professionals",
+    "green spaces for relaxation",
+    "peaceful historic neighborhood",
+    "modern comfort with energy-efficient amenities"
+  ],
+  "target_buyer": "Ideal for young professionals or individuals relocating for work, seeking a serene historic enclave within reach of city offices and main transport routes.",
+  "market_positioning": "This studio offers a balance of historic charm and modern living in Krakow\u2019s desirable Debniki, responding to growing demand from urban professionals in search of comfort and sustainability at a competitive price."
+}

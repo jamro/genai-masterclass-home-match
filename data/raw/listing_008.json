@@ -1,0 +1,32 @@
+{
+  "title": "Serene Scandinavian Studio with Private Balcony in Radziwie",
+  "description": "Step into tranquility with this minimalist Scandinavian studio, offering 36 sqm of carefully curated comfort. The bright open-plan living space extends seamlessly onto a large private balcony\u2014ideal for peaceful mornings or afternoon tea. Smart motion-sensor exterior lights bring added security and ease while dedicated storage keeps your life tidy. Enjoy the practicality of a private parking space and convenient access to your own storage locker.",
+  "neighborhood_description": "Situated in the charming Radziwie neighborhood of Plock, this studio is nestled in a well-connected locale\u2014public transport and highway options are just moments away. The broader area boasts a cultural atmosphere, offering cafes, local arts, and river walks for a balanced, inspiring lifestyle. Convenience is at your doorstep while still maintaining a sense of retreat from the city bustle.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 36,
+  "property_type": "studio",
+  "city": "Plock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 410000,
+  "key_features": [
+    "balcony",
+    "motion-sensor exterior lights",
+    "storage locker",
+    "private parking space",
+    "secure entry"
+  ],
+  "lifestyle_benefits": [
+    "peaceful, easy-care living",
+    "ideal for low-maintenance lifestyle",
+    "movement-friendly senior amenities",
+    "terrace for relaxation"
+  ],
+  "target_buyer": "Perfectly designed for retirees seeking a safe, elegantly modern, and low-maintenance home with strong transport links and everyday conveniences nearby.",
+  "market_positioning": "Well-priced, affordable entry to minimalist Scandinavian comfort in a medium-urban neighborhood popular among downsizers and those desiring access to culture and transit."
+}

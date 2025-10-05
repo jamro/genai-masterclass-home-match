@@ -1,0 +1,34 @@
+{
+  "title": "Modern House Retreat in Port District\u2014Perfect for Family Entrepreneurs",
+  "description": "Discover comfort and inspiration in this spacious family home nestled in Ustka's peaceful Port District. With 3 generous bedrooms and 2 elegant bathrooms, this property blends modern functionality with warm, inviting spaces. The open floor plan seamlessly connects the chef's kitchen to bright living areas, and the primary bedroom features a luxurious walk-in closet. A private rooftop deck offers the perfect sanctuary for both relaxation and hosting guests.",
+  "neighborhood_description": "Set in a contemporary community, the Port District offers a quiet, eco-conscious atmosphere perfect for families who appreciate modern comforts and proximity to nature. Local parks and well-maintained playgrounds are just a walk away, nurturing an active and community-focused lifestyle. Cycling enthusiasts and commuters will appreciate easy highway access and an expansive network of bike lines.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 172,
+  "property_type": "house",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1390000,
+  "key_features": [
+    "open floor plan",
+    "24/7 security",
+    "rooftop deck",
+    "walk-in closet",
+    "modern appliances",
+    "energy-efficient building",
+    "double garage"
+  ],
+  "lifestyle_benefits": [
+    "quiet neighborhood ideal for work/life balance",
+    "community ties with networking potential",
+    "ability to entertain at home on the rooftop deck",
+    "green spaces and recreation nearby"
+  ],
+  "target_buyer": "Entrepreneurial families craving ample living and working space, who want a modern, secure environment close to green amenities.",
+  "market_positioning": "A standout, contemporary option in the emerging Port District, offering entrepreneurs an attractive blend of modern design, privacy, and access to both recreation and major commuter routes\u2014rarely available for this segment of Ustka's residential market."
+}

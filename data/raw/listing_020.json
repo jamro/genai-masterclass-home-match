@@ -1,0 +1,34 @@
+{
+  "title": "Spacious Family House Perfect for Student Living in Karlikowo, Sopot",
+  "description": "This inviting, detached house in Karlikowo offers 6 bright bedrooms and 3 comfortable bathrooms across 238 sqm of thoughtfully organized space. The living area features a welcoming fireplace as a main hub, ideal for gatherings and cozy nights in. Beautifully landscaped surroundings, private parking, and up-to-date 24/7 security, including motion-sensor exterior lighting, assure both comfort and peace of mind. Whether enjoying sun in the garden or relaxing with friends indoors, the flexible layout is ready for both studying and living well.",
+  "neighborhood_description": "Located in the fast-growing Karlikowo neighborhood of Sopot, this property places you mere moments from the business district and various local cafes, grocery shops, and restaurants. Proximity to public transport and curated bike lines makes every commute easy and safe, while still enjoying a quiet street setting and green areas.",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "size_sqm": 238,
+  "property_type": "house",
+  "city": "Sopot",
+  "neighborhood": "Karlikowo",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1875000,
+  "key_features": [
+    "quiet neighborhood setting",
+    "landscaped surroundings",
+    "private parking space",
+    "24/7 security",
+    "motion-sensor exterior lights",
+    "fireplace"
+  ],
+  "lifestyle_benefits": [
+    "spacious layout for shared or individual study",
+    "secure surroundings for peace of mind",
+    "easy walk or bike to university",
+    "welcoming communal spaces ideal for group living",
+    "ample natural light in all rooms"
+  ],
+  "target_buyer": "Perfect for groups of university students sharing accommodation, young families seeking extra space near educational hubs, or investors looking for strong rental appeal in a developing area.",
+  "market_positioning": "Sought-after large home in a well-connected,\"medium urban\" environment close to Sopot's academic and business centers\u2014at an attractive price for families or student collectives seeking security, space, and convenience."
+}

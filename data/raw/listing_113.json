@@ -1,0 +1,33 @@
+{
+  "title": "Prestigious Studio Sanctuary with Panoramic Historic Views",
+  "description": "Experience luxury in this exceptional studio resting in Swidnica\u2019s charming Historic Center. Spanning a generous 39 sqm, the open-concept living area embraces oversized panoramic windows, bathing the space in natural light and offering breathtaking vistas of the city\u2019s treasured architecture. Premium finishes adorn every fixture, and thoughtful design elements provide discreet housing for modern amenities. Isolated bedroom corner, a state-of-the-art bathroom, and clever storage solutions make this a seamless blend of grace and comfort.",
+  "neighborhood_description": "Immerse yourself in Swidnica\u2019s Historic Center, where cobblestone streets and lively plazas invite leisurely strolls with your dog or spontaneous coffee dates at charming cafes. Enjoy a relaxed pace while remaining steps from diverse boutiques, art galleries, city parks, and riverside paths\u2014all ideal for an active yet tranquil urban lifestyle. Reliable public transport and highways connect you to regional highlights and escapes.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 39,
+  "property_type": "studio apartment",
+  "city": "Swidnica",
+  "neighborhood": "Historic Center",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 485000,
+  "key_features": [
+    "panoramic windows",
+    "onsite fitness center",
+    "secured bicycle storage",
+    "modern laundry room",
+    "premium recycling facilities"
+  ],
+  "lifestyle_benefits": [
+    "proximity to scenic parks for daily walks",
+    "perfect space for small pets",
+    "access to a lively historic neighborhood",
+    "community fitness amenities for an active life",
+    "safe and stylish indoor environments"
+  ],
+  "target_buyer": "Discerning professionals or single pet owners seeking a refined, low-maintenance urban retreat that blends old-world charm with modern lifestyle conveniences.",
+  "market_positioning": "This studio exemplifies premium living within Swidnica\u2019s desirable Historic Center. Uniting exclusive amenities, contemporary comfort, and privileged location, it stands as a rare upscale opportunity ideal for buyers prioritizing lifestyle, convenience, and historic ambiance."
+}

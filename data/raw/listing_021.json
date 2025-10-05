@@ -1,0 +1,38 @@
+{
+  "title": "Elegant Urban Loft with Premium Amenities in Gda\u0144sk \u2013 Zaspa",
+  "description": "Experience sophisticated living in this expansive, newly renovated 108 sqm loft. Soaring ceilings mingle with modern design touches, enhancing the natural light throughout the open-plan living area. The loft features two serene bedrooms and two elegant bathrooms, perfectly suited to professional excellence. Entertain guests in style on your private outdoor dining terrace, or unwind after work in the exclusive residents' fitness center. Every detail of this property has been crafted for contemporary luxury and effortless comfort.",
+  "neighborhood_description": "Nestled in the trending Zaspa neighborhood of Gda\u0144sk, you\u2019ll enjoy a distinctive blend of community charm and urban convenience. The area features excellent public transport links, extensive bike paths, and a reputation for being both family-friendly and bike-friendly. Top schools, green spaces, local caf\u00e9s, and bakeries are all just a stroll away, making this location both highly sought-after and practical for relocating professionals.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 108,
+  "property_type": "loft",
+  "city": "Gda\u0144sk",
+  "neighborhood": "Zaspa",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1475000,
+  "key_features": [
+    "newly renovated interior",
+    "2 spacious bedrooms",
+    "2 modern bathrooms",
+    "private outdoor dining area",
+    "resident fitness center",
+    "floor-to-ceiling windows",
+    "ample natural light",
+    "dedicated storage space",
+    "premium appliances"
+  ],
+  "lifestyle_benefits": [
+    "ideal for professionals relocating for work",
+    "vibrant work-life balance",
+    "excellent transport and cycling infrastructure",
+    "walkable to caf\u00e9s and boutiques",
+    "fitness and wellness at your doorstep",
+    "close to educational facilities"
+  ],
+  "target_buyer": "Ambitious professionals, executive couples, or small international families seeking a luxury turnkey home in Gda\u0144sk with top connectivity and amenities.",
+  "market_positioning": "Positioned as one of Zaspa\u2019s premier luxury lofts, this residence appeals to buyers looking for upscale finishes, exceptional amenities, and proximity to vital transport in a thriving city neighborhood."
+}

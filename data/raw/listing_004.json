@@ -1,0 +1,35 @@
+{
+  "title": "Modern Eco-Chic 4-Bedroom Apartment with Premium Green Features in the Heart of Dab",
+  "description": "This elegantly appointed 4-bedroom apartment offers spacious living across 110 square meters, thoughtfully designed for an elevated urban experience. The property stands out for its modern architecture, energy-efficient windows, and a sun-filled, open-layout living area ideal for both relaxation and gatherings. Luxury meets sustainability with advanced rainwater collection and dedicated recycling facilities, ensuring everyday comfort and environmentally conscious living. A contemporary kitchen features sleek finishes, flowing seamlessly onto a private balcony that captures the neighborhood's vibrant ambiance.",
+  "neighborhood_description": "Nestled in Katowice\u2019s sought-after Dab neighborhood, residents become part of a reputed eco-conscious community committed to green living. Dab boasts unparalleled city connectivity with immediate access to public transport, thoughtfully integrated bike lines, and proximity to strategic highway connections, making commutes effortless. Trendy caf\u00e9s, premium shopping, and local parks all reside in convenient reach, complementing an affluent, city-forward environment.",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "size_sqm": 110,
+  "property_type": "apartment",
+  "city": "Katowice",
+  "neighborhood": "Dab",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1190000,
+  "key_features": [
+    "rainwater collection system",
+    "bicycle storage",
+    "recycling facilities",
+    "energy-efficient windows",
+    "close to public transport",
+    "underground garage"
+  ],
+  "lifestyle_benefits": [
+    "joining an eco-conscious urban community",
+    "seamless commuting to city hotspots and workplace",
+    "opportunity for first-time ownership in a premium building",
+    "worry-free parking with underground garage space",
+    "daily access to active, sustainable city living"
+  ],
+  "target_buyer": "Ambitious first-time buyers or young professionals who value sustainability, urban luxury, and convenient city access, seeking a sophisticated home at the intersection of premium living and environmental responsibility.",
+  "market_positioning": "Distinctly positioned as a luxury, turnkey eco-apartment, blending sustainable innovation with metropolitan accessibility\u2014rarely available in Katowice's prime neighborhoods\u2014this residence stands out among both modern developments and traditional properties. Ideal for discerning buyers eager to uplift their lifestyle and investment profile."
+}

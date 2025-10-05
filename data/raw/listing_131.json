@@ -1,0 +1,32 @@
+{
+  "title": "Contemporary Duplex Oasis in Historic Rynek, Kazimierz Dolny",
+  "description": "This impeccable duplex in the heart of Rynek offers harmonious living with five generously sized bedrooms and two stylish bathrooms, spread over 180 sqm. The open-plan centerpiece features a cozy fireplace and a cutting-edge lighting system framing the elegant living and dining spaces. Modern touches meet classic charm: enjoy easy cooking in a sleek kitchen, or host friends in the private barbecue zone. Secure bicycle storage and well-designed recycling facilities blend thoughtful sustainability with contemporary convenience.",
+  "neighborhood_description": "Nestled just steps from the vibrant Rynek square, this address delivers a balanced lifestyle\u2014historic ambiance with easy access to artisanal caf\u00e9s, galleries, and green spaces. Here, low traffic ensures peaceful days, while excellent access to major highways means getting to nearby cities and mountain activities is always within reach. Active residents will thrive on trails bordering the scenic Vistula River\u2014perfect for walkers and cyclists alike.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 180,
+  "property_type": "duplex",
+  "city": "Kazimierz Dolny",
+  "neighborhood": "Rynek",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1600000,
+  "key_features": [
+    "barbecue zone",
+    "modern lighting system",
+    "residents' lounge",
+    "bicycle storage",
+    "fireplace",
+    "recycling facilities"
+  ],
+  "lifestyle_benefits": [
+    "proximity to Kazimierz Dolny\u2019s renowned galleries, caf\u00e9s and the Vistula River",
+    "year-round opportunities for hiking, cycling, and outdoor gatherings",
+    "tranquil living without missing city center attractions",
+    "ideal blend of sustainability and style"
+  ],
+  "target_buyer": "Ideal for young professionals, creative entrepreneurs, and successful couples craving a sophisticated rural retreat and an active, sociable upmarket environment without sacrificing city access.",
+  "market_positioning": "Distinctively set in Kazimierz Dolny\u2019s most coveted historic center, this duplex combines urban luxury with tranquility, standing out to buyers seeking bespoke style, space, and convenience\u2014an uncommon gem for discerning lifestyle and status seekers."
+}

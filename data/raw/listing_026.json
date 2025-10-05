@@ -1,0 +1,38 @@
+{
+  "title": "Modern 6-Bedroom House with Trendy Outdoor Spaces in Ustka's Port District",
+  "description": "Step into this spacious 6-bedroom, 3-bathroom house designed for modern urban living in the tranquil Port District neighborhood of Ustka. Spanning a generous 212 sqm, this standalone home is perfect for flexible life needs: home office setups, entertaining guests, or relaxed family living. Highlighted by thoughtfully designed outdoor and indoor social zones, you'll love the bespoke barbecue area and the airy outdoor dining terrace. Ample storage\u2014and even an underground garage\u2014add daily convenience, while eco-minded touches such as recycling facilities round out the package.",
+  "neighborhood_description": "Live just minutes from Ustka's city center while enjoying a peaceful, pet-friendly vibe where nature meets energy. The area features lush parks, accessible playgrounds, and ample biking paths\u2014fantastic for morning jogs or daily commutes. Great highway links let you travel swiftly; explore the coast or commute for work with ease.",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "size_sqm": 212,
+  "property_type": "house",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1790000,
+  "key_features": [
+    "6 spacious bedrooms",
+    "3 modern bathrooms",
+    "Open-plan living and kitchen areas",
+    "Outdoor dining area",
+    "Private barbecue zone",
+    "Large storage locker",
+    "Guest bathroom",
+    "Recycling facilities",
+    "Underground garage",
+    "Pet-friendly garden"
+  ],
+  "lifestyle_benefits": [
+    "Ideal for digital nomads craving silence yet quick urban access",
+    "Flexible work-from-home spaces",
+    "Enthusiasts of biking, hiking, and coastal life",
+    "Perfect for entertaining friends and connecting outdoors",
+    "Nearby green areas offering relaxation and play"
+  ],
+  "target_buyer": "Young professionals or digital nomads who value space, flexibility, easy biking access, and eco-friendly amenities in a relaxing, pet-friendly coastal neighborhood.",
+  "market_positioning": "Stands out as an affordable yet fully featured modern house, in a serene neighborhood with rare access to both nature and the city center; ideally suited for young, remote-working populations seeking lifestyle and investment potential in Ustka."
+}

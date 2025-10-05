@@ -1,0 +1,32 @@
+{
+  "title": "Eco-Modern 4-Bedroom Apartment Surrounded by Greenery in Suwa\u0142ki",
+  "description": "Experience contemporary living in this spacious 4-bedroom, 2-bathroom apartment tucked within Suwa\u0142ki\u2019s peaceful Polnocne district. Featuring 115 sqm of sun-filled interiors, the apartment offers an inviting open-plan living area with panoramic windows that blend scenic outdoor views with indoor comfort. Designed for eco-conscious living, enjoy a smart home system, energy-efficient air conditioning, a rainfall collection system for sustainable usage, and a dedicated guest bathroom. Finished with modern fixtures and ample storage, this home perfectly balances comfort, sustainability, and function.",
+  "neighborhood_description": "Polnocne embodies tranquility, with abundant green surroundings and a friendly, low-key neighborhood vibe. Residents value peace and quiet, while easy highway access ensures Suwa\u0142ki city center and regional amenities are conveniently close by. Walking paths and parks are just steps away, offering a green and healthy environment ideal for young lifestyle-focused homeowners.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 115,
+  "property_type": "apartment",
+  "city": "Suwa\u0142ki",
+  "neighborhood": "Polnocne",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 938000,
+  "key_features": [
+    "4 spacious bedrooms",
+    "2 modern bathrooms (including a guest bathroom)",
+    "smart home system",
+    "rainwater collection system",
+    "energy-efficient air conditioning",
+    "panoramic windows with garden views"
+  ],
+  "lifestyle_benefits": [
+    "quiet, green neighborhood ideal for relaxation",
+    "reduced utility bills thanks to eco-features",
+    "ample space for remote work or family growth",
+    "close proximity to green walking trails"
+  ],
+  "target_buyer": "Ideal for young couples eager to embrace sustainable, modern living in a peaceful community surrounded by nature.",
+  "market_positioning": "Unique among local offerings, this property combines advanced eco-conveniences and smart technology in a natural, tranquil setting, providing exceptional value and comfort for buyers who prioritize sustainability and space."
+}

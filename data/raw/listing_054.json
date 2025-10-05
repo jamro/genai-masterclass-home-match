@@ -1,0 +1,38 @@
+{
+  "title": "A Pet-Lover\u2019s Tech Haven Duplex in Zakopane\u2019s Peaceful Centrum",
+  "description": "Embrace harmonious living in this contemporary 5-bedroom, 3-bath duplex spanning 180 square meters, tailor-made for those valuing both family space and serenity. Immerse yourself in a light-filled interior, accentuated by an open-concept, modern kitchen and thoughtfully partitioned common areas. This sharp sanctuary boasts energy-efficient features throughout, complemented by panoramic windows capturing subdued mountain views\u2014perfect for afternoon lounging or playful pets exploring safe floors. ",
+  "neighborhood_description": "Centrum blends mountain town bustle with a unique sense of calm. Here, tranquil tree-lined streets meet innovative conveniences: bike trails weave around lively caf\u00e9s and geek-chic co-working spaces. Excellent infrastructure\u2014including reliable public transport and quick highway access\u2014makes urban outings effortless, while riverside promenades beckon for strolls with four-legged friends.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 180,
+  "property_type": "duplex",
+  "city": "Zakopane",
+  "neighborhood": "Centrum",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1550000,
+  "key_features": [
+    "modern kitchen",
+    "energy-efficient building",
+    "EV charging station",
+    "energy-efficient windows",
+    "well-maintained common areas",
+    "dedicated laundry room",
+    "panoramic windows",
+    "private master suite",
+    "pet-friendly flooring"
+  ],
+  "lifestyle_benefits": [
+    "perfect for pet owners",
+    "walkable to parks and riverside",
+    "community tech gatherings",
+    "safe green space for play",
+    "cycling-friendly neighborhood",
+    "easy commute to town attractions"
+  ],
+  "target_buyer": "Ideal for modern families or professional couples with pets seeking a smart, spacious base amid natural Polish beauty, yet minutes from everyday amenities.",
+  "market_positioning": "Positioned at the heart of Zakopane\u2019s desirable Centrum, this stylish duplex stands out for its eco-minded design and supreme amenity access, speaking directly to modern buyers prioritizing comfort, pet-friendly living, and future-forward infrastructure."
+}

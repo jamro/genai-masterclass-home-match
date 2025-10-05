@@ -1,0 +1,34 @@
+{
+  "title": "Luxurious Loft Living in Picturesque Oliwa",
+  "description": "Experience next-level prestige in this dramatically designed 3-bedroom loft in the heart of Gda\u0144sk's celebrated Oliwa neighborhood. Spanning a generous 137 square meters, this airy residence features floor-to-ceiling windows, a gourmet modern kitchen, and a spacious open-plan living area\u2014perfect for sophisticated entertaining or daily comfort. Carefully curated materials flow throughout, including premium oak floors and streamlined, modern lighting fixtures. The single, exquisitely appointed bathroom boasts top-of-the-line finishes, bringing spa-level comfort to your home.",
+  "neighborhood_description": "Nestled in an upscale area prized for its lush greenery and panoramic views over the city\u2014and glimpses of gentle hills\u2014this Oliwa location offers both proximity to urban amenities and peaceful nature escapes. High-end cafes, boutiques, and fine dining establishments mingle seamlessly with historic parks and elegant boulevards. With public transport, speedy highway access, and a network of scenic bike lines, getting around is effortlessly convenient.",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "size_sqm": 137,
+  "property_type": "loft",
+  "city": "Gdansk",
+  "neighborhood": "Oliwa",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1690000,
+  "key_features": [
+    "modern kitchen",
+    "fitness center",
+    "bicycle storage",
+    "rainwater collection system",
+    "motion-sensor exterior lights"
+  ],
+  "lifestyle_benefits": [
+    "Exclusive community ambiance",
+    "Immediate access to eco-friendly bike lines",
+    "Fitness and wellness facilities on-site",
+    "Smart home security features for peace of mind",
+    "Stunning panoramic skyline and mountain views"
+  ],
+  "target_buyer": "Discerning individuals or families seeking a distinctive loft residence which harmonizes urban convenience and luxury wellness, with a preference for modern upmarket finishes and a touch of natural serenity.",
+  "market_positioning": "This premium loft is a rare offering in one of Gda\u0144sk\u2019s most coveted, fast-appreciating neighborhoods, appealing to buyers seeking unmatched sophistication and sustainable living within the highest urban standards."
+}

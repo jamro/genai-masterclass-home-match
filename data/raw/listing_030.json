@@ -1,0 +1,35 @@
+{
+  "title": "Minimalist Studio Retreat with Balcony and Garden Access in Bronowice",
+  "description": "This sleek, minimalist Scandinavian studio offers a bright open plan living space unfurling to 32 sqm. Clean lines, natural textures, and large windows amplify light and tranquility. Step through patio doors onto your private balcony seamlessly connecting indoor living with the landscaped garden below. The intelligently designed layout optimizes functionality, giving a sense of spaciousness unusual for a studio.",
+  "neighborhood_description": "Nestled in the tranquil and increasingly sought-after Bronowice district of Krakow, this residence combines suburban calm with outstanding links to the heart of the city. The area is cherished for its peaceful ambiance, abundant green spaces, cycling paths, and convenient proximity to daily amenities. Residents enjoy a balance of quiet, verdant streets and easy access to a vibrant urban lifestyle.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 32,
+  "property_type": "studio",
+  "city": "Krakow",
+  "neighborhood": "Bronowice",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway",
+    "airport"
+  ],
+  "price": 415000,
+  "key_features": [
+    "landscaped surroundings",
+    "balcony",
+    "patio doors opening to garden",
+    "modern fa\u00e7ade design",
+    "energy efficient windows",
+    "integrated storage solutions"
+  ],
+  "lifestyle_benefits": [
+    "seamless indoor-outdoor living",
+    "access to peaceful communal gardens",
+    "walkable location amidst greenery",
+    "calm space promoting wellbeing"
+  ],
+  "target_buyer": "Discerning singles or couples seeking a high-end, minimalist home with exclusive design and direct connection to the outdoors. Ideal for professionals desiring effortless travel links and a refined lifestyle in a quiet but well-connected neighborhood.",
+  "market_positioning": "A rare find for those who seek understated luxury with the convenience of urban and travel amenities, set in an enclave valued for its tranquility and green spaces."
+}

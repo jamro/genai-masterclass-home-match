@@ -1,0 +1,33 @@
+{
+  "title": "Scandinavian Loft Retreat by the Lake with Home Office",
+  "description": "Embrace minimalist Scandinavian design in this light-filled loft nestled within the tranquil Lake District of Elk. Featuring three comfortable bedrooms and two modern bathrooms, each space is thoughtfully designed for optimal function with streamlined finishes and soothing natural materials. Open-plan living areas integrate a dedicated home office, perfect for remote productivity, while oversized windows bring in panoramic lake vistas and lush greenery.",
+  "neighborhood_description": "The Lake District is known for its relaxed pace of life, stunning waterfront trails, and tech-oriented yet laid-back community. Experience a bike-friendly atmosphere with scenic cycling paths and effortless connection to key highways, all just moments from endless natural beauty.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 132,
+  "property_type": "loft",
+  "city": "Elk",
+  "neighborhood": "Lake District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1240000,
+  "key_features": [
+    "video intercom",
+    "dedicated home office space",
+    "recycling facilities",
+    "panoramic lake-facing windows",
+    "high ceilings",
+    "energy-efficient appliances"
+  ],
+  "lifestyle_benefits": [
+    "direct access to bike-friendly lakefront trails",
+    "ideal for young, tech-savvy couples",
+    "tranquil and relaxed setting for remote work",
+    "sustainable living with modern recycling options",
+    "well-connected to city via highways"
+  ],
+  "target_buyer": "This home is perfectly suited for young couples seeking a minimalist escape that balances remote work flexibility with active outdoor living by the water.",
+  "market_positioning": "This loft is a unique blend of Scandinavian design, function, and lifestyle amenities\u2014a rare find in the low-density, sought-after Lake District, perfect for upwardly mobile buyers seeking tranquility and novel architecture near nature."
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Artisan Studio Retreat in Lake District, Elk \u2013 Luxury Defined",
+  "description": "Experience chic studio living in this exceptional 39 sqm residence nestled within Elk's distinguished Lake District. Every inch of this studio, featuring 1 bedroom and 1 sleek bathroom, showcases a flawless blend of contemporary luxury and sustainable design. Indulge in a light-soaked living and bedroom space with a custom fireplace, a seamlessly integrated laundry room, and energy-saving solar panels adorning the modern fa\u00e7ade.",
+  "neighborhood_description": "Lake District charms with its captivating blend of tranquil lakeside vistas and a thriving artistic community, attracting vibrant local creatives and professionals alike. Enjoy leisurely strolls through inspiring galleries or unwind at eclectic caf\u00e9s, bringing together neighbors and visitors in an energetic yet refined ambiance. Despite a low urban density, the area\u2019s highway connectivity keeps city life and professional opportunities close at hand.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 39,
+  "property_type": "studio",
+  "city": "Elk",
+  "neighborhood": "Lake District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 425000,
+  "key_features": [
+    "laundry room",
+    "solar panels",
+    "fireplace",
+    "modern fa\u00e7ade design",
+    "floor-to-ceiling windows",
+    "open-concept studio layout"
+  ],
+  "lifestyle_benefits": [
+    "energy-efficient living",
+    "artistic, vibrant community",
+    "quiet retreats with lakeside views",
+    "convenient highway access for commuters"
+  ],
+  "target_buyer": "A relocating professional seeking contemporary luxury and sustainable living in a picturesque, creative lakeside setting. Perfect for individuals valuing a premium address and work-life balance.",
+  "market_positioning": "Standing out as a rare boutique studio offering luxurious finishes and eco-features in Elk\u2019s Lake District, this property appeals to premium buyers prioritizing lifestyle, sustainability, and convenient highway access in an exclusive artistic enclave."
+}

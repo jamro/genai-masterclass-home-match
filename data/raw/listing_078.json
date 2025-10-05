@@ -1,0 +1,34 @@
+{
+  "title": "Charming Polesie Loft with a Warm, Welcoming Atmosphere",
+  "description": "Discover the perfect retreat in this spacious, one-bedroom loft exquisitely designed with comfort in mind. Boasting 90 square meters of open, sunlit living space, the property includes two stylish bathrooms and a walk-in closet. Residents enjoy contemporary interiors and exclusive shared amenities such as a rooftop deck and a residents' lounge. With large windows, high ceilings, and modern fixtures, this loft promotes both relaxation and active living.",
+  "neighborhood_description": "Located in Polesie\u2014one of Lodz\u2019s most peaceful and green neighborhoods\u2014this loft sits amidst tree-lined streets, local parks, and pet-friendly walking paths. Daily errands are a breeze with shopping and dining within easy reach, while dedicated bike lines and reliable public transport offer seamless connections across the city. The welcoming community invites both serenity and social engagement, promoting a health-conscious, yet relaxed lifestyle.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 90,
+  "property_type": "loft",
+  "city": "Lodz",
+  "neighborhood": "Polesie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 980000,
+  "key_features": [
+    "residents' lounge",
+    "fitness center",
+    "walk-in closet",
+    "close to public transport",
+    "rooftop deck",
+    "children's playground area"
+  ],
+  "lifestyle_benefits": [
+    "perfect for active retirees",
+    "low-maintenance lock-up-and-go living",
+    "easy access to green parks",
+    "welcoming neighborhood community"
+  ],
+  "target_buyer": "Ideal for retirees or downsizers seeking a friendly community along with modern comforts and excellent city connectivity. Residences cater to those who value both independence and accessible amenities.",
+  "market_positioning": "Positioned as a premium mid-size loft in the Polesie district, this property stands out for its upscale communal facilities, family-friendly setting, and superb transport connections\u2014appealing to lifestyle-first buyers and those seeking quality living within Lodz."
+}

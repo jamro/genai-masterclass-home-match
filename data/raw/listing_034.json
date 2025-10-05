@@ -1,0 +1,32 @@
+{
+  "title": "Timeless Family House with Historic Character in Artistic Psie Pole",
+  "description": "Step into a spacious family residence full of classic Wroclaw charm. This four-bedroom, two-bathroom house offers generous living spaces across 185 m\u00b2, blending traditional architecture with select contemporary upgrades. The open dining area, complete with energy-efficient windows, creates a bright gathering heart to the home. Smart home features and thoughtful details like a cozy children's play area deliver unmatched comfort for every family member.",
+  "neighborhood_description": "Located in coveted Psie Pole, this home graces a neighborhood celebrated for its strong artistic spirit and lively community energy. The area boasts reputable schools just a short walk away, along with tree-lined streets perfect for pets and families. Convenient public transport and easy highway access seamlessly connect you to all of Wroclaw, keeping city life within reach but never at the expense of tranquility.",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "size_sqm": 185,
+  "property_type": "house",
+  "city": "Wroclaw",
+  "neighborhood": "Psie Pole",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1490000,
+  "key_features": [
+    "well-maintained common areas",
+    "smart home system",
+    "energy-efficient windows",
+    "children's playground area",
+    "recycling facilities"
+  ],
+  "lifestyle_benefits": [
+    "peaceful environment ideal for long-term stability",
+    "community of artists and families",
+    "walkable to high-quality local schools",
+    "pet-friendly neighborhood"
+  ],
+  "target_buyer": "The ideal buyers are families or long-term renters seeking a secure, lasting address with flexible spaces for working, learning, and relaxing benefitting from a supportive artistic community.",
+  "market_positioning": "This property is uniquely positioned as an elegant, smart-updated family house with access to a thriving neighborhood scene, blending manageable city connectivity with ample private and social spaces, squarely focused on buyers valuing longevity and residential serenity."
+}

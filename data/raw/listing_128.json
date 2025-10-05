@@ -1,0 +1,35 @@
+{
+  "title": "Spacious Family Home with Terrace in Peaceful Ursyn\u00f3w",
+  "description": "Welcome to this welcoming detached house set in the green and tranquil neighborhood of Ursyn\u00f3w, Warsaw. Featuring five comfortable bedrooms and three modern bathrooms across two well-planned floors, this home offers a generous 215 sqm of living space thoughtful for family gatherings or comfortably hosting visiting grandchildren. Large windows and a wraparound terrace let in natural light and open up to stunning views, ideal for enjoying your morning coffee or reading in the afternoon sun. A spacious underground garage and an automatic gate provide security and convenience.\n",
+  "neighborhood_description": "Ursyn\u00f3w is renowned for its pleasant, leafy streets and easy access to some of Warsaw\u2019s tech hubs and universities, giving the district a vibrant yet relaxed vibe. The area is rich with recreational opportunities, thanks to numerous parks, biking trails, and community green spaces, perfect for quiet walks or staying active outdoors. Residents benefit from close proximity to convenient public transport, diverse shopping and dining spots, and swift highway and airport links for visiting family or travel.",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "size_sqm": 215,
+  "property_type": "house",
+  "city": "Warsaw",
+  "neighborhood": "Ursynow",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway",
+    "airport"
+  ],
+  "price": 1840000,
+  "key_features": [
+    "terrace",
+    "underground garage",
+    "automatic gate",
+    "close to public transport",
+    "shopping and dining nearby"
+  ],
+  "lifestyle_benefits": [
+    "quiet residential area",
+    "excellent local amenities",
+    "direct bike path access",
+    "community feel",
+    "ease of travel for family visits"
+  ],
+  "target_buyer": "Ideal for retirees seeking tranquility, security, and room for visiting family members, while still enjoying an active lifestyle and community.",
+  "market_positioning": "Rare in the market due to its family-friendly layout, proximity to nature, and superb connections; exceptional value for retirees prioritizing comfort, safety, and accessibility in a popular Warsaw district."
+}

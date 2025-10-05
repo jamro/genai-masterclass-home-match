@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Chic Mountain Duplex with Home Office in Koscielisko",
+  "description": "Welcome to this modern duplex boasting eco-conscious features and mountain-inspired design. With 3 airy bedrooms, 2 sleek bathrooms, and a flexible home office, this 136 sqm property is tailored for comfort and efficiency. Enjoy abundant natural light, contemporary finishes, and seamless indoor-outdoor flow \u2013 your escape in the pristine greenery of Koscielisko.",
+  "neighborhood_description": "Nestled in Koscielisko, Zakopane\u2019s tranquil, low-density western neighborhood, you\u2019re steps from hiking trails and panoramic views of the Tatras. Families and professionals will love the balanced pace amid great access to schools, local culture, and essential amenities, while the close connection to the main highway ensures you\u2019re never far from urban convenience.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 136,
+  "property_type": "duplex",
+  "city": "Zakopane",
+  "neighborhood": "Koscielisko",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1590000,
+  "key_features": [
+    "24/7 security",
+    "EV charging station",
+    "private parking space",
+    "laundry room",
+    "elevator access",
+    "integrated home office space"
+  ],
+  "lifestyle_benefits": [
+    "Quiet surroundings for remote work",
+    "Eco-friendly living in the Tatra foothills",
+    "Healthy outdoor lifestyle",
+    "Quick highway access to town and business hubs",
+    "Space for work-life balance"
+  ],
+  "target_buyer": "Ideal for professionals and families relocating for work seeking a peaceful, modern home that supports sustainable living, with room for a home office.",
+  "market_positioning": "This property stands out in Zakopane\u2019s market for its blend of sustainable amenities, work-from-home flexibility, security, and easy access to both nature and major transport links."
+}

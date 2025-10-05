@@ -1,0 +1,34 @@
+{
+  "title": "Stylish Grunwald Loft with Modern Comforts for Family Urban Living",
+  "description": "Embrace city living in this spacious, light-filled loft in the heart of Grunwald. This 1-bedroom, 1-bathroom property impresses with its expansive layout of 68 square meters, boasting contemporary design and thoughtfully curated finishes. Enjoy seamless open-plan living accented by large industrial windows, underfloor heating, and a sleek, modern kitchen equipped with quality appliances. Accessible via elevator, residents also benefit from a private lounge area\u2014perfect for work or relaxing evenings.",
+  "neighborhood_description": "Grunwald offers the ideal blend of vibrant city convenience and community comfort. With great access to public transport, bike-friendly roads, and nearby highways, commuting is effortless no matter your preferred mode. Residents find themselves near Poznan\u2019s business district, top schools, parks, and family-friendly caf\u00e9s, making it excellent for urban families seeking balance.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 68,
+  "property_type": "loft",
+  "city": "Poznan",
+  "neighborhood": "Grunwald",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 995000,
+  "key_features": [
+    "residents' lounge",
+    "underfloor heating",
+    "modern kitchen",
+    "elevator access",
+    "loft-style open layout",
+    "large windows"
+  ],
+  "lifestyle_benefits": [
+    "stress-free city commutes",
+    "easy access to top schools and parks",
+    "perfect set-up for work-from-home professionals with kids",
+    "close to cafes and restaurants"
+  ],
+  "target_buyer": "Ideal for young professional couples or small families who value modern living with a family-friendly touch, seeking a lively, well-connected neighborhood in Poznan.",
+  "market_positioning": "This loft stands out among compact flats and traditional apartments with its open-space design, curated amenities, and exceptional accessibility to city transport. It is an attractive choice for discerning buyers wanting both modern style and practical ease for city family life."
+}

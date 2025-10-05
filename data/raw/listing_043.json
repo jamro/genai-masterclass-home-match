@@ -1,0 +1,34 @@
+{
+  "title": "Elegant 4-Bedroom Apartment with Historic Charm in Ochota",
+  "description": "Step into Warsaw\u2019s past in this beautifully updated 4-bedroom apartment nestled in a charming early 20th-century building in desirable Ochota. Boasting an open floor plan and energy-efficient windows, this spacious 108 sqm residence features modern comforts while retaining architectural details that reflect its storied heritage. A newly revamped fa\u00e7ade complements its surroundings, and natural light graces every corner of the home. Perfect for both entertaining guests and unwinding after a productive day, the flexible layout caters to every lifestyle.",
+  "neighborhood_description": "Ochota offers the buzz of city life balanced with discreet side streets, lined with mature trees and classic architecture. Residents enjoy convenient access to top-rated schools, peaceful green oases, and a host of shopping and dining options just steps away. Cheers to unparalleled connectivity\u2014city transit, bicycle paths, and Warsaw Chopin Airport are easily accessible for work or leisure.",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "size_sqm": 108,
+  "property_type": "apartment",
+  "city": "Warsaw",
+  "neighborhood": "Ochota",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "airport"
+  ],
+  "price": 1285000,
+  "key_features": [
+    "energy-efficient windows",
+    "modern fa\u00e7ade design",
+    "open floor plan",
+    "spacious living areas",
+    "shopping and dining nearby"
+  ],
+  "lifestyle_benefits": [
+    "walkable to office spaces and coworking hubs",
+    "vibrant cultural offerings",
+    "proximity to transportation",
+    "quiet corners for remote work or relaxation",
+    "close to schools and services"
+  ],
+  "target_buyer": "Ideal for entrepreneurs and urban professionals seeking character, convenience, and modern functionality in a prime central location.",
+  "market_positioning": "This residence stands out as a rare fusion of rich Warsaw heritage and contemporary design in Ochota, appealing to discerning buyers who prize both tradition and forward-thinking amenities. Suited to those valuing prime access without compromising on space or city elegance."
+}

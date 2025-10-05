@@ -1,0 +1,35 @@
+{
+  "title": "Elegant Modern Villa with Pool and Terrace in Grunwald, Poznan",
+  "description": "Experience sophisticated living in this exquisite contemporary house, featuring 4 spacious bedrooms and 3 luxurious bathrooms. Set on 240 square meters of expertly designed living area, each space combines seamless comfort and modern elegance. Entertain or relax with sweeping terrace views and exclusive swimming pool access, entirely private and beautifully landscaped. Enjoy dedicated co-working areas ideal for active professionals or remote entrepreneurs.",
+  "neighborhood_description": "Nestled in Grunwald, one of Poznan\u2019s most sought-after neighborhoods, this home offers tranquility alongside urban convenience. Enjoy direct access to the business district and easy connection to green walking spaces, while benefiting from the safety and vibrancy the area is known for. Trendy cafes, fine dining, and boutique stores are all close by, as well as essential schools and services.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 240,
+  "property_type": "house",
+  "city": "Poznan",
+  "neighborhood": "Grunwald",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1950000,
+  "key_features": [
+    "private swimming pool",
+    "spacious terrace",
+    "dedicated co-working space",
+    "open-plan living room and kitchen",
+    "en-suite master bathroom",
+    "landscaped gardens",
+    "secure garage parking"
+  ],
+  "lifestyle_benefits": [
+    "resort-style entertainment at home",
+    "flexible remote work setup",
+    "premium privacy and comfort",
+    "easy commuting to city center"
+  ],
+  "target_buyer": "Ideal for executives, entrepreneurs or families who value luxury, exclusivity, and a seamless integration of work and lifestyle.",
+  "market_positioning": "Positioned as a high-end residential property, this distinguished villa stands out for its rare blend of generous private amenities and the security of a premium, centrally connected Grunwald address."
+}

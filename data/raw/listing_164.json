@@ -1,0 +1,33 @@
+{
+  "title": "Ready-to-Move Studio Perfect for Remote Workers in Kamienny Potok",
+  "description": "This stylish studio apartment offers 32 sqm of open-plan, sun-filled living space laced with modern finishes. Enjoy a compact yet thoughtfully appointed modern kitchen, a separate bathroom with contemporary fixtures, and in-unit laundry facilities. The building features a solar-powered energy system, dedicated bicycle storage, and an inviting residents' lounge ideal for relaxing or socializing after work.",
+  "neighborhood_description": "Nestled in the medium-urban neighborhood of Kamienny Potok, this location offers a vibrant\u2014yet peaceful\u2014urban lifestyle. Close proximity to the city center ensures a dynamism perfect for young professionals, while pet-friendly green areas and a burgeoning community vibe invite a healthy, active routine. With numerous bike lines and reliable public transportation, commuting is effortless.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 32,
+  "property_type": "apartment studio",
+  "city": "Sopot",
+  "neighborhood": "Kamienny Potok",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 465000,
+  "key_features": [
+    "laundry room",
+    "solar panels",
+    "bicycle storage",
+    "modern kitchen",
+    "residents' lounge"
+  ],
+  "lifestyle_benefits": [
+    "ideal for remote work",
+    "pet-friendly surroundings",
+    "simple walk/bike ride to city center",
+    "energy-efficient systems",
+    "green community"
+  ],
+  "target_buyer": "A young remote-working professional or student looking for affordable independence and an active, flexible urban lifestyle.",
+  "market_positioning": "An attractively priced studio in a growing neighborhood, offering more amenities and sustainable features than comparably priced options in central Sopot; perfect for digital nomads and eco-conscious buyers."
+}

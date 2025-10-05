@@ -1,0 +1,35 @@
+{
+  "title": "Sleek Scandinavian Duplex With Garden Views in Bronowice",
+  "description": "Experience pared-back elegance in this newly renovated Scandinavian-style duplex. Offering 3 airy bedrooms, 3 minimalist bathrooms, and a sun-drenched living area, the property blends natural textures with clean lines. Glass doors open onto a private balcony, while floor-to-ceiling windows welcome tranquil garden glimpses inside. Contemporary finishes throughout invite both calm and comfort.",
+  "neighborhood_description": "Set in vibrant Bronowice, this home is perched in a district pulsing with dynamic energy and balanced outdoor possibilities. Bestowed with parks, local squares, trendy cafes, and boutique shopping, the neighborhood supports a lively and active lifestyle. Public transport and bike lines interlace the area, while fast highway and airport access circulate you to the broader pulse of Krakow or beyond.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 135,
+  "property_type": "duplex",
+  "city": "Krakow",
+  "neighborhood": "Bronowice",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway",
+    "airport"
+  ],
+  "price": 1495000,
+  "key_features": [
+    "newly renovated Scandinavian interior",
+    "landscaped communal surroundings",
+    "private balcony overlooking greenery",
+    "wheelchair accessible entrance and lift",
+    "dedicated pet zone in gardens",
+    "energy-efficient smart appliances"
+  ],
+  "lifestyle_benefits": [
+    "walk to parks and cafes with your pet",
+    "cycle-friendly streets at your doorstep",
+    "seamless highways and public transit",
+    "ample room for home-based living with pets"
+  ],
+  "target_buyer": "Ideal for modern couples or young families, especially pet owners who value seamless indoor-outdoor connections and nearby communal green spaces.",
+  "market_positioning": "This turnkey duplex brings a rare blend of fresh interiors and lifestyle-oriented amenities to Bronowice at a competitive price for the area, appealing to buyers seeking move-in ready quality and a lively, well-connected yet balanced urban atmosphere."
+}

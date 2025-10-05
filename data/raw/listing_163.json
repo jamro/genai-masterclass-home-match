@@ -1,0 +1,33 @@
+{
+  "title": "Charming Studio Retreat in Historic Stare Miasto, Zamosc",
+  "description": "Step into the unique charm of this sunlit studio apartment, beautifully positioned within the storied heart of Zamosc\u2019s Old Town. With one generous bedroom area, a sleek modern bathroom, and space-efficient open-plan living, this 38 sqm home offers a seamless blend of comfort and historic character. French doors invite you onto an inviting terrace overlooking landscaped communal grounds and a petite fenced yard, perfect for alfresco relaxation and warm-weather dining. Replete with thoughtful eco-amenities and an automatic entry gate, modern ease meets Old Town elegance.",
+  "neighborhood_description": "Stare Miasto in Zamosc dazzles with historic architecture, cobblestone streets, and a peaceful suburban vibe rare in city centers. The neighborhood prides itself on green, community-minded living, offering new recycling facilities and tranquilly landscaped courtyards enjoyed by an eco-conscious community. Reliable public transport and proximity to the highway cater to active lifestyles while preserving serene mornings and intimate evenings.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 38,
+  "property_type": "studio apartment",
+  "city": "Zamosc",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 389000,
+  "key_features": [
+    "landscaped communal gardens",
+    "recycling facilities",
+    "private outdoor terrace",
+    "fenced yard",
+    "automatic entry gate",
+    "modern bathroom fixtures"
+  ],
+  "lifestyle_benefits": [
+    "high-speed internet \u2014 ideal for remote work",
+    "quiet, green complex for creative focus",
+    "minutes from cafes, libraries, and local coworking spaces",
+    "inspirational, historic surroundings for creative living"
+  ],
+  "target_buyer": "Perfect for digital nomads seeking cultural inspiration, solo professionals, or couples desiring a unique base with modern comforts and a tranquil environment.",
+  "market_positioning": "This studio blends the prestige of Old Town Zamosc with unparalleled access to modern amenities, attracting buyers seeking authentic living intertwined with connectivity, security, and a contemporary eco-minded community."
+}

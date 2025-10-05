@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Conscious Modern Apartment near Kamienny Potok Greenery",
+  "description": "Step into a bright, modern 2-bedroom, 2-bathroom apartment designed for energy efficiency and contemporary comfort. Spreading across 62 sqm, this thoughtfully planned home offers a spacious open-plan living area linked by patio doors to a secluded balcony and shared garden. Solar panels and top-grade insulation embrace sustainable living. Whether you prefer a cozy breakfast by the kitchen window or working in the dedicated home office nook, this space readily adapts to your lifestyle.",
+  "neighborhood_description": "Located in Sopot\u2019s Kamienny Potok, the apartment enjoys a harmonious blend of lively urban energy and lush green surroundings. The area is known for its family-friendly atmosphere, easy cycling routes, and numerous parks and playgrounds. Excellent public transport links ensure fast access to Sopot\u2019s seaside promenade, the Tricity tech ecosystem, shops, caf\u00e9s, and cultural hubs.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 62,
+  "property_type": "apartment",
+  "city": "Sopot",
+  "neighborhood": "Kamienny Potok",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1150000,
+  "key_features": [
+    "balcony",
+    "patio doors opening to garden",
+    "solar panels",
+    "home office space",
+    "energy-efficient building"
+  ],
+  "lifestyle_benefits": [
+    "eco-friendly living",
+    "outdoor relaxation spaces",
+    "convenient access to tech hub",
+    "family-friendly neighborhood",
+    "ideal for cycling enthusiasts"
+  ],
+  "target_buyer": "Ideal for first-time buyers seeking an eco-conscious, contemporary home with workspace flexibility and a focus on favourable running costs.",
+  "market_positioning": "This apartment stands out in Kamienny Potok\u2019s competitive mid-range sector as a forward-thinking home for modern lifestyles, offering sustainable amenities, smart space planning, and quick connectivity to both nature and city life."
+}

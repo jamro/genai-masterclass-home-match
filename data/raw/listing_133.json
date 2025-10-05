@@ -1,0 +1,35 @@
+{
+  "title": "Eco-Chic Urban Apartment with Panoramic Windows in the Heart of Sopot Centrum",
+  "description": "Experience modern eco-conscious living in this beautifully designed 2-bedroom, 2-bathroom apartment nestled on the fourth floor of a newly constructed building. Expansive panoramic windows flood every room with natural light, showcasing thoughtful sustainable finishes. Integrated smart home features create effortless comfort, while your private parking space and heated driveway offer ease amidst the lively city. End your days in the calming shared sauna, exclusive to residents.",
+  "neighborhood_description": "Centrum is Sopot's vibrant artistic hub, embraced by galleries, trendy caf\u00e9s, and lush parks. Top-rated schools and creative centers are just a stroll away, making daily life both inspiring and convenient. Excellent public transport links, dedicated bike lines, and quick highway access seamlessly connect you to Gda\u0144sk, Gdynia, and the Baltic coastline.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 78,
+  "property_type": "apartment",
+  "city": "Sopot",
+  "neighborhood": "Centrum",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1120000,
+  "key_features": [
+    "panoramic windows",
+    "shared sauna",
+    "smart home system",
+    "private parking space",
+    "heated driveway",
+    "energy-efficient appliances"
+  ],
+  "lifestyle_benefits": [
+    "ideal for cyclists and commuters",
+    "immersed in artistic community",
+    "walking distance to local schools",
+    "sustainable and low-maintenance living",
+    "vibrant social and cultural scene"
+  ],
+  "target_buyer": "Perfect for eco-conscious young couples seeking a modern and connected city lifestyle within an inspired, creative neighborhood.",
+  "market_positioning": "Positioned at the premium end of Sopot\u2019s apartment market, this home combines contemporary green living with everyday convenience and authentic cultural vibrancy. A rarity for buyers seeking excellent public transport, secure parking, and sustainable design in the lively core of Sopot."
+}

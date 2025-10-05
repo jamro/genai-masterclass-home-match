@@ -1,0 +1,34 @@
+{
+  "title": "Stylish Family Home in Vibrant Stare Miasto \u2014 Live Urban, Live Connected!",
+  "description": "This spacious house offers an open floor plan across 198 sqm, featuring 4 bright bedrooms and 3 modern bathrooms\u2014ideal for young families eager for plenty of living space. Large windows fill each room with natural light, while seamless indoor-outdoor integration means easy entertaining or relaxed evenings together. With full wheelchair accessibility throughout the ground floor, everyone is accommodated comfortably. Nestled in a peaceful urban enclave, the vibe inside the home feels refreshingly calm yet intrinsically city, hinting at Stare Miasto\u2019s historic yet youthful character.",
+  "neighborhood_description": "Stare Miasto puts you right at Poznan\u2019s dynamic core, offering unmatched access to culture, dining, shopping, green spaces, and excellent schools. Beautiful old architecture merges with trendy urban amenities ideal for young and growing families. Bike lanes wind through leafy streets, and public transport options can send you to any area of Poznan swiftly. Easy links to major highways make commuting a breeze, especially for on-the-move professionals.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 198,
+  "property_type": "house",
+  "city": "Poznan",
+  "neighborhood": "Stare Miasto",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1530000,
+  "key_features": [
+    "open floor plan",
+    "wheelchair accessible ground floor",
+    "modern kitchen",
+    "private backyard",
+    "in-home laundry",
+    "energy efficient windows and appliances"
+  ],
+  "lifestyle_benefits": [
+    "walkable to caf\u00e9s and schools",
+    "peaceful location with city access",
+    "safe biking avenues for kids",
+    "near playgrounds and parks",
+    "excellent public transit nearby"
+  ],
+  "target_buyer": "Young professionals or families with children seeking contemporary comfort in a rewarding urban location, looking for blend of space, convenience, and connectivity without sacrificing a peaceful home feel.",
+  "market_positioning": "Thoughtfully designed for families\u2014but flexible enough for sharers or stylish professionals\u2014this Stare Miasto home is a rare find: urban and quiet, accessible and vibrant, all in one. Strong value for space and location in the heart of Poznan."
+}

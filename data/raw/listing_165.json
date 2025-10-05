@@ -1,0 +1,31 @@
+{
+  "title": "Serene Scandinavian Retreat in Pradnik Bialy",
+  "description": "Discover minimalist elegance in this newly built Scandinavian-inspired house with clean lines and light-filled interiors. Thoughtfully designed for comfort, the 190 sqm residence features four spacious bedrooms, three modern bathrooms, and functional living spaces perfect for everyday living. Panoramic windows allow natural light to flow throughout, creating a tranquil ambiance, while a heated driveway offers convenience year-round. Open plan social space connects effortlessly to an outdoor barbecue zone and a residents' lounge ideal for intimate gatherings.",
+  "neighborhood_description": "Located in Pradnik Bialy\u2014a peaceful suburb of Krakow cherished for its relaxed pace and green enclaves\u2014the property benefits from well-established local amenities and seamless public transport connections. Quick access to the highway means commuting across the city or weekends away are simple affairs, yet the area maintains a soft suburban charm.",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "size_sqm": 190,
+  "property_type": "house",
+  "city": "Krakow",
+  "neighborhood": "Pradnik Bialy",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1780000,
+  "key_features": [
+    "residents' lounge",
+    "barbecue zone",
+    "panoramic windows",
+    "heated driveway"
+  ],
+  "lifestyle_benefits": [
+    "Peaceful setting ideal for unwinding after work",
+    "Perfect for family life or hosting friends",
+    "Low-maintenance modern living",
+    "Convenient access to city and green spaces"
+  ],
+  "target_buyer": "Ideal for first-time buyers and young families looking for their own oasis just outside the city center, prioritized comfort, and easy access to amenities.",
+  "market_positioning": "This home stands out for its balance of modern design, serene suburban location, and easy city access, presenting exceptional value in Pradnik Bialy's growing residential market."
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Eco-Friendly Duplex with Breathtaking Mountain Views in Old Town Krosno",
+  "description": "Welcome to a welcoming family duplex nestled in the heart of Krosno\u2019s Old Town. Spanning a comfortable 148 sqm, this modern duplex features 3 spacious bedrooms, 2 bathrooms, and an airy open-concept living area flooded with natural light through stunning panoramic windows. Contemporary comforts such as solar panels ensure lower utility costs, while a private storage room and a dedicated barbecue zone invite a seamless indoor-outdoor lifestyle. The enduring charm of the Old Town shines through in the classic architectural details combined with cutting-edge amenities like a video intercom and 24/7 security for nightly peace of mind.",
+  "neighborhood_description": "The Old Town neighborhood offers a unique blend of mountain vistas, vibrant local traditions, and lush greenery, perfect for active families seeking a quieter pace of life. Relish nearby parks, local shops, and family-owned caf\u00e9s dotted along peaceful historic streets, with breathtaking natural panoramas making daily walks truly special. While public transport options are limited, direct highway access makes outings to neighboring towns convenient and scenic.",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "size_sqm": 148,
+  "property_type": "duplex",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1390000,
+  "key_features": [
+    "panoramic windows",
+    "solar panels",
+    "barbecue zone",
+    "storage room",
+    "video intercom",
+    "24/7 security"
+  ],
+  "lifestyle_benefits": [
+    "energy efficiency for lower bills",
+    "abundant natural light",
+    "safe and peaceful environment",
+    "gatherings made easy with backyard barbecue zone",
+    "easy commuting by highway",
+    "close-knit community atmosphere"
+  ],
+  "target_buyer": "Ideal for eco-conscious families prioritizing sustainability and security who want to raise children surrounded by natural beauty and traditional Polish charm.",
+  "market_positioning": "This duplex stands out on the market as an extraordinary blend of contemporary eco-friendly comforts and serene, green Old Town living\u2014perfect for buyers searching for a peaceful, sustainable home just a quick drive from regional attractions."
+}

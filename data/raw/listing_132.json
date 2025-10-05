@@ -1,0 +1,36 @@
+{
+  "title": "Turnkey Urban 2BR Apartment with Premium Amenities in Sopot Centrum",
+  "description": "Find the perfect balance of city pulse and restful living in this sleek 2-bedroom, 2-bathroom apartment located in the heart of Sopot Centrum. With a generous 67 sqm of contemporary space, this modern apartment emphasizes comfort and smart connectivity for urban dwellers. Stylish interior finishes paired with cutting-edge automation create an intuitive, low-maintenance home\u2014ideal for a fast-paced digital lifestyle. With west-facing windows drawing in natural light, the open-plan living area flows seamlessly to a private balcony, making entertaining and home office setups a breeze on any day.",
+  "neighborhood_description": "Sopot Centrum surrounds you with the vibrancy of artistic cafes, boutiques, and a thriving dining scene, yet neighbors are community-minded and the streets appealingly peaceful. Short walks take you to bustling Monte Cassino Street or sandy Baltic beaches, while frequent trams, bike routes, and highway links put the entire Tri-City within instant reach. This district is a favorite for those who want all amenities but value a relaxing local vibe.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 67,
+  "property_type": "apartment",
+  "city": "Sopot",
+  "neighborhood": "Centrum",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1210000,
+  "key_features": [
+    "motion-sensor exterior lights",
+    "underground garage",
+    "balcony",
+    "swimming pool access",
+    "secure entry",
+    "elevator",
+    "double glazing",
+    "integrated appliances"
+  ],
+  "lifestyle_benefits": [
+    "Work-from-home ready wired internet",
+    "Walk to cafes, gyms & coworking spaces",
+    "Vibrant but peaceful surroundings",
+    "Dedicated parking for stress-free car owners"
+  ],
+  "target_buyer": "Ideal for young professionals or digital nomads seeking urban sophistication with reliable privacy\u2014in walking distance to Sopot\u2019s cultural, tech, and leisure hubs.",
+  "market_positioning": "This is a turnkey city-center apartment combining rarity (private parking rare for Centrum), excellent security, and lifestyle-rich amenities at a competitive price. Appeals to buyers who value easy mobility, convenience, and a young-at-heart community spirit."
+}

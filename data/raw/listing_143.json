@@ -1,0 +1,33 @@
+{
+  "title": "Luxury Studio Oasis with Balcony & Underground Garage in Artistic Orunia",
+  "description": "Step into a meticulously designed studio apartment that perfectly blends luxury and functionality. The contemporary 34 sqm space boasts a comfortable living and sleeping area adjoined by a private balcony offering inspiring urban views. Sophisticated built-in wardrobes maximize storage, while the sleek modern bathroom features premium finishes for a truly refined lifestyle. Secure your vehicle in the underground garage and experience true everyday comfort and convenience.",
+  "neighborhood_description": "Nestled in Gdansk's trendy and dynamic Orunia district, this premium address offers an artistic community atmosphere friendly to pets and creative spirits alike. Take advantage of exceptional local amenities\u2014caf\u00e9s, galleries, and green parks create a vibrant neighborhood feel. With bus and highway access on your doorstep, reaching the city center and beyond is effortless.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 34,
+  "property_type": "studio apartment",
+  "city": "Gdansk",
+  "neighborhood": "Orunia",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 416000,
+  "key_features": [
+    "balcony",
+    "underground garage",
+    "built-in wardrobes",
+    "modern bathroom",
+    "secure entry",
+    "reception desk"
+  ],
+  "lifestyle_benefits": [
+    "long-term rental stability",
+    "ideal for remote working professionals",
+    "community-centric, trendy area",
+    "pet-friendly building"
+  ],
+  "target_buyer": "Ideal for single professionals or couples seeking a refined and stable long-term rental in a vibrant neighborhood with hassle-free commuting.",
+  "market_positioning": "This premium studio elevates urban living in Orunia with features uncommon at this size and price point, such as a balcony and underground parking. Perfect for discerning renters looking for premium amenities in a buzzing, up-and-coming district close to central Gdansk."
+}

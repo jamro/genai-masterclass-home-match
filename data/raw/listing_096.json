@@ -1,0 +1,31 @@
+{
+  "title": "Minimalist Scandinavian Loft in the Heart of Krosno Old Town",
+  "description": "Step into Nordic-inspired tranquility with this unique 89 sqm loft in Krosno's atmospheric Old Town. The open floor plan floods the space with light, blending living, dining, and kitchen for effortless comfort and entertaining. Two tranquil bedrooms plus a spa-like bathroom define serene living, enhanced by natural finishes and simple, elegant design.",
+  "neighborhood_description": "Old Town Krosno is a mosaic of historical charm and cultural pulse, featuring cobblestone streets lined with art venues, galleries, and cozy cafes. With immediate access to highways, the district is ideal for active lifestyles, and the bike-friendly setting invites regular exploration of both countryside and culture.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 89,
+  "property_type": "loft",
+  "city": "Krosno",
+  "neighborhood": "Old Town",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1125000,
+  "key_features": [
+    "open floor plan",
+    "co-working space",
+    "automatic gate",
+    "in-building fitness center",
+    "natural wood floors"
+  ],
+  "lifestyle_benefits": [
+    "seamless indoor-outdoor living",
+    "convenient highway access",
+    "close to art and culture",
+    "active, bike-friendly vibe"
+  ],
+  "target_buyer": "Ideal for young couples seeking a contemporary yet peaceful home base with urban-inspired amenities amidst historic ambiance.",
+  "market_positioning": "A rare loft offering in Krosno\u2014perfectly positioned for those desiring design-forward living and useful amenities within a charming, low-density neighborhood with easy regional access."
+}

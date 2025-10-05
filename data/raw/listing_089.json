@@ -1,0 +1,34 @@
+{
+  "title": "Charming Family Duplex with Modern Touches in Peaceful Radziwie",
+  "description": "Welcome to this spacious and thoughtfully designed duplex located in the tranquil neighborhood of Radziwie, P\u0142ock. Combining style and practicality, the home features five generously sized bedrooms and two modern bathrooms, making it perfect for growing families or couples planning for the future. The inviting open floor plan connects the kitchen, dining, and living areas, creating a warm atmosphere filled with natural light. Upgraded features such as efficient air conditioning, a contemporary kitchen, convenient storage locker, and a sustainable rainwater collection system ensure a comfortable and eco-friendly lifestyle for all seasons.",
+  "neighborhood_description": "Radziwie offers a peaceful suburban vibe characterized by green spaces and a mindful, eco-conscious community spirit. Families enjoy close proximity to schools, parks, and crisp walking paths. Essential amenities, local stores, and cultural sites are all within easy reach. Public transport and direct highway connections make commuting to central P\u0142ock or neighboring cities a breeze, adding both convenience and flexibility for modern living.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 192,
+  "property_type": "duplex",
+  "city": "P\u0142ock",
+  "neighborhood": "Radziwie",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1450000,
+  "key_features": [
+    "air conditioning",
+    "modern open floor plan",
+    "storage locker",
+    "rainwater collection system",
+    "fully equipped contemporary kitchen",
+    "access to nearby swimming pool"
+  ],
+  "lifestyle_benefits": [
+    "perfect for growing families or young couples",
+    "peaceful, suburban setting away from city bustle",
+    "active lifestyle with parks and walking areas",
+    "commuting ease thanks to public transport and highway proximity",
+    "eco-friendly community initiatives"
+  ],
+  "target_buyer": "Ideal for young couples planning to start or grow their family, or established families seeking great value and spacious, contemporary living close to nature without sacrificing city access.",
+  "market_positioning": "This modern duplex stands out for offering ample space, smart features, and superb sustainability in a peaceful suburban pocket. It delivers the perfect compromise between calm, family-oriented living, and convenient access to city amenities\u2014making it a highly attractive choice for progressive families in P\u0142ock."
+}

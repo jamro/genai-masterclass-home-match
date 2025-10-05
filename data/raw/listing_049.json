@@ -1,0 +1,32 @@
+{
+  "title": "Bright Studio Loft in Gdansk\u2019s Artistic Srodmiescie",
+  "description": "Embrace city living in this modern and efficient studio apartment, nestled within a vibrant and creative building in Gdansk's sought-after Srodmiescie district. The open-plan layout (35 sqm) offers flexibility for both living and working, with abundant natural light and thoughtfully designed spaces. Enjoy a sleek kitchenette, spacious bathroom, and smart storage solutions for comfortable everyday living.",
+  "neighborhood_description": "Located at the creative heart of Gdansk, Srodmiescie thrives with an unmistakable artistic spirit and lively local culture. Filled with art studios, cozy cafes, and unique galleries, it\u2019s the perfect base for people looking to be part of a like-minded community. Efficient public transit and abundant marked bike lines make exploring the city a breeze, while historic streets meet the rolling edges of the Tricity Landscape Park\u2014with scenic hilltop views within easy reach.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 35,
+  "property_type": "studio apartment",
+  "city": "Gdansk",
+  "neighborhood": "Srodmiescie",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 429000,
+  "key_features": [
+    "energy-efficient building",
+    "see-through laundry room",
+    "shared co-working space",
+    "spacious bathroom",
+    "high-speed internet"
+  ],
+  "lifestyle_benefits": [
+    "connect with an artistic community",
+    "walk everywhere: shops, galleries, and cafes nearby",
+    "city and distant hill views from window",
+    "join creative workshops or events in-house"
+  ],
+  "target_buyer": "Perfect for artists, designers, remote workers, and creatives seeking an inspiring city-base with the comforts of a community-oriented environment.",
+  "market_positioning": "A rare opportunity: a thoughtfully appointed, modern studio in one of Gdansk\u2019s most dynamic neighborhoods, offering premium amenities for city-based creatives at a competitive price point."
+}

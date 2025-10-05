@@ -1,0 +1,35 @@
+{
+  "title": "Trendy Artistic Loft with Convenient Urban Living in Katowice D\u0105b",
+  "description": "Experience modern comfort in this stylish loft featuring vaulted ceilings and an open layout ideal for creative living. The 82 sqm space offers two spacious bedrooms, a contemporary bathroom, and a sunlit living area that\u2019s perfect for both work and relaxation. The state-of-the-art kitchen, ample laundry room, and organized walk-in closet combine function with flair, creating the ultimate adaptable home for today\u2019s modern lifestyle.",
+  "neighborhood_description": "D\u0105b stands out as one of Katowice\u2019s most vibrant neighborhoods, known for its strong cultural presence and bustling arts scene. Steps from your door, you'll find art galleries, local cafes, and an array of community events\u2014a true haven for creative minds. Excellent public transport links, bike paths, and highways mean commuting anywhere in the city is always within easy reach.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 82,
+  "property_type": "loft",
+  "city": "Katowice",
+  "neighborhood": "D\u0105b",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 1050000,
+  "key_features": [
+    "laundry room",
+    "walk-in closet",
+    "modern kitchen",
+    "open-plan living space",
+    "exposed brick walls",
+    "urban views"
+  ],
+  "lifestyle_benefits": [
+    "close to coworking spaces",
+    "fast internet connectivity",
+    "cross-city accessibility",
+    "steps from art galleries & caf\u00e9s",
+    "quiet enough for remote work"
+  ],
+  "target_buyer": "Remote workers, freelancers, and small families seeking an artistic environment to live, work, and thrive, offered up in a move-in ready package.",
+  "market_positioning": "One of only a handful of true artist-inspired lofts in D\u0105b, this home blends creativity and comfort, delivering true value for buyers wishing to join the heart of Katowice\u2019s cultural and digital community."
+}

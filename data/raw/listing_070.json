@@ -1,0 +1,34 @@
+{
+  "title": "Modern Studio Living in the Heart of Sopot Centrum",
+  "description": "Experience contemporary comfort in this chic, sunlit studio situated in Sopot's vibrant Centrum. The intelligently designed 34 sqm layout features a stylish open-plan living/bedroom area, a sleek modern kitchen, separate bathroom, and dedicated workspace, perfect for remote work or creative projects. Enjoy peace of mind with 24/7 security and convenient access to a personal storage locker.",
+  "neighborhood_description": "Located just steps from Sopot\u2019s beautiful waterfront, Centrum puts you at the center of a dynamic, growing neighborhood with excellent dining, shopping, and cultural hotspots. Commuting is effortless thanks to extensive public transport, city bike lines, and quick highway access. Take evening strolls along the seaside promenade and experience the best of modern urban living.",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "size_sqm": 34,
+  "property_type": "studio",
+  "city": "Sopot",
+  "neighborhood": "Centrum",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "highway"
+  ],
+  "price": 495000,
+  "key_features": [
+    "modern kitchen",
+    "home office space",
+    "24/7 security",
+    "storage locker",
+    "close to public transport"
+  ],
+  "lifestyle_benefits": [
+    "walk to the waterfront",
+    "dynamic social scene",
+    "compact city living",
+    "close to cafes and culture",
+    "active outdoor lifestyle"
+  ],
+  "target_buyer": "Ideal for young professionals or couples seeking a vibrant urban lifestyle with seamless coastal access, or for families searching for a practical secondary home in a lively area.",
+  "market_positioning": "This property stands out for its modern amenities and unbeatable downtown location, providing exceptional value and solid rental potential in Sopot\u2019s highly sought-after Centrum."
+}

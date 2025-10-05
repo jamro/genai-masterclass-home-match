@@ -1,0 +1,34 @@
+{
+  "title": "Eco-Friendly Modern Family House near Ustka Port District",
+  "description": "Welcome to this beautifully designed, eco-conscious 3-bedroom, 3-bathroom house in the tranquil Port District of Ustka. The home gives you an impressive 148 square meters of living space, flooded with natural sunlight thanks to floor-to-ceiling windows. Meticulously planned, it features three generously sized bedrooms, spacious open-plan living areas, and ample built-in storage spaces.\n\nEnjoy the fresh coastal breeze from your private garden, ideal for family gatherings and play. This is the perfect blend of modern utility and serene relaxation.",
+  "neighborhood_description": "Nestled within Ustka\u2019s Port District, the property has a peaceful suburban vibe with access to invigorating bike paths leading through the local pine forests and towards the Baltic Sea. The area is family-oriented with shopping and dining nearby, while still maintaining a sense of calm away from the urban bustle. Commuting is breeze with convenient highway access, connecting you swiftly to city amenities and holiday attractions.",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "size_sqm": 148,
+  "property_type": "house",
+  "city": "Ustka",
+  "neighborhood": "Port District",
+  "urban_level": "low",
+  "transport_options": [
+    "highway",
+    "bike lines"
+  ],
+  "price": 1340000,
+  "key_features": [
+    "energy-efficient appliances",
+    "private outdoor garden",
+    "bicycle storage",
+    "private parking space",
+    "built-in storage room",
+    "large double-glazed windows"
+  ],
+  "lifestyle_benefits": [
+    "ideal for active families",
+    "safe area for children to play",
+    "walkable distance to beaches",
+    "sustainable living",
+    "community vibe"
+  ],
+  "target_buyer": "Eco-conscious families with children who value spacious, modern living in a friendly, low-density neighborhood close to nature and vital amenities, and appreciate sustainability and healthy lifestyles.",
+  "market_positioning": "Positioned as a premium yet attainable family home, this property stands out in Ustka\u2019s housing market for its modern eco-features, flexible living space, and proximity to both natural surroundings and town conveniences. Tailored for families prioritizing safety, tranquility, and active lifestyles."
+}

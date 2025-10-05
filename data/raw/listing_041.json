@@ -1,0 +1,33 @@
+{
+  "title": "Modern Loft Investment Opportunity in Nowy Sacz Suburb",
+  "description": "Embrace spacious living in this stylish loft featuring 2 comfortable bedrooms and a sleek bathroom across 81 sqm of thoughtfully designed space. With towering windows, open-concept living, and high industrial ceilings, this home seamlessly blends modern comforts with distinctive architectural character. Enjoy amenities ideal for contemporary lifestyles: pets are welcome, residents have access to secure storage rooms, co-working space with high-speed internet, and a fitness center all on-site.",
+  "neighborhood_description": "Located in the Suburb neighborhood of Nowy Sacz, this property benefits from vibrant local life as well as the serenity of nearby parks and playgrounds\u2014perfect for active relaxation. Despite its low urban level, the area exudes historic charm and continues to thrive with lively community energy. Quick highway access ensures easy commutes to the city center and beyond while maintaining a peaceful residential ambiance.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "size_sqm": 81,
+  "property_type": "loft",
+  "city": "Nowy Sacz",
+  "neighborhood": "Suburb",
+  "urban_level": "low",
+  "transport_options": [
+    "highway"
+  ],
+  "price": 1085000,
+  "key_features": [
+    "pets allowed",
+    "co-working space",
+    "reception desk",
+    "fitness center",
+    "outdoor dining area",
+    "storage room"
+  ],
+  "lifestyle_benefits": [
+    "ideal for working from home and networking",
+    "opportunities for active leisure and outdoor dining",
+    "investment-friendly layout and location",
+    "flexible usage as rental or personal residence",
+    "secure space with reception services"
+  ],
+  "target_buyer": "Suited for ambitious young professionals and property investors looking for great living space with value-growth potential, or buyers seeking a credible, low-upkeep rental property.",
+  "market_positioning": "Stands out among local inventory as a turn-key opportunity for modern investors: maximizing rental appeal, blending personal comfort and strong asset fundamentals, positioned for both steady income or future resale in a rejuvenating district with increasing demand."
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Eco-Centric Ochota Retreat: Modern 2-Bedroom Oasis for Urban Living",
+  "description": "Step into a sleek and airy 2-bedroom, 2-bathroom apartment designed for stylish urban living in one of Warsaw's most dynamic neighborhoods. With a generous 72 sqm layout, this apartment features modern finishes, an open-concept kitchen and lounge, and sunlit bedrooms. Energy-efficient touches like underfloor heating amplify both comfort and sustainability.",
+  "neighborhood_description": "Ochota is one of Warsaw\u2019s most connected and bike-friendly districts, alive with leafy parks, creative cafes, and vibrant community spaces. Enjoy quick access to bike paths, rapid public transport links, and the convenience of being near the airport\u2014perfect for shoppers and globetrotters alike. This fast-growing neighborhood also puts you steps from new eco-markets, green spaces, and recreational playgrounds.",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "size_sqm": 72,
+  "property_type": "apartment",
+  "city": "Warsaw",
+  "neighborhood": "Ochota",
+  "urban_level": "high",
+  "transport_options": [
+    "public transport",
+    "bike lines",
+    "airport"
+  ],
+  "price": 1175000,
+  "key_features": [
+    "heated driveway",
+    "close to public transport",
+    "underfloor heating",
+    "energy-efficient windows",
+    "open plan living area"
+  ],
+  "lifestyle_benefits": [
+    "bike-friendly living",
+    "minutes to city parks",
+    "low energy consumption",
+    "walkability to cafes and stores"
+  ],
+  "target_buyer": "Urban professionals or young couples looking for a comfortable, low-maintenance home in a lively, eco-conscious setting with excellent transportation connectivity.",
+  "market_positioning": "Well positioned for eco-conscious buyers who value convenience, sustainability, and access to top city amenities. Competitively priced with best-in-class green features, perfect for buyers wanting to grow with Warsaw\u2019s vibrant urban transformation."
+}

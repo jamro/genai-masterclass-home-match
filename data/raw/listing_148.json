@@ -1,0 +1,33 @@
+{
+  "title": "Prestigious Duplex Oasis with Rooftop Deck in Sopot's Sought-After Kamienny Potok",
+  "description": "Step into refined sophistication in this spacious 193 sqm premium duplex, artfully designed to offer an atmosphere of contemporary elegance and effortless luxury. This residence features five generous bedrooms, two designer bathrooms, an expansive living area highlighted by a charming fireplace, and a gourmet kitchen suited for both meals and entertaining alike. Enjoy sweeping city and sea views from your private rooftop deck, or work remotely in style while sunlight bathes every room.",
+  "neighborhood_description": "Discover Kamienny Potok: a peaceful, residential enclave in Sopot known for its safety, discreet luxury, and a neighborly ambiance. Residents enjoy a blend of serenity and connectivity thanks to reliable public transport links and modern bike lines, with easy access to Sopot\u2019s famed beach promenades and vibrant cultural scene only moments away. Nearby dining, parks, and boutique services complete an unparalleled lifestyle.",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "size_sqm": 193,
+  "property_type": "duplex",
+  "city": "Sopot",
+  "neighborhood": "Kamienny Potok",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "bike lines"
+  ],
+  "price": 1849000,
+  "key_features": [
+    "rooftop deck",
+    "video intercom",
+    "fireplace",
+    "private parking space",
+    "fitness center"
+  ],
+  "lifestyle_benefits": [
+    "ideal for remote work",
+    "light-filled interiors",
+    "walkable neighborhood",
+    "safe surroundings",
+    "premium local cafes and parks"
+  ],
+  "target_buyer": "Discerning professionals or families seeking an exclusive, stylish retreat that seamlessly blends luxurious amenities with remote working potential, in a peaceful yet well-connected setting close to Sopot\u2019s main attractions.",
+  "market_positioning": "A rare, premium duplex in Sopot\u2019s coveted residential quarter, combining top-tier features and privacy with an unbeatable location and stunning penthouse outlook \u2013 an outstanding choice for buyers seeking tech-enabled comfort, elegance, and value in a rapidly appreciating market."
+}

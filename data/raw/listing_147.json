@@ -1,0 +1,32 @@
+{
+  "title": "Eco-Modern Loft Retreat for Comfortable Retirement in Nature-Loving Leszno",
+  "description": "Discover this sunlit, energy-efficient loft in Zatorze, Leszno, perfectly tailored for comfortable and mindful living. Spanning approximately 72 sqm, the modern, open-concept living space features a cozy fireplace and abundant natural light. Enjoy one spacious bedroom, two full bathrooms, plus exclusive resident swimming pool access and handy bicycle storage. A dedicated outdoor dining terrace creates the ideal setting for enjoying peaceful mornings or intimate gatherings under the stars.",
+  "neighborhood_description": "Located in the heart of Zatorze \u2014 Leszno's emerging, artistic gem \u2014 this community is known for its eco-conscious spirit and creative residents. Surrounded by lush parks, playgrounds, and green walkways, it's a haven for those who seek both tranquility and stimulating cultural experiences. Efficient access to local highways and public transport makes connecting with great local shops, galleries, or centers in greater Leszno simple and sustainable.",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "size_sqm": 72,
+  "property_type": "loft",
+  "city": "Leszno",
+  "neighborhood": "Zatorze",
+  "urban_level": "medium",
+  "transport_options": [
+    "public transport",
+    "highway"
+  ],
+  "price": 1180000,
+  "key_features": [
+    "energy-efficient design",
+    "bicycle storage",
+    "fireplace",
+    "outdoor dining area",
+    "swimming pool access"
+  ],
+  "lifestyle_benefits": [
+    "embrace a relaxed, sustainable lifestyle",
+    "walk to lively art events and green spaces",
+    "safe community vibe",
+    "accessible amenities for retirees"
+  ],
+  "target_buyer": "Ideal for eco-conscious retirees seeking stylish comfort, easy mobility, and vibrant community connections while prioritizing health, sustainability, and quality of life.",
+  "market_positioning": "Rarely available designer loft in Leszno positioned at the intersection of eco-friendly building features, luxurious amenities, and prime access to zeleny (green) and artistic community offerings. Ideal for buyers ready to downsize and enrich their quality of daily life in a secure, medium-urban neighborhood."
+}

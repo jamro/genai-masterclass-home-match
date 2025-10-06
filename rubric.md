@@ -58,19 +58,19 @@ The semantic search functionality demonstrates query processing using the same O
 **Criteria:** The project must demonstrate a logical flow where buyer preferences are used to search and then augment the description of real estate listings. The augmentation should personalize the listing without changing factual information.
 
 **Requirements:**
-- [ ] Demonstrate a logical flow where buyer preferences are used to search and then augment the description of real estate listings
-- [ ] The augmentation should personalize the listing without changing factual information
+- [x] Demonstrate a logical flow where buyer preferences are used to search and then augment the description of real estate listings
+- [x] The augmentation should personalize the listing without changing factual information
 
 **Implementation Details:**
-*[Describe the workflow, augmentation logic, fact preservation methods, etc.]*
+The implementation in [`notebooks/search.ipynb`](notebooks/search.ipynb) demonstrates a complete workflow: (1) extracts structured preferences from natural language Q&A using GPT-4.1 with Pydantic models, (2) performs semantic search with ChromaDB using embeddings + metadata filtering, (3) reranks results with cross-encoder models, (4) personalizes top 3 listings using LLM with strict fact-preservation rules. The augmentation emphasizes buyer-relevant features while maintaining factual accuracy through explicit prompt constraints.
 
 ### Use of LLM for Generating Personalized Descriptions
 
 **Criteria:** The submission must utilize an LLM to generate personalized descriptions for the real estate listings based on buyer preferences. The descriptions should be unique, appealing, and tailored to the preferences provided.
 
 **Requirements:**
-- [ ] Utilize an LLM to generate personalized descriptions for the real estate listings based on buyer preferences
-- [ ] The descriptions should be unique, appealing, and tailored to the preferences provided
+- [x] Utilize an LLM to generate personalized descriptions for the real estate listings based on buyer preferences
+- [x] The descriptions should be unique, appealing, and tailored to the preferences provided
 
 **Implementation Details:**
-*[Describe LLM usage, prompt engineering for personalization, description quality, preference integration, etc.]*
+Uses GPT-4.1 with carefully engineered prompts to generate personalized property descriptions. The system takes buyer Q&A responses and original listing data, then creates warm, engaging 3-5 sentence descriptions that highlight features matching buyer priorities (nightlife proximity, modern design, hosting space). Strict rules ensure only existing facts are used while rephrasing and reordering content for maximum personal relevance. See the [Listing Personalization](notebooks/search.ipynb#Listing-Personalization-and-Display) section for complete implementation.

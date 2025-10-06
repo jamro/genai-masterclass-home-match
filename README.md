@@ -5,29 +5,47 @@ GenAI Masterclass Project submission for Udacity's "Building Generative AI Solut
 
 ```bash
 make setup          # Create virtual environment and install dependencies
-make check-env       # Verify .env file is properly configured
+make check-env      # Verify .env file is properly configured
 make run            # Start Jupyter Lab
 ```
 
-## Project Details
+## Project Overview
 
-This project is an assessment submission for **Udacity's "Building Generative AI Solutions"** training course. The course focuses on teaching advanced AI system development with real-world impact, covering:
+This implementation demonstrates a **GenAI-powered real estate matching system** that showcases following AI concepts:
 
-- **Semantic Search**: Teaching AI to interpret human language through semantic search capabilities
-- **Vector Databases**: Managing complex data structures with vector databases for efficient similarity search
-- **LangChain Integration**: Hands-on development with LangChain to create adaptive language models
-- **Practical Applications**: Building user-friendly AI solutions with industry focus
-
-### Project Overview
-
-This implementation demonstrates a **GenAI-powered real estate matching system** that showcases the key concepts learned in the course:
-
-1. **Synthetic Data Generation**: Using LLMs to generate realistic real estate listings
-2. **Vector Database Creation**: Storing and organizing listing embeddings for semantic search
-3. **Semantic Search**: Finding relevant properties based on buyer preferences
+1. **Synthetic Data Generation**: Using LLMs to generate 500 realistic real estate listings across Polish cities
+2. **Vector Database Creation**: Storing and organizing listing embeddings for semantic search with ChromaDB
+3. **Semantic Search**: Finding relevant properties based on natural language buyer preferences
 4. **Augmented Response Generation**: Personalizing listings using LLM-generated descriptions
 
+### Key Features
+
+- **500 AI-generated listings** across 20+ Polish cities with realistic pricing (300K-2.5M PLN)
+- **Semantic search** using OpenAI embeddings and ChromaDB vector database
+- **Cross-encoder reranking** for improved relevance scoring
+- **Personalized descriptions** that emphasize buyer-relevant features while preserving facts
+- **Metadata filtering** for precise property matching (bedrooms, location, price, etc.)
+
+### Tech Stack
+
+- **LLMs**: OpenAI GPT-4.1 for generation and personalization
+- **Vector DB**: ChromaDB with cosine similarity indexing
+- **Embeddings**: OpenAI text-embedding-3-small (1536 dimensions)
+- **Reranking**: BAAI/bge-reranker-base cross-encoder
+- **Framework**: LangChain with Pydantic structured output
+- **Data**: 500 listings in JSON format with rich metadata
+
 For detailed project requirements and evaluation criteria, see [rubric.md](rubric.md).
+
+## Getting Started
+
+The project consists of three main Jupyter notebooks:
+
+1. **`generate_listings.ipynb`** - Creates 500 realistic real estate listings using GPT-4.1
+2. **`create_vector_db.ipynb`** - Builds ChromaDB vector database with embeddings
+3. **`search.ipynb`** - Demonstrates semantic search and personalized recommendations
+
+Run them in order, or skip to `search.ipynb` if you already have the data and vector database (included in the project).
 
 ## Available Commands
 
@@ -54,3 +72,11 @@ pip install -r requirements.txt
 ```
 
 Create `.env` file and set `OPENAI_API_KEY=your_api_key_here`.
+
+## Data Structure
+
+- **`data/raw/`** - 500 JSON files containing generated real estate listings
+- **`data/embeddings/`** - Cached embeddings for each listing (auto-generated)
+- **`data/.chroma_db/`** - ChromaDB vector database (auto-created)
+
+Each listing includes structured data like bedrooms, bathrooms, price, location, features, and lifestyle benefits.
